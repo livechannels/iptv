@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BFlix Movies" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5045.BFlixMovies.in/en/1x1/208x208/test_pic1536151119917.jpg" group-title="Entertainment", BFlix Movies
+#EXTGRP:Entertainment
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-id="Housefull Action" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4704.HousefullAction.in/en/1x1/208x208/test_pic1536151299517.jpg" group-title="Entertainment", Housefull Action
 https://m-c049-j2apps.s.llnwi.net/hls/4704.HousefullAction.in.m3u8
