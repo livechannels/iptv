@@ -1,65 +1,65 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BFlix Movies" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5045.BFlixMovies.in/en/1x1/208x208/test_pic1536151119917.jpg" group-title="Entertainment",BFlix Movies
+#EXTINF:-1 tvg-id="BFlix Movies" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5045.BFlixMovies.in/en/1x1/208x208/test_pic1536151119917.jpg" group-title="Entertainment", BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 tvg-id="Housefull Action" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4704.HousefullAction.in/en/1x1/208x208/test_pic1536151299517.jpg" group-title="Entertainment",Housefull Action
+#EXTINF:-1 tvg-id="Housefull Action" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4704.HousefullAction.in/en/1x1/208x208/test_pic1536151299517.jpg" group-title="Entertainment", Housefull Action
 https://m-c049-j2apps.s.llnwi.net/hls/4704.HousefullAction.in.m3u8
-#EXTINF:-1 tvg-id="Filmy" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0079.Filmy.in/en/1x1/208x208/test_pic1535463753952.jpg" group-title="Entertainment",Filmy
+#EXTINF:-1 tvg-id="Filmy" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0079.Filmy.in/en/1x1/208x208/test_pic1535463753952.jpg" group-title="Entertainment", Filmy
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
-#EXTINF:-1 tvg-name="Rishtey Cineplex" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Movies",Rishtey Cineplex
+#EXTINF:-1 tvg-name="Rishtey Cineplex" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Movies", Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix (720p)
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:-1 tvg-id="AndPictures.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies",&Pictures (576p)
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies", &Pictures (576p)
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
-#EXTINF:-1 tvg-id="AndPriveHD.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&priv� HD (720p)
+#EXTINF:-1 tvg-id="AndPriveHD.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies", &priv� HD (720p)
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-id="Maha Movie" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg" group-title="Entertainment",Maha Movie
+#EXTINF:-1 tvg-id="Maha Movie" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg" group-title="Entertainment", Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 tvg-id="ZeeAction.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/BvAXCNf.png" group-title="Movies",Zee Action (576p)
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/BvAXCNf.png" group-title="Movies", Zee Action (576p)
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Zee Anmol Cinema (576p)
+#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies", Zee Anmol Cinema (576p)
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBollywood" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Movies",Zee Bollywood
+#EXTINF:-1 tvg-id="ZeeBollywood" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Movies", Zee Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Movies",Zee Talkies (720p)
+#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Movies", Zee Talkies (720p)
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vwkjtRT.png" group-title="Movies",B4U Kadak (576p)
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vwkjtRT.png" group-title="Movies", B4U Kadak (576p)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Movies",B4U movies (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Movies", B4U movies (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0wj/index.m3u8
-#EXTINF:-1 tvg-id="WOW Cinema One" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG" group-title="Entertainment",WOW Cinema One
+#EXTINF:-1 tvg-id="WOW Cinema One" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG" group-title="Entertainment", WOW Cinema One
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-#EXTINF:-1 tvg-id="DD Bharati" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment",DD Bharati
+#EXTINF:-1 tvg-id="DD Bharati" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", DD Bharati
 https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8
-#EXTINF:-1 tvg-id="Dabangg TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment",Dabangg TV
+#EXTINF:-1 tvg-id="Dabangg TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Dabangg TV
 https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in.m3u8
 #EXTINF:-1 tvg-id="ETV Marathi" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", ETV Marathi
 http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
-#EXTINF:-1 tvg-id="Multiplex" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment",Multiplex
+#EXTINF:-1 tvg-id="Multiplex" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Multiplex
 https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8
-#EXTINF:-1 tvg-id="Movie Plus" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment",Movie Plus
+#EXTINF:-1 tvg-id="Movie Plus" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Movie Plus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
-#EXTINF:-1 tvg-id="Bollywood" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment",Bollywood
+#EXTINF:-1 tvg-id="Bollywood" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
-#EXTINF:-1 tvg-id="Shemaroo TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment",Shemaroo TV
+#EXTINF:-1 tvg-id="Shemaroo TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Shemaroo TV
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
-#EXTINF:-1 tvg-id="Surya Cinema" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment",Surya Cinema
+#EXTINF:-1 tvg-id="Surya Cinema" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Surya Cinema
 https://m-c06-j2apps.s.llnwi.net/hls/7080.SuryaCinema.in.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Entertainment",Zee TV (480p)
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Entertainment", Zee TV (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
-#EXTINF:-1 tvg-id="ZeeWorld.in" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Entertainment",Zee World (576p)
+#EXTINF:-1 tvg-id="ZeeWorld.in" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Entertainment", Zee World (576p)
 https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee5Romance.in" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Entertainment",Zee5 Romance (1080p)
+#EXTINF:-1 tvg-id="Zee5Romance.in" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Entertainment", Zee5 Romance (1080p)
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
-#EXTINF:-1 tvg-id="Zing.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/SUWblss.png" group-title="Entertainment",Zing (576p)
+#EXTINF:-1 tvg-id="Zing.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/SUWblss.png" group-title="Entertainment", Zing (576p)
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
-#EXTINF:-1 tvg-id="9XM" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0306.9XM.in/en/1x1/208x208/test_pic1545220990615.jpg" group-title="Music",9XM
+#EXTINF:-1 tvg-id="9XM" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0306.9XM.in/en/1x1/208x208/test_pic1545220990615.jpg" group-title="Music", 9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
-#EXTINF:-1 tvg-id="Music India" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg" group-title="Music",Music India
+#EXTINF:-1 tvg-id="Music India" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg" group-title="Music", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-#EXTINF:-1 tvg-id="Mastiii" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0589.Mastiii.in/en/1x1/208x208/test_pic1567397477532.webp" group-title="Music",Mastiii
+#EXTINF:-1 tvg-id="Mastiii" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0589.Mastiii.in/en/1x1/208x208/test_pic1567397477532.webp" group-title="Music", Mastiii
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
-#EXTINF:-1 tvg-id="9X Jalwa" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0781.9XJalwa.in/en/1x1/208x208/test_pic1545220867249.jpg" group-title="Music",9X Jalwa
+#EXTINF:-1 tvg-id="9X Jalwa" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0781.9XJalwa.in/en/1x1/208x208/test_pic1545220867249.jpg" group-title="Music", 9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 #EXTINF:-1 tvg-id="Bhakti Sagar" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Music",Bhakti Sagar
 https://m-c29-j2apps.s.llnwi.net/hls/5835.BhaktiSagar.in.m3u8
