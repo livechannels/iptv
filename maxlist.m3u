@@ -36,6 +36,8 @@ https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in.m3u8
 #EXTINF:-1 tvg-id="ETV Marathi" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", ETV Marathi
 http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+#EXTINF:-1 tvg-id="FaktMarathi.in" tvg-country="IN" tvg-language="Marathi" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Entertainment",Fakt Marathi (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0q8/index.m3u8
 #EXTINF:-1 tvg-id="Multiplex" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Multiplex
 https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8
 #EXTINF:-1 tvg-id="Movie Plus" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Movie Plus
