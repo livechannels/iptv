@@ -151,7 +151,7 @@ https://m-c048-j2apps.s.llnwi.net/hls_hd/6107.YTVIndiaHD.in.m3u8
 #EXTINF:-1 tvg-id="Ishwar TV" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1309.IshwarTV.in/en/1x1/208x208/test_pic1554455564178.jpg" group-title="News",Ishwar TV
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
 #EXTINF:-1 tvg-name="Republic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg" group-title="News",Republic TV
-https://z5ams.akamaized.net/linear/hls/pb/event/-rJNQu3LRR2q6_izClfioA/stream/744cfaa9-088a-4f97-aff7-fd4cadbba36c:SIN/variant/8c0cac44a3d22a2b4374ec23e7330695/bandwidth/hdntl=exp=1633703249~acl=%2f*~id=ae155c30-c972-4762-aae2-c7f0d8217d2b~data=hdntl~hmac=0df68122b112689428dc6eb699ed1c8ee2c61c71c693e438fc2aceb69605596c/1755305.m3u8
+https://ottr21.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="RepublicBharatin.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",Republic Bharat (360p)
 https://z5ams.akamaized.net/linear/hls/pb/event/-rJNQu3LRR2q6_izClfioA/stream/9c3e5259-9959-45f0-b05c-9f53991c5a85:SIN2/variant/8c0cac44a3d22a2b4374ec23e7330695/bandwidth/hdntl=exp=1633702087~acl=%2f*~id=65b59493-cd25-4edf-8978-4af27c6c7137~data=hdntl~hmac=dbf15b7d7877c289146a7538c9934cdb6dbd3a3f39ffe4af6709d0319ae8be32/1755305.m3u8
 #EXTINF:-1 tvg-name="Prudent Media" tvg-logo="https://www.prudentmedia.in/assets/images/logo.png" group-title="News", Prudent Media Goa News
