@@ -373,7 +373,7 @@ https://m-c049-j2apps.s.llnwi.net/hls/8081.RealStories.in.m3u8
 #EXTINF:-1 tvg-id="Wonder" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Wonder
 https://m-c049-j2apps.s.llnwi.net/hls/8084.Wonder.in.m3u8
 #EXTINF:-1 tvg-id="Mirchi Retro" tvg-country="IN" tvg-language=" tvg-logo="http://a10.gaanacdn.com/images/radio/3/3/crop_175x175_3.jpg" group-title="Radio",Mirchi Retro
-https://raw.githubusercontent.com/livechannels/iptv/main/puranijeans.m3u8
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Mirchi 90's Radio" tvg-country="IN" tvg-language=" tvg-logo="http://a10.gaanacdn.com/images/radio/10/10/crop_175x175_10.jpg" group-title="Radio",Mirchi 90's Radio
 https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/index_1_a-p.m3u8?sd=10&rebase=on?sd=10&rebase=on 
 #EXTINF:-1 tvg-id="Filmy Mirchi Radio - Bollywood" tvg-country="IN" tvg-language=" tvg-logo="http://a10.gaanacdn.com/images/radio/9/9/crop_175x175_9.jpg" group-title="Radio",Filmy Mirchi Radio - Bollywood
