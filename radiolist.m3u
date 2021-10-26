@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Purani Jeans" tvg-country="IN" tvg-language=" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uvclzz6a6d7x.jpeg" group-title="Radio",Purani Jeans
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Mirchi 90's Radio" tvg-country="IN" tvg-language=" tvg-logo="http://a10.gaanacdn.com/images/radio/10/10/crop_175x175_10.jpg" group-title="Radio",Mirchi 90's Radio
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/index_1_a-p.m3u8?sd=10&rebase=on?sd=10&rebase=on 
+#EXTINF:-1 tvg-id="Filmy Mirchi Radio - Bollywood" tvg-country="IN" tvg-language=" tvg-logo="http://a10.gaanacdn.com/images/radio/9/9/crop_175x175_9.jpg" group-title="Radio",Filmy Mirchi Radio - Bollywood
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/index_1_a-p.m3u8?sd=10&rebase=on 
+#EXTINF:-1 tvg-id="Radio Mirchi " tvg-country="IN" tvg-language=" tvg-logo="https://radiosindia.com/images/radiomirchi.jpg" group-title="Radio",Radio Mirchi 
+https://node-35.zeno.fm/20g8vnc5mp8uv?rj-ttl=5&rj-tok=AAABfLhSymEAxccEqXpuHCXlVQ
+#EXTINF:-1 tvg-id="Bolly 92.3 FM" tvg-country="IN" tvg-language=" tvg-logo="https://radiosindia.com/images/bolly923fm.jpg" group-title="Radio",Bolly 92.3 FM 
+https://node-26.zeno.fm/k4hwu4qa4qzuv?rj-ttl=5&rj-tok=AAABfLhXE14A5CnhyvR6r6W0bw
+#EXTINF:-1 tvg-id="AIR Vividh Bharati" tvg-country="IN" tvg-language=" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wNBk42xDwX.jpg" group-title="Radio",AIR Vividh Bharati
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
+#EXTINF:-1 tvg-id="Vividh Bharati" tvg-country="IN" tvg-language=" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jgstA2jnFQ.png" group-title="Radio", Vividh Bharati
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
