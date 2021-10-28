@@ -30,6 +30,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 tvg-id="WOW Cinema One" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG" group-title="Entertainment", WOW Cinema One
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="Entertainment",DD National
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="DD Bharati" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", DD Bharati
 https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8
 #EXTINF:-1 tvg-id="Dabangg TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Dabangg TV
