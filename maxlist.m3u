@@ -28,8 +28,10 @@ https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Movies", B4U movies (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0wj/index.m3u8
-#EXTINF:-1 tvg-id="WOW Cinema One" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG" group-title="Entertainment", WOW Cinema One
+#EXTINF:-1 tvg-id="WOW Cinema One" tvg-country="IN" tvg-language="" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG" group-title="Entertainment", WOW Cinema One
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1  tvg-id="The Q" tvg-country="IN" tvg-language="" tvg-logo="https://d33ziwki8ny9c1.cloudfront.net/100x100/filt…ht/90/quality/100/width/100/height/100/quality/80" group-title="Entertainment",The Q
+https://d2s20ffu9nq5k3.cloudfront.net/master_2128.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="Entertainment",DD National
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="DD Bharati" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", DD Bharati
