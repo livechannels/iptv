@@ -154,7 +154,7 @@ https://m-c048-j2apps.s.llnwi.net/hls_hd/6107.YTVIndiaHD.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
 #EXTINF:-1 tvg-name="Republic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg" group-title="News",Republic TV
 https://ottr21.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
-#EXTINF:-1 tvg-id="RepublicBharatin.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",Republic Bharat (360p)
+#EXTINF:-1 tvg-id="RepublicBharatin.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",Republic Bharat
 https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_2.m3u8
 #EXTINF:-1 tvg-name="Prudent Media" tvg-logo="https://www.prudentmedia.in/assets/images/logo.png" group-title="News", Prudent Media Goa News
 https://prudentmcdn.rixcast.com/prudentm.m3u8
