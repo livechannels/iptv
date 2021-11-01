@@ -66,7 +66,7 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://m-c04-j2apps.s.llnwi.net/hls/8033.HaryanaTashanEnt.in.m3u8
 #EXTINF:-1 tvg-id="Tashan Music" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Music",Tashan Music
 https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LZxPgLh.png" group-title="Music",B4U Music (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-country="IN" tvg-language="Hindi" RESOLUTION=1920 x 1080 tvg-logo="https://i.imgur.com/LZxPgLh.png" group-title="Music",B4U Music (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-id="Azaad TV" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8048.AzaadTV.in/en/1x1/208x208/test_pic1623389647594.webp" group-title="News",Azaad TV
 https://dai.google.com/linear/hls/event/5clRCSONRBaZAGeRHHHm_g/master.m3u8
