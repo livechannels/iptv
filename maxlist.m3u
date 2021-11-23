@@ -198,10 +198,6 @@ https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/7008.TV5MondeASIE.in.m3u8
 #EXTINF:-1 tvg-id="Kaatyani TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Kaatyani TV
 https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in.m3u8
-#EXTINF:-1 tvg-id="Football TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Football TV
-https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in.m3u8
-#EXTINF:-1 tvg-id="Fight TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Fight TV
-https://m-c09-j2apps.s.llnwi.net/hls/8014.FightTV.in.m3u8
 #EXTINF:-1 tvg-id="Language Course English" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Language Course English
 https://m-c09-j2apps.s.llnwi.net/hls/8020.LanguageCourseEnglish.in.m3u8
 #EXTINF:-1 tvg-id="DW English" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",DW English
@@ -248,10 +244,6 @@ https://m-c05-j2apps.s.llnwi.net/hls/7060.BharatSamachar.in.m3u8
 https://m-c05-j2apps.s.llnwi.net/hls/7064.SevenWonders.in.m3u8
 #EXTINF:-1 tvg-id="Planet Out" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Planet Out
 https://api-ott.jungoplus.com/loggingmediaurlpassthrough/a.m3u8
-#EXTINF:-1 tvg-id="ES24" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",ES24
-https://ov.ottera.tv/live/master2300000.m3u8
-#EXTINF:-1 tvg-id="Combat Go" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Combat Go
-https://m-c07-j2apps.s.llnwi.net/hls_hd/8055.CombatGO.in.m3u8
 #EXTINF:-1 tvg-id="Divyalok TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Divyalok TV
 https://m-c05-j2apps.s.llnwi.net/hls/7071.DivyalokTV.in.m3u8
 #EXTINF:-1 tvg-id="Shemaroo Marathibana" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Shemaroo Marathibana
@@ -348,5 +340,15 @@ https://m-c049-j2apps.s.llnwi.net/hls/8083.Timeline.in.m3u8
 https://m-c049-j2apps.s.llnwi.net/hls/8081.RealStories.in.m3u8
 #EXTINF:-1 tvg-id="Wonder" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Wonder
 https://m-c049-j2apps.s.llnwi.net/hls/8084.Wonder.in.m3u8
-#EXTINF:-1 tvg-id="Sports TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Sports",Sports TV
+#EXTINF:-1 tvg-id="Sports TV" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8016.SportsTV.in/en/1x1/208x208/test_pic1574772297087.webp" group-title="Sports",Sports TV
 https://m-c09-j2apps.s.llnwi.net/hls/8016.SportsTV.in.m3u8
+#EXTINF:-1 tvg-id="ES24" tvg-country="IN" tvg-language=" tvg-logo="	https://qqcdnpictest.mxplay.com/pic/8063.ES24.in/en/1x1/208x208/test_pic1623314760124.webp" group-title="Sports",ES24
+https://ov.ottera.tv/live/master2300000.m3u8
+#EXTINF:-1 tvg-id="Football TV" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8017.FootballTV.in/en/1x1/208x208/test_pic1574772381747.webp" group-title="Sports",Football TV
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in.m3u8
+#EXTINF:-1 tvg-id="DD Sports" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0179.DDSports.in/en/1x1/208x208/test_pic1552392523405.jpg" group-title="Sports",DD Sports
+https://m-c07-j2apps.s.llnwi.net/hls/9999.MXLive.in_270p/index.m3u8
+#EXTINF:-1 tvg-id="Fight TV" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8014.FightTV.in/en/1x1/208x208/test_pic1574772178068.webp" group-title="Sports",Fight TV
+https://m-c09-j2apps.s.llnwi.net/hls/8014.FightTV.in.m3u8
+#EXTINF:-1 tvg-id="Combat Go" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8055.CombatGO.in/en/1x1/208x208/test_pic1602154545160.webp" group-title="Sports",Combat Go
+https://m-c07-j2apps.s.llnwi.net/hls_hd/8055.CombatGO.in.m3u8
