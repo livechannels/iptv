@@ -200,8 +200,6 @@ https://m-c08-j2apps.s.llnwi.net/hls/7008.TV5MondeASIE.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in.m3u8
 #EXTINF:-1 tvg-id="Football TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Football TV
 https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in.m3u8
-#EXTINF:-1 tvg-id="Sports TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Sports TV
-https://m-c09-j2apps.s.llnwi.net/hls/8016.SportsTV.in.m3u8
 #EXTINF:-1 tvg-id="Fight TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Fight TV
 https://m-c09-j2apps.s.llnwi.net/hls/8014.FightTV.in.m3u8
 #EXTINF:-1 tvg-id="Language Course English" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Language Course English
@@ -350,4 +348,5 @@ https://m-c049-j2apps.s.llnwi.net/hls/8083.Timeline.in.m3u8
 https://m-c049-j2apps.s.llnwi.net/hls/8081.RealStories.in.m3u8
 #EXTINF:-1 tvg-id="Wonder" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Wonder
 https://m-c049-j2apps.s.llnwi.net/hls/8084.Wonder.in.m3u8
-
+#EXTINF:-1 tvg-id="Sports TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Sports",Sports TV
+https://m-c09-j2apps.s.llnwi.net/hls/8016.SportsTV.in.m3u8
