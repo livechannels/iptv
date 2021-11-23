@@ -14,6 +14,14 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Movies", B4U movies (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:-1 tvg-id="Multiplex" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Movies", Multiplex
+https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8
+#EXTINF:-1 tvg-id="Movie Plus" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Movies", Movie Plus
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+#EXTINF:-1 tvg-id="Bollywood" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Movies", Bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
+#EXTINF:-1 tvg-id="Surya Cinema" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Movies", Surya Cinema
+https://m-c06-j2apps.s.llnwi.net/hls/7080.SuryaCinema.in.m3u8
 #EXTINF:-1 tvg-id="WOW Cinema One" tvg-country="IN" tvg-language="" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG" group-title="Entertainment", WOW Cinema One
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1  tvg-id="The Q" tvg-country="IN" tvg-language="" tvg-logo="https://d33ziwki8ny9c1.cloudfront.net/100x100/filt…ht/90/quality/100/width/100/height/100/quality/80" group-title="Entertainment",The Q
@@ -28,16 +36,8 @@ https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in.m3u8
 http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
 #EXTINF:-1 tvg-id="FaktMarathi.in" tvg-country="IN" tvg-language="Marathi" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Entertainment",Fakt Marathi (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0q8/index.m3u8
-#EXTINF:-1 tvg-id="Multiplex" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Multiplex
-https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8
-#EXTINF:-1 tvg-id="Movie Plus" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Movie Plus
-https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
-#EXTINF:-1 tvg-id="Bollywood" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Bollywood
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1 tvg-id="Shemaroo TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Shemaroo TV
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
-#EXTINF:-1 tvg-id="Surya Cinema" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Surya Cinema
-https://m-c06-j2apps.s.llnwi.net/hls/7080.SuryaCinema.in.m3u8
 #EXTINF:-1 tvg-id="9XM" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0306.9XM.in/en/1x1/208x208/test_pic1545220990615.jpg" group-title="Music", 9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1 tvg-id="Music India" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg" group-title="Music", Music India
