@@ -6,6 +6,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 https://m-c049-j2apps.s.llnwi.net/hls/4704.HousefullAction.in.m3u8
 #EXTINF:-1 tvg-id="Filmy" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0079.Filmy.in/en/1x1/208x208/test_pic1535463753952.jpg" group-title="Entertainment", Filmy
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+#EXTINF:-1 tvg-id="Firangi" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Movies",Firangi
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
 #EXTINF:-1 tvg-name="Rishtey Cineplex" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Movies", Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-id="Maha Movie" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg" group-title="Entertainment", Maha Movie
@@ -172,8 +174,6 @@ https://m-c03-j2apps.s.llnwi.net/hls/6491.KrishnaVani.in.m3u8
 https://m-c04-j2apps.s.llnwi.net/hls/5264.GoodnewsTV.in.m3u8
 #EXTINF:-1 tvg-id="Epic" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Epic
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
-#EXTINF:-1 tvg-id="Firangi" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",Firangi
-https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
 #EXTINF:-1 tvg-id="DD India" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",DD India
 https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
 #EXTINF:-1 tvg-id="DD Madhya Pradesh" tvg-country="IN" tvg-language=" tvg-logo="" group-title="News",DD Madhya Pradesh
