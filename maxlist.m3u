@@ -29,7 +29,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1  tvg-id="The Q" tvg-country="IN" tvg-language="" tvg-logo="https://d33ziwki8ny9c1.cloudfront.net/100x100/filt…ht/90/quality/100/width/100/height/100/quality/80" group-title="Entertainment",The Q
 https://d2s20ffu9nq5k3.cloudfront.net/master_2128.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="Entertainment",DD National
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1 tvg-id="DD Bharati" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", DD Bharati
 https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8
 #EXTINF:-1 tvg-id="Dabangg TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Dabangg TV
