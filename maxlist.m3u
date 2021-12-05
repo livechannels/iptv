@@ -98,8 +98,6 @@ https://m-c16-j2apps.s.llnwi.net/hls/0290.DDUP.in.m3u8
 https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
 #EXTINF:-1 tvg-id="Janta TV" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1604.JantaTV.in/en/1x1/208x208/test_pic1535464082702.jpg" group-title="News",Janta TV
 https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
-#EXTINF:-1 tvg-id="DD National" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0098.DDNational.in/en/1x1/208x208/test_pic1552392509740.jpg" group-title="News",DD National
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index_dvr.m3u8
 #EXTINF:-1 tvg-id="ABP Majha" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7016.ABPMajha.in/en/1x1/208x208/test_pic1608057169573.webp" group-title="News",ABP Majha
 https://m-c02-j2apps.s.loris.llnwd.net/hls/7016.ABPMajha.in.m3u8
 #EXTINF:-1 tvg-id="DD News" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0182.DDNews.in/en/1x1/208x208/test_pic1552315684641.jpg" group-title="News",DD News
