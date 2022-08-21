@@ -3740,7 +3740,19 @@ declare @jsonstr nvarchar(max)='[
 		"url": "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8"
 	}
 ]'
-
+create table #ChannelList
+(
+duration varchar(max) ,
+    title VARCHAR(max) ,
+    tvgId VARCHAR(max) ,
+    tvgName VARCHAR(max) ,
+    tvgLanguage VARCHAR(max) ,
+	tvgCountry  VARCHAR(max) ,
+	tvgUrl  VARCHAR(max) ,
+	groupTitle  VARCHAR(max) ,
+	url  VARCHAR(max)
+)
+insert into #ChannelList
 SELECT *
 FROM OPENJSON(@jsonstr)
 WITH (
@@ -3754,3 +3766,7 @@ WITH (
 	groupTitle  VARCHAR(max) '$.groupTitle',
 	url  VARCHAR(max) '$.url'
   )
+  
+  select * from #ChannelList
+
+  Drop table #ChannelList
