@@ -18,7 +18,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vwkjtRT.png" group-title="Movies", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Movies", B4U movies (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0wj/index.m3u8
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:-1 tvg-id="Multiplex" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Movies", Multiplex
 https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8
 #EXTINF:-1 tvg-id="Movie Plus" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Movies", Movie Plus
@@ -32,7 +32,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1  tvg-id="The Q" tvg-country="IN" tvg-language="" tvg-logo="https://d33ziwki8ny9c1.cloudfront.net/100x100/filt…ht/90/quality/100/width/100/height/100/quality/80" group-title="Entertainment",The Q
 https://d2s20ffu9nq5k3.cloudfront.net/master_2128.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="Entertainment",DD National
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1 tvg-id="DD Bharati" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", DD Bharati
 https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8
 #EXTINF:-1 tvg-id="Dabangg TV" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Dabangg TV
@@ -48,7 +48,7 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1 tvg-id="Music India" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg" group-title="Music", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1 tvg-id="Mastiii" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0589.Mastiii.in/en/1x1/208x208/test_pic1567397477532.webp" group-title="Music", Mastiii
-https://m-c04-j2apps.s.llnwi.net/hls/0589.Mastiii.in_360p/index.m3u8
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-id="9X Jalwa" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0781.9XJalwa.in/en/1x1/208x208/test_pic1545220867249.jpg" group-title="Music", 9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 #EXTINF:-1 tvg-id="Bhakti Sagar" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Music",Bhakti Sagar
@@ -72,7 +72,7 @@ https://m-c04-j2apps.s.llnwi.net/hls/8033.HaryanaTashanEnt.in.m3u8
 #EXTINF:-1 tvg-id="Tashan Music" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Music",Tashan Music
 https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-country="IN" tvg-language="Hindi" RESOLUTION=1920 x 1080 tvg-logo="https://i.imgur.com/LZxPgLh.png" group-title="Music",B4U Music (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0wk/index.m3u8
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-id="Azaad TV" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8048.AzaadTV.in/en/1x1/208x208/test_pic1623389647594.webp" group-title="News",Azaad TV
 https://dai.google.com/linear/hls/event/5clRCSONRBaZAGeRHHHm_g/master.m3u8
 #EXTINF:-1 tvg-id="ABP News" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7014.ABPNews.in/en/1x1/208x208/test_pic1608057116851.webp" group-title="News",ABP News
@@ -348,7 +348,7 @@ https://ov.ottera.tv/live/master2300000.m3u8
 #EXTINF:-1 tvg-id="Football TV" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8017.FootballTV.in/en/1x1/208x208/test_pic1574772381747.webp" group-title="Sports",Football TV
 https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in.m3u8
 #EXTINF:-1 tvg-id="DD Sports" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0179.DDSports.in/en/1x1/208x208/test_pic1552392523405.jpg" group-title="Sports",DD Sports
-https://m-c07-j2apps.s.llnwi.net/hls/9999.MXLive.in_270p/index.m3u8
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u
 #EXTINF:-1 tvg-id="Fight TV" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8014.FightTV.in/en/1x1/208x208/test_pic1574772178068.webp" group-title="Sports",Fight TV
 https://m-c09-j2apps.s.llnwi.net/hls/8014.FightTV.in.m3u8
 #EXTINF:-1 tvg-id="Combat Go" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8055.CombatGO.in/en/1x1/208x208/test_pic1602154545160.webp" group-title="Sports",Combat Go
