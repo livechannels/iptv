@@ -3768,5 +3768,7 @@ WITH (
   )
   
   select * from #ChannelList
+  where isnull(tvgLanguage,'')='' or tvgLanguage not in ('Malayalam','Tamil')
+  order by url, title--,-- tvgLanguage, groupTitle
 
   Drop table #ChannelList
