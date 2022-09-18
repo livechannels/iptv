@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="Test" tvg-country="IN" tvg-language=" tvg-logo="" group-title="Entertainment", Test
 #EXTGRP:Entertainment
 https://www.hotstar.com/in/tv/rang-maza-vegla/1260012987/kartik-grows-concerned/1000269185
+#EXTINF:-1 tvg-id="And Picture " tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5045.BFlixMovies.in/en/1x1/208x208/test_pic1536151119917.jpg" group-title="Entertainment", BFlix Movies
+#EXTGRP:Entertainment
+https://www.zee5.com/live-tv/andtv-hd/0-9-tvhd_0?partner=yupptv
 #EXTINF:-1 tvg-id="BFlix Movies" tvg-country="IN" tvg-language=" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5045.BFlixMovies.in/en/1x1/208x208/test_pic1536151119917.jpg" group-title="Entertainment", BFlix Movies
 #EXTGRP:Entertainment
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
