@@ -60,7 +60,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD4000058T.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://i.mjh.nz/SamsungTVPlus/INBA4900020A5.m3u8
- #EXTINF:-1 channel-id="samsung-INBC2800001D8" tvg-id="INBC2800001D8" tvg-country="in"   tvg-chno="1041" tvg-name="NDTV 24X7" tvc-guide-title="NDTV 24X7"  tvc-guide-genres="News" tvc-guide-description="This flagship channel from the NDTV news network is India’s most trusted and credible English News channel. It brings unbiased and comprehensive coverage of news and entertainment programmes." tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20230412T005158SQUARE.png_20230412005159.png" group-title="News", NDTV 24X7
+ #EXTINF:-1 channel-id="samsung-INBC2800001D8" tvg-id="INBC2800001D8" tvg-country="in"   tvg-chno="1041" tvg-name="NDTV 24X7" tvc-guide-title="NDTV 24X7"  tvc-guide-genres="News" tvc-guide-description="This flagship channel from the NDTV news network is India’s most trusted and credible English News channel. It brings unbiased and comprehensive coverage of news and entertainment programmes." tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20230412T005158SQUARE.png_20230412005159.png" group-title="News", NDTV 24X7
 #EXTGRP:News
 #EXTGENRE:News
 https://i.mjh.nz/SamsungTVPlus/INBC2800001D8.m3u8
@@ -388,11 +388,11 @@ https://i.mjh.nz/SamsungTVPlus/INBB2800007DA.m3u8
 #EXTGRP:Infotainment
 #EXTGENRE:Infotainment
 https://i.mjh.nz/SamsungTVPlus/INBB280000836.m3u8
- #EXTINF:-1 channel-id="samsung-INBC1500001SN" tvg-id="INBC1500001SN" tvg-country="in"   tvg-chno="1165" tvg-name="Animal Planet" tvc-guide-title="Animal Planet"  tvc-guide-genres="Infotainment" tvc-guide-description="Animal Planet is a multi-national TV channel from the Discovery network, focusing on educating audiences about nature, wildlife and domesticated creatures through series and documentaries." tvc-guide-categories="Infotainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500001SN_20221214T015311SQUARE.png_20221214015312.png" group-title="Infotainment", Animal Planet
+ #EXTINF:-1 channel-id="samsung-INBC1500001SN" tvg-id="INBC1500001SN" tvg-country="in"   tvg-chno="1165" tvg-name="Animal Planet" tvc-guide-title="Animal Planet"  tvc-guide-genres="Infotainment" tvc-guide-description="Animal Planet is a multi-national TV channel from the Discovery network, focusing on educating audiences about nature, wildlife and domesticated creatures through series and documentaries." tvc-guide-categories="Infotainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500001SN_20221214T015311SQUARE.png_20221214015312.png" group-title="Infotainment", Animal Planet
 #EXTGRP:Infotainment
 #EXTGENRE:Infotainment
 https://i.mjh.nz/SamsungTVPlus/INBC1500001SN.m3u8
- #EXTINF:-1 channel-id="samsung-INBC1500002TR" tvg-id="INBC1500002TR" tvg-country="in"   tvg-chno="1166" tvg-name="Animal Planet HD" tvc-guide-title="Animal Planet HD"  tvc-guide-genres="Infotainment" tvc-guide-description="Animal Planet is a multi-national TV channel from the Discovery network, focusing on educating audiences about nature, wildlife and domesticated creatures through series and documentaries." tvc-guide-categories="Infotainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500002TR_20220427T054732SQUARE.png_20220427054733.png" group-title="Infotainment", Animal Planet HD
+ #EXTINF:-1 channel-id="samsung-INBC1500002TR" tvg-id="INBC1500002TR" tvg-country="in"   tvg-chno="1166" tvg-name="Animal Planet HD" tvc-guide-title="Animal Planet HD"  tvc-guide-genres="Infotainment" tvc-guide-description="Animal Planet is a multi-national TV channel from the Discovery network, focusing on educating audiences about nature, wildlife and domesticated creatures through series and documentaries." tvc-guide-categories="Infotainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500002TR_20220427T054732SQUARE.png_20220427054733.png" group-title="Infotainment", Animal Planet HD
 #EXTGRP:Infotainment
 #EXTGENRE:Infotainment
 https://i.mjh.nz/SamsungTVPlus/INBC1500002TR.m3u8
@@ -408,7 +408,7 @@ https://i.mjh.nz/SamsungTVPlus/INBA4900023QJ.m3u8
 #EXTGRP:Infotainment
 #EXTGENRE:Infotainment
 https://i.mjh.nz/SamsungTVPlus/INBA4900027A9.m3u8
- #EXTINF:-1 channel-id="samsung-INBA4900024R1" tvg-id="INBA4900024R1" tvg-country="in"   tvg-chno="1177" tvg-name="Jack Hanna" tvc-guide-title="Jack Hanna"  tvc-guide-genres="Infotainment" tvc-guide-description="Welcome to Jack Hanna’s wild life! From radical reptiles to ferocious felines, travel around the world for hair-raising wildlife encounters. Where Jack Hanna goes, adventure follows. Animal adventures await on The Jack Hanna Channel." tvc-guide-categories="Infotainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900024R1_20220427T054620SQUARE.png_20220427054621.png" group-title="Infotainment", Jack Hanna
+ #EXTINF:-1 channel-id="samsung-INBA4900024R1" tvg-id="INBA4900024R1" tvg-country="in"   tvg-chno="1177" tvg-name="Jack Hanna" tvc-guide-title="Jack Hanna"  tvc-guide-genres="Infotainment" tvc-guide-description="Welcome to Jack Hanna’s wild life! From radical reptiles to ferocious felines, travel around the world for hair-raising wildlife encounters. Where Jack Hanna goes, adventure follows. Animal adventures await on The Jack Hanna Channel." tvc-guide-categories="Infotainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900024R1_20220427T054620SQUARE.png_20220427054621.png" group-title="Infotainment", Jack Hanna
 #EXTGRP:Infotainment
 #EXTGENRE:Infotainment
 https://i.mjh.nz/SamsungTVPlus/INBA4900024R1.m3u8
@@ -493,7 +493,7 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://i.mjh.nz/SamsungTVPlus/GBAK3504503A.m3u8
- #EXTINF:-1 channel-id="samsung-GBBB3800003JH" tvg-id="GBBB3800003JH" tvg-country="gb"   tvg-chno="4942" tvg-name="Moviedome" tvc-guide-title="Moviedome"  tvc-guide-genres="Movies" tvc-guide-description="Exciting action movies, thrillers to keep you on the edge of your seat along with funny comedies, interesting dramas and romance.  All this and more only at Moviedome, where you can watch great movies everyday." tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800003JH_20220323T071458SQUARE.png_20220323071500.png" group-title="Movies", Moviedome
+ #EXTINF:-1 channel-id="samsung-GBBB3800003JH" tvg-id="GBBB3800003JH" tvg-country="gb"   tvg-chno="4942" tvg-name="Moviedome" tvc-guide-title="Moviedome"  tvc-guide-genres="Movies" tvc-guide-description="Exciting action movies, thrillers to keep you on the edge of your seat along with funny comedies, interesting dramas and romance.  All this and more only at Moviedome, where you can watch great movies everyday." tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800003JH_20220323T071458SQUARE.png_20220323071500.png" group-title="Movies", Moviedome
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://i.mjh.nz/SamsungTVPlus/GBBB3800003JH.m3u8
@@ -517,7 +517,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBB160001027.m3u8
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://i.mjh.nz/SamsungTVPlus/GBBA3300050RG.m3u8
- #EXTINF:-1 channel-id="samsung-GBAJ4900011Y4" tvg-id="GBAJ4900011Y4" tvg-country="gb"   tvg-chno="4969" tvg-name="Filmstream" tvc-guide-title="Filmstream"  tvc-guide-genres="Movies" tvc-guide-description="Filmstream offers a specially curated selection of independent world cinema gems and classic movies, perfect for viewers who appreciate the art of cinema." tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900011Y4_20220323T071426SQUARE.png_20220323071430.png" group-title="Movies", Filmstream
+ #EXTINF:-1 channel-id="samsung-GBAJ4900011Y4" tvg-id="GBAJ4900011Y4" tvg-country="gb"   tvg-chno="4969" tvg-name="Filmstream" tvc-guide-title="Filmstream"  tvc-guide-genres="Movies" tvc-guide-description="Filmstream offers a specially curated selection of independent world cinema gems and classic movies, perfect for viewers who appreciate the art of cinema." tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900011Y4_20220323T071426SQUARE.png_20220323071430.png" group-title="Movies", Filmstream
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900011Y4.m3u8
@@ -669,7 +669,7 @@ https://i.mjh.nz/SamsungTVPlus/GBAK3504525A.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBBC900011EC.m3u8
- #EXTINF:-1 channel-id="samsung-GBBB1600009EU" tvg-id="GBBB1600009EU" tvg-country="gb"   tvg-chno="4140" tvg-name="Bridezillas" tvc-guide-title="Bridezillas"  tvc-guide-genres="Entertainment" tvc-guide-description="Binge on the international pop culture phenomenon Bridezillas and satisfy your inner beauty monster. Follow brides on their tumultuous journeys leading up to the big day." tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600009EU_20220323T070213SQUARE.png_20220323070216.png" group-title="Entertainment", Bridezillas
+ #EXTINF:-1 channel-id="samsung-GBBB1600009EU" tvg-id="GBBB1600009EU" tvg-country="gb"   tvg-chno="4140" tvg-name="Bridezillas" tvc-guide-title="Bridezillas"  tvc-guide-genres="Entertainment" tvc-guide-description="Binge on the international pop culture phenomenon Bridezillas and satisfy your inner beauty monster. Follow brides on their tumultuous journeys leading up to the big day." tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600009EU_20220323T070213SQUARE.png_20220323070216.png" group-title="Entertainment", Bridezillas
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBBB1600009EU.m3u8
@@ -713,7 +713,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBD3200003T6.m3u8
 #EXTGRP:Kids
 #EXTGENRE:Kids
 https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
- #EXTINF:-1 channel-id="samsung-GBBA3300032S9" tvg-id="GBBA3300032S9" tvg-country="gb"   tvg-chno="4616" tvg-name="SuperToons TV" tvc-guide-title="SuperToons TV"  tvc-guide-genres="Kids" tvc-guide-description="Watch, Smile and Giggle with Super Toons TV, home to the best kids animation. Free to watch, curated, and kids-safe content to teach empathy and resilience through fun programs. Join Booba, Bernard, Oddbods & many more on Super Toons TV!" tvc-guide-categories="Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300032S9_20220824T005413SQUARE.png_20220824005413.png" group-title="Kids", SuperToons TV
+ #EXTINF:-1 channel-id="samsung-GBBA3300032S9" tvg-id="GBBA3300032S9" tvg-country="gb"   tvg-chno="4616" tvg-name="SuperToons TV" tvc-guide-title="SuperToons TV"  tvc-guide-genres="Kids" tvc-guide-description="Watch, Smile and Giggle with Super Toons TV, home to the best kids animation. Free to watch, curated, and kids-safe content to teach empathy and resilience through fun programs. Join Booba, Bernard, Oddbods & many more on Super Toons TV!" tvc-guide-categories="Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300032S9_20220824T005413SQUARE.png_20220824005413.png" group-title="Kids", SuperToons TV
 #EXTGRP:Kids
 #EXTGENRE:Kids
 https://i.mjh.nz/SamsungTVPlus/GBBA3300032S9.m3u8
@@ -917,7 +917,7 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
 #EXTGRP:Lifestyle
 #EXTGENRE:Lifestyle
 https://i.mjh.nz/SamsungTVPlus/GBAJ49000197P.m3u8
- #EXTINF:-1 channel-id="samsung-GBBD1100003I0" tvg-id="GBBD1100003I0" tvg-country="gb"   tvg-chno="4416" tvg-name="Love Pets" tvc-guide-title="Love Pets"  tvc-guide-genres="Lifestyle" tvc-guide-description="Cuddle up to inspiring pet-and-vet stories that celebrate our furry, feathered, and scaly soulmates." tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100003I0_20230614T011917SQUARE.png_20230614011918.png" group-title="Lifestyle", Love Pets
+ #EXTINF:-1 channel-id="samsung-GBBD1100003I0" tvg-id="GBBD1100003I0" tvg-country="gb"   tvg-chno="4416" tvg-name="Love Pets" tvc-guide-title="Love Pets"  tvc-guide-genres="Lifestyle" tvc-guide-description="Cuddle up to inspiring pet-and-vet stories that celebrate our furry, feathered, and scaly soulmates." tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100003I0_20230614T011917SQUARE.png_20230614011918.png" group-title="Lifestyle", Love Pets
 #EXTGRP:Lifestyle
 #EXTGENRE:Lifestyle
 https://i.mjh.nz/SamsungTVPlus/GBBD1100003I0.m3u8
@@ -1037,7 +1037,7 @@ https://i.mjh.nz/SamsungTVPlus/GBAI5000001A.m3u8
 #EXTGRP:Motoring
 #EXTGENRE:Motoring
 https://i.mjh.nz/SamsungTVPlus/GBBB1500001Y9.m3u8
- #EXTINF:-1 channel-id="samsung-GBBA1500006H6" tvg-id="GBBA1500006H6" tvg-country="gb"   tvg-chno="4492" tvg-name="MotorRacing" tvc-guide-title="MotorRacing"  tvc-guide-genres="Motoring" tvc-guide-description="The best selection of motorsport series on tarmac, gravel road or completely offroad." tvc-guide-categories="Motoring" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20221026T004633SQUARE.png_20221026004634.png" group-title="Motoring", MotorRacing
+ #EXTINF:-1 channel-id="samsung-GBBA1500006H6" tvg-id="GBBA1500006H6" tvg-country="gb"   tvg-chno="4492" tvg-name="MotorRacing" tvc-guide-title="MotorRacing"  tvc-guide-genres="Motoring" tvc-guide-description="The best selection of motorsport series on tarmac, gravel road or completely offroad." tvc-guide-categories="Motoring" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20221026T004633SQUARE.png_20221026004634.png" group-title="Motoring", MotorRacing
 #EXTGRP:Motoring
 #EXTGENRE:Motoring
 https://i.mjh.nz/SamsungTVPlus/GBBA1500006H6.m3u8
@@ -1126,7 +1126,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB1900002KF.m3u8
 #EXTGRP:News & Opinion
 #EXTGENRE:News & Opinion
 https://i.mjh.nz/SamsungTVPlus/USBA30002142.m3u8
- #EXTINF:-1 channel-id="samsung-USBC3200005A0" tvg-id="USBC3200005A0" tvg-country="us"   tvg-chno="1035" tvg-name="NBC Bay Area News" tvc-guide-title="NBC Bay Area News"  tvc-guide-genres="News & Opinion" tvc-guide-description="The latest local news, breaking updates, live events & weather in the Bay Area" tvc-guide-categories="News & Opinion" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="News & Opinion", NBC Bay Area News
+ #EXTINF:-1 channel-id="samsung-USBC3200005A0" tvg-id="USBC3200005A0" tvg-country="us"   tvg-chno="1035" tvg-name="NBC Bay Area News" tvc-guide-title="NBC Bay Area News"  tvc-guide-genres="News & Opinion" tvc-guide-description="The latest local news, breaking updates, live events & weather in the Bay Area" tvc-guide-categories="News & Opinion" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="News & Opinion", NBC Bay Area News
 #EXTGRP:News & Opinion
 #EXTGENRE:News & Opinion
 https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
@@ -1150,7 +1150,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD300022FH.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/USBB3500002FL.m3u8
- #EXTINF:-1 channel-id="samsung-USBB2900003O3" tvg-id="USBB2900003O3" tvg-country="us"   tvg-chno="1058" tvg-name="Heartland" tvc-guide-title="Heartland"  tvc-guide-genres="Entertainment" tvc-guide-description="A family drama series set in Alberta, Canada. Follow along as the family deals with the challenges of running a ranch that has been passed down  for generations." tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20230307T222236SQUARE.png_20230307222237.png" group-title="Entertainment", Heartland
+ #EXTINF:-1 channel-id="samsung-USBB2900003O3" tvg-id="USBB2900003O3" tvg-country="us"   tvg-chno="1058" tvg-name="Heartland" tvc-guide-title="Heartland"  tvc-guide-genres="Entertainment" tvc-guide-description="A family drama series set in Alberta, Canada. Follow along as the family deals with the challenges of running a ranch that has been passed down  for generations." tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20230307T222236SQUARE.png_20230307222237.png" group-title="Entertainment", Heartland
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/USBB2900003O3.m3u8
@@ -1186,7 +1186,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD700010XU.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/USBA3000044BJ.m3u8
- #EXTINF:-1 channel-id="samsung-USBD700012OA" tvg-id="USBD700012OA" tvg-country="us"   tvg-chno="1069" tvg-name="The Bob Ross Channel" tvc-guide-title="The Bob Ross Channel"  tvc-guide-genres="Entertainment" tvc-guide-description="The official Bob Ross channel!  Get your daily dose of the iconic, bucolic pop culture icon. Find the joys of painting and a thousand tiny accidents!" tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700012OA_20230627T215017SQUARE.png_20230627215018.png" group-title="Entertainment", The Bob Ross Channel
+ #EXTINF:-1 channel-id="samsung-USBD700012OA" tvg-id="USBD700012OA" tvg-country="us"   tvg-chno="1069" tvg-name="The Bob Ross Channel" tvc-guide-title="The Bob Ross Channel"  tvc-guide-genres="Entertainment" tvc-guide-description="The official Bob Ross channel!  Get your daily dose of the iconic, bucolic pop culture icon. Find the joys of painting and a thousand tiny accidents!" tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700012OA_20230627T215017SQUARE.png_20230627215018.png" group-title="Entertainment", The Bob Ross Channel
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
@@ -1482,7 +1482,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD17000051M.m3u8
 #EXTGRP:Adventure & Outdoor
 #EXTGENRE:Adventure & Outdoor
 https://i.mjh.nz/SamsungTVPlus/USBB5200020Z0.m3u8
- #EXTINF:-1 channel-id="samsung-USAJ3504708A" tvg-id="USAJ3504708A" tvg-country="us"   tvg-chno="1309" tvg-name="Danger TV" tvc-guide-title="Danger TV"  tvc-guide-genres="Adventure & Outdoor" tvc-guide-description="DangerTV is the Home of the Bold, streaming the best danger and adventure series and films from around the world. Survivors barely escaping disaster, animals gone wild, incredible rescues, tornado chasing and more. Get Bold on DangerTV!" tvc-guide-categories="Adventure & Outdoor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504708A_20230809T005149SQUARE.png_20230809005149.png" group-title="Adventure & Outdoor", Danger TV
+ #EXTINF:-1 channel-id="samsung-USAJ3504708A" tvg-id="USAJ3504708A" tvg-country="us"   tvg-chno="1309" tvg-name="Danger TV" tvc-guide-title="Danger TV"  tvc-guide-genres="Adventure & Outdoor" tvc-guide-description="DangerTV is the Home of the Bold, streaming the best danger and adventure series and films from around the world. Survivors barely escaping disaster, animals gone wild, incredible rescues, tornado chasing and more. Get Bold on DangerTV!" tvc-guide-categories="Adventure & Outdoor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504708A_20230809T005149SQUARE.png_20230809005149.png" group-title="Adventure & Outdoor", Danger TV
 #EXTGRP:Adventure & Outdoor
 #EXTGENRE:Adventure & Outdoor
 https://i.mjh.nz/SamsungTVPlus/USAJ3504708A.m3u8
@@ -1538,7 +1538,7 @@ https://i.mjh.nz/SamsungTVPlus/USAJ2200023Z0.m3u8
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
- #EXTINF:-1 channel-id="samsung-USBA300031OT" tvg-id="USBA300031OT" tvg-country="us"   tvg-chno="1160" tvg-name="SportsGrid" tvc-guide-title="SportsGrid"  tvc-guide-genres="Sports" tvc-guide-description="SportsGrid is the first 24-hour sports betting channel providing real-time sports wagering news, odds, statistics, and expert analysis.  Live coverage includes NFL, MLB, NBA, NHL, NCAA College Sports, Golf, Tennis, and Soccer." tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20230125T022143SQUARE.png_20230125022143.png" group-title="Sports", SportsGrid
+ #EXTINF:-1 channel-id="samsung-USBA300031OT" tvg-id="USBA300031OT" tvg-country="us"   tvg-chno="1160" tvg-name="SportsGrid" tvc-guide-title="SportsGrid"  tvc-guide-genres="Sports" tvc-guide-description="SportsGrid is the first 24-hour sports betting channel providing real-time sports wagering news, odds, statistics, and expert analysis.  Live coverage includes NFL, MLB, NBA, NHL, NCAA College Sports, Golf, Tennis, and Soccer." tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20230125T022143SQUARE.png_20230125022143.png" group-title="Sports", SportsGrid
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://i.mjh.nz/SamsungTVPlus/USBA300031OT.m3u8
@@ -1558,7 +1558,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD1200010I8.m3u8
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://i.mjh.nz/SamsungTVPlus/USBB1000001XP.m3u8
- #EXTINF:-1 channel-id="samsung-USBD300021B8" tvg-id="USBD300021B8" tvg-country="us"   tvg-chno="1166" tvg-name="MSG SportsZone" tvc-guide-title="MSG SportsZone"  tvc-guide-genres="Sports" tvc-guide-description="Take a deeper dive into the players, personalities, teams, and sports you love. MSG SportsZone is the home for the sports super fan." tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20230426T030511SQUARE.png_20230426030512.png" group-title="Sports", MSG SportsZone
+ #EXTINF:-1 channel-id="samsung-USBD300021B8" tvg-id="USBD300021B8" tvg-country="us"   tvg-chno="1166" tvg-name="MSG SportsZone" tvc-guide-title="MSG SportsZone"  tvc-guide-genres="Sports" tvc-guide-description="Take a deeper dive into the players, personalities, teams, and sports you love. MSG SportsZone is the home for the sports super fan." tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20230426T030511SQUARE.png_20230426030512.png" group-title="Sports", MSG SportsZone
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://i.mjh.nz/SamsungTVPlus/USBD300021B8.m3u8
@@ -1974,7 +1974,7 @@ https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
 #EXTGRP:Kids
 #EXTGENRE:Kids
 https://i.mjh.nz/SamsungTVPlus/USBD12000153A.m3u8
- #EXTINF:-1 channel-id="samsung-USBB1900004J9" tvg-id="USBB1900004J9" tvg-country="us"   tvg-chno="1391" tvg-name="Toon Goggles" tvc-guide-title="Toon Goggles"  tvc-guide-genres="Kids" tvc-guide-description="Toon Goggles has all your favorite kids shows for free including your favorites such as Angry Birds, Talking Tom, Om Nom, Gummy Bears, Sonic, Yu-Gi-Oh! and many more!  Come watch and discover now!" tvc-guide-categories="Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20230125T022733SQUARE.png_20230125022733.png" group-title="Kids", Toon Goggles
+ #EXTINF:-1 channel-id="samsung-USBB1900004J9" tvg-id="USBB1900004J9" tvg-country="us"   tvg-chno="1391" tvg-name="Toon Goggles" tvc-guide-title="Toon Goggles"  tvc-guide-genres="Kids" tvc-guide-description="Toon Goggles has all your favorite kids shows for free including your favorites such as Angry Birds, Talking Tom, Om Nom, Gummy Bears, Sonic, Yu-Gi-Oh! and many more!  Come watch and discover now!" tvc-guide-categories="Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20230125T022733SQUARE.png_20230125022733.png" group-title="Kids", Toon Goggles
 #EXTGRP:Kids
 #EXTGENRE:Kids
 https://i.mjh.nz/SamsungTVPlus/USBB1900004J9.m3u8
@@ -2062,7 +2062,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB5200028MM.m3u8
 #EXTGRP:Sci-Fi & Horror
 #EXTGENRE:Sci-Fi & Horror
 https://i.mjh.nz/SamsungTVPlus/USBC4400006BR.m3u8
- #EXTINF:-1 channel-id="samsung-USBD1200007FE" tvg-id="USBD1200007FE" tvg-country="us"   tvg-chno="1429" tvg-name="OuterSphere" tvc-guide-title="OuterSphere"  tvc-guide-genres="Sci-Fi & Horror" tvc-guide-description="OuterSphere by Lionsgate is the place for genre tv and films. From superheroes to the supernatural, monsters to magic, blockbusters to cult classics, you’ll find it here." tvc-guide-categories="Sci-Fi & Horror" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20230523T230756SQUARE.png_20230523230757.png" group-title="Sci-Fi & Horror", OuterSphere
+ #EXTINF:-1 channel-id="samsung-USBD1200007FE" tvg-id="USBD1200007FE" tvg-country="us"   tvg-chno="1429" tvg-name="OuterSphere" tvc-guide-title="OuterSphere"  tvc-guide-genres="Sci-Fi & Horror" tvc-guide-description="OuterSphere by Lionsgate is the place for genre tv and films. From superheroes to the supernatural, monsters to magic, blockbusters to cult classics, you’ll find it here." tvc-guide-categories="Sci-Fi & Horror" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20230523T230756SQUARE.png_20230523230757.png" group-title="Sci-Fi & Horror", OuterSphere
 #EXTGRP:Sci-Fi & Horror
 #EXTGENRE:Sci-Fi & Horror
 https://i.mjh.nz/SamsungTVPlus/USBD1200007FE.m3u8
@@ -2219,7 +2219,7 @@ https://i.mjh.nz/SamsungTVPlus/ATBA1500010H3.m3u8
 #EXTGRP:Filme
 #EXTGENRE:Filme
 https://i.mjh.nz/SamsungTVPlus/ATBA1500012BI.m3u8
- #EXTINF:-1 channel-id="samsung-ATBA3300021BW" tvg-id="ATBA3300021BW" tvg-country="at"   tvg-chno="4993" tvg-name="MyTime Movie Network" tvc-guide-title="MyTime Movie Network"  tvc-guide-genres="Filme" tvc-guide-description="MyTime Movie Network ist der Sender der Ihnen die Filme bringt die Sie lieben. Von atem-beraubenden Thrillern, romantischen Komödien für den Abend zu zweit, bis hin zu lustigen Urlaubsfilmen und viel viel mehr." tvc-guide-categories="Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300021BW_20230111T032507SQUARE.png_20230111032507.png" group-title="Filme", MyTime Movie Network
+ #EXTINF:-1 channel-id="samsung-ATBA3300021BW" tvg-id="ATBA3300021BW" tvg-country="at"   tvg-chno="4993" tvg-name="MyTime Movie Network" tvc-guide-title="MyTime Movie Network"  tvc-guide-genres="Filme" tvc-guide-description="MyTime Movie Network ist der Sender der Ihnen die Filme bringt die Sie lieben. Von atem-beraubenden Thrillern, romantischen Komödien für den Abend zu zweit, bis hin zu lustigen Urlaubsfilmen und viel viel mehr." tvc-guide-categories="Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300021BW_20230111T032507SQUARE.png_20230111032507.png" group-title="Filme", MyTime Movie Network
 #EXTGRP:Filme
 #EXTGENRE:Filme
 https://i.mjh.nz/SamsungTVPlus/ATBA3300021BW.m3u8
@@ -2576,7 +2576,7 @@ https://i.mjh.nz/SamsungTVPlus/CABA3700002ML.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/CABB26000082J.m3u8
- #EXTINF:-1 channel-id="samsung-CABC2300015UM" tvg-id="CABC2300015UM" tvg-country="ca"   tvg-chno="1069" tvg-name="Bob Ross" tvc-guide-title="Bob Ross"  tvc-guide-genres="Entertainment" tvc-guide-description="The official Bob Ross channel!  Get your daily dose of the iconic, bucolic pop culture icon. Find the joys of painting and a thousand tiny accidents!" tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300015UM_20230627T214821SQUARE.png_20230627214822.png" group-title="Entertainment", Bob Ross
+ #EXTINF:-1 channel-id="samsung-CABC2300015UM" tvg-id="CABC2300015UM" tvg-country="ca"   tvg-chno="1069" tvg-name="Bob Ross" tvc-guide-title="Bob Ross"  tvc-guide-genres="Entertainment" tvc-guide-description="The official Bob Ross channel!  Get your daily dose of the iconic, bucolic pop culture icon. Find the joys of painting and a thousand tiny accidents!" tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300015UM_20230627T214821SQUARE.png_20230627214822.png" group-title="Entertainment", Bob Ross
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/CABC2300015UM.m3u8
@@ -2632,7 +2632,7 @@ https://i.mjh.nz/SamsungTVPlus/CAAJ2700012PP.m3u8
 #EXTGRP:Crime
 #EXTGENRE:Crime
 https://i.mjh.nz/SamsungTVPlus/CAAJ3400002DI.m3u8
- #EXTINF:-1 channel-id="samsung-CAAJ27000079E" tvg-id="CAAJ27000079E" tvg-country="ca"   tvg-chno="1134" tvg-name="FilmRise True Crime" tvc-guide-title="FilmRise True Crime"  tvc-guide-genres="Crime" tvc-guide-description="Classic true crime shows from the mysterious, to the ridiculous with acclaimed series like UNSOLVED MYSTERIES and FORENSIC FILES." tvc-guide-categories="Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000079E_20220824T022327SQUARE.png_20220824022328.png" group-title="Crime", FilmRise True Crime
+ #EXTINF:-1 channel-id="samsung-CAAJ27000079E" tvg-id="CAAJ27000079E" tvg-country="ca"   tvg-chno="1134" tvg-name="FilmRise True Crime" tvc-guide-title="FilmRise True Crime"  tvc-guide-genres="Crime" tvc-guide-description="Classic true crime shows from the mysterious, to the ridiculous with acclaimed series like UNSOLVED MYSTERIES and FORENSIC FILES." tvc-guide-categories="Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000079E_20220824T022327SQUARE.png_20220824022328.png" group-title="Crime", FilmRise True Crime
 #EXTGRP:Crime
 #EXTGENRE:Crime
 https://i.mjh.nz/SamsungTVPlus/CAAJ27000079E.m3u8
@@ -2804,7 +2804,7 @@ https://i.mjh.nz/SamsungTVPlus/CABA3700001DB.m3u8
 #EXTGRP:Comedy
 #EXTGENRE:Comedy
 https://i.mjh.nz/SamsungTVPlus/CAAJ3400013EH.m3u8
- #EXTINF:-1 channel-id="samsung-CABC5200020WJ" tvg-id="CABC5200020WJ" tvg-country="ca"   tvg-chno="1338" tvg-name="Comedy Dynamics" tvc-guide-title="Comedy Dynamics"  tvc-guide-genres="Comedy" tvc-guide-description="The largest collection of stand-up comedy!   It’s a no drink minimum show 24/7, with the top names of comedy in new & classic performances." tvc-guide-categories="Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200020WJ_20230809T005058SQUARE.png_20230809005059.png" group-title="Comedy", Comedy Dynamics
+ #EXTINF:-1 channel-id="samsung-CABC5200020WJ" tvg-id="CABC5200020WJ" tvg-country="ca"   tvg-chno="1338" tvg-name="Comedy Dynamics" tvc-guide-title="Comedy Dynamics"  tvc-guide-genres="Comedy" tvc-guide-description="The largest collection of stand-up comedy!   It’s a no drink minimum show 24/7, with the top names of comedy in new & classic performances." tvc-guide-categories="Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200020WJ_20230809T005058SQUARE.png_20230809005059.png" group-title="Comedy", Comedy Dynamics
 #EXTGRP:Comedy
 #EXTGENRE:Comedy
 https://i.mjh.nz/SamsungTVPlus/CABC5200020WJ.m3u8
@@ -2884,7 +2884,7 @@ https://i.mjh.nz/SamsungTVPlus/CABB2500027G8.m3u8
 #EXTGRP:Sci-Fi & Horror
 #EXTGENRE:Sci-Fi & Horror
 https://i.mjh.nz/SamsungTVPlus/CABC2300012FY.m3u8
- #EXTINF:-1 channel-id="samsung-CABC5200021HG" tvg-id="CABC5200021HG" tvg-country="ca"   tvg-chno="1445" tvg-name="Midnight Pulp" tvc-guide-title="Midnight Pulp"  tvc-guide-genres="Sci-Fi & Horror" tvc-guide-description="Want to watch something strange?  Midnight Pulp is the place to find crazy action, hysterical horror, out-of-this-world sci-fi, offbeat docs, and much more!  Let your freak flag fly 24/7 on Midnight Pulp!" tvc-guide-categories="Sci-Fi & Horror" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200021HG_20230523T231158SQUARE.png_20230523231159.png" group-title="Sci-Fi & Horror", Midnight Pulp
+ #EXTINF:-1 channel-id="samsung-CABC5200021HG" tvg-id="CABC5200021HG" tvg-country="ca"   tvg-chno="1445" tvg-name="Midnight Pulp" tvc-guide-title="Midnight Pulp"  tvc-guide-genres="Sci-Fi & Horror" tvc-guide-description="Want to watch something strange?  Midnight Pulp is the place to find crazy action, hysterical horror, out-of-this-world sci-fi, offbeat docs, and much more!  Let your freak flag fly 24/7 on Midnight Pulp!" tvc-guide-categories="Sci-Fi & Horror" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200021HG_20230523T231158SQUARE.png_20230523231159.png" group-title="Sci-Fi & Horror", Midnight Pulp
 #EXTGRP:Sci-Fi & Horror
 #EXTGENRE:Sci-Fi & Horror
 https://i.mjh.nz/SamsungTVPlus/CABC5200021HG.m3u8
@@ -3037,7 +3037,7 @@ https://i.mjh.nz/SamsungTVPlus/CHBA1500012K9.m3u8
 #EXTGRP:Filme
 #EXTGENRE:Filme
 https://i.mjh.nz/SamsungTVPlus/CHBA150001090.m3u8
- #EXTINF:-1 channel-id="samsung-CHBC800001N2" tvg-id="CHBC800001N2" tvg-country="ch"   tvg-chno="4974" tvg-name="MyTime Movie Network" tvc-guide-title="MyTime Movie Network"  tvc-guide-genres="Filme" tvc-guide-description="MyTime Movie Network ist der Sender der Ihnen die Filme bringt die Sie lieben. Von atem-beraubenden Thrillern, romantischen Komödien für den Abend zu zweit, bis hin zu lustigen Urlaubsfilmen und viel viel mehr." tvc-guide-categories="Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC800001N2_20230111T032746SQUARE.png_20230111032747.png" group-title="Filme", MyTime Movie Network
+ #EXTINF:-1 channel-id="samsung-CHBC800001N2" tvg-id="CHBC800001N2" tvg-country="ch"   tvg-chno="4974" tvg-name="MyTime Movie Network" tvc-guide-title="MyTime Movie Network"  tvc-guide-genres="Filme" tvc-guide-description="MyTime Movie Network ist der Sender der Ihnen die Filme bringt die Sie lieben. Von atem-beraubenden Thrillern, romantischen Komödien für den Abend zu zweit, bis hin zu lustigen Urlaubsfilmen und viel viel mehr." tvc-guide-categories="Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC800001N2_20230111T032746SQUARE.png_20230111032747.png" group-title="Filme", MyTime Movie Network
 #EXTGRP:Filme
 #EXTGENRE:Filme
 https://i.mjh.nz/SamsungTVPlus/CHBC800001N2.m3u8
@@ -3465,7 +3465,7 @@ https://i.mjh.nz/SamsungTVPlus/CHBA3300006D5.m3u8
 #EXTGRP:Sport
 #EXTGENRE:Sport
 https://i.mjh.nz/SamsungTVPlus/CHBA3300011A6.m3u8
- #EXTINF:-1 channel-id="samsung-CHBD800002UP" tvg-id="CHBD800002UP" tvg-country="ch"   tvg-chno="4832" tvg-name="Le Tigre [FR]" tvc-guide-title="Le Tigre [FR]"  tvc-guide-genres="Sport" tvc-guide-description="Yoga, Pilates, HIIT & méditation ! Pratiquez depuis chez vous avec les professeurs de la chaine TV Le Tigre ! Au programme : des cours tous niveaux, doux ou dynamiques, et des émissions lifestyle à retrouver tout au long de la journée." tvc-guide-categories="Sport" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD800002UP_20230308T021429SQUARE.png_20230308021430.png" group-title="Sport", Le Tigre [FR]
+ #EXTINF:-1 channel-id="samsung-CHBD800002UP" tvg-id="CHBD800002UP" tvg-country="ch"   tvg-chno="4832" tvg-name="Le Tigre [FR]" tvc-guide-title="Le Tigre [FR]"  tvc-guide-genres="Sport" tvc-guide-description="Yoga, Pilates, HIIT & méditation ! Pratiquez depuis chez vous avec les professeurs de la chaine TV Le Tigre ! Au programme : des cours tous niveaux, doux ou dynamiques, et des émissions lifestyle à retrouver tout au long de la journée." tvc-guide-categories="Sport" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD800002UP_20230308T021429SQUARE.png_20230308021430.png" group-title="Sport", Le Tigre [FR]
 #EXTGRP:Sport
 #EXTGENRE:Sport
 https://i.mjh.nz/SamsungTVPlus/CHBD800002UP.m3u8
@@ -3538,7 +3538,7 @@ https://i.mjh.nz/SamsungTVPlus/DEBA3300039TT.m3u8
 #EXTGRP:Filme
 #EXTGENRE:Filme
 https://i.mjh.nz/SamsungTVPlus/DEAK0500448A.m3u8
- #EXTINF:-1 channel-id="samsung-DEBA3300032UV" tvg-id="DEBA3300032UV" tvg-country="de"   tvg-chno="4993" tvg-name="MyTime Movie Network" tvc-guide-title="MyTime Movie Network"  tvc-guide-genres="Filme" tvc-guide-description="MyTime Movie Network ist der Sender der Ihnen die Filme bringt die Sie lieben. Von atem-beraubenden Thrillern, romantischen Komödien für den Abend zu zweit, bis hin zu lustigen Urlaubsfilmen und viel viel mehr." tvc-guide-categories="Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300032UV_20220323T075317SQUARE.png_20220323075320.png" group-title="Filme", MyTime Movie Network
+ #EXTINF:-1 channel-id="samsung-DEBA3300032UV" tvg-id="DEBA3300032UV" tvg-country="de"   tvg-chno="4993" tvg-name="MyTime Movie Network" tvc-guide-title="MyTime Movie Network"  tvc-guide-genres="Filme" tvc-guide-description="MyTime Movie Network ist der Sender der Ihnen die Filme bringt die Sie lieben. Von atem-beraubenden Thrillern, romantischen Komödien für den Abend zu zweit, bis hin zu lustigen Urlaubsfilmen und viel viel mehr." tvc-guide-categories="Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300032UV_20220323T075317SQUARE.png_20220323075320.png" group-title="Filme", MyTime Movie Network
 #EXTGRP:Filme
 #EXTGENRE:Filme
 https://i.mjh.nz/SamsungTVPlus/DEBA3300032UV.m3u8
@@ -4792,7 +4792,7 @@ https://i.mjh.nz/SamsungTVPlus/FRBC900001LB.m3u8
 #EXTGRP:Musique
 #EXTGENRE:Musique
 https://i.mjh.nz/SamsungTVPlus/FRBD800002PY.m3u8
- #EXTINF:-1 channel-id="samsung-FRBD800001FJ" tvg-id="FRBD800001FJ" tvg-country="fr"   tvg-chno="4410" tvg-name="Le Tigre" tvc-guide-title="Le Tigre"  tvc-guide-genres="Sport" tvc-guide-description="Yoga, Pilates, HIIT & méditation ! Pratiquez depuis chez vous avec les professeurs de la chaine TV Le Tigre ! Au programme : des cours tous niveaux, doux ou dynamiques, et des émissions lifestyle à retrouver tout au long de la journée." tvc-guide-categories="Sport" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD800001FJ_20230308T021651SQUARE.png_20230308021652.png" group-title="Sport", Le Tigre
+ #EXTINF:-1 channel-id="samsung-FRBD800001FJ" tvg-id="FRBD800001FJ" tvg-country="fr"   tvg-chno="4410" tvg-name="Le Tigre" tvc-guide-title="Le Tigre"  tvc-guide-genres="Sport" tvc-guide-description="Yoga, Pilates, HIIT & méditation ! Pratiquez depuis chez vous avec les professeurs de la chaine TV Le Tigre ! Au programme : des cours tous niveaux, doux ou dynamiques, et des émissions lifestyle à retrouver tout au long de la journée." tvc-guide-categories="Sport" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD800001FJ_20230308T021651SQUARE.png_20230308021652.png" group-title="Sport", Le Tigre
 #EXTGRP:Sport
 #EXTGENRE:Sport
 https://i.mjh.nz/SamsungTVPlus/FRBD800001FJ.m3u8
@@ -5450,7 +5450,7 @@ https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8
 #EXTGRP:엔터테인먼트
 #EXTGENRE:엔터테인먼트
 https://i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8
- #EXTINF:-1 channel-id="samsung-KRBB50000711L" tvg-id="KRBB50000711L" tvg-country="kr"   tvg-chno="561" tvg-name="MBC 심야괴담회" tvc-guide-title="MBC 심야괴담회"  tvc-guide-genres="엔터테인먼트" tvc-guide-description="최고의 괴담꾼을 찾아라. 상금 4,444,444원! 시청자 투고 괴담을 읽어주는 신개념 스토리텔링 챌린지 프로그램" tvc-guide-categories="엔터테인먼트" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230913T010327SQUARE.png_20230913010328.png" group-title="엔터테인먼트", MBC 심야괴담회
+ #EXTINF:-1 channel-id="samsung-KRBB50000711L" tvg-id="KRBB50000711L" tvg-country="kr"   tvg-chno="561" tvg-name="MBC 심야괴담회" tvc-guide-title="MBC 심야괴담회"  tvc-guide-genres="엔터테인먼트" tvc-guide-description="최고의 괴담꾼을 찾아라. 상금 4,444,444원! 시청자 투고 괴담을 읽어주는 신개념 스토리텔링 챌린지 프로그램" tvc-guide-categories="엔터테인먼트" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230913T010327SQUARE.png_20230913010328.png" group-title="엔터테인먼트", MBC 심야괴담회
 #EXTGRP:엔터테인먼트
 #EXTGENRE:엔터테인먼트
 https://i.mjh.nz/SamsungTVPlus/KRBB50000711L.m3u8
