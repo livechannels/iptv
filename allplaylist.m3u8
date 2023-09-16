@@ -4,6 +4,18 @@
 #EXTGRP:News
 #EXTGENRE:News
 https://prudentmcdn.rixcast.com/prudentm.m3u8
+ #EXTINF:-1 channel-id="samsung-RDXGOA" tvg-id="RDXGOA" tvg-country="in"   tvg-chno="100201" tvg-name="RDX Goa" tvc-guide-title="RDX Goa"  tvc-guide-genres="News" tvc-guide-description="RDX Goa TV G2 VALLEY VIEW APARTMENTS PUNDALIK NAGAR PENHA DE FRANCA PORVORIM GOA" tvc-guide-categories="News" tvg-logo="https://rdxgoa.com/news/wp-content/uploads/2018/07/cropped-RDX-NW-LOGO-8-1.png" group-title="News", RDX Goa
+#EXTGRP:News
+#EXTGENRE:News
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks_dvr.m3u8
+ #EXTINF:-1 channel-id="samsung-GOA365" tvg-id="GOA365" tvg-country="in"   tvg-chno="100202" tvg-name="GOA 365" tvc-guide-title="GOA 365"  tvc-guide-genres="News" tvc-guide-description="Goa's First English News Channel" tvc-guide-categories="News" tvg-logo="https://www.goa365.tv/images/GOA-365-Logo.jpg" group-title="News", GOA 365
+#EXTGRP:News
+#EXTGENRE:News
+https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
+ #EXTINF:-1 channel-id="samsung-PRIMEGOA" tvg-id="PRIMEGOA" tvg-country="in"   tvg-chno="100203" tvg-name="Prime Media Goa" tvc-guide-title="Prime Media Goa"  tvc-guide-genres="News" tvc-guide-description="PRIME IS THE CHOICE FOR NEWS AND PROGRAMME" tvc-guide-categories="News" tvg-logo="https://www.primetvgoa.com/wp-content/uploads/2020/03/Prime-Logo1-1536x637.png" group-title="News", Prime Media Goa
+#EXTGRP:News
+#EXTGENRE:News
+https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
  #EXTINF:-1 channel-id="samsung-INBD25000054A" tvg-id="INBD25000054A" tvg-country="in"   tvg-chno="1003" tvg-name="TV9 Bharatvarsh" tvc-guide-title="TV9 Bharatvarsh"  tvc-guide-genres="News" tvc-guide-description="An undisputed Leader, known for mainstreaming global news in Hindi news genre. Scripting a turnaround never seen before, the channel is known for its speed & scale." tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000054A_20230913T014240SQUARE.png_20230913014242.png" group-title="News", TV9 Bharatvarsh
 #EXTGRP:News
 #EXTGENRE:News
