@@ -16,10 +16,26 @@ https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playli
 #EXTGRP:News
 #EXTGENRE:News
 https://rcdn.rixcast.com/primegoa/primegoa.m3u8
- #EXTINF:-1 channel-id="samsung-DDNATIONAL" tvg-id="DDNATIONAL" tvg-country="in"   tvg-chno="100204" tvg-name="DD National" tvc-guide-title="DD National"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch  TV channel DD NATIONAL live . First Shows provides Live telecast of  DD NATIONAL" tvc-guide-categories="Entertainment" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png" group-title="Entertainment", DD National
+ #EXTINF:-1 channel-id="samsung-DDNEWS" tvg-id="DDNEWS" tvg-country="in"   tvg-chno="100204" tvg-name="DD NEWS" tvc-guide-title="DD NEWS"  tvc-guide-genres="News" tvc-guide-description="Watch  TV channel DD News live." tvc-guide-categories="News" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png" group-title="News", DD NEWS
+#EXTGRP:News
+#EXTGENRE:News
+https://z5ak-live.zee5.com/out/v1/bdc6d1b1846a4987a9e12eb12badd0d7/index.m3u8
+ #EXTINF:-1 channel-id="samsung-DDINDIA" tvg-id="DDINDIA" tvg-country="in"   tvg-chno="100205" tvg-name="DD INDIA" tvc-guide-title="DD INDIA"  tvc-guide-genres="News" tvc-guide-description="Watch  TV channel DD India live." tvc-guide-categories="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Dd-india-hd.png/revision/latest/scale-to-width-down/250?cb=20230126164234" group-title="News", DD INDIA
+#EXTGRP:News
+#EXTGENRE:News
+https://z5ak-live.zee5.com/out/v1/9d101bb63b6d48c3b06c3181baa8f65e/index.m3u8
+ #EXTINF:-1 channel-id="samsung-DDNATIONALHD" tvg-id="DDNATIONALHD" tvg-country="in"   tvg-chno="100206" tvg-name="DD National HD" tvc-guide-title="DD National HD"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch  TV channel DD NATIONAL HD live . First Shows provides Live telecast of  DD NATIONAL HD" tvc-guide-categories="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddnews/channel_list/ddnews11702e1af5a801fd4ecc826810028807ce96.png" group-title="Entertainment", DD National HD
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+https://z5ak-cmaflive.zee5.com/out/v1/2848f3a8d5f44823b313fa6ecbf24f93/DD_NATIONAL/index.m3u8
+ #EXTINF:-1 channel-id="samsung-DDSahyadri" tvg-id="DDSahyadri" tvg-country="in"   tvg-chno="100207" tvg-name="DD Sahyadri" tvc-guide-title="DD Sahyadri"  tvc-guide-genres="Entertainment" tvc-guide-description="DD Sahyadri is a Marathi General Entertainment Channel." tvc-guide-categories="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_auto,q_auto/resources/0-9-ddsahyadri/list/1170x658withlog1078376781.jpg" group-title="Entertainment", DD Sahyadri
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://z5ak-cmaflive.zee5.com/out/v1/cd48cd54d40b4633aba9913487f90d16/DD-Sahyadri/index.m3u8
+ #EXTINF:-1 channel-id="samsung-ZEECHITRAMANDIR" tvg-id="ZEECHITRAMANDIR" tvg-country="in"   tvg-chno="100208" tvg-name="Zee Chitramandir" tvc-guide-title="Zee Chitramandir"  tvc-guide-genres="Movies" tvc-guide-description="Zee Chitramandir is a Marathi free television channel broadcasting Marathi movies by Zee Entertainment Enterprises." tvc-guide-categories="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddnews/channel_list/ddnews11702e1af5a801fd4ecc826810028807ce96.png" group-title="Movies", Zee Chitramandir
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://z5ak-cmaflive.zee5.com/out/v1/2848f3a8d5f44823b313fa6ecbf24f93/DD_NATIONAL/index.m3u8
  #EXTINF:-1 channel-id="samsung-INBD25000054A" tvg-id="INBD25000054A" tvg-country="in"   tvg-chno="1003" tvg-name="TV9 Bharatvarsh" tvc-guide-title="TV9 Bharatvarsh"  tvc-guide-genres="News" tvc-guide-description="An undisputed Leader, known for mainstreaming global news in Hindi news genre. Scripting a turnaround never seen before, the channel is known for its speed & scale." tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000054A_20230913T014240SQUARE.png_20230913014242.png" group-title="News", TV9 Bharatvarsh
 #EXTGRP:News
 #EXTGENRE:News
@@ -371,7 +387,7 @@ https://i.mjh.nz/SamsungTVPlus/INBB28000060I.m3u8
  #EXTINF:-1 channel-id="samsung-INBC28000122W" tvg-id="INBC28000122W" tvg-country="in"   tvg-chno="1065" tvg-name="9X Music" tvc-guide-title="9X Music"  tvc-guide-genres="Music" tvc-guide-description="9xm Haq Se - India Ka Favourite Music Idhar Hai!" tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000122W_20221116T013709SQUARE.png_20221116013709.png" group-title="Music", 9X Music
 #EXTGRP:Music
 #EXTGENRE:Music
-https://i.mjh.nz/SamsungTVPlus/INBC28000122W.m3u8
+https://yuppirecloriginvt.akamaized.net/280723/smil:9xmusic.smil/playlist.m3u8
  #EXTINF:-1 channel-id="samsung-INBC2800013L6" tvg-id="INBC2800013L6" tvg-country="in"   tvg-chno="1067" tvg-name="9X Jalwa" tvc-guide-title="9X Jalwa"  tvc-guide-genres="Music" tvc-guide-description="A channel offering of 9X Media. Your channel for forever hits Plays music from 1990s to 2000" tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20220928T010036SQUARE.png_20220928010036.png" group-title="Music", 9X Jalwa
 #EXTGRP:Music
 #EXTGENRE:Music
