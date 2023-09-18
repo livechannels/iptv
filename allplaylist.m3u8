@@ -16,6 +16,10 @@ https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playli
 #EXTGRP:News
 #EXTGENRE:News
 https://rcdn.rixcast.com/primegoa/primegoa.m3u8
+ #EXTINF:-1 channel-id="samsung-DDNATIONAL" tvg-id="DDNATIONAL" tvg-country="in"   tvg-chno="100204" tvg-name="DD National" tvc-guide-title="DD National"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch  TV channel DD NATIONAL live . First Shows provides Live telecast of  DD NATIONAL" tvc-guide-categories="Entertainment" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png" group-title="Entertainment", DD National
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
  #EXTINF:-1 channel-id="samsung-INBD25000054A" tvg-id="INBD25000054A" tvg-country="in"   tvg-chno="1003" tvg-name="TV9 Bharatvarsh" tvc-guide-title="TV9 Bharatvarsh"  tvc-guide-genres="News" tvc-guide-description="An undisputed Leader, known for mainstreaming global news in Hindi news genre. Scripting a turnaround never seen before, the channel is known for its speed & scale." tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000054A_20230913T014240SQUARE.png_20230913014242.png" group-title="News", TV9 Bharatvarsh
 #EXTGRP:News
 #EXTGENRE:News
@@ -367,7 +371,7 @@ https://i.mjh.nz/SamsungTVPlus/INBB28000060I.m3u8
  #EXTINF:-1 channel-id="samsung-INBC28000122W" tvg-id="INBC28000122W" tvg-country="in"   tvg-chno="1065" tvg-name="9X Music" tvc-guide-title="9X Music"  tvc-guide-genres="Music" tvc-guide-description="9xm Haq Se - India Ka Favourite Music Idhar Hai!" tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000122W_20221116T013709SQUARE.png_20221116013709.png" group-title="Music", 9X Music
 #EXTGRP:Music
 #EXTGENRE:Music
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+https://i.mjh.nz/SamsungTVPlus/INBC28000122W.m3u8
  #EXTINF:-1 channel-id="samsung-INBC2800013L6" tvg-id="INBC2800013L6" tvg-country="in"   tvg-chno="1067" tvg-name="9X Jalwa" tvc-guide-title="9X Jalwa"  tvc-guide-genres="Music" tvc-guide-description="A channel offering of 9X Media. Your channel for forever hits Plays music from 1990s to 2000" tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20220928T010036SQUARE.png_20220928010036.png" group-title="Music", 9X Jalwa
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -5698,6 +5702,10 @@ https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8
 #EXTGRP:영화
 #EXTGENRE:영화
 https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
+ #EXTINF:-1 channel-id="samsung-KRBD2700005QF" tvg-id="KRBD2700005QF" tvg-country="kr"   tvg-chno="526" tvg-name="essential; by Bugs" tvc-guide-title="essential; by Bugs"  tvc-guide-genres="음악" tvc-guide-description="essential;로 일상을 감성으로 가득 채워보세요. 음악으로 기억되는 그날의 분위기. Better music, Better mood. essential;" tvc-guide-categories="음악" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700005QF_20230918T013008SQUARE.png_20230918013009.png" group-title="음악", essential; by Bugs
+#EXTGRP:음악
+#EXTGENRE:음악
+
  #EXTINF:-1 channel-id="samsung-KRBC5000020AF" tvg-id="KRBC5000020AF" tvg-country="kr"   tvg-chno="833" tvg-name="JTBC 슈가맨" tvc-guide-title="JTBC 슈가맨"  tvc-guide-genres="음악" tvc-guide-description="대한민국 가요계의 한 시대를 풍미했던 가수의 그때 그 노래. JTBC가 선곡한 플레이리스트를 확인하세요!" tvc-guide-categories="음악" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20230614T012821SQUARE.png_20230614012822.png" group-title="음악", JTBC 슈가맨
 #EXTGRP:음악
 #EXTGENRE:음악
