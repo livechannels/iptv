@@ -20,10 +20,6 @@ https://rcdn.rixcast.com/primegoa/primegoa.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 channel-id="samsung-DDNATIONALHD" tvg-id="DDNATIONALHD" tvg-country="in"   tvg-chno="100204" tvg-name="DD National HD" tvc-guide-title="DD National HD"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch  TV channel DD NATIONAL HD live . First Shows provides Live telecast of  DD NATIONAL" tvc-guide-categories="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/DD_National_HD.png/revision/latest/scale-to-width-down/220?cb=20190103063804" group-title="Entertainment", DD National HD
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://z5ak-cmaflive.zee5.com/out/v1/2848f3a8d5f44823b313fa6ecbf24f93/DD_NATIONAL/index.m3u8?hdnts=st=1695126214~exp=1695129214~acl=/out/v1/2848f3a8d5f44823b313fa6ecbf24f93/DD_NATIONAL/index.m3u8*~hmac=ac0b2e2ee66ca58f84357a356a5fc2eda0767d67fb155d9e6a5763539732889b
 #EXTINF:-1 channel-id="samsung-INBD25000054A" tvg-id="INBD25000054A" tvg-country="in"   tvg-chno="1003" tvg-name="TV9 Bharatvarsh" tvc-guide-title="TV9 Bharatvarsh"  tvc-guide-genres="News" tvc-guide-description="An undisputed Leader, known for mainstreaming global news in Hindi news genre. Scripting a turnaround never seen before, the channel is known for its speed & scale." tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000054A_20230913T014240SQUARE.png_20230913014242.png" group-title="News", TV9 Bharatvarsh
 #EXTGRP:News
 #EXTGENRE:News
