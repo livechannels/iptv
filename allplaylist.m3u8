@@ -1,5 +1,4 @@
-#EXTM3U 
-
+#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/livechannels/iptv/main/epg.xml" 
 #EXTINF:-1 channel-id="samsung-GOAPRUDENT" tvg-id="GOAPRUDENT" tvg-country="in"   tvg-chno="100200" tvg-name="Prudent Media" tvc-guide-title="Prudent Media"  tvc-guide-genres="News" tvc-guide-description="Prudent Media (Goa) Pvt. Ltd Kamat Metropolis, 2nd Floor, Above Caculo Ford Showroom St. Inez - Panaji" tvc-guide-categories="News" tvg-logo="https://www.prudentmedia.in/assets/images/logo.png" group-title="News", Prudent Media
 #EXTGRP:News
 #EXTGENRE:News
