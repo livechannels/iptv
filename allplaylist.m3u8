@@ -20,6 +20,18 @@ https://rcdn.rixcast.com/primegoa/primegoa.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 channel-id="samsung-TV9MARATHI" tvg-id="TV9MARATHI" tvg-country="in"   tvg-chno="100205" tvg-name="TV9 Marathi" tvc-guide-title="TV9 Marathi"  tvc-guide-genres="News" tvc-guide-description="TV9 Marathi  news channel by far and has served as the go-to channel for Maharashtra news viewers." tvc-guide-categories="News" tvg-logo="https://i.imgur.com/5AshBho.png" group-title="News", TV9 Marathi
+#EXTGRP:News
+#EXTGENRE:News
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_480p/chunks.m3u8
+#EXTINF:-1 channel-id="samsung-FAKTMARATHI" tvg-id="FAKTMARATHI" tvg-country="in"   tvg-chno="100206" tvg-name="Fakt Marathi" tvc-guide-title="Fakt Marathi"  tvc-guide-genres="Entertainment" tvc-guide-description="The first free-to-air Marathi film television channel FaktMarathi your premier destination for authentic and captivating Marathi content with a deep-rooted commitment to embracing the rich cultural tapestry of Maharashtra. Fakt Marathi is your trusted companion in exploring the heart and heritage of Maharashtra." tvc-guide-categories="Entertainment" tvg-logo="https://www.faktmarathitv.com/images/logo-1.png" group-title="Entertainment", Fakt Marathi
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://live-faktmarathi.akamaized.net/liveabr/pub-iofaktma8ym16t/live_480p/chunks.m3u8
+#EXTINF:-1 channel-id="samsung-THEQ" tvg-id="THEQ" tvg-country="in"   tvg-chno="100207" tvg-name="The Q" tvc-guide-title="The Q"  tvc-guide-genres="Entertainment" tvc-guide-description="QYOU Media India Private Limited is an advertiser and influencer-marketing supported Hindi language content brand, Linear TV channel and VOD provider, delivering popular digital content from social media stars and leading digital video creators targeting Young Indian audiences. " tvc-guide-categories="Entertainment" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/the-q.png" group-title="Entertainment", The Q
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
 #EXTINF:-1 channel-id="samsung-INBD25000054A" tvg-id="INBD25000054A" tvg-country="in"   tvg-chno="1003" tvg-name="TV9 Bharatvarsh" tvc-guide-title="TV9 Bharatvarsh"  tvc-guide-genres="News" tvc-guide-description="An undisputed Leader, known for mainstreaming global news in Hindi news genre. Scripting a turnaround never seen before, the channel is known for its speed & scale." tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000054A_20230913T014240SQUARE.png_20230913014242.png" group-title="News", TV9 Bharatvarsh
 #EXTGRP:News
 #EXTGENRE:News
@@ -371,7 +383,7 @@ https://i.mjh.nz/SamsungTVPlus/INBB28000060I.m3u8
 #EXTINF:-1 channel-id="samsung-INBC28000122W" tvg-id="INBC28000122W" tvg-country="in"   tvg-chno="1065" tvg-name="9X Music" tvc-guide-title="9X Music"  tvc-guide-genres="Music" tvc-guide-description="9xm Haq Se - India Ka Favourite Music Idhar Hai!" tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000122W_20221116T013709SQUARE.png_20221116013709.png" group-title="Music", 9X Music
 #EXTGRP:Music
 #EXTGENRE:Music
-https://i.mjh.nz/SamsungTVPlus/INBC28000122W.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800013L6" tvg-id="INBC2800013L6" tvg-country="in"   tvg-chno="1067" tvg-name="9X Jalwa" tvc-guide-title="9X Jalwa"  tvc-guide-genres="Music" tvc-guide-description="A channel offering of 9X Media. Your channel for forever hits Plays music from 1990s to 2000" tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20220928T010036SQUARE.png_20220928010036.png" group-title="Music", 9X Jalwa
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -379,7 +391,7 @@ https://i.mjh.nz/SamsungTVPlus/INBC2800013L6.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800011JL" tvg-id="INBC2800011JL" tvg-country="in"   tvg-chno="1069" tvg-name="9X Tashan" tvc-guide-title="9X Tashan"  tvc-guide-genres="Music" tvc-guide-description="9X Media - India's Largest Music Network brings to you 9X Tashan- Punjab’s Number 1 Music Channel" tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20220928T010041SQUARE.png_20220928010041.png" group-title="Music", 9X Tashan
 #EXTGRP:Music
 #EXTGENRE:Music
-https://i.mjh.nz/SamsungTVPlus/INBC2800011JL.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/9Xtashan.isml/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBC1500014OM" tvg-id="INBC1500014OM" tvg-country="in"   tvg-chno="1073" tvg-name="Maiboli" tvc-guide-title="Maiboli"  tvc-guide-genres="Music" tvc-guide-description="Maiboli is a No.1 Marathi Music Channel. It comprises of song bands which play hit Marathi songs from different moods and genre’s. The channel plays songs which are widely loved by people across Maharashtra." tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20220525T002434SQUARE.png_20220525002436.png" group-title="Music", Maiboli
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -387,7 +399,7 @@ https://i.mjh.nz/SamsungTVPlus/INBC1500014OM.m3u8
 #EXTINF:-1 channel-id="samsung-INBC28000144H" tvg-id="INBC28000144H" tvg-country="in"   tvg-chno="1075" tvg-name="9X Jhakaas" tvc-guide-title="9X Jhakaas"  tvc-guide-genres="Music" tvc-guide-description="9X Media - India's Largest Music Network brings to you 9X Jhakaas, the first ever Marathi Music Channel Keep watching for your favourite Marathi songs." tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20220928T010037SQUARE.png_20220928010038.png" group-title="Music", 9X Jhakaas
 #EXTGRP:Music
 #EXTGENRE:Music
-https://i.mjh.nz/SamsungTVPlus/INBC28000144H.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/9Xjhakaas.isml/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800008VD" tvg-id="INBC2800008VD" tvg-country="in"   tvg-chno="1077" tvg-name="Balle Balle" tvc-guide-title="Balle Balle"  tvc-guide-genres="Music" tvc-guide-description="Balle Balle the Punjabi Music Channel is the Exclusive Prime aspect of the Punjabi Entertainment Industry. You get the wide range of Latest Punjabi Songs which leave you spellbound." tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800008VD_20220928T010044SQUARE.png_20220928010044.png" group-title="Music", Balle Balle
 #EXTGRP:Music
 #EXTGENRE:Music
