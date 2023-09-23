@@ -263,7 +263,7 @@ https://epiconvh.s.llnwi.net/showbox/master_720.m3u8
 #EXTINF:-1 channel-id="samsung-MUSICINDIA"  tvg-id="MUSICINDIA" tvg-country="in"   tvg-chno="109"  tvg-name="Music India" tvc-guide-title="Music India"  tvc-guide-genres="Music" tvc-guide-description="Music India is a 24-hour Free To Air Bollywood Music Channel showcasing latest bollywood songs and all time hit retro music."  tvc-guide-categories="Music" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png"  group-title="Music",  Music India
 #EXTGRP:Music
 #EXTGENRE:Music
-http://longstream-03.ajaah.com/PlayBoxTV/MusicIndia/playlist.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 channel-id="samsung-ZOOMMUSIC"  tvg-id="ZOOMMUSIC" tvg-country="in"   tvg-chno="112"  tvg-name="ZOOM" tvc-guide-title="ZOOM"  tvc-guide-genres="Music" tvc-guide-description="Zoom TV is the most popular Glamour and Entertainment channels in Hindi which caters to the urban audience. The channel was launched in 2004 and is based in Mumbai. It grew to popularity in a very less time and is on the top of Indian youth most channels. The channel airs the best music videos of time and features programs, news, and gossip from Bollywood."  tvc-guide-categories="Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zoom-black.png"  group-title="Music",  ZOOM
 #EXTGRP:Music
 #EXTGENRE:Music
