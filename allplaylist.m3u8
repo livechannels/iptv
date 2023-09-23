@@ -208,6 +208,14 @@ https://i.mjh.nz/SamsungTVPlus/INBA49000291X.m3u8
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://live-faktmarathi.akamaized.net/liveabr/pub-iofaktma8ym16t/live_720p/chunks.m3u8
+#EXTINF:-1 channel-id="samsung-BOLLYWOODHD"  tvg-id="BOLLYWOODHD" tvg-country="in"   tvg-chno="110"  tvg-name="BOLLYWOOD HD" tvc-guide-title="BOLLYWOOD HD"  tvc-guide-genres="Movies" tvc-guide-description="Bollywood HD Movies"  tvc-guide-categories="Movies" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg"  group-title="Movies",  BOLLYWOOD HD
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 channel-id="samsung-BOLLYWOODCLASSICHD"  tvg-id="BOLLYWOODCLASSICHD" tvg-country="in"   tvg-chno="111"  tvg-name="BOLLYWOOD CLASSIC HD" tvc-guide-title="BOLLYWOOD CLASSIC HD"  tvc-guide-genres="Movies" tvc-guide-description="Bollywood Classic HD Movies"  tvc-guide-categories="Movies" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png"  group-title="Movies",  BOLLYWOOD CLASSIC HD
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 channel-id="samsung-INBD21000016Y"  tvg-id="INBD21000016Y" tvg-country="in"   tvg-chno="1000"  tvg-name="The Movie Club" tvc-guide-title="The Movie Club"  tvc-guide-genres="Movies" tvc-guide-description="Welcome to The Movie Club. Get your daily dose of awesome Bollywood movies for free. There's action, drama, romance, adventure and loads of non-stop entertainment for movie buffs like you."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20230726T002252SQUARE.png_20230726002253.png"  group-title="Movies",  The Movie Club
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -252,6 +260,14 @@ https://i.mjh.nz/SamsungTVPlus/INBA5100001V4.m3u8
 #EXTGRP:Music
 #EXTGENRE:Music
 https://epiconvh.s.llnwi.net/showbox/master_720.m3u8
+#EXTINF:-1 channel-id="samsung-MUSICINDIA"  tvg-id="MUSICINDIA" tvg-country="in"   tvg-chno="109"  tvg-name="Music India" tvc-guide-title="Music India"  tvc-guide-genres="Music" tvc-guide-description="Music India is a 24-hour Free To Air Bollywood Music Channel showcasing latest bollywood songs and all time hit retro music."  tvc-guide-categories="Music" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png"  group-title="Music",  Music India
+#EXTGRP:Music
+#EXTGENRE:Music
+http://longstream-03.ajaah.com/PlayBoxTV/MusicIndia/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-ZOOMMUSIC"  tvg-id="ZOOMMUSIC" tvg-country="in"   tvg-chno="112"  tvg-name="ZOOM" tvc-guide-title="ZOOM"  tvc-guide-genres="Music" tvc-guide-description="Zoom is an Indian glamour and entertainment television channel primarily covering Bollywood and based in Mumbai."  tvc-guide-categories="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg"  group-title="Music",  ZOOM
+#EXTGRP:Music
+#EXTGENRE:Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBB28000060I"  tvg-id="INBB28000060I" tvg-country="in"   tvg-chno="1063"  tvg-name="Mastiii" tvc-guide-title="Mastiii"  tvc-guide-genres="Music" tvc-guide-description="Mastiii is India’s No.1 Music and Youth channel. Mastiii offers Music for every mood, be it peppy or romantic, retro or latest blockbusters. Mastiii understands music lovers which makes Mastiii an undisputed leader in the Music genre."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB28000060I_20230208T101232SQUARE.png_20230208101233.png"  group-title="Music",  Mastiii
 #EXTGRP:Music
 #EXTGENRE:Music
