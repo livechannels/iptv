@@ -20,6 +20,10 @@ https://rcdn.rixcast.com/primegoa/primegoa.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_480p/chunks.m3u8
+#EXTINF:-1 channel-id="samsung-DDNEWSHD"  tvg-id="DDNEWSHD" tvg-country="in"   tvg-chno="114"  tvg-name="DD News HD" tvc-guide-title="DD News HD"  tvc-guide-genres="News" tvc-guide-description="DD News is an Indian news channel of Doordarshan, it is India's only 24-hour terrestrial TV news channel broadcasting solely in Hindi, and formerly in English. The Prasar Bharati Board approved the proposal to start a 24-hour news channel in place of DD Metro."  tvc-guide-categories="News" tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png"  group-title="News",  DD News HD
+#EXTGRP:News
+#EXTGENRE:News
+https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 #EXTINF:-1 channel-id="samsung-INBD25000054A"  tvg-id="INBD25000054A" tvg-country="in"   tvg-chno="1003"  tvg-name="TV9 Bharatvarsh" tvc-guide-title="TV9 Bharatvarsh"  tvc-guide-genres="News" tvc-guide-description="An undisputed Leader, known for mainstreaming global news in Hindi news genre. Scripting a turnaround never seen before, the channel is known for its speed & scale."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000054A_20230913T014240SQUARE.png_20230913014242.png"  group-title="News",  TV9 Bharatvarsh
 #EXTGRP:News
 #EXTGENRE:News
@@ -148,6 +152,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
+#EXTINF:-1 channel-id="samsung-DDINDIAHD"  tvg-id="DDINDIAHD" tvg-country="in"   tvg-chno="113"  tvg-name="DD India HD" tvc-guide-title="DD India HD"  tvc-guide-genres="Entertainment" tvc-guide-description="DD India is an international state-owned English language news and current affairs channel from India."  tvc-guide-categories="Entertainment" tvg-logo="https://scontent.xx.fbcdn.net/v/t39.30808-1/375454372_802650931865118_8867449762747136718_n.jpg?stp=cp0_dst-jpg_p50x50&_nc_cat=106&ccb=1-7&_nc_sid=5fac6f&_nc_ohc=UD41FiWoylkAX-NDl3Q&_nc_ht=scontent.xx&edm=ADwHzz8EAAAA&oh=00_AfBlGN7D3CPT-gbZmAJUN5QqsmCxjjelL68gkUkbDSVQgg&oe=6514254E"  group-title="Entertainment",  DD India HD
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 #EXTINF:-1 channel-id="samsung-INBD1300015JE"  tvg-id="INBD1300015JE" tvg-country="in"   tvg-chno="1113"  tvg-name="Dangal TV" tvc-guide-title="Dangal TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Dangal TV is a 24-hour GEC with a substantial reach in all Hindi-speaking markets. It is a popular destination across all genres: family drama, supernatural, mythology, thriller and crime"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300015JE_20230809T020929SQUARE.png_20230809020930.png"  group-title="Entertainment",  Dangal TV
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -256,6 +264,14 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTGRP:Music
 #EXTGENRE:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
+#EXTINF:-1 channel-id="samsung-MTVHD"  tvg-id="MTVHD" tvg-country="in"   tvg-chno="115"  tvg-name="MTV HD" tvc-guide-title="MTV HD"  tvc-guide-genres="Music" tvc-guide-description="MTV, world’s premier youth brand, is a dynamic and a vibrant blend of music and pop culture. With a global reach of more than half a billion households, MTV is a cultural home to the millennial generation, music fans and artists."  tvc-guide-categories="Music" tvg-logo="https://cdn.mtvindia.com/wp-content/uploads/2022/04/mtvnewlogo.png"  group-title="Music",  MTV HD
+#EXTGRP:Music
+#EXTGENRE:Music
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 channel-id="samsung-MTVBEATS"  tvg-id="MTVBEATS" tvg-country="in"   tvg-chno="116"  tvg-name="MTV Beats" tvc-guide-title="MTV Beats"  tvc-guide-genres="Music" tvc-guide-description="MTv Beats- India's first music-only channel. MTv beats music."  tvc-guide-categories="Music" tvg-logo="https://cdn.mtvbeats.in/wp-content/uploads/2021/03/logo.png"  group-title="Music",  MTV Beats
+#EXTGRP:Music
+#EXTGENRE:Music
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBB28000060I"  tvg-id="INBB28000060I" tvg-country="in"   tvg-chno="1063"  tvg-name="Mastiii" tvc-guide-title="Mastiii"  tvc-guide-genres="Music" tvc-guide-description="Mastiii is India’s No.1 Music and Youth channel. Mastiii offers Music for every mood, be it peppy or romantic, retro or latest blockbusters. Mastiii understands music lovers which makes Mastiii an undisputed leader in the Music genre."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB28000060I_20230208T101232SQUARE.png_20230208101233.png"  group-title="Music",  Mastiii
 #EXTGRP:Music
 #EXTGENRE:Music
