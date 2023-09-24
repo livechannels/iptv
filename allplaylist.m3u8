@@ -20,10 +20,6 @@ https://rcdn.rixcast.com/primegoa/primegoa.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_480p/chunks.m3u8
-#EXTINF:-1 channel-id="samsung-DDNEWSHD"  tvg-id="DDNEWSHD" tvg-country="in"   tvg-chno="114"  tvg-name="DD News HD" tvc-guide-title="DD News HD"  tvc-guide-genres="News" tvc-guide-description="DD News is an Indian news channel of Doordarshan, it is India's only 24-hour terrestrial TV news channel broadcasting solely in Hindi, and formerly in English. The Prasar Bharati Board approved the proposal to start a 24-hour news channel in place of DD Metro."  tvc-guide-categories="News" tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png"  group-title="News",  DD News HD
-#EXTGRP:News
-#EXTGENRE:News
-https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 #EXTINF:-1 channel-id="samsung-INBD25000054A"  tvg-id="INBD25000054A" tvg-country="in"   tvg-chno="1003"  tvg-name="TV9 Bharatvarsh" tvc-guide-title="TV9 Bharatvarsh"  tvc-guide-genres="News" tvc-guide-description="An undisputed Leader, known for mainstreaming global news in Hindi news genre. Scripting a turnaround never seen before, the channel is known for its speed & scale."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000054A_20230913T014240SQUARE.png_20230913014242.png"  group-title="News",  TV9 Bharatvarsh
 #EXTGRP:News
 #EXTGENRE:News
@@ -152,10 +148,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
-#EXTINF:-1 channel-id="samsung-DDINDIAHD"  tvg-id="DDINDIAHD" tvg-country="in"   tvg-chno="113"  tvg-name="DD India HD" tvc-guide-title="DD India HD"  tvc-guide-genres="Entertainment" tvc-guide-description="DD India is an international state-owned English language news and current affairs channel from India."  tvc-guide-categories="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg/revision/latest/scale-to-width-down/300"  group-title="Entertainment",  DD India HD
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 #EXTINF:-1 channel-id="samsung-INBD1300015JE"  tvg-id="INBD1300015JE" tvg-country="in"   tvg-chno="1113"  tvg-name="Dangal TV" tvc-guide-title="Dangal TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Dangal TV is a 24-hour GEC with a substantial reach in all Hindi-speaking markets. It is a popular destination across all genres: family drama, supernatural, mythology, thriller and crime"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300015JE_20230809T020929SQUARE.png_20230809020930.png"  group-title="Entertainment",  Dangal TV
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -432,73 +424,73 @@ https://i.mjh.nz/SamsungTVPlus/INBC15000102M.m3u8
 #EXTGRP:LifeStyle
 #EXTGENRE:LifeStyle
 https://i.mjh.nz/SamsungTVPlus/INBD13000053R.m3u8
-#EXTINF:-1 channel-id="samsung-INBC15000035H"  tvg-id="INBC15000035H" tvg-country="in"   tvg-chno="1363"  tvg-name="TLC" tvc-guide-title="TLC"  tvc-guide-genres="Lifestyle" tvc-guide-description="TLC is all about keeping its audience updated on the latest trends in the world of travel, food, culture, and lifestyle. The kind of content that goes up on TLC is snackable, informative, and fun."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC15000035H_20220427T054804SQUARE.png_20220427054805.png"  group-title="Lifestyle",  TLC
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBC15000035H"  tvg-id="INBC15000035H" tvg-country="in"   tvg-chno="1363"  tvg-name="TLC" tvc-guide-title="TLC"  tvc-guide-genres="" tvc-guide-description="TLC is all about keeping its audience updated on the latest trends in the world of travel, food, culture, and lifestyle. The kind of content that goes up on TLC is snackable, informative, and fun."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC15000035H_20220427T054804SQUARE.png_20220427054805.png"  group-title="",  TLC
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBC15000035H.m3u8
-#EXTINF:-1 channel-id="samsung-INBC1500004JR"  tvg-id="INBC1500004JR" tvg-country="in"   tvg-chno="1365"  tvg-name="TLC HD" tvc-guide-title="TLC HD"  tvc-guide-genres="Lifestyle" tvc-guide-description="TLC is all about keeping its audience updated on the latest trends in the world of travel, food, culture, and lifestyle. The kind of content that goes up on TLC is snackable, informative, and fun."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500004JR_20220427T054807SQUARE.png_20220427054808.png"  group-title="Lifestyle",  TLC HD
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBC1500004JR"  tvg-id="INBC1500004JR" tvg-country="in"   tvg-chno="1365"  tvg-name="TLC HD" tvc-guide-title="TLC HD"  tvc-guide-genres="" tvc-guide-description="TLC is all about keeping its audience updated on the latest trends in the world of travel, food, culture, and lifestyle. The kind of content that goes up on TLC is snackable, informative, and fun."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500004JR_20220427T054807SQUARE.png_20220427054808.png"  group-title="",  TLC HD
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBC1500004JR.m3u8
-#EXTINF:-1 channel-id="samsung-INBC4300006K2"  tvg-id="INBC4300006K2" tvg-country="in"   tvg-chno="1366"  tvg-name="Cook & Bake" tvc-guide-title="Cook & Bake"  tvc-guide-genres="Lifestyle" tvc-guide-description="Celebrity Chef based cooking shows - From appetizers to mains to desserts find all cooking recipes that satisfy your taste buds and mood swings to cook."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300006K2_20230614T012644SQUARE.png_20230614012645.png"  group-title="Lifestyle",  Cook & Bake
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBC4300006K2"  tvg-id="INBC4300006K2" tvg-country="in"   tvg-chno="1366"  tvg-name="Cook & Bake" tvc-guide-title="Cook & Bake"  tvc-guide-genres="" tvc-guide-description="Celebrity Chef based cooking shows - From appetizers to mains to desserts find all cooking recipes that satisfy your taste buds and mood swings to cook."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300006K2_20230614T012644SQUARE.png_20230614012645.png"  group-title="",  Cook & Bake
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBC4300006K2.m3u8
-#EXTINF:-1 channel-id="samsung-INBA51000038B"  tvg-id="INBA51000038B" tvg-country="in"   tvg-chno="1367"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Since 1997, FashionTV has been setting the highest standards for excellence in fashion and lifestyle broadcasting. The only TV equivalent to fashion print media appealing to everyone interested in fashion, style, beauty and trends."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA51000038B_20220427T054758SQUARE.png_20220427054759.png"  group-title="Lifestyle",  Fashion TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBA51000038B"  tvg-id="INBA51000038B" tvg-country="in"   tvg-chno="1367"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="" tvc-guide-description="Since 1997, FashionTV has been setting the highest standards for excellence in fashion and lifestyle broadcasting. The only TV equivalent to fashion print media appealing to everyone interested in fashion, style, beauty and trends."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA51000038B_20220427T054758SQUARE.png_20220427054759.png"  group-title="",  Fashion TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA51000038B.m3u8
-#EXTINF:-1 channel-id="samsung-INBA5100020HQ"  tvg-id="INBA5100020HQ" tvg-country="in"   tvg-chno="1369"  tvg-name="Gusto TV" tvc-guide-title="Gusto TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Gusto TV is an innovative food and lifestyle television channel celebrating global cultures through food. Our mouth-watering programming inspires with culturally diverse cuisines and recipes, unique food pairings, and entertaining hosts."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100020HQ_20220427T054602SQUARE.png_20220427054603.png"  group-title="Lifestyle",  Gusto TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBA5100020HQ"  tvg-id="INBA5100020HQ" tvg-country="in"   tvg-chno="1369"  tvg-name="Gusto TV" tvc-guide-title="Gusto TV"  tvc-guide-genres="" tvc-guide-description="Gusto TV is an innovative food and lifestyle television channel celebrating global cultures through food. Our mouth-watering programming inspires with culturally diverse cuisines and recipes, unique food pairings, and entertaining hosts."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100020HQ_20220427T054602SQUARE.png_20220427054603.png"  group-title="",  Gusto TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA5100020HQ.m3u8
-#EXTINF:-1 channel-id="samsung-INBA490001909"  tvg-id="INBA490001909" tvg-country="in"   tvg-chno="1371"  tvg-name="Tastemade" tvc-guide-title="Tastemade"  tvc-guide-genres="Lifestyle" tvc-guide-description="A 24/7 channel with award-winning food, travel, and home & design shows from around the world - from groundbreaking originals to classic series and documentaries."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490001909_20220427T054659SQUARE.png_20220427054700.png"  group-title="Lifestyle",  Tastemade
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBA490001909"  tvg-id="INBA490001909" tvg-country="in"   tvg-chno="1371"  tvg-name="Tastemade" tvc-guide-title="Tastemade"  tvc-guide-genres="" tvc-guide-description="A 24/7 channel with award-winning food, travel, and home & design shows from around the world - from groundbreaking originals to classic series and documentaries."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490001909_20220427T054659SQUARE.png_20220427054700.png"  group-title="",  Tastemade
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA490001909.m3u8
-#EXTINF:-1 channel-id="samsung-INBC1500012AD"  tvg-id="INBC1500012AD" tvg-country="in"   tvg-chno="1373"  tvg-name="Discovery Turbo" tvc-guide-title="Discovery Turbo"  tvc-guide-genres="Lifestyle" tvc-guide-description="Factual television channel devoted to programming about cars, bikes, boats, and planes, shows centred around anything with motors like cars, aeroplanes and ships"  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500012AD_20220525T002351SQUARE.png_20220525002353.png"  group-title="Lifestyle",  Discovery Turbo
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBC1500012AD"  tvg-id="INBC1500012AD" tvg-country="in"   tvg-chno="1373"  tvg-name="Discovery Turbo" tvc-guide-title="Discovery Turbo"  tvc-guide-genres="" tvc-guide-description="Factual television channel devoted to programming about cars, bikes, boats, and planes, shows centred around anything with motors like cars, aeroplanes and ships"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500012AD_20220525T002351SQUARE.png_20220525002353.png"  group-title="",  Discovery Turbo
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBC1500012AD.m3u8
-#EXTINF:-1 channel-id="samsung-INBC2800007ZP"  tvg-id="INBC2800007ZP" tvg-country="in"   tvg-chno="1375"  tvg-name="NDTV GoodTimes" tvc-guide-title="NDTV GoodTimes"  tvc-guide-genres="Lifestyle" tvc-guide-description="This 24-hr channels delivers 100% original Indian lifestyle content that is #DesiAtHeart for food to travel to wedding and Bollywood."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800007ZP_20220928T010054SQUARE.png_20220928010055.png"  group-title="Lifestyle",  NDTV GoodTimes
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBC2800007ZP"  tvg-id="INBC2800007ZP" tvg-country="in"   tvg-chno="1375"  tvg-name="NDTV GoodTimes" tvc-guide-title="NDTV GoodTimes"  tvc-guide-genres="" tvc-guide-description="This 24-hr channels delivers 100% original Indian lifestyle content that is #DesiAtHeart for food to travel to wedding and Bollywood."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800007ZP_20220928T010054SQUARE.png_20220928010055.png"  group-title="",  NDTV GoodTimes
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBC2800007ZP.m3u8
-#EXTINF:-1 channel-id="samsung-INBC2800020QX"  tvg-id="INBC2800020QX" tvg-country="in"   tvg-chno="1377"  tvg-name="Heritage" tvc-guide-title="Heritage"  tvc-guide-genres="Lifestyle" tvc-guide-description="HERITAGE+ is a different view of World Heritage Sites, an invitation to Cultural Tourism"  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800020QX_20221116T013715SQUARE.png_20221116013716.png"  group-title="Lifestyle",  Heritage
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBC2800020QX"  tvg-id="INBC2800020QX" tvg-country="in"   tvg-chno="1377"  tvg-name="Heritage" tvc-guide-title="Heritage"  tvc-guide-genres="" tvc-guide-description="HERITAGE+ is a different view of World Heritage Sites, an invitation to Cultural Tourism"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800020QX_20221116T013715SQUARE.png_20221116013716.png"  group-title="",  Heritage
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBC2800020QX.m3u8
-#EXTINF:-1 channel-id="samsung-INBC43000016J"  tvg-id="INBC43000016J" tvg-country="in"   tvg-chno="1378"  tvg-name="HD TRAVEL" tvc-guide-title="HD TRAVEL"  tvc-guide-genres="Lifestyle" tvc-guide-description="With HD TRAVEL TV discover the world's most travel destinations, cultures and heritage sites."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000016J_20230111T005122SQUARE.png_20230111005122.png"  group-title="Lifestyle",  HD TRAVEL
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBC43000016J"  tvg-id="INBC43000016J" tvg-country="in"   tvg-chno="1378"  tvg-name="HD TRAVEL" tvc-guide-title="HD TRAVEL"  tvc-guide-genres="" tvc-guide-description="With HD TRAVEL TV discover the world's most travel destinations, cultures and heritage sites."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000016J_20230111T005122SQUARE.png_20230111005122.png"  group-title="",  HD TRAVEL
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBC43000016J.m3u8
-#EXTINF:-1 channel-id="samsung-INBA4900004W9"  tvg-id="INBA4900004W9" tvg-country="in"   tvg-chno="1379"  tvg-name="INFAST" tvc-guide-title="INFAST"  tvc-guide-genres="Lifestyle" tvc-guide-description="INFAST blends the best of entertainment, lifestyle, and storytelling, serving iconic and far flung adventures, from influencers and disruptors around the world challenging the status quo."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900004W9_20230111T005119SQUARE.png_20230111005120.png"  group-title="Lifestyle",  INFAST
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBA4900004W9"  tvg-id="INBA4900004W9" tvg-country="in"   tvg-chno="1379"  tvg-name="INFAST" tvc-guide-title="INFAST"  tvc-guide-genres="" tvc-guide-description="INFAST blends the best of entertainment, lifestyle, and storytelling, serving iconic and far flung adventures, from influencers and disruptors around the world challenging the status quo."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900004W9_20230111T005119SQUARE.png_20230111005120.png"  group-title="",  INFAST
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA4900004W9.m3u8
-#EXTINF:-1 channel-id="samsung-INBA5100031R2"  tvg-id="INBA5100031R2" tvg-country="in"   tvg-chno="1381"  tvg-name="People are Awesome" tvc-guide-title="People are Awesome"  tvc-guide-genres="Lifestyle" tvc-guide-description="People Are Awesome is a one-of-a-kind channel that spotlights the awesome power of ordinary people doing extraordinary things."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100031R2_20220427T054631SQUARE.png_20220427054632.png"  group-title="Lifestyle",  People are Awesome
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBA5100031R2"  tvg-id="INBA5100031R2" tvg-country="in"   tvg-chno="1381"  tvg-name="People are Awesome" tvc-guide-title="People are Awesome"  tvc-guide-genres="" tvc-guide-description="People Are Awesome is a one-of-a-kind channel that spotlights the awesome power of ordinary people doing extraordinary things."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100031R2_20220427T054631SQUARE.png_20220427054632.png"  group-title="",  People are Awesome
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA5100031R2.m3u8
-#EXTINF:-1 channel-id="samsung-INBA49000129Q"  tvg-id="INBA49000129Q" tvg-country="in"   tvg-chno="1383"  tvg-name="Real Life" tvc-guide-title="Real Life"  tvc-guide-genres="Lifestyle" tvc-guide-description="Real Families features documentaries and shows about stories of modern family life - be it parenting styles, complex relationships, food habits or the challenges of raising a bigger brood."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000129Q_20220427T054645SQUARE.png_20220427054646.png"  group-title="Lifestyle",  Real Life
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBA49000129Q"  tvg-id="INBA49000129Q" tvg-country="in"   tvg-chno="1383"  tvg-name="Real Life" tvc-guide-title="Real Life"  tvc-guide-genres="" tvc-guide-description="Real Families features documentaries and shows about stories of modern family life - be it parenting styles, complex relationships, food habits or the challenges of raising a bigger brood."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000129Q_20220427T054645SQUARE.png_20220427054646.png"  group-title="",  Real Life
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA49000129Q.m3u8
-#EXTINF:-1 channel-id="samsung-INBA4900010X3"  tvg-id="INBA4900010X3" tvg-country="in"   tvg-chno="1385"  tvg-name="History Hit" tvc-guide-title="History Hit"  tvc-guide-genres="Lifestyle" tvc-guide-description="HistoryHit is the home of compelling, shocking and captivating tales throughout history. From Ancient Egypt to the Dark Ages and modern history, we enlighten viewers through gripping and immersive documentaries from around the world"  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900010X3_20220824T022304SQUARE.png_20220824022305.png"  group-title="Lifestyle",  History Hit
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBA4900010X3"  tvg-id="INBA4900010X3" tvg-country="in"   tvg-chno="1385"  tvg-name="History Hit" tvc-guide-title="History Hit"  tvc-guide-genres="" tvc-guide-description="HistoryHit is the home of compelling, shocking and captivating tales throughout history. From Ancient Egypt to the Dark Ages and modern history, we enlighten viewers through gripping and immersive documentaries from around the world"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900010X3_20220824T022304SQUARE.png_20220824022305.png"  group-title="",  History Hit
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA4900010X3.m3u8
-#EXTINF:-1 channel-id="samsung-INBA4900011UB"  tvg-id="INBA4900011UB" tvg-country="in"   tvg-chno="1387"  tvg-name="Wonder" tvc-guide-title="Wonder"  tvc-guide-genres="Lifestyle" tvc-guide-description="At Wonder, we aim to spread curiosity, love, and stories of people and animals who push the boundaries of human experiences. Wonder is home to the extraordinary and emotional, the weird and the wonderful, and the simply eye-opening."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900011UB_20220427T054723SQUARE.png_20220427054724.png"  group-title="Lifestyle",  Wonder
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBA4900011UB"  tvg-id="INBA4900011UB" tvg-country="in"   tvg-chno="1387"  tvg-name="Wonder" tvc-guide-title="Wonder"  tvc-guide-genres="" tvc-guide-description="At Wonder, we aim to spread curiosity, love, and stories of people and animals who push the boundaries of human experiences. Wonder is home to the extraordinary and emotional, the weird and the wonderful, and the simply eye-opening."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900011UB_20220427T054723SQUARE.png_20220427054724.png"  group-title="",  Wonder
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA4900011UB.m3u8
-#EXTINF:-1 channel-id="samsung-INBA5100025YE"  tvg-id="INBA5100025YE" tvg-country="in"   tvg-chno="1389"  tvg-name="GoUSA TV" tvc-guide-title="GoUSA TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Welcome to GoUSA TV, the premier travel channel all about the USA. From exciting road trips, to unique cities, to National Parks, GoUSA TV offers you free series, movies and shorts about life and traveling in the United States."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100025YE_20220427T054559SQUARE.png_20220427054600.png"  group-title="Lifestyle",  GoUSA TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBA5100025YE"  tvg-id="INBA5100025YE" tvg-country="in"   tvg-chno="1389"  tvg-name="GoUSA TV" tvc-guide-title="GoUSA TV"  tvc-guide-genres="" tvc-guide-description="Welcome to GoUSA TV, the premier travel channel all about the USA. From exciting road trips, to unique cities, to National Parks, GoUSA TV offers you free series, movies and shorts about life and traveling in the United States."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100025YE_20220427T054559SQUARE.png_20220427054600.png"  group-title="",  GoUSA TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA5100025YE.m3u8
-#EXTINF:-1 channel-id="samsung-INBA49000291X"  tvg-id="INBA49000291X" tvg-country="in"   tvg-chno="1391"  tvg-name="Don't Tell The Bride" tvc-guide-title="Don't Tell The Bride"  tvc-guide-genres="Lifestyle" tvc-guide-description="Don’t Tell The Bride är det traditionella bröllopet med en tvist. Här står brudgummen för planeringen av alla detaljer som rör den stora dagen. Vad kan möjligtvis gå fel?"  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000291X_20220427T054545SQUARE.png_20220427054546.png"  group-title="Lifestyle",  Don't Tell The Bride
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-INBA49000291X"  tvg-id="INBA49000291X" tvg-country="in"   tvg-chno="1391"  tvg-name="Don't Tell The Bride" tvc-guide-title="Don't Tell The Bride"  tvc-guide-genres="" tvc-guide-description="Don’t Tell The Bride är det traditionella bröllopet med en tvist. Här står brudgummen för planeringen av alla detaljer som rör den stora dagen. Vad kan möjligtvis gå fel?"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000291X_20220427T054545SQUARE.png_20220427054546.png"  group-title="",  Don't Tell The Bride
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA49000291X.m3u8
 #EXTINF:-1 channel-id="samsung-GBAJ4900020VP"  tvg-id="GBAJ4900020VP" tvg-country="gb"   tvg-chno="4003"  tvg-name="Euronews Live" tvc-guide-title="Euronews Live"  tvc-guide-genres="News" tvc-guide-description="Europe’s leading international news channel. News 24/7 for free, brought to you by Rakuten TV."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png"  group-title="News",  Euronews Live
 #EXTGRP:News
@@ -1096,25 +1088,25 @@ https://i.mjh.nz/SamsungTVPlus/GBBA330001986.m3u8
 #EXTGRP:LifeStyle
 #EXTGENRE:LifeStyle
 https://i.mjh.nz/SamsungTVPlus/GBBB38000093D.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD1500003SD"  tvg-id="GBBD1500003SD" tvg-country="gb"   tvg-chno="4011"  tvg-name="FireScape" tvc-guide-title="FireScape"  tvc-guide-genres="Lifestyle" tvc-guide-description="Gather around and keep cozy with the FireScape channel. Bring warmth and gorgeous views into your home, accompanied by the calming sound of a crackling fire, available on Samsung TV Plus anytime you need a moment of peacefulness"  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1500003SD_20230510T044335SQUARE.png_20230510044336.png"  group-title="Lifestyle",  FireScape
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-GBBD1500003SD"  tvg-id="GBBD1500003SD" tvg-country="gb"   tvg-chno="4011"  tvg-name="FireScape" tvc-guide-title="FireScape"  tvc-guide-genres="" tvc-guide-description="Gather around and keep cozy with the FireScape channel. Bring warmth and gorgeous views into your home, accompanied by the calming sound of a crackling fire, available on Samsung TV Plus anytime you need a moment of peacefulness"  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1500003SD_20230510T044335SQUARE.png_20230510044336.png"  group-title="",  FireScape
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/GBBD1500003SD.m3u8
-#EXTINF:-1 channel-id="samsung-GBAJ49000184K"  tvg-id="GBAJ49000184K" tvg-country="gb"   tvg-chno="4411"  tvg-name="Travelxp" tvc-guide-title="Travelxp"  tvc-guide-genres="Lifestyle" tvc-guide-description="Travelxp is the place for cutting edge, premium travel content with shows from across 55 countries. Travel from the comfort of your home with our hosts as they take you around exotic places and unravel their culture, heritage and beauty."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000184K_20221026T004715SQUARE.png_20221026004716.png"  group-title="Lifestyle",  Travelxp
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-GBAJ49000184K"  tvg-id="GBAJ49000184K" tvg-country="gb"   tvg-chno="4411"  tvg-name="Travelxp" tvc-guide-title="Travelxp"  tvc-guide-genres="" tvc-guide-description="Travelxp is the place for cutting edge, premium travel content with shows from across 55 countries. Travel from the comfort of your home with our hosts as they take you around exotic places and unravel their culture, heritage and beauty."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000184K_20221026T004715SQUARE.png_20221026004716.png"  group-title="",  Travelxp
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
-#EXTINF:-1 channel-id="samsung-GBAJ49000197P"  tvg-id="GBAJ49000197P" tvg-country="gb"   tvg-chno="4414"  tvg-name="GoUSA TV" tvc-guide-title="GoUSA TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Explore the USA’s must-see places, great outdoors, foodie hot spots and amazing road trips on GoUSA TV."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000197P_20230726T033534SQUARE.png_20230726033537.png"  group-title="Lifestyle",  GoUSA TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-GBAJ49000197P"  tvg-id="GBAJ49000197P" tvg-country="gb"   tvg-chno="4414"  tvg-name="GoUSA TV" tvc-guide-title="GoUSA TV"  tvc-guide-genres="" tvc-guide-description="Explore the USA’s must-see places, great outdoors, foodie hot spots and amazing road trips on GoUSA TV."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000197P_20230726T033534SQUARE.png_20230726033537.png"  group-title="",  GoUSA TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/GBAJ49000197P.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD1100003I0"  tvg-id="GBBD1100003I0" tvg-country="gb"   tvg-chno="4416"  tvg-name="Love Pets" tvc-guide-title="Love Pets"  tvc-guide-genres="Lifestyle" tvc-guide-description="Cuddle up to inspiring pet-and-vet stories that celebrate our furry, feathered, and scaly soulmates."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100003I0_20230614T011917SQUARE.png_20230614011918.png"  group-title="Lifestyle",  Love Pets
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-GBBD1100003I0"  tvg-id="GBBD1100003I0" tvg-country="gb"   tvg-chno="4416"  tvg-name="Love Pets" tvc-guide-title="Love Pets"  tvc-guide-genres="" tvc-guide-description="Cuddle up to inspiring pet-and-vet stories that celebrate our furry, feathered, and scaly soulmates."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100003I0_20230614T011917SQUARE.png_20230614011918.png"  group-title="",  Love Pets
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/GBBD1100003I0.m3u8
-#EXTINF:-1 channel-id="samsung-GBAJ4900002DE"  tvg-id="GBAJ4900002DE" tvg-country="gb"   tvg-chno="4423"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Since it’s inception in 1997, Fashion TV has been setting the standard for excellence in fashion and lifestyle broadcasting."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900002DE_20220323T070849SQUARE.png_20220323070852.png"  group-title="Lifestyle",  Fashion TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-GBAJ4900002DE"  tvg-id="GBAJ4900002DE" tvg-country="gb"   tvg-chno="4423"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="" tvc-guide-description="Since it’s inception in 1997, Fashion TV has been setting the standard for excellence in fashion and lifestyle broadcasting."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900002DE_20220323T070849SQUARE.png_20220323070852.png"  group-title="",  Fashion TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8
 #EXTINF:-1 channel-id="samsung-USBA370000104"  tvg-id="USBA370000104" tvg-country="us"   tvg-chno="1005"  tvg-name="CBS News" tvc-guide-title="CBS News"  tvc-guide-genres="News" tvc-guide-description="Watch the free CBS News 24/7 live stream for breaking news & in-depth reporting."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20220621T075722SQUARE.png_20220621075724.png"  group-title="News",  CBS News
 #EXTGRP:News
@@ -2588,29 +2580,29 @@ https://i.mjh.nz/SamsungTVPlus/ATBA2200006QX.m3u8
 #EXTGRP:Travel
 #EXTGENRE:Travel
 https://i.mjh.nz/SamsungTVPlus/ATAJ0500443A.m3u8
-#EXTINF:-1 channel-id="samsung-ATBD1500001X4"  tvg-id="ATBD1500001X4" tvg-country="at"   tvg-chno="4009"  tvg-name="Lagerfeuer" tvc-guide-title="Lagerfeuer"  tvc-guide-genres="Lifestyle" tvc-guide-description="Machen Sie es sich mit dem Lagerfeuer -Kanal gemütlich. Bringen Sie einen herrlichen Anblick von wohliger Wärme in Ihr Zuhause, begleitet vom beruhigenden Knistern des Feuers, das auf Samsung TV Plus jederzeit verfügbar ist, wenn Sie einen Moment der Ruhe brauchen."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500001X4_20230510T043844SQUARE.png_20230510043845.png"  group-title="Lifestyle",  Lagerfeuer
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ATBD1500001X4"  tvg-id="ATBD1500001X4" tvg-country="at"   tvg-chno="4009"  tvg-name="Lagerfeuer" tvc-guide-title="Lagerfeuer"  tvc-guide-genres="" tvc-guide-description="Machen Sie es sich mit dem Lagerfeuer -Kanal gemütlich. Bringen Sie einen herrlichen Anblick von wohliger Wärme in Ihr Zuhause, begleitet vom beruhigenden Knistern des Feuers, das auf Samsung TV Plus jederzeit verfügbar ist, wenn Sie einen Moment der Ruhe brauchen."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500001X4_20230510T043844SQUARE.png_20230510043845.png"  group-title="",  Lagerfeuer
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ATBD1500001X4.m3u8
-#EXTINF:-1 channel-id="samsung-ATAJ0500428A"  tvg-id="ATAJ0500428A" tvg-country="at"   tvg-chno="4402"  tvg-name="Xplore" tvc-guide-title="Xplore"  tvc-guide-genres="Lifestyle" tvc-guide-description="XPLORE ist der Kanal für Reise und Abenteuer und erkundet die schönsten Reiseziele der  Welt – von antiken Tempeln über spektakuläre Naturschauplätze bis hin zu quirligen Metropolen."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500428A_20230412T042754SQUARE.png_20230412042755.png"  group-title="Lifestyle",  Xplore
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ATAJ0500428A"  tvg-id="ATAJ0500428A" tvg-country="at"   tvg-chno="4402"  tvg-name="Xplore" tvc-guide-title="Xplore"  tvc-guide-genres="" tvc-guide-description="XPLORE ist der Kanal für Reise und Abenteuer und erkundet die schönsten Reiseziele der  Welt – von antiken Tempeln über spektakuläre Naturschauplätze bis hin zu quirligen Metropolen."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500428A_20230412T042754SQUARE.png_20230412042755.png"  group-title="",  Xplore
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ATAJ0500428A.m3u8
-#EXTINF:-1 channel-id="samsung-ATAJ0500431A"  tvg-id="ATAJ0500431A" tvg-country="at"   tvg-chno="4406"  tvg-name="just.fishing" tvc-guide-title="just.fishing"  tvc-guide-genres="Lifestyle" tvc-guide-description="Neben aktuellem Know-how im Angelbereich, die richtige Ausrüstung, sowie die besten Angelreviere und die erfolgreichsten Fangmethoden, zeigen die Programme spannende Angelszenen, seltene Tieraufnahmen und eine atemberaubende Natur."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500431A_20230412T042756SQUARE.png_20230412042757.png"  group-title="Lifestyle",  just.fishing
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ATAJ0500431A"  tvg-id="ATAJ0500431A" tvg-country="at"   tvg-chno="4406"  tvg-name="just.fishing" tvc-guide-title="just.fishing"  tvc-guide-genres="" tvc-guide-description="Neben aktuellem Know-how im Angelbereich, die richtige Ausrüstung, sowie die besten Angelreviere und die erfolgreichsten Fangmethoden, zeigen die Programme spannende Angelszenen, seltene Tieraufnahmen und eine atemberaubende Natur."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500431A_20230412T042756SQUARE.png_20230412042757.png"  group-title="",  just.fishing
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ATAJ0500431A.m3u8
-#EXTINF:-1 channel-id="samsung-ATAJ0500430A"  tvg-id="ATAJ0500430A" tvg-country="at"   tvg-chno="4414"  tvg-name="Hip Trips" tvc-guide-title="Hip Trips"  tvc-guide-genres="Lifestyle" tvc-guide-description="Hip Trips zeigt aufregende Touren, ob mit dem Motorrad, Bahn, Auto, Schiff, Kanu oder per Bike. Weltreisende, Abenteurer und wagemutige Langzeitreisende erzählen von ihren riskanten Trips, extremen Abenteuern und außergewöhnlichen Strecken."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500430A_20220323T072616SQUARE.png_20220323072619.png"  group-title="Lifestyle",  Hip Trips
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ATAJ0500430A"  tvg-id="ATAJ0500430A" tvg-country="at"   tvg-chno="4414"  tvg-name="Hip Trips" tvc-guide-title="Hip Trips"  tvc-guide-genres="" tvc-guide-description="Hip Trips zeigt aufregende Touren, ob mit dem Motorrad, Bahn, Auto, Schiff, Kanu oder per Bike. Weltreisende, Abenteurer und wagemutige Langzeitreisende erzählen von ihren riskanten Trips, extremen Abenteuern und außergewöhnlichen Strecken."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500430A_20220323T072616SQUARE.png_20220323072619.png"  group-title="",  Hip Trips
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ATAJ0500430A.m3u8
-#EXTINF:-1 channel-id="samsung-ATBA1000005P4"  tvg-id="ATBA1000005P4" tvg-country="at"   tvg-chno="4418"  tvg-name="Travelxp" tvc-guide-title="Travelxp"  tvc-guide-genres="Lifestyle" tvc-guide-description="Travelxp ist der Ort für topaktuelle, erstklassige Reiseinhalte mit Shows aus über 55 Ländern. Reisen Sie bequem von zu Hause aus mit unseren Gastgebern, die Sie an exotische Orte entführen und Ihnen Kultur, Erbe und Schönheit näher bringen."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1000005P4_20221026T004153SQUARE.png_20221026004153.png"  group-title="Lifestyle",  Travelxp
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ATBA1000005P4"  tvg-id="ATBA1000005P4" tvg-country="at"   tvg-chno="4418"  tvg-name="Travelxp" tvc-guide-title="Travelxp"  tvc-guide-genres="" tvc-guide-description="Travelxp ist der Ort für topaktuelle, erstklassige Reiseinhalte mit Shows aus über 55 Ländern. Reisen Sie bequem von zu Hause aus mit unseren Gastgebern, die Sie an exotische Orte entführen und Ihnen Kultur, Erbe und Schönheit näher bringen."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1000005P4_20221026T004153SQUARE.png_20221026004153.png"  group-title="",  Travelxp
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
-#EXTINF:-1 channel-id="samsung-ATBA10000075C"  tvg-id="ATBA10000075C" tvg-country="at"   tvg-chno="4422"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Seit 1997 setzt FashionTV höchste Standards für herausragende Leistungen im Bereich Mode und Lifestyle. Das einzige TV-Äquivalent zu Modedruckmedien, das alle anspricht, die sich für Mode, Stil, Schönheit und Trends interessieren."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA10000075C_20220323T072552SQUARE.png_20220323072555.png"  group-title="Lifestyle",  Fashion TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ATBA10000075C"  tvg-id="ATBA10000075C" tvg-country="at"   tvg-chno="4422"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="" tvc-guide-description="Seit 1997 setzt FashionTV höchste Standards für herausragende Leistungen im Bereich Mode und Lifestyle. Das einzige TV-Äquivalent zu Modedruckmedien, das alle anspricht, die sich für Mode, Stil, Schönheit und Trends interessieren."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA10000075C_20220323T072552SQUARE.png_20220323072555.png"  group-title="",  Fashion TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8
 #EXTINF:-1 channel-id="samsung-CABC2300009KD"  tvg-id="CABC2300009KD" tvg-country="ca"   tvg-chno="1043"  tvg-name="CBC News Explore" tvc-guide-title="CBC News Explore"  tvc-guide-genres="News" tvc-guide-description="CBC News Explore takes you beyond the headlines to explain and experience the news with our journalists in Canada and the world. We focus on topics that affect you, plus connect you to Canadians making a difference."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20230726T004516SQUARE.png_20230726004517.png"  group-title="News",  CBC News Explore
 #EXTGRP:News
@@ -3520,29 +3512,29 @@ https://i.mjh.nz/SamsungTVPlus/CHAJ0500443A.m3u8
 #EXTGRP:Travel
 #EXTGENRE:Travel
 https://i.mjh.nz/SamsungTVPlus/CHBA2200006MT.m3u8
-#EXTINF:-1 channel-id="samsung-CHBD150000135"  tvg-id="CHBD150000135" tvg-country="ch"   tvg-chno="4009"  tvg-name="Lagerfeuer" tvc-guide-title="Lagerfeuer"  tvc-guide-genres="Lifestyle" tvc-guide-description="Machen Sie es sich mit dem Lagerfeuer -Kanal gemütlich. Bringen Sie einen herrlichen Anblick von wohliger Wärme in Ihr Zuhause, begleitet vom beruhigenden Knistern des Feuers, das auf Samsung TV Plus jederzeit verfügbar ist, wenn Sie einen Moment der Ruhe brauchen."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD150000135_20230510T044311SQUARE.png_20230510044312.png"  group-title="Lifestyle",  Lagerfeuer
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-CHBD150000135"  tvg-id="CHBD150000135" tvg-country="ch"   tvg-chno="4009"  tvg-name="Lagerfeuer" tvc-guide-title="Lagerfeuer"  tvc-guide-genres="" tvc-guide-description="Machen Sie es sich mit dem Lagerfeuer -Kanal gemütlich. Bringen Sie einen herrlichen Anblick von wohliger Wärme in Ihr Zuhause, begleitet vom beruhigenden Knistern des Feuers, das auf Samsung TV Plus jederzeit verfügbar ist, wenn Sie einen Moment der Ruhe brauchen."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD150000135_20230510T044311SQUARE.png_20230510044312.png"  group-title="",  Lagerfeuer
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/CHBD150000135.m3u8
-#EXTINF:-1 channel-id="samsung-CHAJ0500428A"  tvg-id="CHAJ0500428A" tvg-country="ch"   tvg-chno="4402"  tvg-name="Xplore" tvc-guide-title="Xplore"  tvc-guide-genres="Lifestyle" tvc-guide-description="XPLORE ist der Kanal für Reise und Abenteuer und erkundet die schönsten Reiseziele der  Welt – von antiken Tempeln über spektakuläre Naturschauplätze bis hin zu quirligen Metropolen."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500428A_20230412T042322SQUARE.png_20230412042323.png"  group-title="Lifestyle",  Xplore
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-CHAJ0500428A"  tvg-id="CHAJ0500428A" tvg-country="ch"   tvg-chno="4402"  tvg-name="Xplore" tvc-guide-title="Xplore"  tvc-guide-genres="" tvc-guide-description="XPLORE ist der Kanal für Reise und Abenteuer und erkundet die schönsten Reiseziele der  Welt – von antiken Tempeln über spektakuläre Naturschauplätze bis hin zu quirligen Metropolen."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500428A_20230412T042322SQUARE.png_20230412042323.png"  group-title="",  Xplore
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/CHAJ0500428A.m3u8
-#EXTINF:-1 channel-id="samsung-CHAJ0500430A"  tvg-id="CHAJ0500430A" tvg-country="ch"   tvg-chno="4410"  tvg-name="Hip Trips" tvc-guide-title="Hip Trips"  tvc-guide-genres="Lifestyle" tvc-guide-description="Hip Trips zeigt aufregende Touren, ob mit dem Motorrad, Bahn, Auto, Schiff, Kanu oder per Bike. Weltreisende, Abenteurer und wagemutige Langzeitreisende erzählen von ihren riskanten Trips, extremen Abenteuern und außergewöhnlichen Strecken."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500430A_20220323T074333SQUARE.png_20220323074336.png"  group-title="Lifestyle",  Hip Trips
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-CHAJ0500430A"  tvg-id="CHAJ0500430A" tvg-country="ch"   tvg-chno="4410"  tvg-name="Hip Trips" tvc-guide-title="Hip Trips"  tvc-guide-genres="" tvc-guide-description="Hip Trips zeigt aufregende Touren, ob mit dem Motorrad, Bahn, Auto, Schiff, Kanu oder per Bike. Weltreisende, Abenteurer und wagemutige Langzeitreisende erzählen von ihren riskanten Trips, extremen Abenteuern und außergewöhnlichen Strecken."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500430A_20220323T074333SQUARE.png_20220323074336.png"  group-title="",  Hip Trips
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/CHAJ0500430A.m3u8
-#EXTINF:-1 channel-id="samsung-CHAJ0500431A"  tvg-id="CHAJ0500431A" tvg-country="ch"   tvg-chno="4414"  tvg-name="just.fishing" tvc-guide-title="just.fishing"  tvc-guide-genres="Lifestyle" tvc-guide-description="Neben aktuellem Know-how im Angelbereich, die richtige Ausrüstung, sowie die besten Angelreviere und die erfolgreichsten Fangmethoden, zeigen die Programme spannende Angelszenen, seltene Tieraufnahmen und eine atemberaubende Natur."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500431A_20230412T042325SQUARE.png_20230412042325.png"  group-title="Lifestyle",  just.fishing
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-CHAJ0500431A"  tvg-id="CHAJ0500431A" tvg-country="ch"   tvg-chno="4414"  tvg-name="just.fishing" tvc-guide-title="just.fishing"  tvc-guide-genres="" tvc-guide-description="Neben aktuellem Know-how im Angelbereich, die richtige Ausrüstung, sowie die besten Angelreviere und die erfolgreichsten Fangmethoden, zeigen die Programme spannende Angelszenen, seltene Tieraufnahmen und eine atemberaubende Natur."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500431A_20230412T042325SQUARE.png_20230412042325.png"  group-title="",  just.fishing
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/CHAJ0500431A.m3u8
-#EXTINF:-1 channel-id="samsung-CHBA1000006G2"  tvg-id="CHBA1000006G2" tvg-country="ch"   tvg-chno="4418"  tvg-name="Travelxp" tvc-guide-title="Travelxp"  tvc-guide-genres="Lifestyle" tvc-guide-description="Travelxp ist der Ort für topaktuelle, erstklassige Reiseinhalte mit Shows aus über 55 Ländern. Reisen Sie bequem von zu Hause aus mit unseren Gastgebern, die Sie an exotische Orte entführen und Ihnen Kultur, Erbe und Schönheit näher bringen."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1000006G2_20220323T074643SQUARE.png_20220323074645.png"  group-title="Lifestyle",  Travelxp
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-CHBA1000006G2"  tvg-id="CHBA1000006G2" tvg-country="ch"   tvg-chno="4418"  tvg-name="Travelxp" tvc-guide-title="Travelxp"  tvc-guide-genres="" tvc-guide-description="Travelxp ist der Ort für topaktuelle, erstklassige Reiseinhalte mit Shows aus über 55 Ländern. Reisen Sie bequem von zu Hause aus mit unseren Gastgebern, die Sie an exotische Orte entführen und Ihnen Kultur, Erbe und Schönheit näher bringen."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1000006G2_20220323T074643SQUARE.png_20220323074645.png"  group-title="",  Travelxp
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/CHBA1000006G2.m3u8
-#EXTINF:-1 channel-id="samsung-CHBA1000007U6"  tvg-id="CHBA1000007U6" tvg-country="ch"   tvg-chno="4422"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Seit 1997 setzt FashionTV höchste Standards für herausragende Leistungen im Bereich Mode und Lifestyle. Das einzige TV-Äquivalent zu Modedruckmedien, das alle anspricht, die sich für Mode, Stil, Schönheit und Trends interessieren."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1000007U6_20220323T074309SQUARE.png_20220323074312.png"  group-title="Lifestyle",  Fashion TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-CHBA1000007U6"  tvg-id="CHBA1000007U6" tvg-country="ch"   tvg-chno="4422"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="" tvc-guide-description="Seit 1997 setzt FashionTV höchste Standards für herausragende Leistungen im Bereich Mode und Lifestyle. Das einzige TV-Äquivalent zu Modedruckmedien, das alle anspricht, die sich für Mode, Stil, Schönheit und Trends interessieren."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1000007U6_20220323T074309SQUARE.png_20220323074312.png"  group-title="",  Fashion TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/CHBA1000007U6.m3u8
 #EXTINF:-1 channel-id="samsung-DEBA1000003IM"  tvg-id="DEBA1000003IM" tvg-country="de"   tvg-chno="4003"  tvg-name="Euronews Live" tvc-guide-title="Euronews Live"  tvc-guide-genres="News" tvc-guide-description="Europas führender internationaler Nachrichtensender. Kostenlose Nachrichten rund um die Uhr bei Rakuten TV."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000003IM_20230222T012113SQUARE.png_20230222012113.png"  group-title="News",  Euronews Live
 #EXTGRP:News
@@ -3956,33 +3948,33 @@ https://i.mjh.nz/SamsungTVPlus/DEBA3300001L9.m3u8
 #EXTGRP:Travel
 #EXTGENRE:Travel
 https://i.mjh.nz/SamsungTVPlus/DEAK0500439A.m3u8
-#EXTINF:-1 channel-id="samsung-DEBD1500001VJ"  tvg-id="DEBD1500001VJ" tvg-country="de"   tvg-chno="4009"  tvg-name="Lagerfeuer" tvc-guide-title="Lagerfeuer"  tvc-guide-genres="Lifestyle" tvc-guide-description="Machen Sie es sich mit dem Lagerfeuer -Kanal gemütlich. Bringen Sie einen herrlichen Anblick von wohliger Wärme in Ihr Zuhause, begleitet vom beruhigenden Knistern des Feuers, das auf Samsung TV Plus jederzeit verfügbar ist, wenn Sie einen Moment der Ruhe brauchen."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1500001VJ_20230510T044010SQUARE.png_20230510044011.png"  group-title="Lifestyle",  Lagerfeuer
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-DEBD1500001VJ"  tvg-id="DEBD1500001VJ" tvg-country="de"   tvg-chno="4009"  tvg-name="Lagerfeuer" tvc-guide-title="Lagerfeuer"  tvc-guide-genres="" tvc-guide-description="Machen Sie es sich mit dem Lagerfeuer -Kanal gemütlich. Bringen Sie einen herrlichen Anblick von wohliger Wärme in Ihr Zuhause, begleitet vom beruhigenden Knistern des Feuers, das auf Samsung TV Plus jederzeit verfügbar ist, wenn Sie einen Moment der Ruhe brauchen."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1500001VJ_20230510T044010SQUARE.png_20230510044011.png"  group-title="",  Lagerfeuer
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/DEBD1500001VJ.m3u8
-#EXTINF:-1 channel-id="samsung-DEBA1000009TT"  tvg-id="DEBA1000009TT" tvg-country="de"   tvg-chno="4402"  tvg-name="BBC Travel" tvc-guide-title="BBC Travel"  tvc-guide-genres="Lifestyle" tvc-guide-description="Spektakuläre Schauplätze und Geschichten, zelebriert die Schönheit und Vielfalt der Welt, von den preisgekrönten Moderatoren der BBC."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000009TT_20220914T041055SQUARE.png_20220914041055.png"  group-title="Lifestyle",  BBC Travel
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-DEBA1000009TT"  tvg-id="DEBA1000009TT" tvg-country="de"   tvg-chno="4402"  tvg-name="BBC Travel" tvc-guide-title="BBC Travel"  tvc-guide-genres="" tvc-guide-description="Spektakuläre Schauplätze und Geschichten, zelebriert die Schönheit und Vielfalt der Welt, von den preisgekrönten Moderatoren der BBC."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000009TT_20220914T041055SQUARE.png_20220914041055.png"  group-title="",  BBC Travel
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/DEBA1000009TT.m3u8
-#EXTINF:-1 channel-id="samsung-DEAJ0500428A"  tvg-id="DEAJ0500428A" tvg-country="de"   tvg-chno="4406"  tvg-name="just.fishing" tvc-guide-title="just.fishing"  tvc-guide-genres="Lifestyle" tvc-guide-description="Neben aktuellem Know-how im Angelbereich, die richtige Ausrüstung, sowie die besten Angelreviere und die erfolgreichsten Fangmethoden, zeigen die Programme spannende Angelszenen, seltene Tieraufnahmen und eine atemberaubende Natur."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500428A_20230412T042618SQUARE.png_20230412042618.png"  group-title="Lifestyle",  just.fishing
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-DEAJ0500428A"  tvg-id="DEAJ0500428A" tvg-country="de"   tvg-chno="4406"  tvg-name="just.fishing" tvc-guide-title="just.fishing"  tvc-guide-genres="" tvc-guide-description="Neben aktuellem Know-how im Angelbereich, die richtige Ausrüstung, sowie die besten Angelreviere und die erfolgreichsten Fangmethoden, zeigen die Programme spannende Angelszenen, seltene Tieraufnahmen und eine atemberaubende Natur."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500428A_20230412T042618SQUARE.png_20230412042618.png"  group-title="",  just.fishing
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/DEAJ0500428A.m3u8
-#EXTINF:-1 channel-id="samsung-DEAJ0500422A"  tvg-id="DEAJ0500422A" tvg-country="de"   tvg-chno="4410"  tvg-name="Xplore" tvc-guide-title="Xplore"  tvc-guide-genres="Lifestyle" tvc-guide-description="XPLORE ist der Kanal für Reise und Abenteuer und erkundet die schönsten Reiseziele der  Welt – von antiken Tempeln über spektakuläre Naturschauplätze bis hin zu quirligen Metropolen."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500422A_20230412T042615SQUARE.png_20230412042616.png"  group-title="Lifestyle",  Xplore
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-DEAJ0500422A"  tvg-id="DEAJ0500422A" tvg-country="de"   tvg-chno="4410"  tvg-name="Xplore" tvc-guide-title="Xplore"  tvc-guide-genres="" tvc-guide-description="XPLORE ist der Kanal für Reise und Abenteuer und erkundet die schönsten Reiseziele der  Welt – von antiken Tempeln über spektakuläre Naturschauplätze bis hin zu quirligen Metropolen."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500422A_20230412T042615SQUARE.png_20230412042616.png"  group-title="",  Xplore
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/DEAJ0500422A.m3u8
-#EXTINF:-1 channel-id="samsung-DEAJ0500424A"  tvg-id="DEAJ0500424A" tvg-country="de"   tvg-chno="4418"  tvg-name="Hip Trips" tvc-guide-title="Hip Trips"  tvc-guide-genres="Lifestyle" tvc-guide-description="Hip Trips zeigt aufregende Touren, ob mit dem Motorrad, Bahn, Auto, Schiff, Kanu oder per Bike. Weltreisende, Abenteurer und wagemutige Langzeitreisende erzählen von ihren riskanten Trips, extremen Abenteuern und außergewöhnlichen Strecken."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500424A_20220323T071957SQUARE.png_20220323072000.png"  group-title="Lifestyle",  Hip Trips
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-DEAJ0500424A"  tvg-id="DEAJ0500424A" tvg-country="de"   tvg-chno="4418"  tvg-name="Hip Trips" tvc-guide-title="Hip Trips"  tvc-guide-genres="" tvc-guide-description="Hip Trips zeigt aufregende Touren, ob mit dem Motorrad, Bahn, Auto, Schiff, Kanu oder per Bike. Weltreisende, Abenteurer und wagemutige Langzeitreisende erzählen von ihren riskanten Trips, extremen Abenteuern und außergewöhnlichen Strecken."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500424A_20220323T071957SQUARE.png_20220323072000.png"  group-title="",  Hip Trips
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/DEAJ0500424A.m3u8
-#EXTINF:-1 channel-id="samsung-DEBA100000404"  tvg-id="DEBA100000404" tvg-country="de"   tvg-chno="4422"  tvg-name="Travelxp" tvc-guide-title="Travelxp"  tvc-guide-genres="Lifestyle" tvc-guide-description="Travelxp ist der Ort für topaktuelle, erstklassige Reiseinhalte mit Shows aus über 55 Ländern. Reisen Sie bequem von zu Hause aus mit unseren Gastgebern, die Sie an exotische Orte entführen und Ihnen Kultur, Erbe und Schönheit näher bringen."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA100000404_20221026T004407SQUARE.png_20221026004407.png"  group-title="Lifestyle",  Travelxp
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-DEBA100000404"  tvg-id="DEBA100000404" tvg-country="de"   tvg-chno="4422"  tvg-name="Travelxp" tvc-guide-title="Travelxp"  tvc-guide-genres="" tvc-guide-description="Travelxp ist der Ort für topaktuelle, erstklassige Reiseinhalte mit Shows aus über 55 Ländern. Reisen Sie bequem von zu Hause aus mit unseren Gastgebern, die Sie an exotische Orte entführen und Ihnen Kultur, Erbe und Schönheit näher bringen."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA100000404_20221026T004407SQUARE.png_20221026004407.png"  group-title="",  Travelxp
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/DEBA100000404.m3u8
-#EXTINF:-1 channel-id="samsung-DEBA3300022IF"  tvg-id="DEBA3300022IF" tvg-country="de"   tvg-chno="4424"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Seit 1997 setzt FashionTV höchste Standards für herausragende Leistungen im Bereich Mode und Lifestyle. Das einzige TV-Äquivalent zu Modedruckmedien, das alle anspricht, die sich für Mode, Stil, Schönheit und Trends interessieren."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300022IF_20220323T071939SQUARE.png_20220323071942.png"  group-title="Lifestyle",  Fashion TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-DEBA3300022IF"  tvg-id="DEBA3300022IF" tvg-country="de"   tvg-chno="4424"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="" tvc-guide-description="Seit 1997 setzt FashionTV höchste Standards für herausragende Leistungen im Bereich Mode und Lifestyle. Das einzige TV-Äquivalent zu Modedruckmedien, das alle anspricht, die sich für Mode, Stil, Schönheit und Trends interessieren."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300022IF_20220323T071939SQUARE.png_20220323071942.png"  group-title="",  Fashion TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/DEBA3300022IF.m3u8
 #EXTINF:-1 channel-id="samsung-ESAJ4500024LR"  tvg-id="ESAJ4500024LR" tvg-country="es"   tvg-chno="4003"  tvg-name="Euronews en directo" tvc-guide-title="Euronews en directo"  tvc-guide-genres="News" tvc-guide-description="El canal Europeo líder en noticias internacionales. Noticias en directo las 24 horas del día, gratis, de la mano de Rakuten TV."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500024LR_20230222T012038SQUARE.png_20230222012039.png"  group-title="News",  Euronews en directo
 #EXTGRP:News
@@ -4840,45 +4832,45 @@ https://i.mjh.nz/SamsungTVPlus/FRBA330005784.m3u8
 #EXTGRP:LifeStyle
 #EXTGENRE:LifeStyle
 https://i.mjh.nz/SamsungTVPlus/FRBA3300044VR.m3u8
-#EXTINF:-1 channel-id="samsung-FRBD1500001BN"  tvg-id="FRBD1500001BN" tvg-country="fr"   tvg-chno="4009"  tvg-name="Au coin de feu" tvc-guide-title="Au coin de feu"  tvc-guide-genres="Lifestyle" tvc-guide-description="Installez-vous confortablement autour de la chaîne Au coin de feu. Apportez la chaleur et d'une cheminée dans votre maison, accompagnées du son apaisant d'un feu crépitant. Disponible à tout moment quand vous avez besoin d'un moment de calme."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1500001BN_20230510T043932SQUARE.png_20230510043933.png"  group-title="Lifestyle",  Au coin de feu
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-FRBD1500001BN"  tvg-id="FRBD1500001BN" tvg-country="fr"   tvg-chno="4009"  tvg-name="Au coin de feu" tvc-guide-title="Au coin de feu"  tvc-guide-genres="" tvc-guide-description="Installez-vous confortablement autour de la chaîne Au coin de feu. Apportez la chaleur et d'une cheminée dans votre maison, accompagnées du son apaisant d'un feu crépitant. Disponible à tout moment quand vous avez besoin d'un moment de calme."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1500001BN_20230510T043932SQUARE.png_20230510043933.png"  group-title="",  Au coin de feu
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/FRBD1500001BN.m3u8
-#EXTINF:-1 channel-id="samsung-FRBD26000031Q"  tvg-id="FRBD26000031Q" tvg-country="fr"   tvg-chno="4402"  tvg-name="Top Santé" tvc-guide-title="Top Santé"  tvc-guide-genres="Lifestyle" tvc-guide-description="Top Santé TV est la chaîne premium qui prend soin de vous. Elle vous accompagne au travers de conseils bien-être, des programmes de médecines complémentaires et de nutrition, elle vous aide dans vos exercices quotidiens, chez vous."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD26000031Q_20230809T053918SQUARE.png_20230809053918.png"  group-title="Lifestyle",  Top Santé
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-FRBD26000031Q"  tvg-id="FRBD26000031Q" tvg-country="fr"   tvg-chno="4402"  tvg-name="Top Santé" tvc-guide-title="Top Santé"  tvc-guide-genres="" tvc-guide-description="Top Santé TV est la chaîne premium qui prend soin de vous. Elle vous accompagne au travers de conseils bien-être, des programmes de médecines complémentaires et de nutrition, elle vous aide dans vos exercices quotidiens, chez vous."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD26000031Q_20230809T053918SQUARE.png_20230809053918.png"  group-title="",  Top Santé
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/FRBD26000031Q.m3u8
-#EXTINF:-1 channel-id="samsung-FRBB49000059E"  tvg-id="FRBB49000059E" tvg-country="fr"   tvg-chno="4403"  tvg-name="Tahiti TV" tvc-guide-title="Tahiti TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Tahiti TV est une télévision à l’image des Polynésiens, enrichie de son passé, forte de sa culture et résolument tournée vers l’avenir. Tahiti TV vous emmène au cœur de ce paradis tropical dont tout le monde rêve."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png"  group-title="Lifestyle",  Tahiti TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-FRBB49000059E"  tvg-id="FRBB49000059E" tvg-country="fr"   tvg-chno="4403"  tvg-name="Tahiti TV" tvc-guide-title="Tahiti TV"  tvc-guide-genres="" tvc-guide-description="Tahiti TV est une télévision à l’image des Polynésiens, enrichie de son passé, forte de sa culture et résolument tournée vers l’avenir. Tahiti TV vous emmène au cœur de ce paradis tropical dont tout le monde rêve."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png"  group-title="",  Tahiti TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/FRBB49000059E.m3u8
-#EXTINF:-1 channel-id="samsung-FRBA1500005IU"  tvg-id="FRBA1500005IU" tvg-country="fr"   tvg-chno="4405"  tvg-name="The Boat Show" tvc-guide-title="The Boat Show"  tvc-guide-genres="Lifestyle" tvc-guide-description="Le programme TV le plus regardé au monde dédié aux amoureux du nautisme et des bateaux."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1500005IU_20220323T080315SQUARE.png_20220323080317.png"  group-title="Lifestyle",  The Boat Show
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-FRBA1500005IU"  tvg-id="FRBA1500005IU" tvg-country="fr"   tvg-chno="4405"  tvg-name="The Boat Show" tvc-guide-title="The Boat Show"  tvc-guide-genres="" tvc-guide-description="Le programme TV le plus regardé au monde dédié aux amoureux du nautisme et des bateaux."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1500005IU_20220323T080315SQUARE.png_20220323080317.png"  group-title="",  The Boat Show
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/FRBA1500005IU.m3u8
-#EXTINF:-1 channel-id="samsung-FRBC3500002E4"  tvg-id="FRBC3500002E4" tvg-country="fr"   tvg-chno="4406"  tvg-name="Echappées belles & co" tvc-guide-title="Echappées belles & co"  tvc-guide-genres="Lifestyle" tvc-guide-description="Voyagez à travers le monde avec Echappées Belles & co, la chaîne de référence du voyage, de la découverte et de l'évasion."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3500002E4_20230614T005623SQUARE.png_20230614005623.png"  group-title="Lifestyle",  Echappées belles & co
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-FRBC3500002E4"  tvg-id="FRBC3500002E4" tvg-country="fr"   tvg-chno="4406"  tvg-name="Echappées belles & co" tvc-guide-title="Echappées belles & co"  tvc-guide-genres="" tvc-guide-description="Voyagez à travers le monde avec Echappées Belles & co, la chaîne de référence du voyage, de la découverte et de l'évasion."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3500002E4_20230614T005623SQUARE.png_20230614005623.png"  group-title="",  Echappées belles & co
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/FRBC3500002E4.m3u8
-#EXTINF:-1 channel-id="samsung-FRBA3300063FP"  tvg-id="FRBA3300063FP" tvg-country="fr"   tvg-chno="4408"  tvg-name="Wellbeing TV" tvc-guide-title="Wellbeing TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Chaîne lifestyle qui propose du coaching, des magazines inspirants et du divertissement pour vivre mieux avec des émissions autour du bien-être, du sport, de la santé, de la relaxation, des voyages… Évadez-vous avec Wellbeing TV !"  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300063FP_20230614T005614SQUARE.png_20230614005614.png"  group-title="Lifestyle",  Wellbeing TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-FRBA3300063FP"  tvg-id="FRBA3300063FP" tvg-country="fr"   tvg-chno="4408"  tvg-name="Wellbeing TV" tvc-guide-title="Wellbeing TV"  tvc-guide-genres="" tvc-guide-description="Chaîne lifestyle qui propose du coaching, des magazines inspirants et du divertissement pour vivre mieux avec des émissions autour du bien-être, du sport, de la santé, de la relaxation, des voyages… Évadez-vous avec Wellbeing TV !"  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300063FP_20230614T005614SQUARE.png_20230614005614.png"  group-title="",  Wellbeing TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/FRBA3300063FP.m3u8
-#EXTINF:-1 channel-id="samsung-FRBA3300060U8"  tvg-id="FRBA3300060U8" tvg-country="fr"   tvg-chno="4411"  tvg-name="LUXE.TV" tvc-guide-title="LUXE.TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Découvrez des destinations de rêve, restaurants, voitures de luxe ou encore les dernières collections des grands créateurs. Evadez-vous avec des portraits des personnalités les riches du monde et trouvez un monde plus luxueux que jamais."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300060U8_20220323T075955SQUARE.png_20220323075958.png"  group-title="Lifestyle",  LUXE.TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-FRBA3300060U8"  tvg-id="FRBA3300060U8" tvg-country="fr"   tvg-chno="4411"  tvg-name="LUXE.TV" tvc-guide-title="LUXE.TV"  tvc-guide-genres="" tvc-guide-description="Découvrez des destinations de rêve, restaurants, voitures de luxe ou encore les dernières collections des grands créateurs. Evadez-vous avec des portraits des personnalités les riches du monde et trouvez un monde plus luxueux que jamais."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300060U8_20220323T075955SQUARE.png_20220323075958.png"  group-title="",  LUXE.TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/FRBA3300060U8.m3u8
-#EXTINF:-1 channel-id="samsung-FRBD2600002CR"  tvg-id="FRBD2600002CR" tvg-country="fr"   tvg-chno="4412"  tvg-name="Maison & Travaux" tvc-guide-title="Maison & Travaux"  tvc-guide-genres="Lifestyle" tvc-guide-description="Maison&Travaux TV est votre chaîne premium qui prend soin de votre intérieur. Chouchoutez votre maison et votre jardin grâce à vos émissions de rénovation et travaux, vos conseils déco, vos tutos de jardinage, DIY, télé - achat..."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2600002CR_20230809T053916SQUARE.png_20230809053917.png"  group-title="Lifestyle",  Maison & Travaux
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-FRBD2600002CR"  tvg-id="FRBD2600002CR" tvg-country="fr"   tvg-chno="4412"  tvg-name="Maison & Travaux" tvc-guide-title="Maison & Travaux"  tvc-guide-genres="" tvc-guide-description="Maison&Travaux TV est votre chaîne premium qui prend soin de votre intérieur. Chouchoutez votre maison et votre jardin grâce à vos émissions de rénovation et travaux, vos conseils déco, vos tutos de jardinage, DIY, télé - achat..."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2600002CR_20230809T053916SQUARE.png_20230809053917.png"  group-title="",  Maison & Travaux
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/FRBD2600002CR.m3u8
-#EXTINF:-1 channel-id="samsung-FRAJ4500020YA"  tvg-id="FRAJ4500020YA" tvg-country="fr"   tvg-chno="4414"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Depuis sa création en 1997, Fashion TV établit la norme d'excellence en matière de diffusion de mode et de style de vie."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500020YA_20220323T075851SQUARE.png_20220323075854.png"  group-title="Lifestyle",  Fashion TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-FRAJ4500020YA"  tvg-id="FRAJ4500020YA" tvg-country="fr"   tvg-chno="4414"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="" tvc-guide-description="Depuis sa création en 1997, Fashion TV établit la norme d'excellence en matière de diffusion de mode et de style de vie."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500020YA_20220323T075851SQUARE.png_20220323075854.png"  group-title="",  Fashion TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/FRAJ4500020YA.m3u8
-#EXTINF:-1 channel-id="samsung-FRBA330002044"  tvg-id="FRBA330002044" tvg-country="fr"   tvg-chno="4417"  tvg-name="Travelxp" tvc-guide-title="Travelxp"  tvc-guide-genres="Lifestyle" tvc-guide-description="Programmes de voyage et de style de vie haut de gamme avec des émissions originales de plus de 55 pays. Découvrez des destinations, un style de vie, de la nourriture, de la culture et bien plus encore. Voir plus, explorer plus."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA330002044_20221026T004322SQUARE.png_20221026004322.png"  group-title="Lifestyle",  Travelxp
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-FRBA330002044"  tvg-id="FRBA330002044" tvg-country="fr"   tvg-chno="4417"  tvg-name="Travelxp" tvc-guide-title="Travelxp"  tvc-guide-genres="" tvc-guide-description="Programmes de voyage et de style de vie haut de gamme avec des émissions originales de plus de 55 pays. Découvrez des destinations, un style de vie, de la nourriture, de la culture et bien plus encore. Voir plus, explorer plus."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA330002044_20221026T004322SQUARE.png_20221026004322.png"  group-title="",  Travelxp
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/FRBA330002044.m3u8
 #EXTINF:-1 channel-id="samsung-ITBD1500002NL"  tvg-id="ITBD1500002NL" tvg-country="it"   tvg-chno="4001"  tvg-name="La 7" tvc-guide-title="La 7"  tvc-guide-genres="News" tvc-guide-description="LA7 è la tv che si accende per vivere insieme la storia di ogni giorno. Le migliori firme del giornalismo per un racconto della realtà sempre nel cuore dei fatti, che segnano il nostro tempo."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20230913T031621SQUARE.png_20230913031622.png"  group-title="News",  La 7
 #EXTGRP:News
@@ -5284,49 +5276,49 @@ https://i.mjh.nz/SamsungTVPlus/ITBA3300048YJ.m3u8
 #EXTGRP:Education
 #EXTGENRE:Education
 https://i.mjh.nz/SamsungTVPlus/ITBD1000003NB.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD15000010I"  tvg-id="ITBD15000010I" tvg-country="it"   tvg-chno="4009"  tvg-name="Falò" tvc-guide-title="Falò"  tvc-guide-genres="Lifestyle" tvc-guide-description="Rilassati con il canale Falò. Porta il calore cel camino a casa tua, accompagnato dal suono rilassante di un fuoco scoppiettante. Disponibile ogni volta che hai bisogno di un momento di tranquillità."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD15000010I_20230510T044044SQUARE.png_20230510044045.png"  group-title="Lifestyle",  Falò
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ITBD15000010I"  tvg-id="ITBD15000010I" tvg-country="it"   tvg-chno="4009"  tvg-name="Falò" tvc-guide-title="Falò"  tvc-guide-genres="" tvc-guide-description="Rilassati con il canale Falò. Porta il calore cel camino a casa tua, accompagnato dal suono rilassante di un fuoco scoppiettante. Disponibile ogni volta che hai bisogno di un momento di tranquillità."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD15000010I_20230510T044044SQUARE.png_20230510044045.png"  group-title="",  Falò
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ITBD15000010I.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD10000040W"  tvg-id="ITBD10000040W" tvg-country="it"   tvg-chno="4405"  tvg-name="The Boat Show" tvc-guide-title="The Boat Show"  tvc-guide-genres="Lifestyle" tvc-guide-description="The Boat Show ti porta alla scoperta del mondo della nautica internazionale. Regate, grandi eventi, saloni nautici, e tutto dal mondo della cantieristica a vela e a motore."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000040W_20230823T033135SQUARE.png_20230823033135.png"  group-title="Lifestyle",  The Boat Show
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ITBD10000040W"  tvg-id="ITBD10000040W" tvg-country="it"   tvg-chno="4405"  tvg-name="The Boat Show" tvc-guide-title="The Boat Show"  tvc-guide-genres="" tvc-guide-description="The Boat Show ti porta alla scoperta del mondo della nautica internazionale. Regate, grandi eventi, saloni nautici, e tutto dal mondo della cantieristica a vela e a motore."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000040W_20230823T033135SQUARE.png_20230823033135.png"  group-title="",  The Boat Show
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ITBD10000040W.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD1100005LL"  tvg-id="ITBD1100005LL" tvg-country="it"   tvg-chno="4406"  tvg-name="Travel & Living by DOVE" tvc-guide-title="Travel & Living by DOVE"  tvc-guide-genres="Lifestyle" tvc-guide-description="Travel & Living by DOVE è un viaggio sul “buon vivere”.Guide di viaggio e suggerimenti sulle località più originali ed esclusive, alla scoperta della bellezza delle regioni italiane e dei segreti di borghi nascosti."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100005LL_20230913T031640SQUARE.png_20230913031641.png"  group-title="Lifestyle",  Travel & Living by DOVE
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ITBD1100005LL"  tvg-id="ITBD1100005LL" tvg-country="it"   tvg-chno="4406"  tvg-name="Travel & Living by DOVE" tvc-guide-title="Travel & Living by DOVE"  tvc-guide-genres="" tvc-guide-description="Travel & Living by DOVE è un viaggio sul “buon vivere”.Guide di viaggio e suggerimenti sulle località più originali ed esclusive, alla scoperta della bellezza delle regioni italiane e dei segreti di borghi nascosti."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100005LL_20230913T031640SQUARE.png_20230913031641.png"  group-title="",  Travel & Living by DOVE
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ITBD1100005LL.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD1900004MZ"  tvg-id="ITBD1900004MZ" tvg-country="it"   tvg-chno="4407"  tvg-name="Lifestyle by LEI" tvc-guide-title="Lifestyle by LEI"  tvc-guide-genres="Lifestyle" tvc-guide-description="Lifestyle by LEI è un viaggio nell’universo femminile: dalla cucina ai matrimoni, dalla salute alla bellezza e al proprio benessere.È il canale dedicato alle donne, proponendo storie e consigli emozionanti per avvicinarsi alla quotidianità"  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900004MZ_20230614T005759SQUARE.png_20230614005759.png"  group-title="Lifestyle",  Lifestyle by LEI
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ITBD1900004MZ"  tvg-id="ITBD1900004MZ" tvg-country="it"   tvg-chno="4407"  tvg-name="Lifestyle by LEI" tvc-guide-title="Lifestyle by LEI"  tvc-guide-genres="" tvc-guide-description="Lifestyle by LEI è un viaggio nell’universo femminile: dalla cucina ai matrimoni, dalla salute alla bellezza e al proprio benessere.È il canale dedicato alle donne, proponendo storie e consigli emozionanti per avvicinarsi alla quotidianità"  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900004MZ_20230614T005759SQUARE.png_20230614005759.png"  group-title="",  Lifestyle by LEI
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ITBD1900004MZ.m3u8
-#EXTINF:-1 channel-id="samsung-ITBA33000399U"  tvg-id="ITBA33000399U" tvg-country="it"   tvg-chno="4408"  tvg-name="Wellbeing TV" tvc-guide-title="Wellbeing TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Canale di stile di vita che offre coaching, riviste ispiratrici e intrattenimento per vivere una vita migliore con spettacoli sul benessere, sport leggeri, salute, relax, benessere, viaggi ecc. Cresci, scopri e scappa con Wellbeing TV!"  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000399U_20230614T005739SQUARE.png_20230614005740.png"  group-title="Lifestyle",  Wellbeing TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ITBA33000399U"  tvg-id="ITBA33000399U" tvg-country="it"   tvg-chno="4408"  tvg-name="Wellbeing TV" tvc-guide-title="Wellbeing TV"  tvc-guide-genres="" tvc-guide-description="Canale di stile di vita che offre coaching, riviste ispiratrici e intrattenimento per vivere una vita migliore con spettacoli sul benessere, sport leggeri, salute, relax, benessere, viaggi ecc. Cresci, scopri e scappa con Wellbeing TV!"  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000399U_20230614T005739SQUARE.png_20230614005740.png"  group-title="",  Wellbeing TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ITBA33000399U.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD300001GI"  tvg-id="ITBD300001GI" tvg-country="it"   tvg-chno="4409"  tvg-name="Move - Italian Active Lives" tvc-guide-title="Move - Italian Active Lives"  tvc-guide-genres="Lifestyle" tvc-guide-description="Un canale interamente dedicato al turismo attivo: racconti emozionali dove i protagonisti sono persone con spirito "active" in ambienti naturali unici, viaggiando tra gli stili di vita italiani legati al benessere e all'avventura."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD300001GI_20230222T012104SQUARE.png_20230222012105.png"  group-title="Lifestyle",  Move - Italian Active Lives
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ITBD300001GI"  tvg-id="ITBD300001GI" tvg-country="it"   tvg-chno="4409"  tvg-name="Move - Italian Active Lives" tvc-guide-title="Move - Italian Active Lives"  tvc-guide-genres="" tvc-guide-description="Un canale interamente dedicato al turismo attivo: racconti emozionali dove i protagonisti sono persone con spirito "active" in ambienti naturali unici, viaggiando tra gli stili di vita italiani legati al benessere e all'avventura."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD300001GI_20230222T012104SQUARE.png_20230222012105.png"  group-title="",  Move - Italian Active Lives
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ITBD300001GI.m3u8
-#EXTINF:-1 channel-id="samsung-ITAJ4500017PG"  tvg-id="ITAJ4500017PG" tvg-country="it"   tvg-chno="4411"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="Lifestyle" tvc-guide-description="Fin dall’inizio della sua attività in 1997, FashionTV ha definito lo standard dell’eccellenza per le trasmissioni televisive sulla moda e sull’eleganza."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500017PG_20220404T005903SQUARE.png_20220404005905.png"  group-title="Lifestyle",  Fashion TV
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ITAJ4500017PG"  tvg-id="ITAJ4500017PG" tvg-country="it"   tvg-chno="4411"  tvg-name="Fashion TV" tvc-guide-title="Fashion TV"  tvc-guide-genres="" tvc-guide-description="Fin dall’inizio della sua attività in 1997, FashionTV ha definito lo standard dell’eccellenza per le trasmissioni televisive sulla moda e sull’eleganza."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500017PG_20220404T005903SQUARE.png_20220404005905.png"  group-title="",  Fashion TV
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ITAJ4500017PG.m3u8
-#EXTINF:-1 channel-id="samsung-ITBC1100006SA"  tvg-id="ITBC1100006SA" tvg-country="it"   tvg-chno="4417"  tvg-name="Explorer HD Channel" tvc-guide-title="Explorer HD Channel"  tvc-guide-genres="Lifestyle" tvc-guide-description="Un canale interamente dedicato alla scoperta e all’esplorazione del nostro Paese ma anche di realtà internazionali. Un viaggio nella cultura, nell’arte, nella scienza e nella società."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100006SA_20221012T021051SQUARE.png_20221012021052.png"  group-title="Lifestyle",  Explorer HD Channel
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ITBC1100006SA"  tvg-id="ITBC1100006SA" tvg-country="it"   tvg-chno="4417"  tvg-name="Explorer HD Channel" tvc-guide-title="Explorer HD Channel"  tvc-guide-genres="" tvc-guide-description="Un canale interamente dedicato alla scoperta e all’esplorazione del nostro Paese ma anche di realtà internazionali. Un viaggio nella cultura, nell’arte, nella scienza e nella società."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100006SA_20221012T021051SQUARE.png_20221012021052.png"  group-title="",  Explorer HD Channel
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ITBC1100006SA.m3u8
-#EXTINF:-1 channel-id="samsung-ITBA33000374G"  tvg-id="ITBA33000374G" tvg-country="it"   tvg-chno="4420"  tvg-name="5-Minuti Creativi" tvc-guide-title="5-Minuti Creativi"  tvc-guide-genres="Lifestyle" tvc-guide-description="Il marchio digitale fai-da-te più visto al mondo che mette in mostra hack e creazioni per trovare delle soluzioni divertenti ai problemi più comuni."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20230208T013146SQUARE.png_20230208013147.png"  group-title="Lifestyle",  5-Minuti Creativi
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ITBA33000374G"  tvg-id="ITBA33000374G" tvg-country="it"   tvg-chno="4420"  tvg-name="5-Minuti Creativi" tvc-guide-title="5-Minuti Creativi"  tvc-guide-genres="" tvc-guide-description="Il marchio digitale fai-da-te più visto al mondo che mette in mostra hack e creazioni per trovare delle soluzioni divertenti ai problemi più comuni."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20230208T013146SQUARE.png_20230208013147.png"  group-title="",  5-Minuti Creativi
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ITBA33000374G.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD1300004A2"  tvg-id="ITBD1300004A2" tvg-country="it"   tvg-chno="4422"  tvg-name="U-Trend" tvc-guide-title="U-Trend"  tvc-guide-genres="Lifestyle" tvc-guide-description="Utrend Tv è una televisione, condotta e presentata da talent, influencer, instagrammer e tiktoker che parla di tendenze e lifestyle dall’Italia e dal mondo: in particolare moda, viaggi, bellezza, design, arte, automotive, musica e tanto alto"  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1300004A2_20230426T015637SQUARE.png_20230426015637.png"  group-title="Lifestyle",  U-Trend
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ITBD1300004A2"  tvg-id="ITBD1300004A2" tvg-country="it"   tvg-chno="4422"  tvg-name="U-Trend" tvc-guide-title="U-Trend"  tvc-guide-genres="" tvc-guide-description="Utrend Tv è una televisione, condotta e presentata da talent, influencer, instagrammer e tiktoker che parla di tendenze e lifestyle dall’Italia e dal mondo: in particolare moda, viaggi, bellezza, design, arte, automotive, musica e tanto alto"  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1300004A2_20230426T015637SQUARE.png_20230426015637.png"  group-title="",  U-Trend
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ITBD1300004A2.m3u8
-#EXTINF:-1 channel-id="samsung-ITBC400003Y7"  tvg-id="ITBC400003Y7" tvg-country="it"   tvg-chno="4438"  tvg-name="Brindiamo!" tvc-guide-title="Brindiamo!"  tvc-guide-genres="Lifestyle" tvc-guide-description="Il Brindiamo! Channel, con Ornella Fado è un canale televisivo, dedicato all’Italian lifestyle. Con una vasta raccolta di puntate dello show Brindiamo! girate in inglese con sottotitoli in italiano e tanto altro."  tvc-guide-categories="Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400003Y7_20220426T161635SQUARE.png_20220426161636.png"  group-title="Lifestyle",  Brindiamo!
-#EXTGRP:Lifestyle
-#EXTGENRE:Lifestyle
+#EXTINF:-1 channel-id="samsung-ITBC400003Y7"  tvg-id="ITBC400003Y7" tvg-country="it"   tvg-chno="4438"  tvg-name="Brindiamo!" tvc-guide-title="Brindiamo!"  tvc-guide-genres="" tvc-guide-description="Il Brindiamo! Channel, con Ornella Fado è un canale televisivo, dedicato all’Italian lifestyle. Con una vasta raccolta di puntate dello show Brindiamo! girate in inglese con sottotitoli in italiano e tanto altro."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400003Y7_20220426T161635SQUARE.png_20220426161636.png"  group-title="",  Brindiamo!
+#EXTGRP:
+#EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/ITBC400003Y7.m3u8
 #EXTINF:-1 channel-id="samsung-KRBD1400001ED"  tvg-id="KRBD1400001ED" tvg-country="kr"   tvg-chno="501"  tvg-name="연합뉴스TV" tvc-guide-title="연합뉴스TV"  tvc-guide-genres="News" tvc-guide-description="대한민국 No.1 보도채널"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png"  group-title="News",  연합뉴스TV
 #EXTGRP:News
