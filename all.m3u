@@ -20,6 +20,10 @@ https://rcdn.rixcast.com/primegoa/primegoa.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_480p/chunks.m3u8
+#EXTINF:-1 channel-id="samsung-DDINDIAHD"  tvg-id="DDINDIAHD" tvg-country="in"   tvg-chno="113"  tvg-name="DD India HD" tvc-guide-title="DD India HD"  tvc-guide-genres="News" tvc-guide-description="DD India is an international state-owned English language news and current affairs channel from India."  tvc-guide-categories="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg/revision/latest/scale-to-width-down/300"  group-title="News",  DD India HD
+#EXTGRP:News
+#EXTGENRE:News
+https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 #EXTINF:-1 channel-id="samsung-DDNEWSHD"  tvg-id="DDNEWSHD" tvg-country="in"   tvg-chno="114"  tvg-name="DD News HD" tvc-guide-title="DD News HD"  tvc-guide-genres="News" tvc-guide-description="DD News is an Indian news channel of Doordarshan, it is India's only 24-hour terrestrial TV news channel broadcasting solely in Hindi, and formerly in English. The Prasar Bharati Board approved the proposal to start a 24-hour news channel in place of DD Metro."  tvc-guide-categories="News" tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png"  group-title="News",  DD News HD
 #EXTGRP:News
 #EXTGENRE:News
@@ -152,10 +156,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
-#EXTINF:-1 channel-id="samsung-DDINDIAHD"  tvg-id="DDINDIAHD" tvg-country="in"   tvg-chno="113"  tvg-name="DD India HD" tvc-guide-title="DD India HD"  tvc-guide-genres="Entertainment" tvc-guide-description="DD India is an international state-owned English language news and current affairs channel from India."  tvc-guide-categories="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg/revision/latest/scale-to-width-down/300"  group-title="Entertainment",  DD India HD
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 #EXTINF:-1 channel-id="samsung-INBD1300015JE"  tvg-id="INBD1300015JE" tvg-country="in"   tvg-chno="1113"  tvg-name="Dangal TV" tvc-guide-title="Dangal TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Dangal TV is a 24-hour GEC with a substantial reach in all Hindi-speaking markets. It is a popular destination across all genres: family drama, supernatural, mythology, thriller and crime"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300015JE_20230809T020929SQUARE.png_20230809020930.png"  group-title="Entertainment",  Dangal TV
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
