@@ -224,6 +224,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 channel-id="samsung-B4UMOVIES"  tvg-id="B4UMOVIES" tvg-country="in"   tvg-chno="120"  tvg-name="B4u Movies" tvc-guide-title="B4u Movies"  tvc-guide-genres="Movies" tvc-guide-description="B4U Movies brings to viewers the very best of Bollywood films, from the latest blockbusters to classic old time favourites. The channel provides a diverse range of films for Bollywood fans worldwide as well as an unprecedented access to the magic of Bollywood; with star studded interviews, exclusive footage, behind the scenes, and the making of films"  tvc-guide-categories="Movies" tvg-logo="https://www.b4umovies.in/images/logo.jpg"  group-title="Movies",  B4u Movies
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://list.iptvcat.com/my_list/s/01371adc66724a9f40f659031bd5716b.m3u8
 #EXTINF:-1 channel-id="samsung-INBD21000016Y"  tvg-id="INBD21000016Y" tvg-country="in"   tvg-chno="1000"  tvg-name="The Movie Club" tvc-guide-title="The Movie Club"  tvc-guide-genres="Movies" tvc-guide-description="Welcome to The Movie Club. Get your daily dose of awesome Bollywood movies for free. There's action, drama, romance, adventure and loads of non-stop entertainment for movie buffs like you."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20230726T002252SQUARE.png_20230726002253.png"  group-title="Movies",  The Movie Club
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -284,6 +288,10 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/
 #EXTGRP:Music
 #EXTGENRE:Music
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 channel-id="samsung-B4UMUSIC"  tvg-id="B4UMUSIC" tvg-country="in"   tvg-chno="121"  tvg-name="B4u Music" tvc-guide-title="B4u Music"  tvc-guide-genres="Music" tvc-guide-description="B4U Music has been a strong platform for Bollywood film soundtracks, the revival of the golden oldies and upcoming artists. Featuring a variety of music videos that exemplify the networks varied target audience B4U music is the leading Bollywood and Asian music television channel worldwide"  tvc-guide-categories="Music" tvg-logo="https://www.b4umusic.in/images/logo.png"  group-title="Music",  B4u Music
+#EXTGRP:Music
+#EXTGENRE:Music
+https://list.iptvcat.com/my_list/s/daa61e9e142709fb770541ade7687d82.m3u8
 #EXTINF:-1 channel-id="samsung-INBB28000060I"  tvg-id="INBB28000060I" tvg-country="in"   tvg-chno="1063"  tvg-name="Mastiii" tvc-guide-title="Mastiii"  tvc-guide-genres="Music" tvc-guide-description="Mastiii is India’s No.1 Music and Youth channel. Mastiii offers Music for every mood, be it peppy or romantic, retro or latest blockbusters. Mastiii understands music lovers which makes Mastiii an undisputed leader in the Music genre."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB28000060I_20230208T101232SQUARE.png_20230208101233.png"  group-title="Music",  Mastiii
 #EXTGRP:Music
 #EXTGENRE:Music
