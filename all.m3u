@@ -388,6 +388,10 @@ https://i.mjh.nz/SamsungTVPlus/INBA4900030PY.m3u8
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://i.mjh.nz/SamsungTVPlus/INBA5100006V5.m3u8
+#EXTINF:-1 channel-id="samsung-INDIASCIENCE"  tvg-id="INDIASCIENCE" tvg-country="in"   tvg-chno="120"  tvg-name="India Science" tvc-guide-title="India Science"  tvc-guide-genres="Education" tvc-guide-description="IndiaScience is nation's own Science & Technology OTT Channel. It is a SCoPE (Science Communication Popularisation & its Extension) initiative of Vigyan Prasar, an autonomous organisation of the Department of Science & Technology, Government of India."  tvc-guide-categories="Education" tvg-logo="https://www.indiascience.in/assets/logo.png"  group-title="Education",  India Science
+#EXTGRP:Education
+#EXTGENRE:Education
+https://linearchannel2.indiascience.in/linearplayout/india-science/playlist_bg.m3u8
 #EXTINF:-1 channel-id="samsung-INBB2800007DA"  tvg-id="INBB2800007DA" tvg-country="in"   tvg-chno="1163"  tvg-name="Discovery" tvc-guide-title="Discovery"  tvc-guide-genres="Education" tvc-guide-description="To learn and to unlearn, to discover and to rediscover, the brand stands by it all! Focussing on Technology, Popular Science, and History. Discovery aims to build curiosity not just in children, but in everyone across the globe.."  tvc-guide-categories="Education" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB2800007DA_20230322T011715SQUARE.png_20230322011715.png"  group-title="Education",  Discovery
 #EXTGRP:Education
 #EXTGENRE:Education
