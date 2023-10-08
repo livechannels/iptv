@@ -19,7 +19,7 @@ https://rcdn.rixcast.com/primegoa/primegoa.m3u8
 #EXTINF:-1 channel-id="samsung-TV9MARATHI"  tvg-id="TV9MARATHI" tvg-country="in"   tvg-chno="105"  tvg-name="TV9 Marathi" tvc-guide-title="TV9 Marathi"  tvc-guide-genres="News" tvc-guide-description="TV9 Marathi  news channel by far and has served as the go-to channel for Maharashtra news viewers."  tvc-guide-categories="News" tvg-logo="https://i.imgur.com/5AshBho.png"  group-title="News",  TV9 Marathi (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://ythls.onrender.com/channel/UCdOSeEq9Cs2Pco7OCn2_i5w.m3u8
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-DDINDIAHD"  tvg-id="DDINDIAHD" tvg-country="in"   tvg-chno="113"  tvg-name="DD India HD" tvc-guide-title="DD India HD"  tvc-guide-genres="News" tvc-guide-description="DD India is an international state-owned English language news and current affairs channel from India."  tvc-guide-categories="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg/revision/latest/scale-to-width-down/300"  group-title="News",  DD India HD (1080p)
 #EXTGRP:News
 #EXTGENRE:News
