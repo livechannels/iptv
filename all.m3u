@@ -176,6 +176,14 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
+#EXTINF:-1 channel-id="samsung-BIGMAGIC"  tvg-id="BIGMAGIC" tvg-country="in"   tvg-chno="122"  tvg-name="Big Magic" tvc-guide-title="Big Magic"  tvc-guide-genres="Entertainment" tvc-guide-description="Big Magic is a Hindi language general entertainment channel."  tvc-guide-categories="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Big_Magic.png/revision/latest/scale-to-width-down/200?cb=20210514134346"  group-title="Entertainment",  Big Magic (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://zeetv.cloudflarechannels.workers.dev/0-9-bigmagic_1786965389/master.m3u8
+#EXTINF:-1 channel-id="samsung-ZING"  tvg-id="ZING" tvg-country="in"   tvg-chno="123"  tvg-name="Zing" tvc-guide-title="Zing"  tvc-guide-genres="Entertainment" tvc-guide-description="Zing is music channel for music lovers."  tvc-guide-categories="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest/scale-to-width-down/48?cb=20220525063636"  group-title="Entertainment",  Zing (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://zeetv.cloudflarechannels.workers.dev/0-9-zing/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBC4300008IH"  tvg-id="INBC4300008IH" tvg-country="in"   tvg-chno="1003"  tvg-name="Korean TV" tvc-guide-title="Korean TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Korean TV is about handpicked best International Korean Drama Shows most suitable for family viewing duly Hindi languages. It is a unique service  available on Samsung TV Plus App."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300008IH_20231011T013443SQUARE.png_20231011013444.png"  group-title="Entertainment",  Korean TV (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -456,6 +464,10 @@ https://i.mjh.nz/SamsungTVPlus/INBC15000102M.m3u8
 #EXTGRP:LifeStyle
 #EXTGENRE:LifeStyle
 https://i.mjh.nz/SamsungTVPlus/INBD13000053R.m3u8
+#EXTINF:-1 channel-id="samsung-Zeechitramandir"  tvg-id="Zeechitramandir" tvg-country="in"   tvg-chno="121"  tvg-name="Zee Chitramandir" tvc-guide-title="Zee Chitramandir"  tvc-guide-genres="" tvc-guide-description="Zee Chitramandir is a Marathi free television channel broadcasting Marathi movies by Zee Entertainment Enterprises."  tvc-guide-categories="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Zee_Chitramandir.jpg/revision/latest?cb=20210410110629"  group-title="",  Zee Chitramandir (1080p)
+#EXTGRP:
+#EXTGENRE:
+https://zeetv.cloudflarechannels.workers.dev/0-9-394/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBC15000035H"  tvg-id="INBC15000035H" tvg-country="in"   tvg-chno="1363"  tvg-name="TLC" tvc-guide-title="TLC"  tvc-guide-genres="" tvc-guide-description="TLC is all about keeping its audience updated on the latest trends in the world of travel, food, culture, and lifestyle. The kind of content that goes up on TLC is snackable, informative, and fun."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC15000035H_20220427T054804SQUARE.png_20220427054805.png"  group-title="",  TLC (1080p)
 #EXTGRP:
 #EXTGENRE:
