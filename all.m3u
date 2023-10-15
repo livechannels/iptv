@@ -180,10 +180,6 @@ https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://zeetv.cloudflarechannels.workers.dev/0-9-bigmagic_1786965389/master.m3u8
-#EXTINF:-1 channel-id="samsung-ZING"  tvg-id="ZING" tvg-country="in"   tvg-chno="123"  tvg-name="Zing" tvc-guide-title="Zing"  tvc-guide-genres="Entertainment" tvc-guide-description="Zing is music channel for music lovers."  tvc-guide-categories="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest/scale-to-width-down/48?cb=20220525063636"  group-title="Entertainment",  Zing (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://zeetv.cloudflarechannels.workers.dev/0-9-zing/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBC4300008IH"  tvg-id="INBC4300008IH" tvg-country="in"   tvg-chno="1003"  tvg-name="Korean TV" tvc-guide-title="Korean TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Korean TV is about handpicked best International Korean Drama Shows most suitable for family viewing duly Hindi languages. It is a unique service  available on Samsung TV Plus App."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300008IH_20231011T013443SQUARE.png_20231011013444.png"  group-title="Entertainment",  Korean TV (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -300,6 +296,10 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/
 #EXTGRP:Music
 #EXTGENRE:Music
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 channel-id="samsung-ZING"  tvg-id="ZING" tvg-country="in"   tvg-chno="123"  tvg-name="Zing" tvc-guide-title="Zing"  tvc-guide-genres="Music" tvc-guide-description="Zing is music channel for music lovers."  tvc-guide-categories="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest/scale-to-width-down/48?cb=20220525063636"  group-title="Music",  Zing (1080p)
+#EXTGRP:Music
+#EXTGENRE:Music
+https://zeetv.cloudflarechannels.workers.dev/0-9-zing/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBB28000060I"  tvg-id="INBB28000060I" tvg-country="in"   tvg-chno="1063"  tvg-name="Mastiii" tvc-guide-title="Mastiii"  tvc-guide-genres="Music" tvc-guide-description="Mastiii is India’s No.1 Music and Youth channel. Mastiii offers Music for every mood, be it peppy or romantic, retro or latest blockbusters. Mastiii understands music lovers which makes Mastiii an undisputed leader in the Music genre."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB28000060I_20230208T101232SQUARE.png_20230208101233.png"  group-title="Music",  Mastiii (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
