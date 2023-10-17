@@ -315,7 +315,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800013L6"  tvg-id="INBC2800013L6" tvg-country="in"   tvg-chno="1067"  tvg-name="9X Jalwa" tvc-guide-title="9X Jalwa"  tvc-guide-genres="Music" tvc-guide-description="A channel offering of 9X Media. Your channel for forever hits Plays music from 1990s to 2000"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20220928T010036SQUARE.png_20220928010036.png"  group-title="Music",  9X Jalwa (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
-https://9xjalwa.cloudflarechannels.workers.dev/master.m3u8
+https://i.mjh.nz/SamsungTVPlus/INBC2800013L6.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800011JL"  tvg-id="INBC2800011JL" tvg-country="in"   tvg-chno="1069"  tvg-name="9X Tashan" tvc-guide-title="9X Tashan"  tvc-guide-genres="Music" tvc-guide-description="9X Media - India's Largest Music Network brings to you 9X Tashan- Punjab’s Number 1 Music Channel"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20220928T010041SQUARE.png_20220928010041.png"  group-title="Music",  9X Tashan (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
