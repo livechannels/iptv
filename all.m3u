@@ -216,10 +216,10 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallba
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 channel-id="samsung-SonyMAX2"  tvg-id="SonyMAX2" tvg-country="in"   tvg-chno="139"  tvg-name="Sony MAX2" tvc-guide-title="Sony MAX2"  tvc-guide-genres="Entertainment" tvc-guide-description="Sony Max 2 is an Indian television channel owned by Culver Max Entertainment and launched in 2014. It is the second Indian channel launched by Sony which is focused solely on old Hindi-language movie broadcasts, being the sister channel of Sony Max."  tvc-guide-categories="Entertainment" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png"  group-title="Entertainment",  Sony MAX2 (1080p)
+#EXTINF:-1 channel-id="samsung-SonyMAX2"  tvg-id="SonyMAX2" tvg-country="in"   tvg-chno="139"  tvg-name="Sony MAX2" tvc-guide-title="Sony MAX2"  tvc-guide-genres="Entertainment" tvc-guide-description="Sony Max 2 is an Indian television channel owned by Culver Max Entertainment and launched in 2014. It is the second Indian channel launched by Sony which is focused solely on old Hindi-language movie broadcasts, being the sister channel of Sony Max."  tvc-guide-categories="Entertainment" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png"  group-title="Entertainment",  Sony MAX2 (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBC4300008IH"  tvg-id="INBC4300008IH" tvg-country="in"   tvg-chno="1003"  tvg-name="Korean TV" tvc-guide-title="Korean TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Korean TV is about handpicked best International Korean Drama Shows most suitable for family viewing duly Hindi languages. It is a unique service  available on Samsung TV Plus App."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300008IH_20231011T013443SQUARE.png_20231011013444.png"  group-title="Entertainment",  Korean TV (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -296,7 +296,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 channel-id="samsung-SonyPIXHD"  tvg-id="SonyPIXHD" tvg-country="in"   tvg-chno="140"  tvg-name="Sony PIX HD" tvc-guide-title="Sony PIX HD"  tvc-guide-genres="Movies" tvc-guide-description="Sony PIX is an Indian English language television movie channel owned by Culver Max Entertainment. The channel mainly airs American live action and animated Hollywood movies in English with also dubbed in Hindi, Tamil and Telugu languages."  tvc-guide-categories="Movies" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png"  group-title="Movies",  Sony PIX HD (1080p)
+#EXTINF:-1 channel-id="samsung-SonyPIXHD"  tvg-id="SonyPIXHD" tvg-country="in"   tvg-chno="140"  tvg-name="Sony PIX HD" tvc-guide-title="Sony PIX HD"  tvc-guide-genres="Movies" tvc-guide-description="Sony PIX is an Indian English language television movie channel owned by Culver Max Entertainment. The channel mainly airs American live action and animated Hollywood movies in English with also dubbed in Hindi, Tamil and Telugu languages."  tvc-guide-categories="Movies" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png"  group-title="Movies",  Sony PIX HD (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
