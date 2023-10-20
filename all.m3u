@@ -216,10 +216,6 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallba
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 channel-id="samsung-SonyMAX2"  tvg-id="SonyMAX2" tvg-country="in"   tvg-chno="139"  tvg-name="Sony MAX2" tvc-guide-title="Sony MAX2"  tvc-guide-genres="Entertainment" tvc-guide-description="Sony Max 2 is an Indian television channel owned by Culver Max Entertainment and launched in 2014. It is the second Indian channel launched by Sony which is focused solely on old Hindi-language movie broadcasts, being the sister channel of Sony Max."  tvc-guide-categories="Entertainment" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png"  group-title="Entertainment",  Sony MAX2 (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBC4300008IH"  tvg-id="INBC4300008IH" tvg-country="in"   tvg-chno="1003"  tvg-name="Korean TV" tvc-guide-title="Korean TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Korean TV is about handpicked best International Korean Drama Shows most suitable for family viewing duly Hindi languages. It is a unique service  available on Samsung TV Plus App."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300008IH_20231011T013443SQUARE.png_20231011013444.png"  group-title="Entertainment",  Korean TV (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -296,6 +292,10 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 channel-id="samsung-SonyMAX2"  tvg-id="SonyMAX2" tvg-country="in"   tvg-chno="139"  tvg-name="Sony MAX2" tvc-guide-title="Sony MAX2"  tvc-guide-genres="Movies" tvc-guide-description="Sony Max 2 is an Indian television channel owned by Culver Max Entertainment and launched in 2014. It is the second Indian channel launched by Sony which is focused solely on old Hindi-language movie broadcasts, being the sister channel of Sony Max."  tvc-guide-categories="Movies" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png"  group-title="Movies",  Sony MAX2 (1080p)
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1 channel-id="samsung-SonyPIXHD"  tvg-id="SonyPIXHD" tvg-country="in"   tvg-chno="140"  tvg-name="Sony PIX HD" tvc-guide-title="Sony PIX HD"  tvc-guide-genres="Movies" tvc-guide-description="Sony PIX is an Indian English language television movie channel owned by Culver Max Entertainment. The channel mainly airs American live action and animated Hollywood movies in English with also dubbed in Hindi, Tamil and Telugu languages."  tvc-guide-categories="Movies" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png"  group-title="Movies",  Sony PIX HD (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -375,7 +375,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800013L6"  tvg-id="INBC2800013L6" tvg-country="in"   tvg-chno="1067"  tvg-name="9X Jalwa" tvc-guide-title="9X Jalwa"  tvc-guide-genres="Music" tvc-guide-description="A channel offering of 9X Media. Your channel for forever hits Plays music from 1990s to 2000"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20220928T010036SQUARE.png_20220928010036.png"  group-title="Music",  9X Jalwa (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
-http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
+https://i.mjh.nz/SamsungTVPlus/INBC2800013L6.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800011JL"  tvg-id="INBC2800011JL" tvg-country="in"   tvg-chno="1069"  tvg-name="9X Tashan" tvc-guide-title="9X Tashan"  tvc-guide-genres="Music" tvc-guide-description="9X Media - India's Largest Music Network brings to you 9X Tashan- Punjab’s Number 1 Music Channel"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20220928T010041SQUARE.png_20220928010041.png"  group-title="Music",  9X Tashan (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -1124,6 +1124,10 @@ https://i.mjh.nz/SamsungTVPlus/GBBB1500005BH.m3u8
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD3000002UT"  tvg-id="GBBD3000002UT" tvg-country="gb"   tvg-chno="4511"  tvg-name="DAZN Women's Football" tvc-guide-title="DAZN Women's Football"  tvc-guide-genres="Sports" tvc-guide-description="DAZN Women’s Football gives fans front row seats to the very best action in Women’s Football including live UEFA Women’s Champions League, Liga F, documentaries, and lots more behind-the-scenes access."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000002UT_20230915T042713SQUARE.png_20230915042714.png"  group-title="Sports",  DAZN Women's Football (1080p)
+#EXTGRP:Sports
+#EXTGENRE:Sports
+https://i.mjh.nz/SamsungTVPlus/GBBD3000002UT.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD2300003IK"  tvg-id="GBBD2300003IK" tvg-country="gb"   tvg-chno="4513"  tvg-name="Red Bull TV" tvc-guide-title="Red Bull TV"  tvc-guide-genres="Sports" tvc-guide-description="Live events, films, shows and much more. The best from Red Bull TV 24/7."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20230823T033117SQUARE.png_20230823033117.png"  group-title="Sports",  Red Bull TV (1080p)
 #EXTGRP:Sports
 #EXTGENRE:Sports
@@ -1392,10 +1396,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-#EXTINF:-1 channel-id="samsung-USBD35000202P"  tvg-id="USBD35000202P" tvg-country="us"   tvg-chno="1071"  tvg-name="The Drew Barrymore Show" tvc-guide-title="The Drew Barrymore Show"  tvc-guide-genres="Entertainment" tvc-guide-description="The Drew Barrymore Show is optimism TV, bringing information, inspiration, and entertainment to the daytime audience.  Known world-wide for her infectious brand of humor and positivity, Drew shares her undeniably relatable point of view."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000202P_20230925T234821SQUARE.png_20230925234823.png"  group-title="Entertainment",  The Drew Barrymore Show (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD35000202P.m3u8
 #EXTINF:-1 channel-id="samsung-USBC6000225M"  tvg-id="USBC6000225M" tvg-country="us"   tvg-chno="1074"  tvg-name="ElectricNOW" tvc-guide-title="ElectricNOW"  tvc-guide-genres="Entertainment" tvc-guide-description="ElectricNOW is a one-stop shop for fans of action, adventure, fantasy and sci-fi.  Fan favorites and classic shows streaming LIVE."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20230509T224426SQUARE.png_20230509224426.png"  group-title="Entertainment",  ElectricNOW (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -1664,10 +1664,6 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3400012FA.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/USBC44000087O.m3u8
-#EXTINF:-1 channel-id="samsung-USBD3500021ZL"  tvg-id="USBD3500021ZL" tvg-country="us"   tvg-chno="1144"  tvg-name="Pictionary" tvc-guide-title="Pictionary"  tvc-guide-genres="Entertainment" tvc-guide-description="Based on Mattel’s beloved game, Pictionary! is a family game show hosted by Jerry O’Connell, who takes two teams, captained by celebrities, through a variety of drawing and guessing games, guaranteed for fun, laughs, and hopefully a nice cash prize!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500021ZL_20231011T001229SQUARE.png_20231011001230.png"  group-title="Entertainment",  Pictionary (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD3500021ZL.m3u8
 #EXTINF:-1 channel-id="samsung-USBA3000100X"  tvg-id="USBA3000100X" tvg-country="us"   tvg-chno="1147"  tvg-name="Wild 'N Out" tvc-guide-title="Wild 'N Out"  tvc-guide-genres="Entertainment" tvc-guide-description="MTV’s Wild 'N Out channel gives you the best of the hit comedy gameshow, one battle at a time. Join Nick Cannon and his comedic sidekicks as they throw down their sharpest, wittiest and quickest jokes all improvised on the spot."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000100X_20230131T052057SQUARE.png_20230131052057.png"  group-title="Entertainment",  Wild 'N Out (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -2300,10 +2296,6 @@ https://i.mjh.nz/SamsungTVPlus/USBA3800002KI.m3u8
 #EXTGRP:Travel
 #EXTGENRE:Travel
 https://i.mjh.nz/SamsungTVPlus/USBC4400016CL.m3u8
-#EXTINF:-1 channel-id="samsung-USBD3500019OB"  tvg-id="USBD3500019OB" tvg-country="us"   tvg-chno="1206"  tvg-name="Rachael" tvc-guide-title="Rachael"  tvc-guide-genres="Travel" tvc-guide-description="Host Rachael Ray presents simple solutions for every day issues. With help from her content buddies and celebrity guests, Rachael cooks up recipes for better living with household and style tips, quick and tasty meals and creative, affordable ideas."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500019OB_20230925T234818SQUARE.png_20230925234819.png"  group-title="Travel",  Rachael (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USBD3500019OB.m3u8
 #EXTINF:-1 channel-id="samsung-USAJ3000006X5"  tvg-id="USAJ3000006X5" tvg-country="us"   tvg-chno="1208"  tvg-name="Home.Made.Nation" tvc-guide-title="Home.Made.Nation"  tvc-guide-genres="Travel" tvc-guide-description="The channel of all things DIY, home improvement, decor and more. From household tips and projects you can try yourself to the stories and experiences of experts, inspiration truly has a home in Home.Made.Nation."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20231011T001102SQUARE.png_20231011001103.png"  group-title="Travel",  Home.Made.Nation (1080p)
 #EXTGRP:Travel
 #EXTGENRE:Travel
