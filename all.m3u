@@ -40,6 +40,10 @@ https://youtube.cloudflarechannels.workers.dev/stream/News18LokmatTV/playlist.m3
 #EXTGRP:News
 #EXTGENRE:News
 https://youtube.cloudflarechannels.workers.dev/stream/DDSahyadriNews/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500006OC"  tvg-id="INBD2500006OC" tvg-country="in"   tvg-chno="1004"  tvg-name="TV9 Marathi" tvc-guide-title="TV9 Marathi"  tvc-guide-genres="News" tvc-guide-description="TV9 Marathi is the top Marathi news channel that’s driven by fearless journalism and philosophy of “Kalji Tumchi Hith Maharashtrache" (Viewers’ concerns and in the interest of Maharashtra)."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500006OC_20231115T014721SQUARE.png_20231115014722.png"  group-title="News",  TV9 Marathi (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://i.mjh.nz/SamsungTVPlus/INBD2500006OC.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800003RQ"  tvg-id="INBC2800003RQ" tvg-country="in"   tvg-chno="1013"  tvg-name="Aaj Tak" tvc-guide-title="Aaj Tak"  tvc-guide-genres="News" tvc-guide-description="Aaj Tak is India's best Hindi News Channel. Aaj Tak news channel covers latest news in politics, entertainment, bollywood, business and sports"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800003RQ_20230208T101224SQUARE.png_20230208101224.png"  group-title="News",  Aaj Tak (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -168,6 +172,10 @@ https://i.mjh.nz/SamsungTVPlus/INBD2500003XT.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://i.mjh.nz/SamsungTVPlus/INBD4000027E.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500009DK"  tvg-id="INBD2500009DK" tvg-country="in"   tvg-chno="1062"  tvg-name="News18 Gujarati" tvc-guide-title="News18 Gujarati"  tvc-guide-genres="News" tvc-guide-description="News18 Gujarati, a 24-hr Gujarati news channel, delivers the latest Local, Hyperlocal, national & international news on Politics, Sports, Entertainment, Business, Health, Lifestyle, and more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500009DK_20231115T014718SQUARE.png_20231115014719.png"  group-title="News",  News18 Gujarati (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://i.mjh.nz/SamsungTVPlus/INBD2500009DK.m3u8
 #EXTINF:-1 channel-id="samsung-DDNATIONAL"  tvg-id="DDNATIONAL" tvg-country="in"   tvg-chno="104"  tvg-name="DD National" tvc-guide-title="DD National"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch  TV channel DD NATIONAL live . First Shows provides Live telecast of  DD NATIONAL"  tvc-guide-categories="Entertainment" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png"  group-title="Entertainment",  DD National (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -196,7 +204,7 @@ https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 channel-id="samsung-Colors"  tvg-id="Colors" tvg-country="in"   tvg-chno="134"  tvg-name="Colors HD " tvc-guide-title="Colors HD "  tvc-guide-genres="Entertainment" tvc-guide-description="Colors TV is an Indian general entertainment pay television channel owned by Viacom18. It was launched on 21 July 2008"  tvc-guide-categories="Entertainment" tvg-logo="https://i.imgur.com/a5uES9j.png"  group-title="Entertainment",  Colors HD  (1080p)
+#EXTINF:-1 channel-id="samsung-ColorsHD"  tvg-id="ColorsHD" tvg-country="in"   tvg-chno="134"  tvg-name="Colors HD " tvc-guide-title="Colors HD "  tvc-guide-genres="Entertainment" tvc-guide-description="Colors TV is an Indian general entertainment pay television channel owned by Viacom18. It was launched on 21 July 2008"  tvc-guide-categories="Entertainment" tvg-logo="https://i.imgur.com/a5uES9j.png"  group-title="Entertainment",  Colors HD  (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
@@ -356,7 +364,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Music
 #EXTGENRE:Music
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 channel-id="samsung-MTVBEATS"  tvg-id="MTVBEATS" tvg-country="in"   tvg-chno="116"  tvg-name="MTV Beats" tvc-guide-title="MTV Beats"  tvc-guide-genres="Music" tvc-guide-description="MTv Beats India's first music only channel. MTv beats music."  tvc-guide-categories="Music" tvg-logo="https://cdn.mtvbeats.in/wp-content/uploads/2021/03/logo.png"  group-title="Music",  MTV Beats (1080p)
+#EXTINF:-1 channel-id="samsung-MTVBEATSHD"  tvg-id="MTVBEATSHD" tvg-country="in"   tvg-chno="116"  tvg-name="MTV Beats HD" tvc-guide-title="MTV Beats HD"  tvc-guide-genres="Music" tvc-guide-description="MTv Beats India's first music only channel. MTv beats music."  tvc-guide-categories="Music" tvg-logo="https://cdn.mtvbeats.in/wp-content/uploads/2021/03/logo.png"  group-title="Music",  MTV Beats HD (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
@@ -375,7 +383,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800013L6"  tvg-id="INBC2800013L6" tvg-country="in"   tvg-chno="1067"  tvg-name="9X Jalwa" tvc-guide-title="9X Jalwa"  tvc-guide-genres="Music" tvc-guide-description="A channel offering of 9X Media. Your channel for forever hits Plays music from 1990s to 2000"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20220928T010036SQUARE.png_20220928010036.png"  group-title="Music",  9X Jalwa (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
-https://i.mjh.nz/SamsungTVPlus/INBC2800013L6.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9Xjalwa.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800011JL"  tvg-id="INBC2800011JL" tvg-country="in"   tvg-chno="1069"  tvg-name="9X Tashan" tvc-guide-title="9X Tashan"  tvc-guide-genres="Music" tvc-guide-description="9X Media - India's Largest Music Network brings to you 9X Tashan- Punjab’s Number 1 Music Channel"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20220928T010041SQUARE.png_20220928010041.png"  group-title="Music",  9X Tashan (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -400,14 +408,26 @@ https://i.mjh.nz/SamsungTVPlus/INBA4900001DL.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 channel-id="samsung-INBD13000205L"  tvg-id="INBD13000205L" tvg-country="in"   tvg-chno="1004"  tvg-name="Cartoon Network" tvc-guide-title="Cartoon Network"  tvc-guide-genres="Family/Kids" tvc-guide-description="Cartoon Network is India's premier award winning kids' entertainment channel, showcasing international and local animated content across multiple Indian regional languages"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000205L_20231011T013438SQUARE.png_20231011013439.png"  group-title="Family/Kids",  Cartoon Network (1080p)
+#EXTINF:-1 channel-id="samsung-NICKHD+"  tvg-id="NICKHD+" tvg-country="in"   tvg-chno="147"  tvg-name="Nick HD+" tvc-guide-title="Nick HD+"  tvc-guide-genres="Family/Kids" tvc-guide-description="Nickelodeon, India’s leading kids brand and a part of Viacom18, is available in over 100 million households in the country. It is a 24-hour pay channel available in 7 Indian languages namely Hindi, Tamil, Telugu, Marathi, Bengali, Kannada and Malayalam. With an approach that puts ‘kids first’"  tvc-guide-categories="Family/Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png"  group-title="Family/Kids",  Nick HD+ (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
-https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 channel-id="samsung-NICKJR"  tvg-id="NICKJR" tvg-country="in"   tvg-chno="148"  tvg-name="Nick Jr" tvc-guide-title="Nick Jr"  tvc-guide-genres="Family/Kids" tvc-guide-description="Nickelodeon, India’s leading kids brand and a part of Viacom18, is available in over 100 million households in the country. It is a 24-hour pay channel available in 7 Indian languages namely Hindi, Tamil, Telugu, Marathi, Bengali, Kannada and Malayalam. With an approach that puts ‘kids first’"  tvc-guide-categories="Family/Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png"  group-title="Family/Kids",  Nick Jr (1080p)
+#EXTGRP:Family/Kids
+#EXTGENRE:Family/Kids
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 channel-id="samsung-SONIC"  tvg-id="SONIC" tvg-country="in"   tvg-chno="149"  tvg-name="Sonic" tvc-guide-title="Sonic"  tvc-guide-genres="Family/Kids" tvc-guide-description="Sonic is India's go-to destination of high decibel comedy and action shows. Hangout with your favorite toons such as Ninja Hattori, Pinaki & Happy, Keymon Ache and many more!"  tvc-guide-categories="Family/Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png"  group-title="Family/Kids",  Sonic (1080p)
+#EXTGRP:Family/Kids
+#EXTGENRE:Family/Kids
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBD1300021X3"  tvg-id="INBD1300021X3" tvg-country="in"   tvg-chno="1262"  tvg-name="Pogo" tvc-guide-title="Pogo"  tvc-guide-genres="Family/Kids" tvc-guide-description="India's first and exclusive homegrown kids' entertainment channel, featuring content that spans across genres. It is available in multiple Indian languages"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300021X3_20231011T013448SQUARE.png_20231011013449.png"  group-title="Family/Kids",  Pogo (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+#EXTINF:-1 channel-id="samsung-INBD13000205L"  tvg-id="INBD13000205L" tvg-country="in"   tvg-chno="1263"  tvg-name="Cartoon Network" tvc-guide-title="Cartoon Network"  tvc-guide-genres="Family/Kids" tvc-guide-description="Cartoon Network is India's premier award winning kids' entertainment channel, showcasing international and local animated content across multiple Indian regional languages"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000205L_20231115T014715SQUARE.png_20231115014716.png"  group-title="Family/Kids",  Cartoon Network (1080p)
+#EXTGRP:Family/Kids
+#EXTGENRE:Family/Kids
+https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 #EXTINF:-1 channel-id="samsung-INBC15000054I"  tvg-id="INBC15000054I" tvg-country="in"   tvg-chno="1264"  tvg-name="Discovery Kids" tvc-guide-title="Discovery Kids"  tvc-guide-genres="Family/Kids" tvc-guide-description="Discovery Kids, a one stop destination for brand new shows, unexplored adventures, total masti, action, swag, comedy and unlimited entertainment catering to the ever colorful world of Kids."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC15000054I_20230913T014222SQUARE.png_20230913014223.png"  group-title="Family/Kids",  Discovery Kids (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
@@ -448,10 +468,6 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 channel-id="samsung-JVSPORTSHD"  tvg-id="JVSPORTSHD" tvg-country="in"   tvg-chno="147"  tvg-name="JV Sports HD 12" tvc-guide-title="JV Sports HD 12"  tvc-guide-genres="Sports" tvc-guide-description="Public sports channel"  tvc-guide-categories="Sports" tvg-logo="https://www.jiocinema.com/images/jc_logo_v2.svg"  group-title="Sports",  JV Sports HD 12 (1080p)
-#EXTGRP:Sports
-#EXTGENRE:Sports
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBA5100009V3"  tvg-id="INBA5100009V3" tvg-country="in"   tvg-chno="1212"  tvg-name="FIFA+" tvc-guide-title="FIFA+"  tvc-guide-genres="Sports" tvc-guide-description="FIFA+ brings free football entertainment to fans everywhere. Great movies and series about football around the world and historic full match replays from the FIFA World Cup™️ and the FIFA Women's World Cup™️. And much much more."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100009V3_20230913T014225SQUARE.png_20230913014225.png"  group-title="Sports",  FIFA+ (1080p)
 #EXTGRP:Sports
 #EXTGENRE:Sports
@@ -624,7 +640,7 @@ https://i.mjh.nz/SamsungTVPlus/INBA4900011UB.m3u8
 #EXTGRP:
 #EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA5100025YE.m3u8
-#EXTINF:-1 channel-id="samsung-INBA49000291X"  tvg-id="INBA49000291X" tvg-country="in"   tvg-chno="1391"  tvg-name="Don't Tell The Bride" tvc-guide-title="Don't Tell The Bride"  tvc-guide-genres="" tvc-guide-description="Don’t Tell The Bride är det traditionella bröllopet med en tvist. Här står brudgummen för planeringen av alla detaljer som rör den stora dagen. Vad kan möjligtvis gå fel?"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000291X_20220427T054545SQUARE.png_20220427054546.png"  group-title="",  Don't Tell The Bride (1080p)
+#EXTINF:-1 channel-id="samsung-INBA49000291X"  tvg-id="INBA49000291X" tvg-country="in"   tvg-chno="1391"  tvg-name="Don't Tell The Bride" tvc-guide-title="Don't Tell The Bride"  tvc-guide-genres="" tvc-guide-description="Don’t Tell The Bride is the home of weddings with a twist. With the groom solely in control of every aspect of the big day, what could possibly go wrong?"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000291X_20231115T014712SQUARE.png_20231115014713.png"  group-title="",  Don't Tell The Bride (1080p)
 #EXTGRP:
 #EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/INBA49000291X.m3u8
@@ -636,6 +652,10 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD3600001NO"  tvg-id="GBBD3600001NO" tvg-country="gb"   tvg-chno="4310"  tvg-name="CNBC" tvc-guide-title="CNBC"  tvc-guide-genres="News" tvc-guide-description="CNBC is the recognized global leader in business and financial news, available in over 372 million households, hotels, and office buildings across 154 countries."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3600001NO_20231115T012330SQUARE.png_20231115012330.png"  group-title="News",  CNBC (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://i.mjh.nz/SamsungTVPlus/GBBD3600001NO.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD1900008O3"  tvg-id="GBBD1900008O3" tvg-country="gb"   tvg-chno="4312"  tvg-name="CNN FAST" tvc-guide-title="CNN FAST"  tvc-guide-genres="News" tvc-guide-description="From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20230614T010144SQUARE.png_20230614010144.png"  group-title="News",  CNN FAST (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -680,18 +700,18 @@ https://i.mjh.nz/SamsungTVPlus/GBBC2300003ZQ.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBBD25000038Y.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC2300001X5"  tvg-id="GBBC2300001X5" tvg-country="gb"   tvg-chno="4007"  tvg-name="American Idol" tvc-guide-title="American Idol"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch the latest seasons exclusively on Samsung TV Plus, available 24/7 for free. Join Katy Perry, Luke Brian and Lionel Richie as they find the next American Idol and enjoy the performances of this year's iconic talent."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20231011T084608SQUARE.png_20231011084608.png"  group-title="Entertainment",  American Idol (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD3100003J5"  tvg-id="GBBD3100003J5" tvg-country="gb"   tvg-chno="4006"  tvg-name="UKTV Play Laughs" tvc-guide-title="UKTV Play Laughs"  tvc-guide-genres="Entertainment" tvc-guide-description="Love comedy? Sit back, relax and lose yourself in the lighter side of life with UKTV Play Laughs.With wall-to-wall witty quips, and downright daft discussions, it's dedicated to tickling your funny bone."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20231115T012353SQUARE.png_20231115012354.png"  group-title="Entertainment",  UKTV Play Laughs (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/GBBC2300001X5.m3u8
+https://i.mjh.nz/SamsungTVPlus/GBBD3100003J5.m3u8
 #EXTINF:-1 channel-id="samsung-GBBC400000345"  tvg-id="GBBC400000345" tvg-country="gb"   tvg-chno="4009"  tvg-name="Festive Hub" tvc-guide-title="Festive Hub"  tvc-guide-genres="Entertainment" tvc-guide-description="Get into the holiday spirit with Festive Hub, your channel dedicated to festive entertainment. Enjoy Christmas blockbusters, revisit nostalgic seasonal specials and get inspired with delicious holiday recipes. Tune in now on channel 4009."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20231011T082523SQUARE.png_20231011082524.png"  group-title="Entertainment",  Festive Hub (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBBC400000345.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD3100003J5"  tvg-id="GBBD3100003J5" tvg-country="gb"   tvg-chno="4103"  tvg-name="UKTV Play Laughs" tvc-guide-title="UKTV Play Laughs"  tvc-guide-genres="Entertainment" tvc-guide-description="Love comedy? Sit back, relax and lose yourself in the lighter side of life with UKTV Play Laughs.With wall-to-wall witty quips, and downright daft discussions, it's dedicated to tickling your funny bone."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20231025T032810SQUARE.png_20231025032811.png"  group-title="Entertainment",  UKTV Play Laughs (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD4100010H1"  tvg-id="GBBD4100010H1" tvg-country="gb"   tvg-chno="4104"  tvg-name="Crime Network" tvc-guide-title="Crime Network"  tvc-guide-genres="Entertainment" tvc-guide-description="Take a walk on the wrong side of The Law with Crime Network! Whether you’re after thrilling crime series such as Narcos, captivating crime films or jaw-dropping true crime documentaries you’ll find it all here."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20231115T012334SQUARE.png_20231115012334.png"  group-title="Entertainment",  Crime Network (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/GBBD3100003J5.m3u8
+https://i.mjh.nz/SamsungTVPlus/GBBD4100010H1.m3u8
 #EXTINF:-1 channel-id="samsung-GBBB4600001IK"  tvg-id="GBBB4600001IK" tvg-country="gb"   tvg-chno="4105"  tvg-name="Project Runway" tvc-guide-title="Project Runway"  tvc-guide-genres="Entertainment" tvc-guide-description="Project Runway is the smash hit US reality series focused on fashion, with contestants competing for a chance to showcase a collection at New York Fashion Week. Binge-watch series’ 7 to 16 on channel 4250 for free, 24/7."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4600001IK_20230913T031535SQUARE.png_20230913031535.png"  group-title="Entertainment",  Project Runway (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -700,6 +720,10 @@ https://i.mjh.nz/SamsungTVPlus/GBBB4600001IK.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBBC2300002GG.m3u8
+#EXTINF:-1 channel-id="samsung-GBBC2300001X5"  tvg-id="GBBC2300001X5" tvg-country="gb"   tvg-chno="4107"  tvg-name="American Idol" tvc-guide-title="American Idol"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch the latest seasons exclusively on Samsung TV Plus, available 24/7 for free. Join Katy Perry, Luke Brian and Lionel Richie as they find the next American Idol and enjoy the performances of this year's iconic talent."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20231115T012328SQUARE.png_20231115012328.png"  group-title="Entertainment",  American Idol (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/GBBC2300001X5.m3u8
 #EXTINF:-1 channel-id="samsung-GBBC300002SA"  tvg-id="GBBC300002SA" tvg-country="gb"   tvg-chno="4108"  tvg-name="Hell's Kitchen" tvc-guide-title="Hell's Kitchen"  tvc-guide-genres="Entertainment" tvc-guide-description="Aspiring chefs are split into two groups by legendary chef Gordon Ramsay. The chefs must compete in a host of cooking challenges to win the grand prize."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300002SA_20220608T011254SQUARE.png_20220608011256.png"  group-title="Entertainment",  Hell's Kitchen (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -752,6 +776,10 @@ https://i.mjh.nz/SamsungTVPlus/GBBD2500002QC.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBBA3300022EI.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD3200002CG"  tvg-id="GBBD3200002CG" tvg-country="gb"   tvg-chno="4121"  tvg-name="Eggheads" tvc-guide-title="Eggheads"  tvc-guide-genres="Entertainment" tvc-guide-description="The general knowledge quiz show in which four contestants take on the formidable Eggheads, a team of the brainiest quizzers in the UK. Can anyone beat the ultimate champions?"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200002CG_20231115T012338SQUARE.png_20231115012339.png"  group-title="Entertainment",  Eggheads (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/GBBD3200002CG.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD3000001QB"  tvg-id="GBBD3000001QB" tvg-country="gb"   tvg-chno="4122"  tvg-name="Wipeout Xtra Powered by Banijay" tvc-guide-title="Wipeout Xtra Powered by Banijay"  tvc-guide-genres="Entertainment" tvc-guide-description="The home of physical and exciting gameshows, where you can witness unexpected challenges."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000001QB_20230913T031548SQUARE.png_20230913031549.png"  group-title="Entertainment",  Wipeout Xtra Powered by Banijay (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -760,6 +788,10 @@ https://i.mjh.nz/SamsungTVPlus/GBBD3000001QB.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBBB1600006RS.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD3100005RX"  tvg-id="GBBD3100005RX" tvg-country="gb"   tvg-chno="4124"  tvg-name="Challenge" tvc-guide-title="Challenge"  tvc-guide-genres="Entertainment" tvc-guide-description="Challenge is an entertainment channel from Sky bringing together TV’s best game shows; from old favourites Bullseye, Blockbusters, Catchphrase and Supermarket Sweep to modern greats like Pointless, The Chase & Who Wants To Be A Millionaire?"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100005RX_20231115T012332SQUARE.png_20231115012332.png"  group-title="Entertainment",  Challenge (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/GBBD3100005RX.m3u8
 #EXTINF:-1 channel-id="samsung-GBBC4300003XU"  tvg-id="GBBC4300003XU" tvg-country="gb"   tvg-chno="4125"  tvg-name="Real Life" tvc-guide-title="Real Life"  tvc-guide-genres="Entertainment" tvc-guide-description=""Binge worthy and feel good reality TV shows, join the everyday dramasand personal journeys of real people.""  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4300003XU_20230322T075402SQUARE.png_20230322075403.png"  group-title="Entertainment",  Real Life (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -800,6 +832,10 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ4900012VC.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBBB38000010H.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD3100006XM"  tvg-id="GBBD3100006XM" tvg-country="gb"   tvg-chno="4155"  tvg-name="Sky Mix" tvc-guide-title="Sky Mix"  tvc-guide-genres="Entertainment" tvc-guide-description="Sky Mix will bring you a range of all the shows you know and love, as well as award-winning Sky Original and Exclusive shows, gripping documentaries and epic movies from Sky"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231115T012342SQUARE.png_20231115012343.png"  group-title="Entertainment",  Sky Mix (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD600002XT"  tvg-id="GBBD600002XT" tvg-country="gb"   tvg-chno="4160"  tvg-name="Baywatch" tvc-guide-title="Baywatch"  tvc-guide-genres="Entertainment" tvc-guide-description="Baywatch remastered and 24/7, starring David Hasselhoff and Pamela Anderson. A team of Los Angeles lifeguards save lives, deal with personal dramas and fight crime."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png"  group-title="Entertainment",  Baywatch (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -848,7 +884,7 @@ https://i.mjh.nz/SamsungTVPlus/GBAK3504500A.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBBA3300038UZ.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD1100007AC"  tvg-id="GBBD1100007AC" tvg-country="gb"   tvg-chno="4212"  tvg-name="True Crime UK from CBS Reality" tvc-guide-title="True Crime UK from CBS Reality"  tvc-guide-genres="Entertainment" tvc-guide-description="True Crime UK from CBS Reality - Home to expert-led true crime, which investigates authentic criminal cases through first-hand interviews, archive footage and key evidence. Always factual, always true."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20231011T084615SQUARE.png_20231011084615.png"  group-title="Entertainment",  True Crime UK from CBS Reality (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD1100007AC"  tvg-id="GBBD1100007AC" tvg-country="gb"   tvg-chno="4212"  tvg-name="True Crime UK" tvc-guide-title="True Crime UK"  tvc-guide-genres="Entertainment" tvc-guide-description="TRUE CRIME UK dissects authentic criminal cases through expert led documentaries and series.Through first hand interviews, key evidence, cutting edge forensic technologies and investigative tools."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20231115T012326SQUARE.png_20231115012326.png"  group-title="Entertainment",  True Crime UK (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBBD1100007AC.m3u8
@@ -868,6 +904,10 @@ https://i.mjh.nz/SamsungTVPlus/GBBC900005T0.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBAK3504516A.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD4100006KV"  tvg-id="GBBD4100006KV" tvg-country="gb"   tvg-chno="4219"  tvg-name="True Lives" tvc-guide-title="True Lives"  tvc-guide-genres="Entertainment" tvc-guide-description="True Lives is a home for inspiring human stories and award winning documentaries that give an insight into real people and real lives."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100006KV_20231115T012348SQUARE.png_20231115012349.png"  group-title="Entertainment",  True Lives (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/GBBD4100006KV.m3u8
 #EXTINF:-1 channel-id="samsung-GBBA2200004Q3"  tvg-id="GBBA2200004Q3" tvg-country="gb"   tvg-chno="4220"  tvg-name="Real Stories" tvc-guide-title="Real Stories"  tvc-guide-genres="Entertainment" tvc-guide-description="The home of award-winning and compelling documentaries from around the world. You’ll find real stories from real people, including investigative documentaries from the fringes of society, true crime and intimate personal journeys."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200004Q3_20230426T015611SQUARE.png_20230426015612.png"  group-title="Entertainment",  Real Stories (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -928,7 +968,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBD500001F5.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBAJ42000023T.m3u8
-#EXTINF:-1 channel-id="samsung-GBBA33000540B"  tvg-id="GBBA33000540B" tvg-country="gb"   tvg-chno="4246"  tvg-name="PBS America" tvc-guide-title="PBS America"  tvc-guide-genres="Entertainment" tvc-guide-description="PBS America showcases award-winning documentaries from America’s Public Broadcasting Service - epic history series from Ken Burns and the American Experience strand, current affairs from FRONTLINE and science from NOVA."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000540B_20220323T070349SQUARE.png_20220323070352.png"  group-title="Entertainment",  PBS America (1080p)
+#EXTINF:-1 channel-id="samsung-GBBA33000540B"  tvg-id="GBBA33000540B" tvg-country="gb"   tvg-chno="4246"  tvg-name="PBS History" tvc-guide-title="PBS History"  tvc-guide-genres="Entertainment" tvc-guide-description="From the ancient building techniques of the Mayans to the battlefields of World War II, PBS History has intriguing and thought-provoking films for history buffs about pivotal events from around the world, allavailable 24/7."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000540B_20231115T012315SQUARE.png_20231115012315.png"  group-title="Entertainment",  PBS History (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/GBBA33000540B.m3u8
@@ -1080,7 +1120,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBA33000286F.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://i.mjh.nz/SamsungTVPlus/GBBC430000128.m3u8
-#EXTINF:-1 channel-id="samsung-GBBB2000004BQ"  tvg-id="GBBB2000004BQ" tvg-country="gb"   tvg-chno="4613"  tvg-name="Ketchup TV" tvc-guide-title="Ketchup TV"  tvc-guide-genres="Family/Kids" tvc-guide-description="Discover fun, entertaining Children's TV shows on Ketchup TV! Here to entertain the little ones, with help from CoComelon, Peppa Pig Minis, Blippi, Little Baby Bum, Play With Paw Patrol & many more!"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB2000004BQ_20221214T044805SQUARE.png_20221214044805.png"  group-title="Family/Kids",  Ketchup TV (1080p)
+#EXTINF:-1 channel-id="samsung-GBBB2000004BQ"  tvg-id="GBBB2000004BQ" tvg-country="gb"   tvg-chno="4613"  tvg-name="Ketchup TV" tvc-guide-title="Ketchup TV"  tvc-guide-genres="Family/Kids" tvc-guide-description="Discover fun, entertaining Children's TV shows on Ketchup TV! Here to entertain the little ones, with help from CoComelon, Peppa Pig Minis, Blippi, Little Baby Bum, Play With Paw Patrol & many more!"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB2000004BQ_20231115T012324SQUARE.png_20231115012325.png"  group-title="Family/Kids",  Ketchup TV (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://i.mjh.nz/SamsungTVPlus/GBBB2000004BQ.m3u8
@@ -1088,7 +1128,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBB2000004BQ.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://i.mjh.nz/SamsungTVPlus/GBBD3200003T6.m3u8
-#EXTINF:-1 channel-id="samsung-GBBA3300024F7"  tvg-id="GBBA3300024F7" tvg-country="gb"   tvg-chno="4615"  tvg-name="Family - Rakuten TV" tvc-guide-title="Family - Rakuten TV"  tvc-guide-genres="Family/Kids" tvc-guide-description="Fun for the whole family, 100% free. A fun selection of shows & movies guaranteed to entertain kids and adults alike, curated by Rakuten TV. Priceless entertainment, streaming 24/7."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300024F7_20230208T012800SQUARE.png_20230208012801.png"  group-title="Family/Kids",  Family - Rakuten TV (1080p)
+#EXTINF:-1 channel-id="samsung-GBBA3300024F7"  tvg-id="GBBA3300024F7" tvg-country="gb"   tvg-chno="4615"  tvg-name="100% Christmas - Rakuten TV" tvc-guide-title="100% Christmas - Rakuten TV"  tvc-guide-genres="Family/Kids" tvc-guide-description="A channel dedicated to the most wonderful time of the year. Feel the festive spirit with 100% Christmas, packed with movies guaranteed to get you rockin' around the christmas tree."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300024F7_20231115T012317SQUARE.png_20231115012317.png"  group-title="Family/Kids",  100% Christmas - Rakuten TV (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
@@ -1112,7 +1152,11 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://i.mjh.nz/SamsungTVPlus/GBBA330002536.m3u8
-#EXTINF:-1 channel-id="samsung-GBBA3300030OP"  tvg-id="GBBA3300030OP" tvg-country="gb"   tvg-chno="4625"  tvg-name="YAAAS!" tvc-guide-title="YAAAS!"  tvc-guide-genres="Family/Kids" tvc-guide-description="YAAAS! is the place to be for the best Children's TV shows! From brilliant full episodes to hilarious shorts, including favourites like Pingu, Shrek & Donkey, Wallace & Gromit, Barbie, Operation Ouch, and many more!"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300030OP_20220323T071638SQUARE.png_20220323071640.png"  group-title="Family/Kids",  YAAAS! (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD1100011V3"  tvg-id="GBBD1100011V3" tvg-country="gb"   tvg-chno="4623"  tvg-name="Dennis and Gnasher" tvc-guide-title="Dennis and Gnasher"  tvc-guide-genres="Family/Kids" tvc-guide-description="Dennis and Gnasher is a fun-filled animated TV show that follows the adventures of Dennis and his trusty dog Gnasher as they get into wacky adventures in Beanotown. This channel is perfect for kids and families who love a good laugh and some mischief."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100011V3_20231115T012336SQUARE.png_20231115012337.png"  group-title="Family/Kids",  Dennis and Gnasher (1080p)
+#EXTGRP:Family/Kids
+#EXTGENRE:Family/Kids
+https://i.mjh.nz/SamsungTVPlus/GBBD1100011V3.m3u8
+#EXTINF:-1 channel-id="samsung-GBBA3300030OP"  tvg-id="GBBA3300030OP" tvg-country="gb"   tvg-chno="4625"  tvg-name="YAAAS!" tvc-guide-title="YAAAS!"  tvc-guide-genres="Family/Kids" tvc-guide-description="YAAAS! is the place to be for the best Children's TV shows! From brilliant full episodes to hilarious shorts, including favourites like Pingu, Shrek & Donkey, Wallace & Gromit, Barbie, Operation Ouch, and many more!"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300030OP_20231115T012321SQUARE.png_20231115012322.png"  group-title="Family/Kids",  YAAAS! (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://i.mjh.nz/SamsungTVPlus/GBBA3300030OP.m3u8
@@ -1212,14 +1256,14 @@ https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
 #EXTGRP:Tech/Science
 #EXTGENRE:Tech/Science
 https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD25000019N"  tvg-id="GBBD25000019N" tvg-country="gb"   tvg-chno="4006"  tvg-name="Masterchef UK: 'Powered by Banijay'" tvc-guide-title="Masterchef UK: 'Powered by Banijay'"  tvc-guide-genres="LifeStyle" tvc-guide-description="Masterchef UK is the iconic competition show where amateur cooks duel it out in the kitchen under the scrutiny of judges, John Torode and Gregg Wallace. Only one will be crowned the next MasterChef champion."  tvc-guide-categories="LifeStyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000019N_20231011T084611SQUARE.png_20231011084612.png"  group-title="LifeStyle",  Masterchef UK: 'Powered by Banijay' (1080p)
-#EXTGRP:LifeStyle
-#EXTGENRE:LifeStyle
-https://i.mjh.nz/SamsungTVPlus/GBBD25000019N.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC4000002H3"  tvg-id="GBBC4000002H3" tvg-country="gb"   tvg-chno="4425"  tvg-name="The Jamie Oliver Channel" tvc-guide-title="The Jamie Oliver Channel"  tvc-guide-genres="LifeStyle" tvc-guide-description="Discover the world of food with The Jamie Oliver Channel available only on Samsung TV Plus. Watch your favourites from the British chef in one place, from Jamie’s Quick & Easy, to Jamie’s Ultimate Veg and many more. Just tune in now to channel 4425."  tvc-guide-categories="LifeStyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20230913T031538SQUARE.png_20230913031539.png"  group-title="LifeStyle",  The Jamie Oliver Channel (1080p)
+#EXTINF:-1 channel-id="samsung-GBBC4000002H3"  tvg-id="GBBC4000002H3" tvg-country="gb"   tvg-chno="4007"  tvg-name="The Jamie Oliver Channel" tvc-guide-title="The Jamie Oliver Channel"  tvc-guide-genres="LifeStyle" tvc-guide-description="Discover the world of food with The Jamie Oliver Channel available only on Samsung TV Plus. Watch your favourites from the British chef in one place, from Jamie’s Quick & Easy, to Jamie’s Ultimate Veg and many more. Just tune in now to channel 4425."  tvc-guide-categories="LifeStyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20231115T012344SQUARE.png_20231115012345.png"  group-title="LifeStyle",  The Jamie Oliver Channel (1080p)
 #EXTGRP:LifeStyle
 #EXTGENRE:LifeStyle
 https://i.mjh.nz/SamsungTVPlus/GBBC4000002H3.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD25000019N"  tvg-id="GBBD25000019N" tvg-country="gb"   tvg-chno="4428"  tvg-name="Masterchef UK: 'Powered by Banijay'" tvc-guide-title="Masterchef UK: 'Powered by Banijay'"  tvc-guide-genres="LifeStyle" tvc-guide-description="Masterchef UK is the iconic competition show where amateur cooks duel it out in the kitchen under the scrutiny of judges, John Torode and Gregg Wallace. Only one will be crowned the next MasterChef champion."  tvc-guide-categories="LifeStyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000019N_20231115T012340SQUARE.png_20231115012341.png"  group-title="LifeStyle",  Masterchef UK: 'Powered by Banijay' (1080p)
+#EXTGRP:LifeStyle
+#EXTGENRE:LifeStyle
+https://i.mjh.nz/SamsungTVPlus/GBBD25000019N.m3u8
 #EXTINF:-1 channel-id="samsung-GBBC900014LW"  tvg-id="GBBC900014LW" tvg-country="gb"   tvg-chno="4430"  tvg-name="Great British Menu" tvc-guide-title="Great British Menu"  tvc-guide-genres="LifeStyle" tvc-guide-description="The best of British cuisine. Top chefs from across the UK put their hearts on a plate and showcase amazing culinary talent."  tvc-guide-categories="LifeStyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900014LW_20230712T021153SQUARE.png_20230712021154.png"  group-title="LifeStyle",  Great British Menu (1080p)
 #EXTGRP:LifeStyle
 #EXTGENRE:LifeStyle
@@ -1236,6 +1280,10 @@ https://i.mjh.nz/SamsungTVPlus/GBBA330001986.m3u8
 #EXTGRP:LifeStyle
 #EXTGENRE:LifeStyle
 https://i.mjh.nz/SamsungTVPlus/GBBB38000093D.m3u8
+#EXTINF:-1 channel-id="samsung-GBAJ49000197P"  tvg-id="GBAJ49000197P" tvg-country="gb"   tvg-chno="4008"  tvg-name="GoUSA TV" tvc-guide-title="GoUSA TV"  tvc-guide-genres="" tvc-guide-description="Explore the USA’s must-see places, great outdoors, foodie hot spots and amazing road trips on GoUSA TV."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000197P_20231115T012304SQUARE.png_20231115012305.png"  group-title="",  GoUSA TV (1080p)
+#EXTGRP:
+#EXTGENRE:
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000197P.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD1500003SD"  tvg-id="GBBD1500003SD" tvg-country="gb"   tvg-chno="4011"  tvg-name="Fireplace" tvc-guide-title="Fireplace"  tvc-guide-genres="" tvc-guide-description="Gather around and keep cozy this winter with the Fireplace channel. Bring the warmth into your home with the nostalgic sound of fire and the stunning wood burning visuals on Samsung TV Plus, whenever you need a moment of peacefulness."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1500003SD_20231101T032845SQUARE.png_20231101032846.png"  group-title="",  Fireplace (1080p)
 #EXTGRP:
 #EXTGENRE:
@@ -1244,10 +1292,6 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1500003SD.m3u8
 #EXTGRP:
 #EXTGENRE:
 https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
-#EXTINF:-1 channel-id="samsung-GBAJ49000197P"  tvg-id="GBAJ49000197P" tvg-country="gb"   tvg-chno="4414"  tvg-name="GoUSA TV" tvc-guide-title="GoUSA TV"  tvc-guide-genres="" tvc-guide-description="Explore the USA’s must-see places, great outdoors, foodie hot spots and amazing road trips on GoUSA TV."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000197P_20230726T033534SQUARE.png_20230726033537.png"  group-title="",  GoUSA TV (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://i.mjh.nz/SamsungTVPlus/GBAJ49000197P.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD1100003I0"  tvg-id="GBBD1100003I0" tvg-country="gb"   tvg-chno="4416"  tvg-name="Love Pets" tvc-guide-title="Love Pets"  tvc-guide-genres="" tvc-guide-description="Cuddle up to inspiring pet-and-vet stories that celebrate our furry, feathered, and scaly soulmates."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100003I0_20230614T011917SQUARE.png_20230614011918.png"  group-title="",  Love Pets (1080p)
 #EXTGRP:
 #EXTGENRE:
@@ -1268,7 +1312,7 @@ https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-#EXTINF:-1 channel-id="samsung-USBB2200014DK"  tvg-id="USBB2200014DK" tvg-country="us"   tvg-chno="1008"  tvg-name="NBC News NOW" tvc-guide-title="NBC News NOW"  tvc-guide-genres="News" tvc-guide-description="NBC News NOW is a streaming network from NBC News. NOW features deep reporting, thoughtful storytelling, and live, breaking news from the global resources of NBC News."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20220712T041422SQUARE.png_20220712041422.png"  group-title="News",  NBC News NOW (1080p)
+#EXTINF:-1 channel-id="samsung-USBB2200014DK"  tvg-id="USBB2200014DK" tvg-country="us"   tvg-chno="1008"  tvg-name="NBC News NOW" tvc-guide-title="NBC News NOW"  tvc-guide-genres="News" tvc-guide-description="NBC News NOW is a streaming network from NBC News. NOW features deep reporting, thoughtful storytelling, and live, breaking news from the global resources of NBC News."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20231129T022258SQUARE.png_20231129022259.png"  group-title="News",  NBC News NOW (1080p)
 #EXTGRP:News
 #EXTGENRE:News
 https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
@@ -1316,7 +1360,7 @@ https://i.mjh.nz/SamsungTVPlus/USAJ30000041W.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://i.mjh.nz/SamsungTVPlus/USBB1500001GD.m3u8
-#EXTINF:-1 channel-id="samsung-USBA300028QU"  tvg-id="USBA300028QU" tvg-country="us"   tvg-chno="1027"  tvg-name="Newsmax TV" tvc-guide-title="Newsmax TV"  tvc-guide-genres="News" tvc-guide-description="Newsmax TV is a U.S. news channel with the latest from Washington, DC, New York, Hollywood and the heartland. Find 24/7 news coverage on politics, health and money, plus talk shows, documentaries, newsmaker reports and more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20221109T013516SQUARE.png_20221109013517.png"  group-title="News",  Newsmax TV (1080p)
+#EXTINF:-1 channel-id="samsung-USBA300028QU"  tvg-id="USBA300028QU" tvg-country="us"   tvg-chno="1027"  tvg-name="NEWSMAX2" tvc-guide-title="NEWSMAX2"  tvc-guide-genres="News" tvc-guide-description="Watch NEWSMAX2 LIVE for the latest news and analysis on today's top stories from your favorite NEWSMAX personalities."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20231129T022301SQUARE.png_20231129022302.png"  group-title="News",  NEWSMAX2 (1080p)
 #EXTGRP:News
 #EXTGENRE:News
 https://i.mjh.nz/SamsungTVPlus/USBA300028QU.m3u8
@@ -1344,6 +1388,10 @@ https://i.mjh.nz/SamsungTVPlus/USBB3600008BU.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
+#EXTINF:-1 channel-id="samsung-USBD2700019N0"  tvg-id="USBD2700019N0" tvg-country="us"   tvg-chno="1039"  tvg-name="FOX 2 San Francisco" tvc-guide-title="FOX 2 San Francisco"  tvc-guide-genres="News" tvc-guide-description="Live & breaking news for the entire San Francisco Bay Area. Watch for local stories, weather forecasts, sports updates and more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700019N0_20231114T233525SQUARE.png_20231114233526.png"  group-title="News",  FOX 2 San Francisco (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://i.mjh.nz/SamsungTVPlus/USBD2700019N0.m3u8
 #EXTINF:-1 channel-id="samsung-USBD300002TU"  tvg-id="USBD300002TU" tvg-country="us"   tvg-chno="1051"  tvg-name="ION" tvc-guide-title="ION"  tvc-guide-genres="Entertainment" tvc-guide-description="ION’s lineup includes a catalog of proven procedural series and original programming. Anchored by television’s most-watched dramas, like "Law & Order" and "Chicago Fire," ION’s schedule caters to its loyal audience nationwide."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20230809T005359SQUARE.png_20230809005400.png"  group-title="Entertainment",  ION (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -1496,198 +1544,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD70000213.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/USBB3200001MG.m3u8
-#EXTINF:-1 channel-id="samsung-USAK3508703A"  tvg-id="USAK3508703A" tvg-country="us"   tvg-chno="1114"  tvg-name="Crime 360" tvc-guide-title="Crime 360"  tvc-guide-genres="Entertainment" tvc-guide-description="Crime 360, your true crime destination covering all sides of crime with an award-winning slate of premium series including true crime specials and documentaries, on the case investigations and classic crime, all the time."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508703A_20230731T021930SQUARE.png_20230731021931.png"  group-title="Entertainment",  Crime 360 (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USAK3508703A.m3u8
-#EXTINF:-1 channel-id="samsung-USBD1700008H9"  tvg-id="USBD1700008H9" tvg-country="us"   tvg-chno="1115"  tvg-name="I Survived…" tvc-guide-title="I Survived…"  tvc-guide-genres="Entertainment" tvc-guide-description="Gripping and harrowing, these are the unforgettable stories of people who overcame the odds and made it out alive."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700008H9_20231011T001220SQUARE.png_20231011001221.png"  group-title="Entertainment",  I Survived… (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD1700008H9.m3u8
-#EXTINF:-1 channel-id="samsung-USBC1000002NP"  tvg-id="USBC1000002NP" tvg-country="us"   tvg-chno="1121"  tvg-name="World’s Most Evil Killers" tvc-guide-title="World’s Most Evil Killers"  tvc-guide-genres="Entertainment" tvc-guide-description="A whole channel dedicated to the lives and crimes of some of the World's Most Evil Killers like Jeffrey Dahmer, Richard Ramirez, Dorothea Puente and more."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20230823T001630SQUARE.png_20230823001631.png"  group-title="Entertainment",  World’s Most Evil Killers (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBC1000002NP.m3u8
-#EXTINF:-1 channel-id="samsung-USBB52000236D"  tvg-id="USBB52000236D" tvg-country="us"   tvg-chno="1127"  tvg-name="Crime ThrillHer" tvc-guide-title="Crime ThrillHer"  tvc-guide-genres="Entertainment" tvc-guide-description="Dive into the unimaginable with hair-raising thrillers, cautionary tales and ripped-from-the-headlines movies."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000236D_20221214T015024SQUARE.png_20221214015024.png"  group-title="Entertainment",  Crime ThrillHer (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB52000236D.m3u8
-#EXTINF:-1 channel-id="samsung-USBB3200004X3"  tvg-id="USBB3200004X3" tvg-country="us"   tvg-chno="1128"  tvg-name="Dr. G: Medical Examiner" tvc-guide-title="Dr. G: Medical Examiner"  tvc-guide-genres="Entertainment" tvc-guide-description="Renowned coroner Dr. Jan Garavaglia examines mysterious cases featuring dramatic re-enactments of events leading up to the person's death."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200004X3_20221109T013413SQUARE.png_20221109013413.png"  group-title="Entertainment",  Dr. G: Medical Examiner (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB3200004X3.m3u8
-#EXTINF:-1 channel-id="samsung-USBB5200022PY"  tvg-id="USBB5200022PY" tvg-country="us"   tvg-chno="1129"  tvg-name="Crimes Cults Killers" tvc-guide-title="Crimes Cults Killers"  tvc-guide-genres="Entertainment" tvc-guide-description="Explore the dark minds of serial killers, cult leaders, and the most infamous criminal cases you can’t stop thinking about. The shocking stories behind Jeffrey Dahmer, Jim Jones, John Gotti, and many more will be revealed."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200022PY_20231024T234717SQUARE.png_20231024234719.png"  group-title="Entertainment",  Crimes Cults Killers (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB5200022PY.m3u8
-#EXTINF:-1 channel-id="samsung-USBB3200017MY"  tvg-id="USBB3200017MY" tvg-country="us"   tvg-chno="1131"  tvg-name="Forensic Files" tvc-guide-title="Forensic Files"  tvc-guide-genres="Entertainment" tvc-guide-description="Evidence and interviews with experts help solve real crimes, disease outbreaks and accidents around the world."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20221026T004941SQUARE.png_20221026004941.png"  group-title="Entertainment",  Forensic Files (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB3200017MY.m3u8
-#EXTINF:-1 channel-id="samsung-USAK3508710A"  tvg-id="USAK3508710A" tvg-country="us"   tvg-chno="1132"  tvg-name="Law & Crime" tvc-guide-title="Law & Crime"  tvc-guide-genres="Entertainment" tvc-guide-description="From the high-profile cases to the most compelling local trials, Law & Crime features daily trial coverage from around the country along with expert legal commentary and analysis. Original programs include The Daily Debrief and Brian Ross Investigates."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508710A_20230125T022223SQUARE.png_20230125022224.png"  group-title="Entertainment",  Law & Crime (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USAK3508710A.m3u8
-#EXTINF:-1 channel-id="samsung-USBA34000049Z"  tvg-id="USBA34000049Z" tvg-country="us"   tvg-chno="1133"  tvg-name="Court TV" tvc-guide-title="Court TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Court TV is the premiere legal news network, devoted to live gavel-to-gavel coverage, in-depth legal reporting and expert analysis of the nation’s most compelling trials."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20230912T232542SQUARE.png_20230912232543.png"  group-title="Entertainment",  Court TV (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBA34000049Z.m3u8
-#EXTINF:-1 channel-id="samsung-USBC390002256"  tvg-id="USBC390002256" tvg-country="us"   tvg-chno="1134"  tvg-name="Cold Case Files" tvc-guide-title="Cold Case Files"  tvc-guide-genres="Entertainment" tvc-guide-description="There are over 100,000 cold cases in America. Only about 1% are solved. Cold Case Files presented by A&E tells the stories of those who never gave up searching for answers - and finally found justice. Get 24/7 access to this iconic series."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20221214T015020SQUARE.png_20221214015020.png"  group-title="Entertainment",  Cold Case Files (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBC390002256.m3u8
-#EXTINF:-1 channel-id="samsung-USBB3200018Q6"  tvg-id="USBB3200018Q6" tvg-country="us"   tvg-chno="1135"  tvg-name="Unsolved Mysteries" tvc-guide-title="Unsolved Mysteries"  tvc-guide-genres="Entertainment" tvc-guide-description="Hosted by Robert Stack, this series uses re-enactments and interviews to retell the circumstances of mysteries that remain unsolved. Covering crimes, tales of lost love, unexplained history and paranormal events."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200018Q6_20221109T013504SQUARE.png_20221109013504.png"  group-title="Entertainment",  Unsolved Mysteries (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB3200018Q6.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ3504547A"  tvg-id="USAJ3504547A" tvg-country="us"   tvg-chno="1136"  tvg-name="The New Detectives" tvc-guide-title="The New Detectives"  tvc-guide-genres="Entertainment" tvc-guide-description="The New Detectives profiles the work of world-renowned forensics experts and criminal investigators and the techniques they use to solve murders and other crimes."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504547A_20230131T052050SQUARE.png_20230131052051.png"  group-title="Entertainment",  The New Detectives (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USAJ3504547A.m3u8
-#EXTINF:-1 channel-id="samsung-USBC24000134A"  tvg-id="USBC24000134A" tvg-country="us"   tvg-chno="1137"  tvg-name="Midsomer Murders" tvc-guide-title="Midsomer Murders"  tvc-guide-genres="Entertainment" tvc-guide-description="In the UK's leading drama export, murder and mysteries are investigated by Detective Chief Inspector Barnaby in a quaint county with a staggering death toll."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000134A_20221214T015051SQUARE.png_20221214015052.png"  group-title="Entertainment",  Midsomer Murders (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBC24000134A.m3u8
-#EXTINF:-1 channel-id="samsung-USBB5200007BY"  tvg-id="USBB5200007BY" tvg-country="us"   tvg-chno="1138"  tvg-name="Dateline 24/7" tvc-guide-title="Dateline 24/7"  tvc-guide-genres="Entertainment" tvc-guide-description="Stream Dateline 24 hours a day, 7 days a week on the Dateline 24/7 channel. Discover true crime stories from The True Crime Original with current-season episodes and top picks from the Dateline archives. All Dateline, all the time."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200007BY_20230222T041303SQUARE.png_20230222041303.png"  group-title="Entertainment",  Dateline 24/7 (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB5200007BY.m3u8
-#EXTINF:-1 channel-id="samsung-USBB4400016F9"  tvg-id="USBB4400016F9" tvg-country="us"   tvg-chno="1230"  tvg-name="All-Out Reality" tvc-guide-title="All-Out Reality"  tvc-guide-genres="Entertainment" tvc-guide-description="Feed your guilty pleasures and binge a variety of reality shows on All-Out Reality."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20230809T005337SQUARE.png_20230809005338.png"  group-title="Entertainment",  All-Out Reality (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB4400016F9.m3u8
-#EXTINF:-1 channel-id="samsung-USBD3500031F3"  tvg-id="USBD3500031F3" tvg-country="us"   tvg-chno="1231"  tvg-name="Cheaters" tvc-guide-title="Cheaters"  tvc-guide-genres="Entertainment" tvc-guide-description="Cheaters"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500031F3_20231024T231646SQUARE.png_20231024231648.png"  group-title="Entertainment",  Cheaters (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD3500031F3.m3u8
-#EXTINF:-1 channel-id="samsung-USBB520002604"  tvg-id="USBB520002604" tvg-country="us"   tvg-chno="1232"  tvg-name="Perform" tvc-guide-title="Perform"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch these up-and-coming performers, and the icons they admire, as they strive to make it big and shine in the spotlight."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002604_20230809T005410SQUARE.png_20230809005411.png"  group-title="Entertainment",  Perform (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB520002604.m3u8
-#EXTINF:-1 channel-id="samsung-USBB52000246M"  tvg-id="USBB52000246M" tvg-country="us"   tvg-chno="1233"  tvg-name="Deal Zone" tvc-guide-title="Deal Zone"  tvc-guide-genres="Entertainment" tvc-guide-description="Go big or go home. Follow the hunt for the best deals around, with unforgettable pawns, antiques, auctions, and road trips."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20230614T000437SQUARE.png_20230614000438.png"  group-title="Entertainment",  Deal Zone (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB52000246M.m3u8
-#EXTINF:-1 channel-id="samsung-USBC6000219D"  tvg-id="USBC6000219D" tvg-country="us"   tvg-chno="1235"  tvg-name="Operation Repo" tvc-guide-title="Operation Repo"  tvc-guide-genres="Entertainment" tvc-guide-description="Get an inside look into the world of car repossession as a team of highly trained professionals take on fast-paced, high pressure situations in the heart of California’s San Fernando Valley."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20230809T005407SQUARE.png_20230809005408.png"  group-title="Entertainment",  Operation Repo (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBC6000219D.m3u8
-#EXTINF:-1 channel-id="samsung-USBD170000771"  tvg-id="USBD170000771" tvg-country="us"   tvg-chno="1236"  tvg-name="Little Women: LA" tvc-guide-title="Little Women: LA"  tvc-guide-genres="Entertainment" tvc-guide-description="With big personalities and even bigger dreams, these extraordinary women tackle life's challenges head-on"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD170000771_20231024T231721SQUARE.png_20231024231722.png"  group-title="Entertainment",  Little Women: LA (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD170000771.m3u8
-#EXTINF:-1 channel-id="samsung-USBC3900021HS"  tvg-id="USBC3900021HS" tvg-country="us"   tvg-chno="1237"  tvg-name="Dance Moms" tvc-guide-title="Dance Moms"  tvc-guide-genres="Entertainment" tvc-guide-description="Dance Moms presented by Lifetime features the drama and larger-than-life personalities of competitive dance."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20230809T005343SQUARE.png_20230809005344.png"  group-title="Entertainment",  Dance Moms (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBC3900021HS.m3u8
-#EXTINF:-1 channel-id="samsung-USBC440000193"  tvg-id="USBC440000193" tvg-country="us"   tvg-chno="1238"  tvg-name="Matched Married Meet" tvc-guide-title="Matched Married Meet"  tvc-guide-genres="Entertainment" tvc-guide-description="What happens when total strangers meet at the altar? Watch Married at First Sight all day, every day on Matched, Married, Meet presented by Lifetime."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440000193_20230809T005404SQUARE.png_20230809005405.png"  group-title="Entertainment",  Matched Married Meet (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBC440000193.m3u8
-#EXTINF:-1 channel-id="samsung-USBD12000061R"  tvg-id="USBD12000061R" tvg-country="us"   tvg-chno="1239"  tvg-name="All Reality WE tv" tvc-guide-title="All Reality WE tv"  tvc-guide-genres="Entertainment" tvc-guide-description="Real moments. Real stories. Real drama. If you love reality, you need All Reality WE tv!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20230627T214935SQUARE.png_20230627214936.png"  group-title="Entertainment",  All Reality WE tv (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD12000061R.m3u8
-#EXTINF:-1 channel-id="samsung-USBA3000042O6"  tvg-id="USBA3000042O6" tvg-country="us"   tvg-chno="1241"  tvg-name="Kitchen Nightmares" tvc-guide-title="Kitchen Nightmares"  tvc-guide-genres="Entertainment" tvc-guide-description="Chef Gordon Ramsay takes on America’s worst restaurants to help them turn their luck around. Kitchen Nightmares. All day. 24/7. This is one nightmare you won’t want to wake up from!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20220928T005202SQUARE.png_20220928005203.png"  group-title="Entertainment",  Kitchen Nightmares (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBA3000042O6.m3u8
-#EXTINF:-1 channel-id="samsung-USBA3000093U"  tvg-id="USBA3000093U" tvg-country="us"   tvg-chno="1245"  tvg-name="MTV Pluto TV" tvc-guide-title="MTV Pluto TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Take a dive into MTV’s classic hit programming on MTV Pluto, featuring the best of MTV’s reality & dating shows."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20230131T052036SQUARE.png_20230131052037.png"  group-title="Entertainment",  MTV Pluto TV (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
-#EXTINF:-1 channel-id="samsung-USBA300020WC"  tvg-id="USBA300020WC" tvg-country="us"   tvg-chno="1246"  tvg-name="Love & Hip Hop" tvc-guide-title="Love & Hip Hop"  tvc-guide-genres="Entertainment" tvc-guide-description="From the Big Apple to The A – classic episodes of VH1’s Love & Hip Hop, Love & Hip Hop New York and Love & Hip Hop Atlanta come together on Pluto TV. Watch hip hop artists live, learn, and love as they navigate the music industry."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300020WC_20230131T052031SQUARE.png_20230131052032.png"  group-title="Entertainment",  Love & Hip Hop (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBA300020WC.m3u8
-#EXTINF:-1 channel-id="samsung-USBD17000040J"  tvg-id="USBD17000040J" tvg-country="us"   tvg-chno="1247"  tvg-name="Bring It!" tvc-guide-title="Bring It!"  tvc-guide-genres="Entertainment" tvc-guide-description="Intense rehearsals, thrilling battles, and fierce rivalries.."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000040J_20230925T234737SQUARE.png_20230925234738.png"  group-title="Entertainment",  Bring It! (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD17000040J.m3u8
-#EXTINF:-1 channel-id="samsung-USBA300004TE"  tvg-id="USBA300004TE" tvg-country="us"   tvg-chno="1248"  tvg-name="Dallas Cowboys Cheer" tvc-guide-title="Dallas Cowboys Cheer"  tvc-guide-genres="Entertainment" tvc-guide-description="Each season, hundreds will audition but only the best-of-the-best have what it takes to earn a spot on this elite team. See who has what it takes to wear the stars on CMT’s Dallas Cowboys Cheerleaders: Making the Team."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20230125T022450SQUARE.png_20230125022451.png"  group-title="Entertainment",  Dallas Cowboys Cheer (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBA300004TE.m3u8
-#EXTINF:-1 channel-id="samsung-USBD1200005XR"  tvg-id="USBD1200005XR" tvg-country="us"   tvg-chno="1250"  tvg-name="All Weddings WE tv" tvc-guide-title="All Weddings WE tv"  tvc-guide-genres="Entertainment" tvc-guide-description="Brides. Bling. Drama! If you love weddings, then say “I Do” to All Weddings WE tv."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200005XR_20230809T005334SQUARE.png_20230809005335.png"  group-title="Entertainment",  All Weddings WE tv (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD1200005XR.m3u8
-#EXTINF:-1 channel-id="samsung-USBA300022JX"  tvg-id="USBA300022JX" tvg-country="us"   tvg-chno="1251"  tvg-name="INFAST" tvc-guide-title="INFAST"  tvc-guide-genres="Entertainment" tvc-guide-description="INFAST blends the best of entertainment, lifestyle, and storytelling, serving iconic and far flung adventures, from influencers and disruptors around the world challenging the status quo."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20230809T005213SQUARE.png_20230809005214.png"  group-title="Entertainment",  INFAST (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBA300022JX.m3u8
-#EXTINF:-1 channel-id="samsung-USBD2700014QW"  tvg-id="USBD2700014QW" tvg-country="us"   tvg-chno="1003"  tvg-name="Forged In Fire" tvc-guide-title="Forged In Fire"  tvc-guide-genres="Entertainment" tvc-guide-description="Witness world-class bladesmiths battle fire, time, and each other to forge some of history's most iconic edged weapons. From the mighty Viking sword to the Japanese katana, every episode is an epic competition of skill and steel."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20231031T225147SQUARE.png_20231031225148.png"  group-title="Entertainment",  Forged In Fire (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD2700014QW.m3u8
-#EXTINF:-1 channel-id="samsung-USBB2900002Z7"  tvg-id="USBB2900002Z7" tvg-country="us"   tvg-chno="1351"  tvg-name="Hell's Kitchen" tvc-guide-title="Hell's Kitchen"  tvc-guide-genres="Entertainment" tvc-guide-description="Hosted by Gordon Ramsay, chefs compete against one another in a fierce reality cooking competition set in Ramsay’s Las Vegas restaurant of the same name. The last chef standing will become head chef. Who will it be?"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20230823T001612SQUARE.png_20230823001613.png"  group-title="Entertainment",  Hell's Kitchen (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB2900002Z7.m3u8
-#EXTINF:-1 channel-id="samsung-USBB2300002Q6"  tvg-id="USBB2300002Q6" tvg-country="us"   tvg-chno="1352"  tvg-name="Fear Factor" tvc-guide-title="Fear Factor"  tvc-guide-genres="Entertainment" tvc-guide-description="Hosted by Joe Rogan, contestants must decide if they have the guts and determination to face their fears while outpacing the competition."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300002Q6_20230809T005154SQUARE.png_20230809005155.png"  group-title="Entertainment",  Fear Factor (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB2300002Q6.m3u8
-#EXTINF:-1 channel-id="samsung-USBD1700006T2"  tvg-id="USBD1700006T2" tvg-country="us"   tvg-chno="1353"  tvg-name="Storage Wars: LA" tvc-guide-title="Storage Wars: LA"  tvc-guide-genres="Entertainment" tvc-guide-description="Pros have a chance to strike it rich with left behind treasures – or to wind up with nothing but junk."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20230823T183912SQUARE.png_20230823183914.png"  group-title="Entertainment",  Storage Wars: LA (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD1700006T2.m3u8
-#EXTINF:-1 channel-id="samsung-USBD27000156I"  tvg-id="USBD27000156I" tvg-country="us"   tvg-chno="1354"  tvg-name="Alone By History" tvc-guide-title="Alone By History"  tvc-guide-genres="Entertainment" tvc-guide-description="The ultimate test of survival. Stranded in the wilderness, brave contestants battle the elements, hunger and isolation. Armed only with their skill and limited supplies, they push their physical and mental limits to survive against all odds."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20231031T225124SQUARE.png_20231031225125.png"  group-title="Entertainment",  Alone By History (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD27000156I.m3u8
-#EXTINF:-1 channel-id="samsung-USBB520002173"  tvg-id="USBB520002173" tvg-country="us"   tvg-chno="1356"  tvg-name="Ice Road Truckers" tvc-guide-title="Ice Road Truckers"  tvc-guide-genres="Entertainment" tvc-guide-description="Ice Road Truckers…At the top of the world, there’s a job only a few would dare! 24/7 episodes of the legendary series."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20230809T005401SQUARE.png_20230809005402.png"  group-title="Entertainment",  Ice Road Truckers (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB520002173.m3u8
-#EXTINF:-1 channel-id="samsung-USBB4400018LR"  tvg-id="USBB4400018LR" tvg-country="us"   tvg-chno="1357"  tvg-name="Wipeout Xtra" tvc-guide-title="Wipeout Xtra"  tvc-guide-genres="Entertainment" tvc-guide-description="The home of physical and exciting gameshows including Wipeout, where you can witness unexpected challenges."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400018LR_20231011T001234SQUARE.png_20231011001235.png"  group-title="Entertainment",  Wipeout Xtra (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB4400018LR.m3u8
-#EXTINF:-1 channel-id="samsung-USBB3500001O6"  tvg-id="USBB3500001O6" tvg-country="us"   tvg-chno="1358"  tvg-name="The Challenge" tvc-guide-title="The Challenge"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch all the death-defying battles, amazing competitions and ruthless gameplay on MTV's The Challenge, where competitors deal with hell on earth—and each other—to win big bucks."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500001O6_20230809T005259SQUARE.png_20230809005300.png"  group-title="Entertainment",  The Challenge (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB3500001O6.m3u8
-#EXTINF:-1 channel-id="samsung-USBB3500004RC"  tvg-id="USBB3500004RC" tvg-country="us"   tvg-chno="1360"  tvg-name="Project Runway" tvc-guide-title="Project Runway"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch Project Runway and Project Runway All Stars where aspiring fashion designers compete for a chance to break into the industry, featuring supermodel Heidi Klum, Tim Gunn and guest judges."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500004RC_20230809T005244SQUARE.png_20230809005245.png"  group-title="Entertainment",  Project Runway (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB3500004RC.m3u8
-#EXTINF:-1 channel-id="samsung-USBC440001542"  tvg-id="USBC440001542" tvg-country="us"   tvg-chno="1361"  tvg-name="The Biggest Loser" tvc-guide-title="The Biggest Loser"  tvc-guide-genres="Entertainment" tvc-guide-description="Jump in and watch The Biggest Loser 24/7 as overweight contestants transform mentally and physically, competing to lose weight and win a cash prize."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440001542_20230809T005415SQUARE.png_20230809005416.png"  group-title="Entertainment",  The Biggest Loser (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBC440001542.m3u8
-#EXTINF:-1 channel-id="samsung-USBA30003672"  tvg-id="USBA30003672" tvg-country="us"   tvg-chno="1367"  tvg-name="IGN" tvc-guide-title="IGN"  tvc-guide-genres="Entertainment" tvc-guide-description="Your #1 destination for video game and entertainment news and discussions, reviews, Let's Plays, walkthroughs, and more!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30003672_20230809T005210SQUARE.png_20230809005211.png"  group-title="Entertainment",  IGN (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBA30003672.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ3504531A"  tvg-id="USAJ3504531A" tvg-country="us"   tvg-chno="1369"  tvg-name="Pluto TV Pixel World" tvc-guide-title="Pluto TV Pixel World"  tvc-guide-genres="Entertainment" tvc-guide-description="Pluto TV Pixel World brings you giant blocks of all things Minecraft! Explore some of the wildest mods ever built and tag along with top gamers like Thinknoodles and PrestonPlayz. Don’t miss the excitement on Pluto TV Pixel World!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20230809T005241SQUARE.png_20230809005242.png"  group-title="Entertainment",  Pluto TV Pixel World (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USAJ3504531A.m3u8
-#EXTINF:-1 channel-id="samsung-USBD700021WG"  tvg-id="USBD700021WG" tvg-country="us"   tvg-chno="1139"  tvg-name="BUZZR" tvc-guide-title="BUZZR"  tvc-guide-genres="Entertainment" tvc-guide-description="BUZZR is the place for cool, vintage game shows, where viewers can play along to see how smart they are or just relax and enjoy the excitement, drama and fun that watching game shows on BUZZR brings."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700021WG_20230426T030437SQUARE.png_20230426030437.png"  group-title="Entertainment",  BUZZR (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBD700021WG.m3u8
-#EXTINF:-1 channel-id="samsung-USBC4400017KZ"  tvg-id="USBC4400017KZ" tvg-country="us"   tvg-chno="1140"  tvg-name="The Price is Right" tvc-guide-title="The Price is Right"  tvc-guide-genres="Entertainment" tvc-guide-description="Television's longest-running game show, featuring host Bob Barker, where audience members try to win cash and prizes."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400017KZ_20230222T041515SQUARE.png_20230222041515.png"  group-title="Entertainment",  The Price is Right (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBC4400017KZ.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ3400012FA"  tvg-id="USAJ3400012FA" tvg-country="us"   tvg-chno="1141"  tvg-name="Game Show Central" tvc-guide-title="Game Show Central"  tvc-guide-genres="Entertainment" tvc-guide-description="Game Show Central is a channel of fast, fun game show programming with something for everyone. From trivia to word puzzles, physical games to outrageous competitions, we offer round-the-clock beat-the-clock entertainment."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400012FA_20220525T030137SQUARE.png_20220525030137.png"  group-title="Entertainment",  Game Show Central (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USAJ3400012FA.m3u8
-#EXTINF:-1 channel-id="samsung-USBC44000087O"  tvg-id="USBC44000087O" tvg-country="us"   tvg-chno="1142"  tvg-name="Supermarket Sweep" tvc-guide-title="Supermarket Sweep"  tvc-guide-genres="Entertainment" tvc-guide-description="Contestants earn time by playing grocery pricing games. Then, use that time to run wild through the aisles grabbing everything they can fit into their cart. The team that gathers the most groceries wins!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000087O_20230125T022109SQUARE.png_20230125022109.png"  group-title="Entertainment",  Supermarket Sweep (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBC44000087O.m3u8
-#EXTINF:-1 channel-id="samsung-USBB4400017N3"  tvg-id="USBB4400017N3" tvg-country="us"   tvg-chno="1143"  tvg-name="Deal or No Deal" tvc-guide-title="Deal or No Deal"  tvc-guide-genres="Entertainment" tvc-guide-description="Deal Or No Deal is the ground breaking hit game show where contestants play and deal for a top cash prize in a contest of nerves, luck and raw intuition."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400017N3_20231024T231653SQUARE.png_20231024231654.png"  group-title="Entertainment",  Deal or No Deal (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBB4400017N3.m3u8
-#EXTINF:-1 channel-id="samsung-USBA3000100X"  tvg-id="USBA3000100X" tvg-country="us"   tvg-chno="1147"  tvg-name="Wild 'N Out" tvc-guide-title="Wild 'N Out"  tvc-guide-genres="Entertainment" tvc-guide-description="MTV’s Wild 'N Out channel gives you the best of the hit comedy gameshow, one battle at a time. Join Nick Cannon and his comedic sidekicks as they throw down their sharpest, wittiest and quickest jokes all improvised on the spot."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000100X_20230131T052057SQUARE.png_20230131052057.png"  group-title="Entertainment",  Wild 'N Out (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://i.mjh.nz/SamsungTVPlus/USBA3000100X.m3u8
 #EXTINF:-1 channel-id="samsung-USBD7000017L"  tvg-id="USBD7000017L" tvg-country="us"   tvg-chno="1253"  tvg-name="AMC en Español" tvc-guide-title="AMC en Español"  tvc-guide-genres="Entertainment" tvc-guide-description="AMC en Español tiene tus historias y personajes favoritos. Disfruta de programas aclamados por la crítica, 100% en español."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20230523T230719SQUARE.png_20230523230720.png"  group-title="Entertainment",  AMC en Español (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -1796,6 +1652,150 @@ https://i.mjh.nz/SamsungTVPlus/USBA3800001E0.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/USAJ1700009QJ.m3u8
+#EXTINF:-1 channel-id="samsung-USAK3508703A"  tvg-id="USAK3508703A" tvg-country="us"   tvg-chno="1114"  tvg-name="Crime 360" tvc-guide-title="Crime 360"  tvc-guide-genres="Entertainment" tvc-guide-description="Crime 360, your true crime destination covering all sides of crime with an award-winning slate of premium series including true crime specials and documentaries, on the case investigations and classic crime, all the time."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508703A_20230731T021930SQUARE.png_20230731021931.png"  group-title="Entertainment",  Crime 360 (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USAK3508703A.m3u8
+#EXTINF:-1 channel-id="samsung-USBD1700008H9"  tvg-id="USBD1700008H9" tvg-country="us"   tvg-chno="1115"  tvg-name="I Survived…" tvc-guide-title="I Survived…"  tvc-guide-genres="Entertainment" tvc-guide-description="Gripping and harrowing, these are the unforgettable stories of people who overcame the odds and made it out alive."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700008H9_20231011T001220SQUARE.png_20231011001221.png"  group-title="Entertainment",  I Survived… (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBD1700008H9.m3u8
+#EXTINF:-1 channel-id="samsung-USBC1000002NP"  tvg-id="USBC1000002NP" tvg-country="us"   tvg-chno="1121"  tvg-name="World’s Most Evil Killers" tvc-guide-title="World’s Most Evil Killers"  tvc-guide-genres="Entertainment" tvc-guide-description="A whole channel dedicated to the lives and crimes of some of the World's Most Evil Killers like Jeffrey Dahmer, Richard Ramirez, Dorothea Puente and more."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20230823T001630SQUARE.png_20230823001631.png"  group-title="Entertainment",  World’s Most Evil Killers (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBC1000002NP.m3u8
+#EXTINF:-1 channel-id="samsung-USBB52000236D"  tvg-id="USBB52000236D" tvg-country="us"   tvg-chno="1127"  tvg-name="Crime ThrillHer" tvc-guide-title="Crime ThrillHer"  tvc-guide-genres="Entertainment" tvc-guide-description="Dive into the unimaginable with hair-raising thrillers, cautionary tales and ripped-from-the-headlines movies."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000236D_20221214T015024SQUARE.png_20221214015024.png"  group-title="Entertainment",  Crime ThrillHer (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB52000236D.m3u8
+#EXTINF:-1 channel-id="samsung-USBB3200004X3"  tvg-id="USBB3200004X3" tvg-country="us"   tvg-chno="1128"  tvg-name="Dr. G: Medical Examiner" tvc-guide-title="Dr. G: Medical Examiner"  tvc-guide-genres="Entertainment" tvc-guide-description="Renowned coroner Dr. Jan Garavaglia examines mysterious cases featuring dramatic re-enactments of events leading up to the person's death."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200004X3_20221109T013413SQUARE.png_20221109013413.png"  group-title="Entertainment",  Dr. G: Medical Examiner (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB3200004X3.m3u8
+#EXTINF:-1 channel-id="samsung-USBB5200022PY"  tvg-id="USBB5200022PY" tvg-country="us"   tvg-chno="1129"  tvg-name="Crimes Cults Killers" tvc-guide-title="Crimes Cults Killers"  tvc-guide-genres="Entertainment" tvc-guide-description="Explore the dark minds of serial killers, cult leaders, and the most infamous criminal cases you can’t stop thinking about. The shocking stories behind Jeffrey Dahmer, Jim Jones, John Gotti, and many more will be revealed."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200022PY_20231024T234717SQUARE.png_20231024234719.png"  group-title="Entertainment",  Crimes Cults Killers (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB5200022PY.m3u8
+#EXTINF:-1 channel-id="samsung-USBB3200017MY"  tvg-id="USBB3200017MY" tvg-country="us"   tvg-chno="1131"  tvg-name="Forensic Files" tvc-guide-title="Forensic Files"  tvc-guide-genres="Entertainment" tvc-guide-description="Evidence and interviews with experts help solve real crimes, disease outbreaks and accidents around the world."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20221026T004941SQUARE.png_20221026004941.png"  group-title="Entertainment",  Forensic Files (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB3200017MY.m3u8
+#EXTINF:-1 channel-id="samsung-USAK3508710A"  tvg-id="USAK3508710A" tvg-country="us"   tvg-chno="1132"  tvg-name="Law & Crime" tvc-guide-title="Law & Crime"  tvc-guide-genres="Entertainment" tvc-guide-description="From the high-profile cases to the most compelling local trials, Law & Crime features daily trial coverage from around the country along with expert legal commentary and analysis. Original programs include The Daily Debrief and Brian Ross Investigates."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508710A_20230125T022223SQUARE.png_20230125022224.png"  group-title="Entertainment",  Law & Crime (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USAK3508710A.m3u8
+#EXTINF:-1 channel-id="samsung-USBA34000049Z"  tvg-id="USBA34000049Z" tvg-country="us"   tvg-chno="1133"  tvg-name="Court TV" tvc-guide-title="Court TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Court TV is the premiere legal news network, devoted to live gavel-to-gavel coverage, in-depth legal reporting and expert analysis of the nation’s most compelling trials."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20230912T232542SQUARE.png_20230912232543.png"  group-title="Entertainment",  Court TV (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBA34000049Z.m3u8
+#EXTINF:-1 channel-id="samsung-USBC390002256"  tvg-id="USBC390002256" tvg-country="us"   tvg-chno="1134"  tvg-name="Cold Case Files" tvc-guide-title="Cold Case Files"  tvc-guide-genres="Entertainment" tvc-guide-description="There are over 100,000 cold cases in America. Only about 1% are solved. Cold Case Files presented by A&E tells the stories of those who never gave up searching for answers - and finally found justice. Get 24/7 access to this iconic series."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20221214T015020SQUARE.png_20221214015020.png"  group-title="Entertainment",  Cold Case Files (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBC390002256.m3u8
+#EXTINF:-1 channel-id="samsung-USBB3200018Q6"  tvg-id="USBB3200018Q6" tvg-country="us"   tvg-chno="1135"  tvg-name="Unsolved Mysteries" tvc-guide-title="Unsolved Mysteries"  tvc-guide-genres="Entertainment" tvc-guide-description="Hosted by Robert Stack, this series uses re-enactments and interviews to retell the circumstances of mysteries that remain unsolved. Covering crimes, tales of lost love, unexplained history and paranormal events."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200018Q6_20221109T013504SQUARE.png_20221109013504.png"  group-title="Entertainment",  Unsolved Mysteries (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB3200018Q6.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ3504547A"  tvg-id="USAJ3504547A" tvg-country="us"   tvg-chno="1136"  tvg-name="The New Detectives" tvc-guide-title="The New Detectives"  tvc-guide-genres="Entertainment" tvc-guide-description="The New Detectives profiles the work of world-renowned forensics experts and criminal investigators and the techniques they use to solve murders and other crimes."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504547A_20230131T052050SQUARE.png_20230131052051.png"  group-title="Entertainment",  The New Detectives (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USAJ3504547A.m3u8
+#EXTINF:-1 channel-id="samsung-USBC24000134A"  tvg-id="USBC24000134A" tvg-country="us"   tvg-chno="1137"  tvg-name="Midsomer Murders" tvc-guide-title="Midsomer Murders"  tvc-guide-genres="Entertainment" tvc-guide-description="In the UK's leading drama export, murder and mysteries are investigated by Detective Chief Inspector Barnaby in a quaint county with a staggering death toll."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000134A_20221214T015051SQUARE.png_20221214015052.png"  group-title="Entertainment",  Midsomer Murders (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBC24000134A.m3u8
+#EXTINF:-1 channel-id="samsung-USBB5200007BY"  tvg-id="USBB5200007BY" tvg-country="us"   tvg-chno="1138"  tvg-name="Dateline 24/7" tvc-guide-title="Dateline 24/7"  tvc-guide-genres="Entertainment" tvc-guide-description="Stream Dateline 24 hours a day, 7 days a week on the Dateline 24/7 channel. Discover true crime stories from The True Crime Original with current-season episodes and top picks from the Dateline archives. All Dateline, all the time."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200007BY_20230222T041303SQUARE.png_20230222041303.png"  group-title="Entertainment",  Dateline 24/7 (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB5200007BY.m3u8
+#EXTINF:-1 channel-id="samsung-USBD700021WG"  tvg-id="USBD700021WG" tvg-country="us"   tvg-chno="1139"  tvg-name="BUZZR" tvc-guide-title="BUZZR"  tvc-guide-genres="Entertainment" tvc-guide-description="BUZZR is the place for cool, vintage game shows, where viewers can play along to see how smart they are or just relax and enjoy the excitement, drama and fun that watching game shows on BUZZR brings."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700021WG_20230426T030437SQUARE.png_20230426030437.png"  group-title="Entertainment",  BUZZR (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBD700021WG.m3u8
+#EXTINF:-1 channel-id="samsung-USBC4400017KZ"  tvg-id="USBC4400017KZ" tvg-country="us"   tvg-chno="1140"  tvg-name="The Price is Right" tvc-guide-title="The Price is Right"  tvc-guide-genres="Entertainment" tvc-guide-description="Television's longest-running game show, featuring host Bob Barker, where audience members try to win cash and prizes."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400017KZ_20230222T041515SQUARE.png_20230222041515.png"  group-title="Entertainment",  The Price is Right (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBC4400017KZ.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ3400012FA"  tvg-id="USAJ3400012FA" tvg-country="us"   tvg-chno="1141"  tvg-name="Game Show Central" tvc-guide-title="Game Show Central"  tvc-guide-genres="Entertainment" tvc-guide-description="Game Show Central is a channel of fast, fun game show programming with something for everyone. From trivia to word puzzles, physical games to outrageous competitions, we offer round-the-clock beat-the-clock entertainment."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400012FA_20220525T030137SQUARE.png_20220525030137.png"  group-title="Entertainment",  Game Show Central (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USAJ3400012FA.m3u8
+#EXTINF:-1 channel-id="samsung-USBC44000087O"  tvg-id="USBC44000087O" tvg-country="us"   tvg-chno="1142"  tvg-name="Supermarket Sweep" tvc-guide-title="Supermarket Sweep"  tvc-guide-genres="Entertainment" tvc-guide-description="Contestants earn time by playing grocery pricing games. Then, use that time to run wild through the aisles grabbing everything they can fit into their cart. The team that gathers the most groceries wins!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000087O_20230125T022109SQUARE.png_20230125022109.png"  group-title="Entertainment",  Supermarket Sweep (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBC44000087O.m3u8
+#EXTINF:-1 channel-id="samsung-USBB4400017N3"  tvg-id="USBB4400017N3" tvg-country="us"   tvg-chno="1143"  tvg-name="Deal or No Deal" tvc-guide-title="Deal or No Deal"  tvc-guide-genres="Entertainment" tvc-guide-description="Deal Or No Deal is the ground breaking hit game show where contestants play and deal for a top cash prize in a contest of nerves, luck and raw intuition."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400017N3_20231024T231653SQUARE.png_20231024231654.png"  group-title="Entertainment",  Deal or No Deal (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB4400017N3.m3u8
+#EXTINF:-1 channel-id="samsung-USBA3000100X"  tvg-id="USBA3000100X" tvg-country="us"   tvg-chno="1147"  tvg-name="Wild 'N Out" tvc-guide-title="Wild 'N Out"  tvc-guide-genres="Entertainment" tvc-guide-description="MTV’s Wild 'N Out channel gives you the best of the hit comedy gameshow, one battle at a time. Join Nick Cannon and his comedic sidekicks as they throw down their sharpest, wittiest and quickest jokes all improvised on the spot."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000100X_20230131T052057SQUARE.png_20230131052057.png"  group-title="Entertainment",  Wild 'N Out (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBA3000100X.m3u8
+#EXTINF:-1 channel-id="samsung-USBB4400016F9"  tvg-id="USBB4400016F9" tvg-country="us"   tvg-chno="1230"  tvg-name="All-Out Reality" tvc-guide-title="All-Out Reality"  tvc-guide-genres="Entertainment" tvc-guide-description="Feed your guilty pleasures and binge a variety of reality shows on All-Out Reality."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20230809T005337SQUARE.png_20230809005338.png"  group-title="Entertainment",  All-Out Reality (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB4400016F9.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3500031F3"  tvg-id="USBD3500031F3" tvg-country="us"   tvg-chno="1231"  tvg-name="Cheaters" tvc-guide-title="Cheaters"  tvc-guide-genres="Entertainment" tvc-guide-description="Cheaters"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500031F3_20231024T231646SQUARE.png_20231024231648.png"  group-title="Entertainment",  Cheaters (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBD3500031F3.m3u8
+#EXTINF:-1 channel-id="samsung-USBB520002604"  tvg-id="USBB520002604" tvg-country="us"   tvg-chno="1232"  tvg-name="Perform" tvc-guide-title="Perform"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch these up-and-coming performers, and the icons they admire, as they strive to make it big and shine in the spotlight."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002604_20230809T005410SQUARE.png_20230809005411.png"  group-title="Entertainment",  Perform (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB520002604.m3u8
+#EXTINF:-1 channel-id="samsung-USBB52000246M"  tvg-id="USBB52000246M" tvg-country="us"   tvg-chno="1233"  tvg-name="Deal Zone" tvc-guide-title="Deal Zone"  tvc-guide-genres="Entertainment" tvc-guide-description="Go big or go home. Follow the hunt for the best deals around, with unforgettable pawns, antiques, auctions, and road trips."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20230614T000437SQUARE.png_20230614000438.png"  group-title="Entertainment",  Deal Zone (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB52000246M.m3u8
+#EXTINF:-1 channel-id="samsung-USBC6000219D"  tvg-id="USBC6000219D" tvg-country="us"   tvg-chno="1235"  tvg-name="Operation Repo" tvc-guide-title="Operation Repo"  tvc-guide-genres="Entertainment" tvc-guide-description="Get an inside look into the world of car repossession as a team of highly trained professionals take on fast-paced, high pressure situations in the heart of California’s San Fernando Valley."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20230809T005407SQUARE.png_20230809005408.png"  group-title="Entertainment",  Operation Repo (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBC6000219D.m3u8
+#EXTINF:-1 channel-id="samsung-USBD170000771"  tvg-id="USBD170000771" tvg-country="us"   tvg-chno="1236"  tvg-name="Little Women: LA" tvc-guide-title="Little Women: LA"  tvc-guide-genres="Entertainment" tvc-guide-description="With big personalities and even bigger dreams, these extraordinary women tackle life's challenges head-on"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD170000771_20231024T231721SQUARE.png_20231024231722.png"  group-title="Entertainment",  Little Women: LA (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBD170000771.m3u8
+#EXTINF:-1 channel-id="samsung-USBC3900021HS"  tvg-id="USBC3900021HS" tvg-country="us"   tvg-chno="1237"  tvg-name="Dance Moms" tvc-guide-title="Dance Moms"  tvc-guide-genres="Entertainment" tvc-guide-description="Dance Moms presented by Lifetime features the drama and larger-than-life personalities of competitive dance."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20230809T005343SQUARE.png_20230809005344.png"  group-title="Entertainment",  Dance Moms (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBC3900021HS.m3u8
+#EXTINF:-1 channel-id="samsung-USBC440000193"  tvg-id="USBC440000193" tvg-country="us"   tvg-chno="1238"  tvg-name="Matched Married Meet" tvc-guide-title="Matched Married Meet"  tvc-guide-genres="Entertainment" tvc-guide-description="What happens when total strangers meet at the altar? Watch Married at First Sight all day, every day on Matched, Married, Meet presented by Lifetime."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440000193_20230809T005404SQUARE.png_20230809005405.png"  group-title="Entertainment",  Matched Married Meet (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBC440000193.m3u8
+#EXTINF:-1 channel-id="samsung-USBD12000061R"  tvg-id="USBD12000061R" tvg-country="us"   tvg-chno="1239"  tvg-name="All Reality WE tv" tvc-guide-title="All Reality WE tv"  tvc-guide-genres="Entertainment" tvc-guide-description="Real moments. Real stories. Real drama. If you love reality, you need All Reality WE tv!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20230627T214935SQUARE.png_20230627214936.png"  group-title="Entertainment",  All Reality WE tv (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBD12000061R.m3u8
+#EXTINF:-1 channel-id="samsung-USBA3000042O6"  tvg-id="USBA3000042O6" tvg-country="us"   tvg-chno="1241"  tvg-name="Kitchen Nightmares" tvc-guide-title="Kitchen Nightmares"  tvc-guide-genres="Entertainment" tvc-guide-description="Chef Gordon Ramsay takes on America’s worst restaurants to help them turn their luck around. Kitchen Nightmares. All day. 24/7. This is one nightmare you won’t want to wake up from!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20220928T005202SQUARE.png_20220928005203.png"  group-title="Entertainment",  Kitchen Nightmares (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBA3000042O6.m3u8
+#EXTINF:-1 channel-id="samsung-USBA3000093U"  tvg-id="USBA3000093U" tvg-country="us"   tvg-chno="1245"  tvg-name="MTV Pluto TV" tvc-guide-title="MTV Pluto TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Take a dive into MTV’s classic hit programming on MTV Pluto, featuring the best of MTV’s reality & dating shows."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20230131T052036SQUARE.png_20230131052037.png"  group-title="Entertainment",  MTV Pluto TV (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
+#EXTINF:-1 channel-id="samsung-USBA300020WC"  tvg-id="USBA300020WC" tvg-country="us"   tvg-chno="1246"  tvg-name="Love & Hip Hop" tvc-guide-title="Love & Hip Hop"  tvc-guide-genres="Entertainment" tvc-guide-description="From the Big Apple to The A – classic episodes of VH1’s Love & Hip Hop, Love & Hip Hop New York and Love & Hip Hop Atlanta come together on Pluto TV. Watch hip hop artists live, learn, and love as they navigate the music industry."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300020WC_20230131T052031SQUARE.png_20230131052032.png"  group-title="Entertainment",  Love & Hip Hop (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBA300020WC.m3u8
+#EXTINF:-1 channel-id="samsung-USBD17000040J"  tvg-id="USBD17000040J" tvg-country="us"   tvg-chno="1247"  tvg-name="Bring It!" tvc-guide-title="Bring It!"  tvc-guide-genres="Entertainment" tvc-guide-description="Intense rehearsals, thrilling battles, and fierce rivalries.."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000040J_20230925T234737SQUARE.png_20230925234738.png"  group-title="Entertainment",  Bring It! (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBD17000040J.m3u8
+#EXTINF:-1 channel-id="samsung-USBA300004TE"  tvg-id="USBA300004TE" tvg-country="us"   tvg-chno="1248"  tvg-name="Dallas Cowboys Cheer" tvc-guide-title="Dallas Cowboys Cheer"  tvc-guide-genres="Entertainment" tvc-guide-description="Each season, hundreds will audition but only the best-of-the-best have what it takes to earn a spot on this elite team. See who has what it takes to wear the stars on CMT’s Dallas Cowboys Cheerleaders: Making the Team."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20230125T022450SQUARE.png_20230125022451.png"  group-title="Entertainment",  Dallas Cowboys Cheer (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBA300004TE.m3u8
+#EXTINF:-1 channel-id="samsung-USBD1200005XR"  tvg-id="USBD1200005XR" tvg-country="us"   tvg-chno="1250"  tvg-name="All Weddings WE tv" tvc-guide-title="All Weddings WE tv"  tvc-guide-genres="Entertainment" tvc-guide-description="Brides. Bling. Drama! If you love weddings, then say “I Do” to All Weddings WE tv."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200005XR_20230809T005334SQUARE.png_20230809005335.png"  group-title="Entertainment",  All Weddings WE tv (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBD1200005XR.m3u8
+#EXTINF:-1 channel-id="samsung-USBA300022JX"  tvg-id="USBA300022JX" tvg-country="us"   tvg-chno="1251"  tvg-name="INFAST" tvc-guide-title="INFAST"  tvc-guide-genres="Entertainment" tvc-guide-description="INFAST blends the best of entertainment, lifestyle, and storytelling, serving iconic and far flung adventures, from influencers and disruptors around the world challenging the status quo."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20230809T005213SQUARE.png_20230809005214.png"  group-title="Entertainment",  INFAST (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBA300022JX.m3u8
 #EXTINF:-1 channel-id="samsung-USBC1300012VK"  tvg-id="USBC1300012VK" tvg-country="us"   tvg-chno="1425"  tvg-name="Fear Zone" tvc-guide-title="Fear Zone"  tvc-guide-genres="Entertainment" tvc-guide-description="Your gateway to the chilling world of all things scary and unexplained! Prepare to be terrified with a 24/7 channel that delves into the root of all your fears."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20231031T225127SQUARE.png_20231031225128.png"  group-title="Entertainment",  Fear Zone (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -1844,14 +1844,62 @@ https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://i.mjh.nz/SamsungTVPlus/USBD700015LK.m3u8
-#EXTINF:-1 channel-id="samsung-USBD270001633"  tvg-id="USBD270001633" tvg-country="us"   tvg-chno="1455"  tvg-name="Hallmark Movies & More" tvc-guide-title="Hallmark Movies & More"  tvc-guide-genres="Movies" tvc-guide-description="Hallmark Movies & More is your home for movies, series & specials from the Hallmark library."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20230925T234754SQUARE.png_20230925234755.png"  group-title="Movies",  Hallmark Movies & More (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://i.mjh.nz/SamsungTVPlus/USBD270001633.m3u8
-#EXTINF:-1 channel-id="samsung-USBB5200019FO"  tvg-id="USBB5200019FO" tvg-country="us"   tvg-chno="1456"  tvg-name="Movie Favorites by Lifetime" tvc-guide-title="Movie Favorites by Lifetime"  tvc-guide-genres="Movies" tvc-guide-description="Lifetime movies all day, from psychological thrillers to seductive love stories."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20230509T224440SQUARE.png_20230509224441.png"  group-title="Movies",  Movie Favorites by Lifetime (1080p)
+#EXTINF:-1 channel-id="samsung-USBB2900002Z7"  tvg-id="USBB2900002Z7" tvg-country="us"   tvg-chno="1351"  tvg-name="Hell's Kitchen" tvc-guide-title="Hell's Kitchen"  tvc-guide-genres="Entertainment" tvc-guide-description="Hosted by Gordon Ramsay, chefs compete against one another in a fierce reality cooking competition set in Ramsay’s Las Vegas restaurant of the same name. The last chef standing will become head chef. Who will it be?"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20230823T001612SQUARE.png_20230823001613.png"  group-title="Entertainment",  Hell's Kitchen (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB2900002Z7.m3u8
+#EXTINF:-1 channel-id="samsung-USBB2300002Q6"  tvg-id="USBB2300002Q6" tvg-country="us"   tvg-chno="1352"  tvg-name="Fear Factor" tvc-guide-title="Fear Factor"  tvc-guide-genres="Entertainment" tvc-guide-description="Hosted by Joe Rogan, contestants must decide if they have the guts and determination to face their fears while outpacing the competition."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300002Q6_20230809T005154SQUARE.png_20230809005155.png"  group-title="Entertainment",  Fear Factor (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB2300002Q6.m3u8
+#EXTINF:-1 channel-id="samsung-USBD1700006T2"  tvg-id="USBD1700006T2" tvg-country="us"   tvg-chno="1353"  tvg-name="Storage Wars: LA" tvc-guide-title="Storage Wars: LA"  tvc-guide-genres="Entertainment" tvc-guide-description="Pros have a chance to strike it rich with left behind treasures – or to wind up with nothing but junk."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20230823T183912SQUARE.png_20230823183914.png"  group-title="Entertainment",  Storage Wars: LA (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBD1700006T2.m3u8
+#EXTINF:-1 channel-id="samsung-USBD27000156I"  tvg-id="USBD27000156I" tvg-country="us"   tvg-chno="1354"  tvg-name="Alone By History" tvc-guide-title="Alone By History"  tvc-guide-genres="Entertainment" tvc-guide-description="The ultimate test of survival. Stranded in the wilderness, brave contestants battle the elements, hunger and isolation. Armed only with their skill and limited supplies, they push their physical and mental limits to survive against all odds."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20231031T225124SQUARE.png_20231031225125.png"  group-title="Entertainment",  Alone By History (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBD27000156I.m3u8
+#EXTINF:-1 channel-id="samsung-USBD2700014QW"  tvg-id="USBD2700014QW" tvg-country="us"   tvg-chno="1355"  tvg-name="Forged In Fire" tvc-guide-title="Forged In Fire"  tvc-guide-genres="Entertainment" tvc-guide-description="Witness world-class bladesmiths battle fire, time, and each other to forge some of history's most iconic edged weapons. From the mighty Viking sword to the Japanese katana, every episode is an epic competition of skill and steel."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20231114T233454SQUARE.png_20231114233455.png"  group-title="Entertainment",  Forged In Fire (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBD2700014QW.m3u8
+#EXTINF:-1 channel-id="samsung-USBB520002173"  tvg-id="USBB520002173" tvg-country="us"   tvg-chno="1356"  tvg-name="Ice Road Truckers" tvc-guide-title="Ice Road Truckers"  tvc-guide-genres="Entertainment" tvc-guide-description="Ice Road Truckers…At the top of the world, there’s a job only a few would dare! 24/7 episodes of the legendary series."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20230809T005401SQUARE.png_20230809005402.png"  group-title="Entertainment",  Ice Road Truckers (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB520002173.m3u8
+#EXTINF:-1 channel-id="samsung-USBB4400018LR"  tvg-id="USBB4400018LR" tvg-country="us"   tvg-chno="1357"  tvg-name="Wipeout Xtra" tvc-guide-title="Wipeout Xtra"  tvc-guide-genres="Entertainment" tvc-guide-description="The home of physical and exciting gameshows including Wipeout, where you can witness unexpected challenges."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400018LR_20231011T001234SQUARE.png_20231011001235.png"  group-title="Entertainment",  Wipeout Xtra (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB4400018LR.m3u8
+#EXTINF:-1 channel-id="samsung-USBB3500001O6"  tvg-id="USBB3500001O6" tvg-country="us"   tvg-chno="1358"  tvg-name="The Challenge" tvc-guide-title="The Challenge"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch all the death-defying battles, amazing competitions and ruthless gameplay on MTV's The Challenge, where competitors deal with hell on earth—and each other—to win big bucks."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500001O6_20230809T005259SQUARE.png_20230809005300.png"  group-title="Entertainment",  The Challenge (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB3500001O6.m3u8
+#EXTINF:-1 channel-id="samsung-USBB3500004RC"  tvg-id="USBB3500004RC" tvg-country="us"   tvg-chno="1360"  tvg-name="Project Runway" tvc-guide-title="Project Runway"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch Project Runway and Project Runway All Stars where aspiring fashion designers compete for a chance to break into the industry, featuring supermodel Heidi Klum, Tim Gunn and guest judges."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500004RC_20230809T005244SQUARE.png_20230809005245.png"  group-title="Entertainment",  Project Runway (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBB3500004RC.m3u8
+#EXTINF:-1 channel-id="samsung-USBC440001542"  tvg-id="USBC440001542" tvg-country="us"   tvg-chno="1361"  tvg-name="The Biggest Loser" tvc-guide-title="The Biggest Loser"  tvc-guide-genres="Entertainment" tvc-guide-description="Jump in and watch The Biggest Loser 24/7 as overweight contestants transform mentally and physically, competing to lose weight and win a cash prize."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440001542_20230809T005415SQUARE.png_20230809005416.png"  group-title="Entertainment",  The Biggest Loser (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBC440001542.m3u8
+#EXTINF:-1 channel-id="samsung-USBA30003672"  tvg-id="USBA30003672" tvg-country="us"   tvg-chno="1367"  tvg-name="IGN" tvc-guide-title="IGN"  tvc-guide-genres="Entertainment" tvc-guide-description="Your #1 destination for video game and entertainment news and discussions, reviews, Let's Plays, walkthroughs, and more!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30003672_20230809T005210SQUARE.png_20230809005211.png"  group-title="Entertainment",  IGN (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USBA30003672.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ3504531A"  tvg-id="USAJ3504531A" tvg-country="us"   tvg-chno="1369"  tvg-name="Pluto TV Pixel World" tvc-guide-title="Pluto TV Pixel World"  tvc-guide-genres="Entertainment" tvc-guide-description="Pluto TV Pixel World brings you giant blocks of all things Minecraft! Explore some of the wildest mods ever built and tag along with top gamers like Thinknoodles and PrestonPlayz. Don’t miss the excitement on Pluto TV Pixel World!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20230809T005241SQUARE.png_20230809005242.png"  group-title="Entertainment",  Pluto TV Pixel World (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://i.mjh.nz/SamsungTVPlus/USAJ3504531A.m3u8
+#EXTINF:-1 channel-id="samsung-USBB5200019FO"  tvg-id="USBB5200019FO" tvg-country="us"   tvg-chno="1002"  tvg-name="Holiday Movie Favorites by Lifetime" tvc-guide-title="Holiday Movie Favorites by Lifetime"  tvc-guide-genres="Movies" tvc-guide-description="Get into the holiday spirit with over 150 of your favorite Lifetime Holiday Movies. It’s the channel that keeps on giving the entire holiday season."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20231129T022317SQUARE.png_20231129022318.png"  group-title="Movies",  Holiday Movie Favorites by Lifetime (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://i.mjh.nz/SamsungTVPlus/USBB5200019FO.m3u8
+#EXTINF:-1 channel-id="samsung-USBD270001633"  tvg-id="USBD270001633" tvg-country="us"   tvg-chno="1455"  tvg-name="Hallmark Movies & More" tvc-guide-title="Hallmark Movies & More"  tvc-guide-genres="Movies" tvc-guide-description="Hallmark Movies & More is your home for movies, series & specials from the Hallmark library."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20231129T022314SQUARE.png_20231129022315.png"  group-title="Movies",  Hallmark Movies & More (1080p)
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://i.mjh.nz/SamsungTVPlus/USBD270001633.m3u8
 #EXTINF:-1 channel-id="samsung-USBD17000117B"  tvg-id="USBD17000117B" tvg-country="us"   tvg-chno="1457"  tvg-name="MovieSphere" tvc-guide-title="MovieSphere"  tvc-guide-genres="Movies" tvc-guide-description="MovieSphere- Free Movies and TV, 24/7. Enjoy classic tv series and hit movies featuring comedies, thrillers, action and sci-fi all in one place."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20230726T004507SQUARE.png_20230726004509.png"  group-title="Movies",  MovieSphere (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -1908,7 +1956,7 @@ https://i.mjh.nz/SamsungTVPlus/USBA300005MK.m3u8
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ30000122O"  tvg-id="USAJ30000122O" tvg-country="us"   tvg-chno="1490"  tvg-name="NEW KMOVIES" tvc-guide-title="NEW KMOVIES"  tvc-guide-genres="Movies" tvc-guide-description="NEW KMOVIES is your home for all-time Korean box-office hits and premium, iconic, genre-defying Korean films of the last decade."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20230912T232500SQUARE.png_20230912232502.png"  group-title="Movies",  NEW KMOVIES (1080p)
+#EXTINF:-1 channel-id="samsung-USAJ30000122O"  tvg-id="USAJ30000122O" tvg-country="us"   tvg-chno="1490"  tvg-name="NEW KMOVIES" tvc-guide-title="NEW KMOVIES"  tvc-guide-genres="Movies" tvc-guide-description="NEW KMOVIES is your home for all-time Korean box-office hits and premium, iconic, genre-defying Korean films of the last decade."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20231129T022304SQUARE.png_20231129022305.png"  group-title="Movies",  NEW KMOVIES (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
@@ -1916,6 +1964,10 @@ https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://i.mjh.nz/SamsungTVPlus/USAJ34000175A.m3u8
+#EXTINF:-1 channel-id="samsung-USBD1200008GL"  tvg-id="USBD1200008GL" tvg-country="us"   tvg-chno="1003"  tvg-name="Vevo Holiday" tvc-guide-title="Vevo Holiday"  tvc-guide-genres="Music" tvc-guide-description="From themed months to important moments, you can find all things that matter right now in music here. Black Music Month, artist birthdays, Pride Month and much more."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20231129T022327SQUARE.png_20231129022328.png"  group-title="Music",  Vevo Holiday (1080p)
+#EXTGRP:Music
+#EXTGENRE:Music
+https://i.mjh.nz/SamsungTVPlus/USBD1200008GL.m3u8
 #EXTINF:-1 channel-id="samsung-USBB320000647"  tvg-id="USBB320000647" tvg-country="us"   tvg-chno="1501"  tvg-name="XITE 80s Flashback" tvc-guide-title="XITE 80s Flashback"  tvc-guide-genres="Music" tvc-guide-description="Get a dose of nostalgia from the decade when music videos came into our living rooms, and iconic moments stayed with us ever since. From the totally radical hits, to the cult classic deep cuts, get ready for the ultimate 80s Flashback."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png"  group-title="Music",  XITE 80s Flashback (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -1964,6 +2016,10 @@ https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
 #EXTGRP:Music
 #EXTGENRE:Music
 https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
+#EXTINF:-1 channel-id="samsung-USBD350003932"  tvg-id="USBD350003932" tvg-country="us"   tvg-chno="1513"  tvg-name="XITE Celebrates" tvc-guide-title="XITE Celebrates"  tvc-guide-genres="Music" tvc-guide-description="Celebrate the rich tapestry of music culture, special events, holidays, and more with this ever-evolving assortment of music videos."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20231114T233517SQUARE.png_20231114233518.png"  group-title="Music",  XITE Celebrates (1080p)
+#EXTGRP:Music
+#EXTGENRE:Music
+https://i.mjh.nz/SamsungTVPlus/USBD350003932.m3u8
 #EXTINF:-1 channel-id="samsung-USBD300011KQ"  tvg-id="USBD300011KQ" tvg-country="us"   tvg-chno="1520"  tvg-name="Vevo '70s" tvc-guide-title="Vevo '70s"  tvc-guide-genres="Music" tvc-guide-description="The Me Decade’s biggest videos and performances from Pop, R&B, Rock, and beyond. Featuring The Bee Gees, Stevie Wonder, Blondie and more."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20230322T000018SQUARE.png_20230322000019.png"  group-title="Music",  Vevo '70s (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -2008,10 +2064,6 @@ https://i.mjh.nz/SamsungTVPlus/USBC3600001RQ.m3u8
 #EXTGRP:Music
 #EXTGENRE:Music
 https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
-#EXTINF:-1 channel-id="samsung-USBD1200008GL"  tvg-id="USBD1200008GL" tvg-country="us"   tvg-chno="1533"  tvg-name="Vevo Features" tvc-guide-title="Vevo Features"  tvc-guide-genres="Music" tvc-guide-description="From themed months to important moments, you can find all things that matter right now in music here. Black Music Month, artist birthdays, Pride Month and much more."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20231024T234726SQUARE.png_20231024234726.png"  group-title="Music",  Vevo Features (1080p)
-#EXTGRP:Music
-#EXTGENRE:Music
-https://i.mjh.nz/SamsungTVPlus/USBD1200008GL.m3u8
 #EXTINF:-1 channel-id="samsung-USAJ3000013FJ"  tvg-id="USAJ3000013FJ" tvg-country="us"   tvg-chno="1537"  tvg-name="NEW KPOP" tvc-guide-title="NEW KPOP"  tvc-guide-genres="Music" tvc-guide-description="Enjoy NEW KPOP’s latest selection of top-rated K-Pop TV shows featuring Music & Concert, Variety & Reality Shows, K-Dramas, Documentaries, and many more to come!"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png"  group-title="Music",  NEW KPOP (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -2064,11 +2116,15 @@ https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8
 #EXTGRP:Music
 #EXTGENRE:Music
 https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8
-#EXTINF:-1 channel-id="samsung-USBD3300021KV"  tvg-id="USBD3300021KV" tvg-country="us"   tvg-chno="1551"  tvg-name="Stingray Hot Country" tvc-guide-title="Stingray Hot Country"  tvc-guide-genres="Music" tvc-guide-description="Today's country music is on fire, and it keeps getting hotter. This mix rounds up brand new hits and favorites from the past decade."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20231024T231812SQUARE.png_20231024231813.png"  group-title="Music",  Stingray Hot Country (1080p)
+#EXTINF:-1 channel-id="samsung-USBD3500010MT"  tvg-id="USBD3500010MT" tvg-country="us"   tvg-chno="1550"  tvg-name="Stingray Hip Hop" tvc-guide-title="Stingray Hip Hop"  tvc-guide-genres="Music" tvc-guide-description="Experience the freshest beats by the hottest artists on today's scene. They may have bite, but they’re still accessible!"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20231114T233507SQUARE.png_20231114233508.png"  group-title="Music",  Stingray Hip Hop (1080p)
+#EXTGRP:Music
+#EXTGENRE:Music
+https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300021KV"  tvg-id="USBD3300021KV" tvg-country="us"   tvg-chno="1551"  tvg-name="Stingray Hot Country Christmas" tvc-guide-title="Stingray Hot Country Christmas"  tvc-guide-genres="Music" tvc-guide-description="Today's country music is on fire, and it keeps getting hotter. This mix rounds up brand new hits and favorites from the past decade."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20231129T022255SQUARE.png_20231129022256.png"  group-title="Music",  Stingray Hot Country Christmas (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
 https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
-#EXTINF:-1 channel-id="samsung-USBD3500022DN"  tvg-id="USBD3500022DN" tvg-country="us"   tvg-chno="1552"  tvg-name="Stingray Greatest Hits" tvc-guide-title="Stingray Greatest Hits"  tvc-guide-genres="Music" tvc-guide-description="Enjoy this collection of the greatest chart-toppers from the ‘50s to today. These songs have left their mark on history."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20231024T231809SQUARE.png_20231024231810.png"  group-title="Music",  Stingray Greatest Hits (1080p)
+#EXTINF:-1 channel-id="samsung-USBD3500022DN"  tvg-id="USBD3500022DN" tvg-country="us"   tvg-chno="1552"  tvg-name="Stingray Greatest Holiday Hits" tvc-guide-title="Stingray Greatest Holiday Hits"  tvc-guide-genres="Music" tvc-guide-description="Enjoy this collection of the greatest chart-toppers from the ‘50s to today. These songs have left their mark on history."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20231114T233419SQUARE.png_20231114233420.png"  group-title="Music",  Stingray Greatest Holiday Hits (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
 https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
@@ -2164,14 +2220,14 @@ https://i.mjh.nz/SamsungTVPlus/USBC2400019EF.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://i.mjh.nz/SamsungTVPlus/USBD3300016AK.m3u8
-#EXTINF:-1 channel-id="samsung-USBC600001QL"  tvg-id="USBC600001QL" tvg-country="us"   tvg-chno="1002"  tvg-name="T2" tvc-guide-title="T2"  tvc-guide-genres="Sports" tvc-guide-description="24/7 channel devoted to tennis, featuring live coverage from ATP and WTA tournaments, original programming, features and more."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20231031T225202SQUARE.png_20231031225203.png"  group-title="Sports",  T2 (1080p)
-#EXTGRP:Sports
-#EXTGENRE:Sports
-https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
 #EXTINF:-1 channel-id="samsung-USBB4800005VO"  tvg-id="USBB4800005VO" tvg-country="us"   tvg-chno="1152"  tvg-name="CBS Sports HQ" tvc-guide-title="CBS Sports HQ"  tvc-guide-genres="Sports" tvc-guide-description="We are a 24/7 Sports Network delivering everything that matters most to sports fans. From breaking news updates, to instant game reactions and betting advice, CBS Sports HQ is the ultimate destination for all things, well...SPORTS!"  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20221116T013447SQUARE.png_20221116013447.png"  group-title="Sports",  CBS Sports HQ (1080p)
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://i.mjh.nz/SamsungTVPlus/USBB4800005VO.m3u8
+#EXTINF:-1 channel-id="samsung-USBC600001QL"  tvg-id="USBC600001QL" tvg-country="us"   tvg-chno="1154"  tvg-name="T2" tvc-guide-title="T2"  tvc-guide-genres="Sports" tvc-guide-description="24/7 channel devoted to tennis, featuring live coverage from ATP and WTA tournaments, original programming, features and more."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20231114T233515SQUARE.png_20231114233516.png"  group-title="Sports",  T2 (1080p)
+#EXTGRP:Sports
+#EXTGENRE:Sports
+https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
 #EXTINF:-1 channel-id="samsung-USBB400000145"  tvg-id="USBB400000145" tvg-country="us"   tvg-chno="1155"  tvg-name="GOLFPASS" tvc-guide-title="GOLFPASS"  tvc-guide-genres="Sports" tvc-guide-description="World-class instruction from golf’s best teachers and entertaining original series."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20230307T222309SQUARE.png_20230307222310.png"  group-title="Sports",  GOLFPASS (1080p)
 #EXTGRP:Sports
 #EXTGENRE:Sports
@@ -2180,11 +2236,11 @@ https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ4300001Q7"  tvg-id="USAJ4300001Q7" tvg-country="us"   tvg-chno="1157"  tvg-name="beIN SPORTS XTRA" tvc-guide-title="beIN SPORTS XTRA"  tvc-guide-genres="Sports" tvc-guide-description="Watch LIVE sports, including Ligue 1, Copa Libertadores, and Copa Sudamericana, news, analysis and highlights. beIN SPORTS XTRA, a free, 24/7 English-language channel, brings everyone closer to the game."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20230809T005328SQUARE.png_20230809005329.png"  group-title="Sports",  beIN SPORTS XTRA (1080p)
+#EXTINF:-1 channel-id="samsung-USAJ4300001Q7"  tvg-id="USAJ4300001Q7" tvg-country="us"   tvg-chno="1157"  tvg-name="beIN SPORTS XTRA" tvc-guide-title="beIN SPORTS XTRA"  tvc-guide-genres="Sports" tvc-guide-description="Watch LIVE sports, including Ligue 1, Copa Libertadores, and Copa Sudamericana, news, analysis and highlights. beIN SPORTS XTRA, a free, 24/7 English-language channel, brings everyone closer to the game."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20231114T233437SQUARE.png_20231114233438.png"  group-title="Sports",  beIN SPORTS XTRA (1080p)
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://i.mjh.nz/SamsungTVPlus/USAJ4300001Q7.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ2200023Z0"  tvg-id="USAJ2200023Z0" tvg-country="us"   tvg-chno="1158"  tvg-name="fubo Sports Network" tvc-guide-title="fubo Sports Network"  tvc-guide-genres="Sports" tvc-guide-description="Watch live sports, movies, shows & more."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20230208T100255SQUARE.png_20230208100256.png"  group-title="Sports",  fubo Sports Network (1080p)
+#EXTINF:-1 channel-id="samsung-USAJ2200023Z0"  tvg-id="USAJ2200023Z0" tvg-country="us"   tvg-chno="1158"  tvg-name="fubo Sports Network" tvc-guide-title="fubo Sports Network"  tvc-guide-genres="Sports" tvc-guide-description="Watch live sports, movies, shows & more."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20231114T233434SQUARE.png_20231114233435.png"  group-title="Sports",  fubo Sports Network (1080p)
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://i.mjh.nz/SamsungTVPlus/USAJ2200023Z0.m3u8
@@ -2268,10 +2324,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD120001614.m3u8
 #EXTGRP:Comedy
 #EXTGENRE:Comedy
 https://i.mjh.nz/SamsungTVPlus/USBC4400004KK.m3u8
-#EXTINF:-1 channel-id="samsung-USBB36000076Y"  tvg-id="USBB36000076Y" tvg-country="us"   tvg-chno="1322"  tvg-name="That Girl" tvc-guide-title="That Girl"  tvc-guide-genres="Comedy" tvc-guide-description=""  tvc-guide-categories="Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000076Y_20230307T222258SQUARE.png_20230307222259.png"  group-title="Comedy",  That Girl (1080p)
-#EXTGRP:Comedy
-#EXTGENRE:Comedy
-https://i.mjh.nz/SamsungTVPlus/USBB36000076Y.m3u8
 #EXTINF:-1 channel-id="samsung-USBB3500003D6"  tvg-id="USBB3500003D6" tvg-country="us"   tvg-chno="1324"  tvg-name="Family Ties" tvc-guide-title="Family Ties"  tvc-guide-genres="Comedy" tvc-guide-description="The Emmy-winning sitcom that defined the ‘80s and made Michael J. Fox a superstar is now streaming on Pluto TV all day, every day. Also starring Meredith Baxter, Michael Gross, Justine Bateman, and Tina Yothers."  tvc-guide-categories="Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20230125T022452SQUARE.png_20230125022453.png"  group-title="Comedy",  Family Ties (1080p)
 #EXTGRP:Comedy
 #EXTGENRE:Comedy
@@ -2312,6 +2364,10 @@ https://i.mjh.nz/SamsungTVPlus/USBD7000145C.m3u8
 #EXTGRP:Comedy
 #EXTGENRE:Comedy
 https://i.mjh.nz/SamsungTVPlus/USAJ3504706A.m3u8
+#EXTINF:-1 channel-id="samsung-USBA3800004EL"  tvg-id="USBA3800004EL" tvg-country="us"   tvg-chno="1004"  tvg-name="Fireplace 4K" tvc-guide-title="Fireplace 4K"  tvc-guide-genres="Tech/Science" tvc-guide-description="Cozy up with family and friends fireside thanks to Fireplace 4K, exclusively from Samsung TV Plus. Enjoy a variety of crackling fireplaces all day long this holiday season."  tvc-guide-categories="Tech/Science" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20231114T233452SQUARE.png_20231114233452.png"  group-title="Tech/Science",  Fireplace 4K (1080p)
+#EXTGRP:Tech/Science
+#EXTGENRE:Tech/Science
+https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
 #EXTINF:-1 channel-id="samsung-USBA3000043LH"  tvg-id="USBA3000043LH" tvg-country="us"   tvg-chno="1400"  tvg-name="Samsung Wild Life" tvc-guide-title="Samsung Wild Life"  tvc-guide-genres="Tech/Science" tvc-guide-description="Buckle up & go wild as we take you on adventures around the globe, showcasing your favorite animals in their native habitats. Come along for the ride & see what a Wild Life is truly about."  tvc-guide-categories="Tech/Science" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20230426T030426SQUARE.png_20230426030427.png"  group-title="Tech/Science",  Samsung Wild Life (1080p)
 #EXTGRP:Tech/Science
 #EXTGENRE:Tech/Science
@@ -2380,62 +2436,14 @@ https://i.mjh.nz/SamsungTVPlus/USBB800001O7.m3u8
 #EXTGRP:Tech/Science
 #EXTGENRE:Tech/Science
 https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
-#EXTINF:-1 channel-id="samsung-USBA3800004EL"  tvg-id="USBA3800004EL" tvg-country="us"   tvg-chno="1420"  tvg-name="Fireplace 4K" tvc-guide-title="Fireplace 4K"  tvc-guide-genres="Tech/Science" tvc-guide-description="Cozy up with family and friends fireside thanks to Fireplace 4K, exclusively from Samsung TV Plus. Enjoy a variety of crackling fireplaces all day long this holiday season."  tvc-guide-categories="Tech/Science" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20231031T225141SQUARE.png_20231031225142.png"  group-title="Tech/Science",  Fireplace 4K (1080p)
+#EXTINF:-1 channel-id="samsung-USBD3500038R6"  tvg-id="USBD3500038R6" tvg-country="us"   tvg-chno="1421"  tvg-name="Stingray Holidayscapes" tvc-guide-title="Stingray Holidayscapes"  tvc-guide-genres="Tech/Science" tvc-guide-description="Transform your home into a holiday haven and make every day memorable!"  tvc-guide-categories="Tech/Science" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20231114T233510SQUARE.png_20231114233511.png"  group-title="Tech/Science",  Stingray Holidayscapes (1080p)
 #EXTGRP:Tech/Science
 #EXTGENRE:Tech/Science
-https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBD3500038R6.m3u8
 #EXTINF:-1 channel-id="samsung-USBD3500013DG"  tvg-id="USBD3500013DG" tvg-country="us"   tvg-chno="1423"  tvg-name="Stingray Spa" tvc-guide-title="Stingray Spa"  tvc-guide-genres="Tech/Science" tvc-guide-description="Calm your soul, soothe your body, and inspire your mind with purely instrumental electro-acoustic music."  tvc-guide-categories="Tech/Science" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20231024T231827SQUARE.png_20231024231828.png"  group-title="Tech/Science",  Stingray Spa (1080p)
 #EXTGRP:Tech/Science
 #EXTGENRE:Tech/Science
 https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8
-#EXTINF:-1 channel-id="samsung-USBC4400002GF"  tvg-id="USBC4400002GF" tvg-country="us"   tvg-chno="1303"  tvg-name="Duck Dynasty" tvc-guide-title="Duck Dynasty"  tvc-guide-genres="Travel" tvc-guide-description="Meet the close-knit family behind a multi-million dollar sporting empire, as they live life with a mix of downhome practicality and sharp wit."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20230823T001658SQUARE.png_20230823001659.png"  group-title="Travel",  Duck Dynasty (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USBC4400002GF.m3u8
-#EXTINF:-1 channel-id="samsung-USBD2700013UK"  tvg-id="USBD2700013UK" tvg-country="us"   tvg-chno="1304"  tvg-name="Swamp People" tvc-guide-title="Swamp People"  tvc-guide-genres="Travel" tvc-guide-description="Step into the Louisiana swamps, where hunters battle massive alligators and confront Mother Nature. Witness their daring navigation of treacherous terrain as they risk their lives to control the population of these formidable creatures."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700013UK_20231024T231846SQUARE.png_20231024231848.png"  group-title="Travel",  Swamp People (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USBD2700013UK.m3u8
-#EXTINF:-1 channel-id="samsung-USBD17000051M"  tvg-id="USBD17000051M" tvg-country="us"   tvg-chno="1305"  tvg-name="Mountain Men" tvc-guide-title="Mountain Men"  tvc-guide-genres="Travel" tvc-guide-description="Epic survival series following rugged men battling the elements, wildlife, and isolation to live off the grid."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000051M_20230912T232616SQUARE.png_20230912232617.png"  group-title="Travel",  Mountain Men (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USBD17000051M.m3u8
-#EXTINF:-1 channel-id="samsung-USBB5200020Z0"  tvg-id="USBB5200020Z0" tvg-country="us"   tvg-chno="1306"  tvg-name="Ax Men" tvc-guide-title="Ax Men"  tvc-guide-genres="Travel" tvc-guide-description="Deep in the woods, these loggers are risking it all! 24/7 non-stop episodes of the hard-hitting series"  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20230809T005340SQUARE.png_20230809005341.png"  group-title="Travel",  Ax Men (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USBB5200020Z0.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ3504708A"  tvg-id="USAJ3504708A" tvg-country="us"   tvg-chno="1309"  tvg-name="Danger TV" tvc-guide-title="Danger TV"  tvc-guide-genres="Travel" tvc-guide-description="DangerTV is the Home of the Bold, streaming the best danger and adventure series and films from around the world. Survivors barely escaping disaster, animals gone wild, incredible rescues, tornado chasing and more. Get Bold on DangerTV!"  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504708A_20230809T005149SQUARE.png_20230809005149.png"  group-title="Travel",  Danger TV (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USAJ3504708A.m3u8
-#EXTINF:-1 channel-id="samsung-USBB10000058A"  tvg-id="USBB10000058A" tvg-country="us"   tvg-chno="1310"  tvg-name="SURF NOW TV" tvc-guide-title="SURF NOW TV"  tvc-guide-genres="Travel" tvc-guide-description="Surf Now TV offers free live TV with over 160 hours of the best adrenaline-filled surf films and series available today with the biggest names like Andy Irons, Nathan Fletcher and Kai Lenny. The best surf films. One place. Period."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000058A_20230809T005250SQUARE.png_20230809005251.png"  group-title="Travel",  SURF NOW TV (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USBB10000058A.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ3504707A"  tvg-id="USAJ3504707A" tvg-country="us"   tvg-chno="1311"  tvg-name="Outside" tvc-guide-title="Outside"  tvc-guide-genres="Travel" tvc-guide-description="The ultimate collection of adventure sports videos including skiing, surfing, climbing and more."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20230809T005233SQUARE.png_20230809005234.png"  group-title="Travel",  Outside (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USAJ3504707A.m3u8
-#EXTINF:-1 channel-id="samsung-USAK3508706A"  tvg-id="USAK3508706A" tvg-country="us"   tvg-chno="1313"  tvg-name="Xtreme Outdoor Presented by HISTORY" tvc-guide-title="Xtreme Outdoor Presented by HISTORY"  tvc-guide-genres="Travel" tvc-guide-description="This is your base camp for thrilling outdoor experiences. Go off the grid with some of America’s greatest survivalists."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20230809T005319SQUARE.png_20230809005320.png"  group-title="Travel",  Xtreme Outdoor Presented by HISTORY (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USAK3508706A.m3u8
-#EXTINF:-1 channel-id="samsung-USBB440002055"  tvg-id="USBB440002055" tvg-country="us"   tvg-chno="1315"  tvg-name="Waypoint TV" tvc-guide-title="Waypoint TV"  tvc-guide-genres="Travel" tvc-guide-description="Waypoint TV is a 24/7 linear channel featuring the best fishing, hunting and outdoor adventure TV shows and films from the world’s leading entertainment destination for the outdoors."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20230809T005433SQUARE.png_20230809005433.png"  group-title="Travel",  Waypoint TV (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USBB440002055.m3u8
-#EXTINF:-1 channel-id="samsung-USBD17000025J"  tvg-id="USBD17000025J" tvg-country="us"   tvg-chno="1316"  tvg-name="Pursuit UP" tvc-guide-title="Pursuit UP"  tvc-guide-genres="Travel" tvc-guide-description="Pursuit UP celebrates the outdoor lifestyle and the people that love spending quality time with friends and family in the outdoors and provides an emotional connection with viewers with a passion for hunting, fishing and conservation."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000025J_20230823T183916SQUARE.png_20230823183917.png"  group-title="Travel",  Pursuit UP (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USBD17000025J.m3u8
-#EXTINF:-1 channel-id="samsung-USBD1200020Y4"  tvg-id="USBD1200020Y4" tvg-country="us"   tvg-chno="1317"  tvg-name="Outdoor America" tvc-guide-title="Outdoor America"  tvc-guide-genres="Travel" tvc-guide-description="Hunting, fishing, outdoor lifestyle"  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20231024T231724SQUARE.png_20231024231725.png"  group-title="Travel",  Outdoor America (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USBD1200020Y4.m3u8
-#EXTINF:-1 channel-id="samsung-USBC1300008AZ"  tvg-id="USBC1300008AZ" tvg-country="us"   tvg-chno="1200"  tvg-name="Plated" tvc-guide-title="Plated"  tvc-guide-genres="Travel" tvc-guide-description="Before it’s plated, the dish has to be created, tasted, and served, but perfection doesn't come easy. Watch top chefs including Gordon Ramsay, chop, sauté, bake and flambé their way to the perfect plate."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300008AZ_20230925T234701SQUARE.png_20230925234702.png"  group-title="Travel",  Plated (1080p)
-#EXTGRP:Travel
-#EXTGENRE:Travel
-https://i.mjh.nz/SamsungTVPlus/USBC1300008AZ.m3u8
 #EXTINF:-1 channel-id="samsung-USBD7000189R"  tvg-id="USBD7000189R" tvg-country="us"   tvg-chno="1201"  tvg-name="Tastemade" tvc-guide-title="Tastemade"  tvc-guide-genres="Travel" tvc-guide-description="Watch award-winning food, travel, home & design Tastemade Originals, shows, and documentaries for FREE, streaming 24/7"  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000189R_20230426T030517SQUARE.png_20230426030518.png"  group-title="Travel",  Tastemade (1080p)
 #EXTGRP:Travel
 #EXTGENRE:Travel
@@ -2460,7 +2468,7 @@ https://i.mjh.nz/SamsungTVPlus/USBC4400016CL.m3u8
 #EXTGRP:Travel
 #EXTGENRE:Travel
 https://i.mjh.nz/SamsungTVPlus/USAJ3000006X5.m3u8
-#EXTINF:-1 channel-id="samsung-USBC21000142T"  tvg-id="USBC21000142T" tvg-country="us"   tvg-chno="1209"  tvg-name="Home Refresh" tvc-guide-title="Home Refresh"  tvc-guide-genres="Travel" tvc-guide-description="Dreaming of the perfect home? Step inside the Home Refresh channel for all day ideas and inspiration from real estate, renovation, and DIY masters. Travel the globe, uncover antiques, and witness stunning home transformations."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20230912T232613SQUARE.png_20230912232614.png"  group-title="Travel",  Home Refresh (1080p)
+#EXTINF:-1 channel-id="samsung-USBC21000142T"  tvg-id="USBC21000142T" tvg-country="us"   tvg-chno="1209"  tvg-name="Home Refresh" tvc-guide-title="Home Refresh"  tvc-guide-genres="Travel" tvc-guide-description="Dreaming of the perfect home? Step inside the Home Refresh channel for all day ideas and inspiration from real estate, renovation, and DIY masters. Travel the globe, uncover antiques, and witness stunning home transformations."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20231129T022319SQUARE.png_20231129022321.png"  group-title="Travel",  Home Refresh (1080p)
 #EXTGRP:Travel
 #EXTGENRE:Travel
 https://i.mjh.nz/SamsungTVPlus/USBC21000142T.m3u8
@@ -2532,3 +2540,47 @@ https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
 #EXTGRP:Travel
 #EXTGENRE:Travel
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+#EXTINF:-1 channel-id="samsung-USBC4400002GF"  tvg-id="USBC4400002GF" tvg-country="us"   tvg-chno="1303"  tvg-name="Duck Dynasty" tvc-guide-title="Duck Dynasty"  tvc-guide-genres="Travel" tvc-guide-description="Meet the close-knit family behind a multi-million dollar sporting empire, as they live life with a mix of downhome practicality and sharp wit."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20230823T001658SQUARE.png_20230823001659.png"  group-title="Travel",  Duck Dynasty (1080p)
+#EXTGRP:Travel
+#EXTGENRE:Travel
+https://i.mjh.nz/SamsungTVPlus/USBC4400002GF.m3u8
+#EXTINF:-1 channel-id="samsung-USBD2700013UK"  tvg-id="USBD2700013UK" tvg-country="us"   tvg-chno="1304"  tvg-name="Swamp People" tvc-guide-title="Swamp People"  tvc-guide-genres="Travel" tvc-guide-description="Step into the Louisiana swamps, where hunters battle massive alligators and confront Mother Nature. Witness their daring navigation of treacherous terrain as they risk their lives to control the population of these formidable creatures."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700013UK_20231129T022323SQUARE.png_20231129022324.png"  group-title="Travel",  Swamp People (1080p)
+#EXTGRP:Travel
+#EXTGENRE:Travel
+https://i.mjh.nz/SamsungTVPlus/USBD2700013UK.m3u8
+#EXTINF:-1 channel-id="samsung-USBD17000051M"  tvg-id="USBD17000051M" tvg-country="us"   tvg-chno="1305"  tvg-name="Mountain Men" tvc-guide-title="Mountain Men"  tvc-guide-genres="Travel" tvc-guide-description="Epic survival series following rugged men battling the elements, wildlife, and isolation to live off the grid."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000051M_20230912T232616SQUARE.png_20230912232617.png"  group-title="Travel",  Mountain Men (1080p)
+#EXTGRP:Travel
+#EXTGENRE:Travel
+https://i.mjh.nz/SamsungTVPlus/USBD17000051M.m3u8
+#EXTINF:-1 channel-id="samsung-USBB5200020Z0"  tvg-id="USBB5200020Z0" tvg-country="us"   tvg-chno="1306"  tvg-name="Ax Men" tvc-guide-title="Ax Men"  tvc-guide-genres="Travel" tvc-guide-description="Deep in the woods, these loggers are risking it all! 24/7 non-stop episodes of the hard-hitting series"  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20230809T005340SQUARE.png_20230809005341.png"  group-title="Travel",  Ax Men (1080p)
+#EXTGRP:Travel
+#EXTGENRE:Travel
+https://i.mjh.nz/SamsungTVPlus/USBB5200020Z0.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ3504708A"  tvg-id="USAJ3504708A" tvg-country="us"   tvg-chno="1309"  tvg-name="Danger TV" tvc-guide-title="Danger TV"  tvc-guide-genres="Travel" tvc-guide-description="DangerTV is the Home of the Bold, streaming the best danger and adventure series and films from around the world. Survivors barely escaping disaster, animals gone wild, incredible rescues, tornado chasing and more. Get Bold on DangerTV!"  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504708A_20230809T005149SQUARE.png_20230809005149.png"  group-title="Travel",  Danger TV (1080p)
+#EXTGRP:Travel
+#EXTGENRE:Travel
+https://i.mjh.nz/SamsungTVPlus/USAJ3504708A.m3u8
+#EXTINF:-1 channel-id="samsung-USBB10000058A"  tvg-id="USBB10000058A" tvg-country="us"   tvg-chno="1310"  tvg-name="SURF NOW TV" tvc-guide-title="SURF NOW TV"  tvc-guide-genres="Travel" tvc-guide-description="Surf Now TV offers free live TV with over 160 hours of the best adrenaline-filled surf films and series available today with the biggest names like Andy Irons, Nathan Fletcher and Kai Lenny. The best surf films. One place. Period."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000058A_20230809T005250SQUARE.png_20230809005251.png"  group-title="Travel",  SURF NOW TV (1080p)
+#EXTGRP:Travel
+#EXTGENRE:Travel
+https://i.mjh.nz/SamsungTVPlus/USBB10000058A.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ3504707A"  tvg-id="USAJ3504707A" tvg-country="us"   tvg-chno="1311"  tvg-name="Outside" tvc-guide-title="Outside"  tvc-guide-genres="Travel" tvc-guide-description="The ultimate collection of adventure sports videos including skiing, surfing, climbing and more."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20230809T005233SQUARE.png_20230809005234.png"  group-title="Travel",  Outside (1080p)
+#EXTGRP:Travel
+#EXTGENRE:Travel
+https://i.mjh.nz/SamsungTVPlus/USAJ3504707A.m3u8
+#EXTINF:-1 channel-id="samsung-USAK3508706A"  tvg-id="USAK3508706A" tvg-country="us"   tvg-chno="1313"  tvg-name="Xtreme Outdoor Presented by HISTORY" tvc-guide-title="Xtreme Outdoor Presented by HISTORY"  tvc-guide-genres="Travel" tvc-guide-description="This is your base camp for thrilling outdoor experiences. Go off the grid with some of America’s greatest survivalists."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20230809T005319SQUARE.png_20230809005320.png"  group-title="Travel",  Xtreme Outdoor Presented by HISTORY (1080p)
+#EXTGRP:Travel
+#EXTGENRE:Travel
+https://i.mjh.nz/SamsungTVPlus/USAK3508706A.m3u8
+#EXTINF:-1 channel-id="samsung-USBB440002055"  tvg-id="USBB440002055" tvg-country="us"   tvg-chno="1315"  tvg-name="Waypoint TV" tvc-guide-title="Waypoint TV"  tvc-guide-genres="Travel" tvc-guide-description="Waypoint TV is a 24/7 linear channel featuring the best fishing, hunting and outdoor adventure TV shows and films from the world’s leading entertainment destination for the outdoors."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20230809T005433SQUARE.png_20230809005433.png"  group-title="Travel",  Waypoint TV (1080p)
+#EXTGRP:Travel
+#EXTGENRE:Travel
+https://i.mjh.nz/SamsungTVPlus/USBB440002055.m3u8
+#EXTINF:-1 channel-id="samsung-USBD17000025J"  tvg-id="USBD17000025J" tvg-country="us"   tvg-chno="1316"  tvg-name="Pursuit UP" tvc-guide-title="Pursuit UP"  tvc-guide-genres="Travel" tvc-guide-description="Pursuit UP celebrates the outdoor lifestyle and the people that love spending quality time with friends and family in the outdoors and provides an emotional connection with viewers with a passion for hunting, fishing and conservation."  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000025J_20230823T183916SQUARE.png_20230823183917.png"  group-title="Travel",  Pursuit UP (1080p)
+#EXTGRP:Travel
+#EXTGENRE:Travel
+https://i.mjh.nz/SamsungTVPlus/USBD17000025J.m3u8
+#EXTINF:-1 channel-id="samsung-USBD1200020Y4"  tvg-id="USBD1200020Y4" tvg-country="us"   tvg-chno="1317"  tvg-name="Outdoor America" tvc-guide-title="Outdoor America"  tvc-guide-genres="Travel" tvc-guide-description="Hunting, fishing, outdoor lifestyle"  tvc-guide-categories="Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20231024T231724SQUARE.png_20231024231725.png"  group-title="Travel",  Outdoor America (1080p)
+#EXTGRP:Travel
+#EXTGENRE:Travel
+https://i.mjh.nz/SamsungTVPlus/USBD1200020Y4.m3u8
