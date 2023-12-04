@@ -516,6 +516,10 @@ https://i.mjh.nz/SamsungTVPlus/INBA5100006V5.m3u8
 #EXTGRP:Education
 #EXTGENRE:Education
 https://linearchannel2.indiascience.in/linearplayout/india-science/playlist_bg.m3u8
+#EXTINF:-1 channel-id="samsung-DISCOVERYHD"  tvg-id="DISCOVERYHD" tvg-country="in"   tvg-chno="150"  tvg-name="Discovery HD" tvc-guide-title="Discovery HD"  tvc-guide-genres="Education" tvc-guide-description="Discovery Channel is an American cable channel owned by Warner Bros. Discovery, a publicly traded company run by CEO David Zaslav."  tvc-guide-categories="Education" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/7eed96cb-3c78-42e3-aaef-364101bc5115.png?bf=0&f=jpg&p=true&q=85&w=300"  group-title="Education",  Discovery HD (1080p)
+#EXTGRP:Education
+#EXTGENRE:Education
+https://watchtvs.live/discovery/m3u8/Discovery_Channel.m3u8
 #EXTINF:-1 channel-id="samsung-INBB2800007DA"  tvg-id="INBB2800007DA" tvg-country="in"   tvg-chno="1163"  tvg-name="Discovery" tvc-guide-title="Discovery"  tvc-guide-genres="Education" tvc-guide-description="To learn and to unlearn, to discover and to rediscover, the brand stands by it all! Focussing on Technology, Popular Science, and History. Discovery aims to build curiosity not just in children, but in everyone across the globe.."  tvc-guide-categories="Education" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB2800007DA_20230322T011715SQUARE.png_20230322011715.png"  group-title="Education",  Discovery (1080p)
 #EXTGRP:Education
 #EXTGENRE:Education
