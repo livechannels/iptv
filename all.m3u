@@ -375,7 +375,7 @@ https://zeetv.cloudflarechannels.workers.dev/0-9-zing/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBB28000060I"  tvg-id="INBB28000060I" tvg-country="in"   tvg-chno="1063"  tvg-name="Mastiii" tvc-guide-title="Mastiii"  tvc-guide-genres="Music" tvc-guide-description="Mastiii is India’s No.1 Music and Youth channel. Mastiii offers Music for every mood, be it peppy or romantic, retro or latest blockbusters. Mastiii understands music lovers which makes Mastiii an undisputed leader in the Music genre."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB28000060I_20230208T101232SQUARE.png_20230208101233.png"  group-title="Music",  Mastiii (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/playlist.m3u8
+
 #EXTINF:-1 channel-id="samsung-INBC28000122W"  tvg-id="INBC28000122W" tvg-country="in"   tvg-chno="1065"  tvg-name="9X Music" tvc-guide-title="9X Music"  tvc-guide-genres="Music" tvc-guide-description="9xm Haq Se - India Ka Favourite Music Idhar Hai!"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000122W_20221116T013709SQUARE.png_20221116013709.png"  group-title="Music",  9X Music (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -383,7 +383,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800013L6"  tvg-id="INBC2800013L6" tvg-country="in"   tvg-chno="1067"  tvg-name="9X Jalwa" tvc-guide-title="9X Jalwa"  tvc-guide-genres="Music" tvc-guide-description="A channel offering of 9X Media. Your channel for forever hits Plays music from 1990s to 2000"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20220928T010036SQUARE.png_20220928010036.png"  group-title="Music",  9X Jalwa (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9Xjalwa.m3u8
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800011JL"  tvg-id="INBC2800011JL" tvg-country="in"   tvg-chno="1069"  tvg-name="9X Tashan" tvc-guide-title="9X Tashan"  tvc-guide-genres="Music" tvc-guide-description="9X Media - India's Largest Music Network brings to you 9X Tashan- Punjab’s Number 1 Music Channel"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20220928T010041SQUARE.png_20220928010041.png"  group-title="Music",  9X Tashan (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -516,10 +516,6 @@ https://i.mjh.nz/SamsungTVPlus/INBA5100006V5.m3u8
 #EXTGRP:Education
 #EXTGENRE:Education
 https://linearchannel2.indiascience.in/linearplayout/india-science/playlist_bg.m3u8
-#EXTINF:-1 channel-id="samsung-DISCOVERYHD"  tvg-id="DISCOVERYHD" tvg-country="in"   tvg-chno="150"  tvg-name="Discovery HD" tvc-guide-title="Discovery HD"  tvc-guide-genres="Education" tvc-guide-description="Discovery Channel is an American cable channel owned by Warner Bros. Discovery, a publicly traded company run by CEO David Zaslav."  tvc-guide-categories="Education" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/7eed96cb-3c78-42e3-aaef-364101bc5115.png?bf=0&f=jpg&p=true&q=85&w=300"  group-title="Education",  Discovery HD (1080p)
-#EXTGRP:Education
-#EXTGENRE:Education
-https://watchtvs.live/discovery/m3u8/Discovery_Channel.m3u8
 #EXTINF:-1 channel-id="samsung-INBB2800007DA"  tvg-id="INBB2800007DA" tvg-country="in"   tvg-chno="1163"  tvg-name="Discovery" tvc-guide-title="Discovery"  tvc-guide-genres="Education" tvc-guide-description="To learn and to unlearn, to discover and to rediscover, the brand stands by it all! Focussing on Technology, Popular Science, and History. Discovery aims to build curiosity not just in children, but in everyone across the globe.."  tvc-guide-categories="Education" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB2800007DA_20230322T011715SQUARE.png_20230322011715.png"  group-title="Education",  Discovery (1080p)
 #EXTGRP:Education
 #EXTGENRE:Education
@@ -527,7 +523,7 @@ https://i.mjh.nz/SamsungTVPlus/INBB2800007DA.m3u8
 #EXTINF:-1 channel-id="samsung-INBB280000836"  tvg-id="INBB280000836" tvg-country="in"   tvg-chno="1164"  tvg-name="Discovery HD" tvc-guide-title="Discovery HD"  tvc-guide-genres="Education" tvc-guide-description="To learn and to unlearn, to discover and to rediscover, the brand stands by it all! Focussing on Technology, Popular Science, and History. Discovery aims to build curiosity not just in children, but in everyone across the globe."  tvc-guide-categories="Education" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB280000836_20220525T002355SQUARE.png_20220525002356.png"  group-title="Education",  Discovery HD (1080p)
 #EXTGRP:Education
 #EXTGENRE:Education
-https://i.mjh.nz/SamsungTVPlus/INBB280000836.m3u8
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-INBC1500001SN"  tvg-id="INBC1500001SN" tvg-country="in"   tvg-chno="1165"  tvg-name="Animal Planet" tvc-guide-title="Animal Planet"  tvc-guide-genres="Education" tvc-guide-description="Animal Planet is a multi-national TV channel from the Discovery network, focusing on educating audiences about nature, wildlife and domesticated creatures through series and documentaries."  tvc-guide-categories="Education" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500001SN_20221214T015311SQUARE.png_20221214015312.png"  group-title="Education",  Animal Planet (1080p)
 #EXTGRP:Education
 #EXTGENRE:Education
