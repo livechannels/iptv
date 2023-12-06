@@ -375,7 +375,7 @@ https://zeetv.cloudflarechannels.workers.dev/0-9-zing/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBB28000060I"  tvg-id="INBB28000060I" tvg-country="in"   tvg-chno="1063"  tvg-name="Mastiii" tvc-guide-title="Mastiii"  tvc-guide-genres="Music" tvc-guide-description="Mastiii is India’s No.1 Music and Youth channel. Mastiii offers Music for every mood, be it peppy or romantic, retro or latest blockbusters. Mastiii understands music lovers which makes Mastiii an undisputed leader in the Music genre."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB28000060I_20230208T101232SQUARE.png_20230208101233.png"  group-title="Music",  Mastiii (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/playlist.m3u8
+https://dai.google.com/linear/hls/pb/event/n40NV2qQSrK55V5q8o_HCw/stream/c8362323-cbb8-4480-827c-0539b2d131c5:TPE2/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBC28000122W"  tvg-id="INBC28000122W" tvg-country="in"   tvg-chno="1065"  tvg-name="9X Music" tvc-guide-title="9X Music"  tvc-guide-genres="Music" tvc-guide-description="9xm Haq Se - India Ka Favourite Music Idhar Hai!"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000122W_20221116T013709SQUARE.png_20221116013709.png"  group-title="Music",  9X Music (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
