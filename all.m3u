@@ -316,6 +316,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 channel-id="samsung-BOLLYHOODPRIME"  tvg-id="BOLLYHOODPRIME" tvg-country="in"   tvg-chno="151"  tvg-name="Bollywood Prime" tvc-guide-title="Bollywood Prime"  tvc-guide-genres="Movies" tvc-guide-description="Bollywood movies, cooking shows, lifestyle & Bollywood star interviews."  tvc-guide-categories="Movies" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png"  group-title="Movies",  Bollywood Prime (1080p)
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-BOLLYHOODMASSALA"  tvg-id="BOLLYHOODMASSALA" tvg-country="in"   tvg-chno="152"  tvg-name="Bollywood Masala" tvc-guide-title="Bollywood Masala"  tvc-guide-genres="Movies" tvc-guide-description="Bollywood Masala your  perfect stop for everything Bollywood. Get the latest updates on who’s who of the industry. From Behind the scenes to Box Office Reviews to Celebrity Interviews to Film Announcements to Latest Celebrity Gossip, we bare it all. Get all the Deets on new entrants in Bollywood, Exclusive Bites, Exclusive Buzz on Movies and all the action. Need more? we give you all the latest Celebrity Romance, Catfights, Scandals and Rumours."  tvc-guide-categories="Movies" tvg-logo="https://a.jsrdn.com/hls/23142/bollywood-masala/logo_20240213_192946_70.png"  group-title="Movies",  Bollywood Masala (1080p)
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
+#EXTINF:-1 channel-id="samsung-ShemarooBollywood"  tvg-id="ShemarooBollywood" tvg-country="in"   tvg-chno="154"  tvg-name="Shemaroo Bollywood" tvc-guide-title="Shemaroo Bollywood"  tvc-guide-genres="Movies" tvc-guide-description="Shemaroo Bollywood"  tvc-guide-categories="Movies" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-bollywood/logo_20240206_185308_68.png"  group-title="Movies",  Shemaroo Bollywood (1080p)
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBD21000016Y"  tvg-id="INBD21000016Y" tvg-country="in"   tvg-chno="1000"  tvg-name="The Movie Club" tvc-guide-title="The Movie Club"  tvc-guide-genres="Movies" tvc-guide-description="Welcome to The Movie Club. Get your daily dose of awesome Bollywood movies for free. There's action, drama, romance, adventure and loads of non-stop entertainment for movie buffs like you."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20241024T054057SQUARE.png"  group-title="Movies",  The Movie Club (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -376,6 +388,14 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/
 #EXTGRP:Music
 #EXTGENRE:Music
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 channel-id="samsung-YRF"  tvg-id="YRF" tvg-country="in"   tvg-chno="150"  tvg-name="YRF Music FAST Channel" tvc-guide-title="YRF Music FAST Channel"  tvc-guide-genres="Music" tvc-guide-description="YRF Music channel is a FAST (Free Ad-supported Streaming TV) linear feed featuring programs that are a thematic mix of bespoke music and other promotional content providing round-the-clock entertainment across the globe."  tvc-guide-categories="Music" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png"  group-title="Music",  YRF Music FAST Channel (1080p)
+#EXTGRP:Music
+#EXTGENRE:Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 channel-id="samsung-ShemarooFilmigaane"  tvg-id="ShemarooFilmigaane" tvg-country="in"   tvg-chno="153"  tvg-name="Shemaroo Filmigaane" tvc-guide-title="Shemaroo Filmigaane"  tvc-guide-genres="Music" tvc-guide-description="Shemaroo Filmigaane"  tvc-guide-categories="Music" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/logo_20240206_190035_68.png"  group-title="Music",  Shemaroo Filmigaane (1080p)
+#EXTGRP:Music
+#EXTGENRE:Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 #EXTINF:-1 channel-id="samsung-IN26000122C"  tvg-id="IN26000122C" tvg-country="in"   tvg-chno="1431"  tvg-name="Kaan Phod Music" tvc-guide-title="Kaan Phod Music"  tvc-guide-genres="Music" tvc-guide-description="From timeless classics to today’s hits,our Bollywood hub celebrates melodies that touch hearts.Tune in for premieres, interviews,and behind-the-scenes magic.Let’s groove through the golden era."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000122C_20241016T011402SQUARE.png"  group-title="Music",  Kaan Phod Music (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
