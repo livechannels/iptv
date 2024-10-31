@@ -40,6 +40,190 @@ https://youtube.cloudflarechannels.workers.dev/stream/News18LokmatTV/playlist.m3
 #EXTGRP:News
 #EXTGENRE:News
 https://youtube.cloudflarechannels.workers.dev/stream/DDSahyadriNews/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-IN3800001ZH"  tvg-id="IN3800001ZH" tvg-country="in"   tvg-chno="1013"  tvg-name="Aaj Tak HD" tvc-guide-title="Aaj Tak HD"  tvc-guide-genres="News" tvc-guide-description="Aaj Tak HD, India's first high-definition Hindi news channel, brings to you the latest news in Politics, Entertainment, Bollywood, Business and International News."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20241024T054104SQUARE.png"  group-title="News",  Aaj Tak HD (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-IN3800001ZH.m3u8
+#EXTINF:-1 channel-id="samsung-INBC2800002WJ"  tvg-id="INBC2800002WJ" tvg-country="in"   tvg-chno="1015"  tvg-name="NDTV India" tvc-guide-title="NDTV India"  tvc-guide-genres="News" tvc-guide-description="This 24-hour Hindi news channel stands strong as one of India’s leading credible news channels – preferred by an audience which seeks quality programming and pure news."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800002WJ_20240131T032338SQUARE.png_20240131032339.png"  group-title="News",  NDTV India (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBC2800002WJ.m3u8
+#EXTINF:-1 channel-id="samsung-INBA490002119"  tvg-id="INBA490002119" tvg-country="in"   tvg-chno="1017"  tvg-name="Republic Bharat" tvc-guide-title="Republic Bharat"  tvc-guide-genres="News" tvc-guide-description="Revolutionizing Hindi news since 2019 with an unparalleled focus on nation-centric news, investigations, and impactful journalism, and always putting the nation first"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20240925T102255SQUARE.png"  group-title="News",  Republic Bharat (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBA490002119.m3u8
+#EXTINF:-1 channel-id="samsung-INBD400006H0"  tvg-id="INBD400006H0" tvg-country="in"   tvg-chno="1021"  tvg-name="ABP News" tvc-guide-title="ABP News"  tvc-guide-genres="News" tvc-guide-description="ABP News is a leading national Hindi news channel from the House of ABP Network with the tagline 'Aapko Rakhe Aaage' which signifies its promise to keep every individual ahead and informed."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400006H0_20240131T032404SQUARE.png_20240131032405.png"  group-title="News",  ABP News (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD400006H0.m3u8
+#EXTINF:-1 channel-id="samsung-INBC4300010Z6"  tvg-id="INBC4300010Z6" tvg-country="in"   tvg-chno="1023"  tvg-name="Zee News" tvc-guide-title="Zee News"  tvc-guide-genres="News" tvc-guide-description="Zee Media Corporation Ltd (ZMCL), India's largest news network, touches the lives of over 150 million Indians through a clutch of national and regional news channels"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20240912T093657SQUARE.png"  group-title="News",  Zee News (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBC4300010Z6.m3u8
+#EXTINF:-1 channel-id="samsung-INBD1300010WP"  tvg-id="INBD1300010WP" tvg-country="in"   tvg-chno="1024"  tvg-name="News18 India" tvc-guide-title="News18 India"  tvc-guide-genres="News" tvc-guide-description="News18 India is the number 1 Hindi News channel in the country. The channel's strong, purposeful reportage of key issues has made it India's leading channel during prime time"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20240904T091839SQUARE.png"  group-title="News",  News18 India (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD1300010WP.m3u8
+#EXTINF:-1 channel-id="samsung-INBD1300003OW"  tvg-id="INBD1300003OW" tvg-country="in"   tvg-chno="1025"  tvg-name="Times Now Navbharat" tvc-guide-title="Times Now Navbharat"  tvc-guide-genres="News" tvc-guide-description="Times Now Navbharat is a Hindi national news channel in India. It was launched on 1 August 2021."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png"  group-title="News",  Times Now Navbharat (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD1300003OW.m3u8
+#EXTINF:-1 channel-id="samsung-IN3800003SV"  tvg-id="IN3800003SV" tvg-country="in"   tvg-chno="1027"  tvg-name="TV9 Bharatvarsh" tvc-guide-title="TV9 Bharatvarsh"  tvc-guide-genres="News" tvc-guide-description="An undisputed Leader, known for mainstreaming global news in Hindi news genre. Scripting a turnaround never seen before, the channel is known for its speed & scale."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20241024T054102SQUARE.png"  group-title="News",  TV9 Bharatvarsh (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-IN3800003SV.m3u8
+#EXTINF:-1 channel-id="samsung-IN26000183G"  tvg-id="IN26000183G" tvg-country="in"   tvg-chno="1028"  tvg-name="India TV News" tvc-guide-title="India TV News"  tvc-guide-genres="News" tvc-guide-description="Get all the latest breaking news headlines from India and around the world. Stay updated with live news coverage, photos and latest updates from politics, Bollywood and more all in one place"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000183G_20240911T003810SQUARE.png"  group-title="News",  India TV News (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-IN26000183G.m3u8
+#EXTINF:-1 channel-id="samsung-IN17000129W"  tvg-id="IN17000129W" tvg-country="in"   tvg-chno="1029"  tvg-name="Good News Today" tvc-guide-title="Good News Today"  tvc-guide-genres="News" tvc-guide-description="Good News Today is a 24X7 Hindi news channel that showcases stories of hope, human triumph, innovation, and inspiration from different walks of life."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000129W_20241016T011359SQUARE.png"  group-title="News",  Good News Today (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-IN17000129W.m3u8
+#EXTINF:-1 channel-id="samsung-IN26000190S"  tvg-id="IN26000190S" tvg-country="in"   tvg-chno="1030"  tvg-name="India TV Speed News" tvc-guide-title="India TV Speed News"  tvc-guide-genres="News" tvc-guide-description="India TV Speed News - Your source for rapid updates in Hindi! Stay informed with the latest political, sports, entertainment, business, and global news. Get your daily news fix effortlessly."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000190S_20240911T003813SQUARE.png"  group-title="News",  India TV Speed News (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-IN26000190S.m3u8
+#EXTINF:-1 channel-id="samsung-INBC2800003RQ"  tvg-id="INBC2800003RQ" tvg-country="in"   tvg-chno="1031"  tvg-name="Aaj Tak" tvc-guide-title="Aaj Tak"  tvc-guide-genres="News" tvc-guide-description="Aaj Tak is India's best Hindi News Channel. Aaj Tak news channel covers latest news in politics, entertainment, bollywood, business and sports"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800003RQ_20240731T012431SQUARE.png"  group-title="News",  Aaj Tak (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBC2800003RQ.m3u8
+#EXTINF:-1 channel-id="samsung-INBD1300007ST"  tvg-id="INBD1300007ST" tvg-country="in"   tvg-chno="1032"  tvg-name="CNBC AWAAZ" tvc-guide-title="CNBC AWAAZ"  tvc-guide-genres="News" tvc-guide-description="CNBC-AWAAZ is a Hindi Business News channel, offering plethora of programming on Markets, Investments and Personal finance"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300007ST_20241024T054100SQUARE.png"  group-title="News",  CNBC AWAAZ (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD1300007ST.m3u8
+#EXTINF:-1 channel-id="samsung-INBD400004NS"  tvg-id="INBD400004NS" tvg-country="in"   tvg-chno="1033"  tvg-name="Zee Business" tvc-guide-title="Zee Business"  tvc-guide-genres="News" tvc-guide-description="Zee Business is one of the leading and fastest growing Hindi business news channels in India"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400004NS_20240131T032402SQUARE.png_20240131032403.png"  group-title="News",  Zee Business (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD400004NS.m3u8
+#EXTINF:-1 channel-id="samsung-INBC2800005X4"  tvg-id="INBC2800005X4" tvg-country="in"   tvg-chno="1041"  tvg-name="India Today" tvc-guide-title="India Today"  tvc-guide-genres="News" tvc-guide-description="India Today TV is India's leading English News Channel. India Today channel offers latest news videos on Politics, Business, Cricket, Technology, Travel, Entertainment and a lot more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800005X4_20240131T032450SQUARE.png_20240131032451.png"  group-title="News",  India Today (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBC2800005X4.m3u8
+#EXTINF:-1 channel-id="samsung-INBD4000058T"  tvg-id="INBD4000058T" tvg-country="in"   tvg-chno="1043"  tvg-name="WION" tvc-guide-title="WION"  tvc-guide-genres="News" tvc-guide-description="The World is One News, examines global issues with in-depth analysis. We provide much more than The News of The day. Our aim to empower people to explore their world"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000058T_20240131T032537SQUARE.png_20240131032538.png"  group-title="News",  WION (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD4000058T.m3u8
+#EXTINF:-1 channel-id="samsung-INBA4900020A5"  tvg-id="INBA4900020A5" tvg-country="in"   tvg-chno="1045"  tvg-name="Republic TV" tvc-guide-title="Republic TV"  tvc-guide-genres="News" tvc-guide-description="India's no 1 English News Channel since 2017, a channel that keeps the nation first. Nationalism, accountability, and truth drives us."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20240131T032253SQUARE.png_20240131032254.png"  group-title="News",  Republic TV (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBA4900020A5.m3u8
+#EXTINF:-1 channel-id="samsung-INBC2800001D8"  tvg-id="INBC2800001D8" tvg-country="in"   tvg-chno="1047"  tvg-name="NDTV 24X7" tvc-guide-title="NDTV 24X7"  tvc-guide-genres="News" tvc-guide-description="This flagship channel from the NDTV news network is India’s most trusted and credible English News channel. It brings unbiased and comprehensive coverage of news and entertainment programmes."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20240131T032458SQUARE.png_20240131032459.png"  group-title="News",  NDTV 24X7 (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBC2800001D8.m3u8
+#EXTINF:-1 channel-id="samsung-INBD1300009QZ"  tvg-id="INBD1300009QZ" tvg-country="in"   tvg-chno="1049"  tvg-name="CNN News18" tvc-guide-title="CNN News18"  tvc-guide-genres="News" tvc-guide-description="CNN-News18's continuous run as the number 1 English News channel in the country has reinforced the belief of 'News over Noise'. CNN-NEWS18 is amongst the most trusted source for news for the viewers"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300009QZ_20240131T032448SQUARE.png_20240131032449.png"  group-title="News",  CNN News18 (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD1300009QZ.m3u8
+#EXTINF:-1 channel-id="samsung-INBD25000021N"  tvg-id="INBD25000021N" tvg-country="in"   tvg-chno="1050"  tvg-name="News9 Live" tvc-guide-title="News9 Live"  tvc-guide-genres="News" tvc-guide-description="News9 Live is India’s first and only 24x7 digital news stream, reimagining the English news genre for the discerning English-speaking audience."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000021N_20241023T011722SQUARE.png"  group-title="News",  News9 Live (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD25000021N.m3u8
+#EXTINF:-1 channel-id="samsung-INBC2800006GF"  tvg-id="INBC2800006GF" tvg-country="in"   tvg-chno="1051"  tvg-name="NDTV Profit" tvc-guide-title="NDTV Profit"  tvc-guide-genres="News" tvc-guide-description="This 24-hr English news channel offers latest stock market news, sensex news, nifty news, and stocks in India and best shows and interviews from across our other channels."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800006GF_20240912T093654SQUARE.png"  group-title="News",  NDTV Profit (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBC2800006GF.m3u8
+#EXTINF:-1 channel-id="samsung-INBD1300008ZY"  tvg-id="INBD1300008ZY" tvg-country="in"   tvg-chno="1052"  tvg-name="CNBC TV18" tvc-guide-title="CNBC TV18"  tvc-guide-genres="News" tvc-guide-description="India's pioneering English Business News channel, CNBC TV18, has been undisputed leader for 22 years. Led by stalwarts of business news reporting, its coverage rules the market hours"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300008ZY_20240131T032443SQUARE.png_20240131032444.png"  group-title="News",  CNBC TV18 (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD1300008ZY.m3u8
+#EXTINF:-1 channel-id="samsung-INBA5100021WP"  tvg-id="INBA5100021WP" tvg-country="in"   tvg-chno="1053"  tvg-name="Bloomberg TV" tvc-guide-title="Bloomberg TV"  tvc-guide-genres="News" tvc-guide-description="Bloomberg Television offers global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100021WP_20240131T032221SQUARE.png_20240131032222.png"  group-title="News",  Bloomberg TV (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBA5100021WP.m3u8
+#EXTINF:-1 channel-id="samsung-INBA5100022O4"  tvg-id="INBA5100022O4" tvg-country="in"   tvg-chno="1055"  tvg-name="Bloomberg Originals" tvc-guide-title="Bloomberg Originals"  tvc-guide-genres="News" tvc-guide-description="The future of business storytelling. Elevated, thought provoking, docu-style programming - anchored in expert talent and critical topics"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100022O4_20240131T032219SQUARE.png_20240131032219.png"  group-title="News",  Bloomberg Originals (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBA5100022O4.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500006OC"  tvg-id="INBD2500006OC" tvg-country="in"   tvg-chno="1059"  tvg-name="TV9 Marathi" tvc-guide-title="TV9 Marathi"  tvc-guide-genres="News" tvc-guide-description="TV9 Marathi is the top Marathi news channel that’s driven by fearless journalism and philosophy of “Kalji Tumchi Hith Maharashtrache" (Viewers’ concerns and in the interest of Maharashtra)."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500006OC_20241023T011735SQUARE.png"  group-title="News",  TV9 Marathi (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD2500006OC.m3u8
+#EXTINF:-1 channel-id="samsung-INBD400008VR"  tvg-id="INBD400008VR" tvg-country="in"   tvg-chno="1060"  tvg-name="ABP Majha" tvc-guide-title="ABP Majha"  tvc-guide-genres="News" tvc-guide-description="ABP Majha is a 24x7 Marathi news channel in India that mirrors the aspirations and distinct socio-political characteristics of the state of Maharashtra and its people"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400008VR_20240912T093659SQUARE.png"  group-title="News",  ABP Majha (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD400008VR.m3u8
+#EXTINF:-1 channel-id="samsung-INBD400001CP"  tvg-id="INBD400001CP" tvg-country="in"   tvg-chno="1061"  tvg-name="Zee 24 Taas" tvc-guide-title="Zee 24 Taas"  tvc-guide-genres="News" tvc-guide-description="ZEE 24 Taas, a 24x7 Marathi news channel actively dishes out authentic, accurate, and factual amarathi news round the clock. #Zee24Taas #MarathiNews #MaharashtraPolitics"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20240131T032544SQUARE.png_20240131032545.png"  group-title="News",  Zee 24 Taas (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD400001CP.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500017JZ"  tvg-id="INBD2500017JZ" tvg-country="in"   tvg-chno="1066"  tvg-name="News18 Punjab Haryana" tvc-guide-title="News18 Punjab Haryana"  tvc-guide-genres="News" tvc-guide-description="News18 Punjab Haryana, a 24-hr Punjabi news channel, delivers the latest news of the region."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500017JZ_20240508T020847SQUARE.png"  group-title="News",  News18 Punjab Haryana (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD2500017JZ.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500009DK"  tvg-id="INBD2500009DK" tvg-country="in"   tvg-chno="1067"  tvg-name="News18 Gujarati" tvc-guide-title="News18 Gujarati"  tvc-guide-genres="News" tvc-guide-description="News18 Gujarati, a 24-hr Gujarati news channel, delivers the latest Local, Hyperlocal, national & international news on Politics, Sports, Entertainment, Business, Health, Lifestyle, and more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500009DK_20240131T032506SQUARE.png_20240131032507.png"  group-title="News",  News18 Gujarati (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD2500009DK.m3u8
+#EXTINF:-1 channel-id="samsung-INBD400010BD"  tvg-id="INBD400010BD" tvg-country="in"   tvg-chno="1069"  tvg-name="ABP Asmita" tvc-guide-title="ABP Asmita"  tvc-guide-genres="News" tvc-guide-description="ABP Asmita is a 24-hour regional news channel broadcasting in Gujarati language. It operates from Ahmedabad, Gujarat and has created a strong resonance among the Gujarati viewers"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400010BD_20240131T032435SQUARE.png_20240131032436.png"  group-title="News",  ABP Asmita (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD400010BD.m3u8
+#EXTINF:-1 channel-id="samsung-INBD1300012GJ"  tvg-id="INBD1300012GJ" tvg-country="in"   tvg-chno="1071"  tvg-name="TV9 Gujarati" tvc-guide-title="TV9 Gujarati"  tvc-guide-genres="News" tvc-guide-description="TV9 Gujarati is the leading Gujarati news channel. The channel is the chronicler of Gujarati pride in its news coverage with the promise of ‘Garv Chhe Gujarati Chhun’ (Proud to be Gujarati)."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300012GJ_20241023T011733SQUARE.png"  group-title="News",  TV9 Gujarati (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD1300012GJ.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500015H5"  tvg-id="INBD2500015H5" tvg-country="in"   tvg-chno="1074"  tvg-name="CNBC Bajar" tvc-guide-title="CNBC Bajar"  tvc-guide-genres="News" tvc-guide-description="India's first Gujarati business news channel, CNBC-Bajar, speaks to the Gujarati business community in the language of their choice."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500015H5_20240214T030757SQUARE.png_20240214030758.png"  group-title="News",  CNBC Bajar (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD2500015H5.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500007PD"  tvg-id="INBD2500007PD" tvg-country="in"   tvg-chno="1075"  tvg-name="TV9 Bangla" tvc-guide-title="TV9 Bangla"  tvc-guide-genres="News" tvc-guide-description="TV9 Bangla is the fastest-growing Bangla news channel. It has disrupted the Bangla News space with its robust journalism along with differentiated creative and intellectually rich content."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500007PD_20241023T011730SQUARE.png"  group-title="News",  TV9 Bangla (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD2500007PD.m3u8
+#EXTINF:-1 channel-id="samsung-INBD400007NT"  tvg-id="INBD400007NT" tvg-country="in"   tvg-chno="1076"  tvg-name="ABP Ananda" tvc-guide-title="ABP Ananda"  tvc-guide-genres="News" tvc-guide-description="ABP Ananda is the No.1 Bengali news channel in India that provides comprehensive up-to-date news coverage from West Bengal along with other significant stories from the world,to the Bengali viewers"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400007NT_20240131T032433SQUARE.png_20240131032434.png"  group-title="News",  ABP Ananda (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD400007NT.m3u8
+#EXTINF:-1 channel-id="samsung-INBD400003GE"  tvg-id="INBD400003GE" tvg-country="in"   tvg-chno="1077"  tvg-name="Zee 24 Ghanta" tvc-guide-title="Zee 24 Ghanta"  tvc-guide-genres="News" tvc-guide-description="Zee 24 Ghanta brings all the latest headlines and news stories to satisfy the demands of high-rise favorites of Bengali audiences"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400003GE_20240131T032539SQUARE.png_20240131032540.png"  group-title="News",  Zee 24 Ghanta (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD400003GE.m3u8
+#EXTINF:-1 channel-id="samsung-INBD25000081V"  tvg-id="INBD25000081V" tvg-country="in"   tvg-chno="1079"  tvg-name="News18 Bangla" tvc-guide-title="News18 Bangla"  tvc-guide-genres="News" tvc-guide-description="News18 Bangla, a 24-hr Bengali news channel, delivers the latest in national & international news on Politics, Sports, Entertainment, Business, Health, Lifestyle, and more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000081V_20240131T032503SQUARE.png_20240131032505.png"  group-title="News",  News18 Bangla (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD25000081V.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500016OR"  tvg-id="INBD2500016OR" tvg-country="in"   tvg-chno="1081"  tvg-name="R Bangla" tvc-guide-title="R Bangla"  tvc-guide-genres="News" tvc-guide-description="Redefining Bengali news through fearless journalism and an unwavering commitment to the truth. 'Kotha hobey chokhe chokh rekhe' - where words meet vision"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500016OR_20240131T032519SQUARE.png_20240131032520.png"  group-title="News",  R Bangla (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD2500016OR.m3u8
+#EXTINF:-1 channel-id="samsung-INBD4000027E"  tvg-id="INBD4000027E" tvg-country="in"   tvg-chno="1083"  tvg-name="Zee 24 Kalak" tvc-guide-title="Zee 24 Kalak"  tvc-guide-genres="News" tvc-guide-description="ZMCL is India's one of the largest News Network with 10 news channels in different languages touching more than 119 Million viewers. ZEE24KALAK, a 24x7 Gujarati news channel actively dishes."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000027E_20240131T032542SQUARE.png_20240131032542.png"  group-title="News",  Zee 24 Kalak (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD4000027E.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500013ID"  tvg-id="INBD2500013ID" tvg-country="in"   tvg-chno="1084"  tvg-name="News18 Odia" tvc-guide-title="News18 Odia"  tvc-guide-genres="News" tvc-guide-description="News18 Odia, a 24-hr Odia news channel, delivers the latest in national & international news on Politics, Sports, Entertainment, Business, Health, Lifestyle, and more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500013ID_20240131T032511SQUARE.png_20240131032512.png"  group-title="News",  News18 Odia (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD2500013ID.m3u8
+#EXTINF:-1 channel-id="samsung-INBD25000148M"  tvg-id="INBD25000148M" tvg-country="in"   tvg-chno="1086"  tvg-name="News18 Tamil Nadu" tvc-guide-title="News18 Tamil Nadu"  tvc-guide-genres="News" tvc-guide-description="News18 Tamil Nadu, a 24-hr Tamil news channel, delivers the latest Local, Hyperlocal, national & international news on Politics, Sports, Entertainment, Business, Health, Lifestyle, and more"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000148M_20240417T022500SQUARE.png"  group-title="News",  News18 Tamil Nadu (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD25000148M.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500004Y0"  tvg-id="INBD2500004Y0" tvg-country="in"   tvg-chno="1093"  tvg-name="TV9 Telugu" tvc-guide-title="TV9 Telugu"  tvc-guide-genres="News" tvc-guide-description="TV9 Telugu is the leading Telugu news channel with the guiding philosophy of ‘Towards Better Society’. Since its launch in 2004, the channel has stood for unbiased and courageous journalism."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500004Y0_20241023T011727SQUARE.png"  group-title="News",  TV9 Telugu (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD2500004Y0.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500003XT"  tvg-id="INBD2500003XT" tvg-country="in"   tvg-chno="1101"  tvg-name="TV9 Kannada" tvc-guide-title="TV9 Kannada"  tvc-guide-genres="News" tvc-guide-description="TV9 Kannada is Karnataka’s No. 1 news channel by far and has served as the go-to channel for Kannada news viewers with the guiding principle of “Uttama Samajakkage” (for a better society)."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500003XT_20241023T011724SQUARE.png"  group-title="News",  TV9 Kannada (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD2500003XT.m3u8
+#EXTINF:-1 channel-id="samsung-INBD2500012V1"  tvg-id="INBD2500012V1" tvg-country="in"   tvg-chno="1103"  tvg-name="News18 Kannada" tvc-guide-title="News18 Kannada"  tvc-guide-genres="News" tvc-guide-description="News18 Kannada, a 24-hr Kannada news channel, delivers the latest in national & international news on Politics, Sports, Entertainment, Business, Health, Lifestyle, and more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500012V1_20240131T032509SQUARE.png_20240131032510.png"  group-title="News",  News18 Kannada (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD2500012V1.m3u8
+#EXTINF:-1 channel-id="samsung-IN1600006GA"  tvg-id="IN1600006GA" tvg-country="in"   tvg-chno="1105"  tvg-name="Republic Kannada" tvc-guide-title="Republic Kannada"  tvc-guide-genres="News" tvc-guide-description="Your voice, our commitment! Empowering Karnataka with transparent and truthful news. ‘Nimma Dhwani' in every story."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600006GA_20240612T015020SQUARE.png"  group-title="News",  Republic Kannada (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-IN1600006GA.m3u8
+#EXTINF:-1 channel-id="samsung-INBD25000225G"  tvg-id="INBD25000225G" tvg-country="in"   tvg-chno="1107"  tvg-name="News18 Keralam" tvc-guide-title="News18 Keralam"  tvc-guide-genres="News" tvc-guide-description="News18 Keralam, a 24-hr Malayalam news channel, which delivers the latest Local, Hyperlocal, national & international news on Politics, Sports, Entertainment, Business, Health and more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000225G_20240508T020844SQUARE.png"  group-title="News",  News18 Keralam (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-INBD25000225G.m3u8
+#EXTINF:-1 channel-id="samsung-IN1600007AU"  tvg-id="IN1600007AU" tvg-country="in"   tvg-chno="1111"  tvg-name="News18 Jammu Kashmir" tvc-guide-title="News18 Jammu Kashmir"  tvc-guide-genres="News" tvc-guide-description="News18 Jammu Kashmir/Ladakh/Himachal, a 24-hour Hindi news channel, offers comprehensive coverage of the latest happenings and news from the region in a refreshing format."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600007AU_20240612T015012SQUARE.png"  group-title="News",  News18 Jammu Kashmir (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://jmp2.uk/sam-IN1600007AU.m3u8
 #EXTINF:-1 channel-id="samsung-DDNATIONAL"  tvg-id="DDNATIONAL" tvg-country="in"   tvg-chno="104"  tvg-name="DD National" tvc-guide-title="DD National"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch  TV channel DD NATIONAL live . First Shows provides Live telecast of  DD NATIONAL"  tvc-guide-categories="Entertainment" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png"  group-title="Entertainment",  DD National (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -396,190 +580,6 @@ https://jmp2.uk/sam-IN1600002IQ.m3u8
 #EXTGRP:LifeStyle
 #EXTGENRE:LifeStyle
 https://jmp2.uk/sam-IN1600003K2.m3u8
-#EXTINF:-1 channel-id="samsung-IN3800001ZH"  tvg-id="IN3800001ZH" tvg-country="in"   tvg-chno="1013"  tvg-name="Aaj Tak HD" tvc-guide-title="Aaj Tak HD"  tvc-guide-genres="" tvc-guide-description="Aaj Tak HD, India's first high-definition Hindi news channel, brings to you the latest news in Politics, Entertainment, Bollywood, Business and International News."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20241024T054104SQUARE.png"  group-title="",  Aaj Tak HD (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-IN3800001ZH.m3u8
-#EXTINF:-1 channel-id="samsung-INBC2800002WJ"  tvg-id="INBC2800002WJ" tvg-country="in"   tvg-chno="1015"  tvg-name="NDTV India" tvc-guide-title="NDTV India"  tvc-guide-genres="" tvc-guide-description="This 24-hour Hindi news channel stands strong as one of India’s leading credible news channels – preferred by an audience which seeks quality programming and pure news."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800002WJ_20240131T032338SQUARE.png_20240131032339.png"  group-title="",  NDTV India (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBC2800002WJ.m3u8
-#EXTINF:-1 channel-id="samsung-INBA490002119"  tvg-id="INBA490002119" tvg-country="in"   tvg-chno="1017"  tvg-name="Republic Bharat" tvc-guide-title="Republic Bharat"  tvc-guide-genres="" tvc-guide-description="Revolutionizing Hindi news since 2019 with an unparalleled focus on nation-centric news, investigations, and impactful journalism, and always putting the nation first"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20240925T102255SQUARE.png"  group-title="",  Republic Bharat (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBA490002119.m3u8
-#EXTINF:-1 channel-id="samsung-INBD400006H0"  tvg-id="INBD400006H0" tvg-country="in"   tvg-chno="1021"  tvg-name="ABP News" tvc-guide-title="ABP News"  tvc-guide-genres="" tvc-guide-description="ABP News is a leading national Hindi news channel from the House of ABP Network with the tagline 'Aapko Rakhe Aaage' which signifies its promise to keep every individual ahead and informed."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400006H0_20240131T032404SQUARE.png_20240131032405.png"  group-title="",  ABP News (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD400006H0.m3u8
-#EXTINF:-1 channel-id="samsung-INBC4300010Z6"  tvg-id="INBC4300010Z6" tvg-country="in"   tvg-chno="1023"  tvg-name="Zee News" tvc-guide-title="Zee News"  tvc-guide-genres="" tvc-guide-description="Zee Media Corporation Ltd (ZMCL), India's largest news network, touches the lives of over 150 million Indians through a clutch of national and regional news channels"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20240912T093657SQUARE.png"  group-title="",  Zee News (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBC4300010Z6.m3u8
-#EXTINF:-1 channel-id="samsung-INBD1300010WP"  tvg-id="INBD1300010WP" tvg-country="in"   tvg-chno="1024"  tvg-name="News18 India" tvc-guide-title="News18 India"  tvc-guide-genres="" tvc-guide-description="News18 India is the number 1 Hindi News channel in the country. The channel's strong, purposeful reportage of key issues has made it India's leading channel during prime time"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20240904T091839SQUARE.png"  group-title="",  News18 India (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD1300010WP.m3u8
-#EXTINF:-1 channel-id="samsung-INBD1300003OW"  tvg-id="INBD1300003OW" tvg-country="in"   tvg-chno="1025"  tvg-name="Times Now Navbharat" tvc-guide-title="Times Now Navbharat"  tvc-guide-genres="" tvc-guide-description="Times Now Navbharat is a Hindi national news channel in India. It was launched on 1 August 2021."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png"  group-title="",  Times Now Navbharat (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD1300003OW.m3u8
-#EXTINF:-1 channel-id="samsung-IN3800003SV"  tvg-id="IN3800003SV" tvg-country="in"   tvg-chno="1027"  tvg-name="TV9 Bharatvarsh" tvc-guide-title="TV9 Bharatvarsh"  tvc-guide-genres="" tvc-guide-description="An undisputed Leader, known for mainstreaming global news in Hindi news genre. Scripting a turnaround never seen before, the channel is known for its speed & scale."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20241024T054102SQUARE.png"  group-title="",  TV9 Bharatvarsh (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-IN3800003SV.m3u8
-#EXTINF:-1 channel-id="samsung-IN26000183G"  tvg-id="IN26000183G" tvg-country="in"   tvg-chno="1028"  tvg-name="India TV News" tvc-guide-title="India TV News"  tvc-guide-genres="" tvc-guide-description="Get all the latest breaking news headlines from India and around the world. Stay updated with live news coverage, photos and latest updates from politics, Bollywood and more all in one place"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000183G_20240911T003810SQUARE.png"  group-title="",  India TV News (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-IN26000183G.m3u8
-#EXTINF:-1 channel-id="samsung-IN17000129W"  tvg-id="IN17000129W" tvg-country="in"   tvg-chno="1029"  tvg-name="Good News Today" tvc-guide-title="Good News Today"  tvc-guide-genres="" tvc-guide-description="Good News Today is a 24X7 Hindi news channel that showcases stories of hope, human triumph, innovation, and inspiration from different walks of life."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000129W_20241016T011359SQUARE.png"  group-title="",  Good News Today (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-IN17000129W.m3u8
-#EXTINF:-1 channel-id="samsung-IN26000190S"  tvg-id="IN26000190S" tvg-country="in"   tvg-chno="1030"  tvg-name="India TV Speed News" tvc-guide-title="India TV Speed News"  tvc-guide-genres="" tvc-guide-description="India TV Speed News - Your source for rapid updates in Hindi! Stay informed with the latest political, sports, entertainment, business, and global news. Get your daily news fix effortlessly."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000190S_20240911T003813SQUARE.png"  group-title="",  India TV Speed News (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-IN26000190S.m3u8
-#EXTINF:-1 channel-id="samsung-INBC2800003RQ"  tvg-id="INBC2800003RQ" tvg-country="in"   tvg-chno="1031"  tvg-name="Aaj Tak" tvc-guide-title="Aaj Tak"  tvc-guide-genres="" tvc-guide-description="Aaj Tak is India's best Hindi News Channel. Aaj Tak news channel covers latest news in politics, entertainment, bollywood, business and sports"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800003RQ_20240731T012431SQUARE.png"  group-title="",  Aaj Tak (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBC2800003RQ.m3u8
-#EXTINF:-1 channel-id="samsung-INBD1300007ST"  tvg-id="INBD1300007ST" tvg-country="in"   tvg-chno="1032"  tvg-name="CNBC AWAAZ" tvc-guide-title="CNBC AWAAZ"  tvc-guide-genres="" tvc-guide-description="CNBC-AWAAZ is a Hindi Business News channel, offering plethora of programming on Markets, Investments and Personal finance"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300007ST_20241024T054100SQUARE.png"  group-title="",  CNBC AWAAZ (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD1300007ST.m3u8
-#EXTINF:-1 channel-id="samsung-INBD400004NS"  tvg-id="INBD400004NS" tvg-country="in"   tvg-chno="1033"  tvg-name="Zee Business" tvc-guide-title="Zee Business"  tvc-guide-genres="" tvc-guide-description="Zee Business is one of the leading and fastest growing Hindi business news channels in India"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400004NS_20240131T032402SQUARE.png_20240131032403.png"  group-title="",  Zee Business (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD400004NS.m3u8
-#EXTINF:-1 channel-id="samsung-INBC2800005X4"  tvg-id="INBC2800005X4" tvg-country="in"   tvg-chno="1041"  tvg-name="India Today" tvc-guide-title="India Today"  tvc-guide-genres="" tvc-guide-description="India Today TV is India's leading English News Channel. India Today channel offers latest news videos on Politics, Business, Cricket, Technology, Travel, Entertainment and a lot more."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800005X4_20240131T032450SQUARE.png_20240131032451.png"  group-title="",  India Today (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBC2800005X4.m3u8
-#EXTINF:-1 channel-id="samsung-INBD4000058T"  tvg-id="INBD4000058T" tvg-country="in"   tvg-chno="1043"  tvg-name="WION" tvc-guide-title="WION"  tvc-guide-genres="" tvc-guide-description="The World is One News, examines global issues with in-depth analysis. We provide much more than The News of The day. Our aim to empower people to explore their world"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000058T_20240131T032537SQUARE.png_20240131032538.png"  group-title="",  WION (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD4000058T.m3u8
-#EXTINF:-1 channel-id="samsung-INBA4900020A5"  tvg-id="INBA4900020A5" tvg-country="in"   tvg-chno="1045"  tvg-name="Republic TV" tvc-guide-title="Republic TV"  tvc-guide-genres="" tvc-guide-description="India's no 1 English News Channel since 2017, a channel that keeps the nation first. Nationalism, accountability, and truth drives us."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20240131T032253SQUARE.png_20240131032254.png"  group-title="",  Republic TV (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBA4900020A5.m3u8
-#EXTINF:-1 channel-id="samsung-INBC2800001D8"  tvg-id="INBC2800001D8" tvg-country="in"   tvg-chno="1047"  tvg-name="NDTV 24X7" tvc-guide-title="NDTV 24X7"  tvc-guide-genres="" tvc-guide-description="This flagship channel from the NDTV news network is India’s most trusted and credible English News channel. It brings unbiased and comprehensive coverage of news and entertainment programmes."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20240131T032458SQUARE.png_20240131032459.png"  group-title="",  NDTV 24X7 (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBC2800001D8.m3u8
-#EXTINF:-1 channel-id="samsung-INBD1300009QZ"  tvg-id="INBD1300009QZ" tvg-country="in"   tvg-chno="1049"  tvg-name="CNN News18" tvc-guide-title="CNN News18"  tvc-guide-genres="" tvc-guide-description="CNN-News18's continuous run as the number 1 English News channel in the country has reinforced the belief of 'News over Noise'. CNN-NEWS18 is amongst the most trusted source for news for the viewers"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300009QZ_20240131T032448SQUARE.png_20240131032449.png"  group-title="",  CNN News18 (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD1300009QZ.m3u8
-#EXTINF:-1 channel-id="samsung-INBD25000021N"  tvg-id="INBD25000021N" tvg-country="in"   tvg-chno="1050"  tvg-name="News9 Live" tvc-guide-title="News9 Live"  tvc-guide-genres="" tvc-guide-description="News9 Live is India’s first and only 24x7 digital news stream, reimagining the English news genre for the discerning English-speaking audience."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000021N_20241023T011722SQUARE.png"  group-title="",  News9 Live (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD25000021N.m3u8
-#EXTINF:-1 channel-id="samsung-INBC2800006GF"  tvg-id="INBC2800006GF" tvg-country="in"   tvg-chno="1051"  tvg-name="NDTV Profit" tvc-guide-title="NDTV Profit"  tvc-guide-genres="" tvc-guide-description="This 24-hr English news channel offers latest stock market news, sensex news, nifty news, and stocks in India and best shows and interviews from across our other channels."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800006GF_20240912T093654SQUARE.png"  group-title="",  NDTV Profit (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBC2800006GF.m3u8
-#EXTINF:-1 channel-id="samsung-INBD1300008ZY"  tvg-id="INBD1300008ZY" tvg-country="in"   tvg-chno="1052"  tvg-name="CNBC TV18" tvc-guide-title="CNBC TV18"  tvc-guide-genres="" tvc-guide-description="India's pioneering English Business News channel, CNBC TV18, has been undisputed leader for 22 years. Led by stalwarts of business news reporting, its coverage rules the market hours"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300008ZY_20240131T032443SQUARE.png_20240131032444.png"  group-title="",  CNBC TV18 (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD1300008ZY.m3u8
-#EXTINF:-1 channel-id="samsung-INBA5100021WP"  tvg-id="INBA5100021WP" tvg-country="in"   tvg-chno="1053"  tvg-name="Bloomberg TV" tvc-guide-title="Bloomberg TV"  tvc-guide-genres="" tvc-guide-description="Bloomberg Television offers global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100021WP_20240131T032221SQUARE.png_20240131032222.png"  group-title="",  Bloomberg TV (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBA5100021WP.m3u8
-#EXTINF:-1 channel-id="samsung-INBA5100022O4"  tvg-id="INBA5100022O4" tvg-country="in"   tvg-chno="1055"  tvg-name="Bloomberg Originals" tvc-guide-title="Bloomberg Originals"  tvc-guide-genres="" tvc-guide-description="The future of business storytelling. Elevated, thought provoking, docu-style programming - anchored in expert talent and critical topics"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100022O4_20240131T032219SQUARE.png_20240131032219.png"  group-title="",  Bloomberg Originals (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBA5100022O4.m3u8
-#EXTINF:-1 channel-id="samsung-INBD2500006OC"  tvg-id="INBD2500006OC" tvg-country="in"   tvg-chno="1059"  tvg-name="TV9 Marathi" tvc-guide-title="TV9 Marathi"  tvc-guide-genres="" tvc-guide-description="TV9 Marathi is the top Marathi news channel that’s driven by fearless journalism and philosophy of “Kalji Tumchi Hith Maharashtrache" (Viewers’ concerns and in the interest of Maharashtra)."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500006OC_20241023T011735SQUARE.png"  group-title="",  TV9 Marathi (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD2500006OC.m3u8
-#EXTINF:-1 channel-id="samsung-INBD400008VR"  tvg-id="INBD400008VR" tvg-country="in"   tvg-chno="1060"  tvg-name="ABP Majha" tvc-guide-title="ABP Majha"  tvc-guide-genres="" tvc-guide-description="ABP Majha is a 24x7 Marathi news channel in India that mirrors the aspirations and distinct socio-political characteristics of the state of Maharashtra and its people"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400008VR_20240912T093659SQUARE.png"  group-title="",  ABP Majha (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD400008VR.m3u8
-#EXTINF:-1 channel-id="samsung-INBD400001CP"  tvg-id="INBD400001CP" tvg-country="in"   tvg-chno="1061"  tvg-name="Zee 24 Taas" tvc-guide-title="Zee 24 Taas"  tvc-guide-genres="" tvc-guide-description="ZEE 24 Taas, a 24x7 Marathi news channel actively dishes out authentic, accurate, and factual amarathi news round the clock. #Zee24Taas #MarathiNews #MaharashtraPolitics"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20240131T032544SQUARE.png_20240131032545.png"  group-title="",  Zee 24 Taas (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD400001CP.m3u8
-#EXTINF:-1 channel-id="samsung-INBD2500017JZ"  tvg-id="INBD2500017JZ" tvg-country="in"   tvg-chno="1066"  tvg-name="News18 Punjab Haryana" tvc-guide-title="News18 Punjab Haryana"  tvc-guide-genres="" tvc-guide-description="News18 Punjab Haryana, a 24-hr Punjabi news channel, delivers the latest news of the region."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500017JZ_20240508T020847SQUARE.png"  group-title="",  News18 Punjab Haryana (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD2500017JZ.m3u8
-#EXTINF:-1 channel-id="samsung-INBD2500009DK"  tvg-id="INBD2500009DK" tvg-country="in"   tvg-chno="1067"  tvg-name="News18 Gujarati" tvc-guide-title="News18 Gujarati"  tvc-guide-genres="" tvc-guide-description="News18 Gujarati, a 24-hr Gujarati news channel, delivers the latest Local, Hyperlocal, national & international news on Politics, Sports, Entertainment, Business, Health, Lifestyle, and more."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500009DK_20240131T032506SQUARE.png_20240131032507.png"  group-title="",  News18 Gujarati (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD2500009DK.m3u8
-#EXTINF:-1 channel-id="samsung-INBD400010BD"  tvg-id="INBD400010BD" tvg-country="in"   tvg-chno="1069"  tvg-name="ABP Asmita" tvc-guide-title="ABP Asmita"  tvc-guide-genres="" tvc-guide-description="ABP Asmita is a 24-hour regional news channel broadcasting in Gujarati language. It operates from Ahmedabad, Gujarat and has created a strong resonance among the Gujarati viewers"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400010BD_20240131T032435SQUARE.png_20240131032436.png"  group-title="",  ABP Asmita (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD400010BD.m3u8
-#EXTINF:-1 channel-id="samsung-INBD1300012GJ"  tvg-id="INBD1300012GJ" tvg-country="in"   tvg-chno="1071"  tvg-name="TV9 Gujarati" tvc-guide-title="TV9 Gujarati"  tvc-guide-genres="" tvc-guide-description="TV9 Gujarati is the leading Gujarati news channel. The channel is the chronicler of Gujarati pride in its news coverage with the promise of ‘Garv Chhe Gujarati Chhun’ (Proud to be Gujarati)."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300012GJ_20241023T011733SQUARE.png"  group-title="",  TV9 Gujarati (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD1300012GJ.m3u8
-#EXTINF:-1 channel-id="samsung-INBD2500015H5"  tvg-id="INBD2500015H5" tvg-country="in"   tvg-chno="1074"  tvg-name="CNBC Bajar" tvc-guide-title="CNBC Bajar"  tvc-guide-genres="" tvc-guide-description="India's first Gujarati business news channel, CNBC-Bajar, speaks to the Gujarati business community in the language of their choice."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500015H5_20240214T030757SQUARE.png_20240214030758.png"  group-title="",  CNBC Bajar (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD2500015H5.m3u8
-#EXTINF:-1 channel-id="samsung-INBD2500007PD"  tvg-id="INBD2500007PD" tvg-country="in"   tvg-chno="1075"  tvg-name="TV9 Bangla" tvc-guide-title="TV9 Bangla"  tvc-guide-genres="" tvc-guide-description="TV9 Bangla is the fastest-growing Bangla news channel. It has disrupted the Bangla News space with its robust journalism along with differentiated creative and intellectually rich content."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500007PD_20241023T011730SQUARE.png"  group-title="",  TV9 Bangla (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD2500007PD.m3u8
-#EXTINF:-1 channel-id="samsung-INBD400007NT"  tvg-id="INBD400007NT" tvg-country="in"   tvg-chno="1076"  tvg-name="ABP Ananda" tvc-guide-title="ABP Ananda"  tvc-guide-genres="" tvc-guide-description="ABP Ananda is the No.1 Bengali news channel in India that provides comprehensive up-to-date news coverage from West Bengal along with other significant stories from the world,to the Bengali viewers"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400007NT_20240131T032433SQUARE.png_20240131032434.png"  group-title="",  ABP Ananda (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD400007NT.m3u8
-#EXTINF:-1 channel-id="samsung-INBD400003GE"  tvg-id="INBD400003GE" tvg-country="in"   tvg-chno="1077"  tvg-name="Zee 24 Ghanta" tvc-guide-title="Zee 24 Ghanta"  tvc-guide-genres="" tvc-guide-description="Zee 24 Ghanta brings all the latest headlines and news stories to satisfy the demands of high-rise favorites of Bengali audiences"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400003GE_20240131T032539SQUARE.png_20240131032540.png"  group-title="",  Zee 24 Ghanta (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD400003GE.m3u8
-#EXTINF:-1 channel-id="samsung-INBD25000081V"  tvg-id="INBD25000081V" tvg-country="in"   tvg-chno="1079"  tvg-name="News18 Bangla" tvc-guide-title="News18 Bangla"  tvc-guide-genres="" tvc-guide-description="News18 Bangla, a 24-hr Bengali news channel, delivers the latest in national & international news on Politics, Sports, Entertainment, Business, Health, Lifestyle, and more."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000081V_20240131T032503SQUARE.png_20240131032505.png"  group-title="",  News18 Bangla (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD25000081V.m3u8
-#EXTINF:-1 channel-id="samsung-INBD2500016OR"  tvg-id="INBD2500016OR" tvg-country="in"   tvg-chno="1081"  tvg-name="R Bangla" tvc-guide-title="R Bangla"  tvc-guide-genres="" tvc-guide-description="Redefining Bengali news through fearless journalism and an unwavering commitment to the truth. 'Kotha hobey chokhe chokh rekhe' - where words meet vision"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500016OR_20240131T032519SQUARE.png_20240131032520.png"  group-title="",  R Bangla (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD2500016OR.m3u8
-#EXTINF:-1 channel-id="samsung-INBD4000027E"  tvg-id="INBD4000027E" tvg-country="in"   tvg-chno="1083"  tvg-name="Zee 24 Kalak" tvc-guide-title="Zee 24 Kalak"  tvc-guide-genres="" tvc-guide-description="ZMCL is India's one of the largest News Network with 10 news channels in different languages touching more than 119 Million viewers. ZEE24KALAK, a 24x7 Gujarati news channel actively dishes."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000027E_20240131T032542SQUARE.png_20240131032542.png"  group-title="",  Zee 24 Kalak (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD4000027E.m3u8
-#EXTINF:-1 channel-id="samsung-INBD2500013ID"  tvg-id="INBD2500013ID" tvg-country="in"   tvg-chno="1084"  tvg-name="News18 Odia" tvc-guide-title="News18 Odia"  tvc-guide-genres="" tvc-guide-description="News18 Odia, a 24-hr Odia news channel, delivers the latest in national & international news on Politics, Sports, Entertainment, Business, Health, Lifestyle, and more."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500013ID_20240131T032511SQUARE.png_20240131032512.png"  group-title="",  News18 Odia (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD2500013ID.m3u8
-#EXTINF:-1 channel-id="samsung-INBD25000148M"  tvg-id="INBD25000148M" tvg-country="in"   tvg-chno="1086"  tvg-name="News18 Tamil Nadu" tvc-guide-title="News18 Tamil Nadu"  tvc-guide-genres="" tvc-guide-description="News18 Tamil Nadu, a 24-hr Tamil news channel, delivers the latest Local, Hyperlocal, national & international news on Politics, Sports, Entertainment, Business, Health, Lifestyle, and more"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000148M_20240417T022500SQUARE.png"  group-title="",  News18 Tamil Nadu (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD25000148M.m3u8
-#EXTINF:-1 channel-id="samsung-INBD2500004Y0"  tvg-id="INBD2500004Y0" tvg-country="in"   tvg-chno="1093"  tvg-name="TV9 Telugu" tvc-guide-title="TV9 Telugu"  tvc-guide-genres="" tvc-guide-description="TV9 Telugu is the leading Telugu news channel with the guiding philosophy of ‘Towards Better Society’. Since its launch in 2004, the channel has stood for unbiased and courageous journalism."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500004Y0_20241023T011727SQUARE.png"  group-title="",  TV9 Telugu (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD2500004Y0.m3u8
-#EXTINF:-1 channel-id="samsung-INBD2500003XT"  tvg-id="INBD2500003XT" tvg-country="in"   tvg-chno="1101"  tvg-name="TV9 Kannada" tvc-guide-title="TV9 Kannada"  tvc-guide-genres="" tvc-guide-description="TV9 Kannada is Karnataka’s No. 1 news channel by far and has served as the go-to channel for Kannada news viewers with the guiding principle of “Uttama Samajakkage” (for a better society)."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500003XT_20241023T011724SQUARE.png"  group-title="",  TV9 Kannada (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD2500003XT.m3u8
-#EXTINF:-1 channel-id="samsung-INBD2500012V1"  tvg-id="INBD2500012V1" tvg-country="in"   tvg-chno="1103"  tvg-name="News18 Kannada" tvc-guide-title="News18 Kannada"  tvc-guide-genres="" tvc-guide-description="News18 Kannada, a 24-hr Kannada news channel, delivers the latest in national & international news on Politics, Sports, Entertainment, Business, Health, Lifestyle, and more."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500012V1_20240131T032509SQUARE.png_20240131032510.png"  group-title="",  News18 Kannada (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD2500012V1.m3u8
-#EXTINF:-1 channel-id="samsung-IN1600006GA"  tvg-id="IN1600006GA" tvg-country="in"   tvg-chno="1105"  tvg-name="Republic Kannada" tvc-guide-title="Republic Kannada"  tvc-guide-genres="" tvc-guide-description="Your voice, our commitment! Empowering Karnataka with transparent and truthful news. ‘Nimma Dhwani' in every story."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600006GA_20240612T015020SQUARE.png"  group-title="",  Republic Kannada (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-IN1600006GA.m3u8
-#EXTINF:-1 channel-id="samsung-INBD25000225G"  tvg-id="INBD25000225G" tvg-country="in"   tvg-chno="1107"  tvg-name="News18 Keralam" tvc-guide-title="News18 Keralam"  tvc-guide-genres="" tvc-guide-description="News18 Keralam, a 24-hr Malayalam news channel, which delivers the latest Local, Hyperlocal, national & international news on Politics, Sports, Entertainment, Business, Health and more."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000225G_20240508T020844SQUARE.png"  group-title="",  News18 Keralam (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-INBD25000225G.m3u8
-#EXTINF:-1 channel-id="samsung-IN1600007AU"  tvg-id="IN1600007AU" tvg-country="in"   tvg-chno="1111"  tvg-name="News18 Jammu Kashmir" tvc-guide-title="News18 Jammu Kashmir"  tvc-guide-genres="" tvc-guide-description="News18 Jammu Kashmir/Ladakh/Himachal, a 24-hour Hindi news channel, offers comprehensive coverage of the latest happenings and news from the region in a refreshing format."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600007AU_20240612T015012SQUARE.png"  group-title="",  News18 Jammu Kashmir (1080p)
-#EXTGRP:
-#EXTGENRE:
-https://jmp2.uk/sam-IN1600007AU.m3u8
 #EXTINF:-1 channel-id="samsung-IN2600021ED"  tvg-id="IN2600021ED" tvg-country="in"   tvg-chno="1365"  tvg-name="India TV Yoga" tvc-guide-title="India TV Yoga"  tvc-guide-genres="" tvc-guide-description="India TV Yoga Channel Your 24x7 guide to well-being. With exclusive video content from renowned Yoga guru Baba Ramdev, get daily health tips, targeted yoga sessions, and guided meditations."  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600021ED_20240911T003816SQUARE.png"  group-title="",  India TV Yoga (1080p)
 #EXTGRP:
 #EXTGENRE:
