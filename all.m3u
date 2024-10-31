@@ -232,6 +232,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
+#EXTINF:-1 channel-id="samsung-ShemarooUmangPlus"  tvg-id="ShemarooUmangPlus" tvg-country="in"   tvg-chno="155"  tvg-name="Shemaroo Umang Plus" tvc-guide-title="Shemaroo Umang Plus"  tvc-guide-genres="Entertainment" tvc-guide-description="Shemaroo Umang Plus"  tvc-guide-categories="Entertainment" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-umang-plus/logo_20240206_191005_68.png"  group-title="Entertainment",  Shemaroo Umang Plus (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBD4700006JD"  tvg-id="INBD4700006JD" tvg-country="in"   tvg-chno="1002"  tvg-name="Comedy King" tvc-guide-title="Comedy King"  tvc-guide-genres="Entertainment" tvc-guide-description="Comedy King channel features the best comedy scene of Popular Actor and Actress, bringing their talent to your screens. These comedy scenes will brings lots of laughter on your face."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20241024T054052SQUARE.png"  group-title="Entertainment",  Comedy King (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
