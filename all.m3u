@@ -48,46 +48,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
-#EXTINF:-1 channel-id="samsung-BIGMAGIC"  tvg-id="BIGMAGIC" tvg-country="in"   tvg-chno="122"  tvg-name="Big Magic" tvc-guide-title="Big Magic"  tvc-guide-genres="Entertainment" tvc-guide-description="Big Magic is a Hindi language general entertainment channel."  tvc-guide-categories="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Big_Magic.png/revision/latest/scale-to-width-down/200?cb=20210514134346"  group-title="Entertainment",  Big Magic (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://zeetv.cloudflarechannels.workers.dev/0-9-bigmagic_1786965389/master.m3u8
-#EXTINF:-1 channel-id="samsung-SONYWAH"  tvg-id="SONYWAH" tvg-country="in"   tvg-chno="124"  tvg-name="SONY WAH" tvc-guide-title="SONY WAH"  tvc-guide-genres="Entertainment" tvc-guide-description="Sony WAH is SPN’s FTA Hindi movie channel focused on Rural audiences. By showing content that is a best mix of premium titles and iconic films from the last 3 decades, WAH provides quality viewing experience to its audiences"  tvc-guide-categories="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png"  group-title="Entertainment",  SONY WAH (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 channel-id="samsung-SONYHD"  tvg-id="SONYHD" tvg-country="in"   tvg-chno="126"  tvg-name="SONY HD" tvc-guide-title="SONY HD"  tvc-guide-genres="Entertainment" tvc-guide-description="Sony Entertainment Television is a 24 hour Hindi General Entertainment Channel that provides complete family entertainment"  tvc-guide-categories="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png"  group-title="Entertainment",  SONY HD (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 channel-id="samsung-SONYSABHD"  tvg-id="SONYSABHD" tvg-country="in"   tvg-chno="127"  tvg-name="SONY SAB HD" tvc-guide-title="SONY SAB HD"  tvc-guide-genres="Entertainment" tvc-guide-description="SONY SAB is a part of the network of Television channels owned by SPN. SONY SAB is India's only family comedy entertainment channel with a core brand promise of 'Asli Mazaa SAB Ke Saath Aata Hai'. "  tvc-guide-categories="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png"  group-title="Entertainment",  SONY SAB HD (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 channel-id="samsung-SONYPAL"  tvg-id="SONYPAL" tvg-country="in"   tvg-chno="128"  tvg-name="SONY PAL" tvc-guide-title="SONY PAL"  tvc-guide-genres="Entertainment" tvc-guide-description="SONY PAL is a part of the network of Television channels owned by Sony. "  tvc-guide-categories="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png"  group-title="Entertainment",  SONY PAL (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 channel-id="samsung-ColorsHD"  tvg-id="ColorsHD" tvg-country="in"   tvg-chno="134"  tvg-name="Colors HD " tvc-guide-title="Colors HD "  tvc-guide-genres="Entertainment" tvc-guide-description="Colors TV is an Indian general entertainment pay television channel owned by Viacom18. It was launched on 21 July 2008"  tvc-guide-categories="Entertainment" tvg-logo="https://i.imgur.com/a5uES9j.png"  group-title="Entertainment",  Colors HD  (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 channel-id="samsung-ColorsInfinity"  tvg-id="ColorsInfinity" tvg-country="in"   tvg-chno="135"  tvg-name="Colors Infinity " tvc-guide-title="Colors Infinity "  tvc-guide-genres="Entertainment" tvc-guide-description="Colors Infinity is an Indian pay television channel owned by Viacom18. It primarily airs popular shows from the United States and the United Kingdom along with a few original shows to appeal to the English-speaking population of India, most of South Asia and Southeast Asia."  tvc-guide-categories="Entertainment" tvg-logo="https://i.imgur.com/a5uES9j.png"  group-title="Entertainment",  Colors Infinity  (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 channel-id="samsung-ColorsMarathi"  tvg-id="ColorsMarathi" tvg-country="in"   tvg-chno="136"  tvg-name="Colors Marathi" tvc-guide-title="Colors Marathi"  tvc-guide-genres="Entertainment" tvc-guide-description="Colors Marathi is an Indian general entertainment channel that primarily broadcasts Marathi entertainment based in Maharashtra. It is owned by Viacom18."  tvc-guide-categories="Entertainment" tvg-logo="https://i.imgur.com/q43P31H.png"  group-title="Entertainment",  Colors Marathi (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 channel-id="samsung-ColorsRishtey"  tvg-id="ColorsRishtey" tvg-country="in"   tvg-chno="137"  tvg-name="Colors Rishtey " tvc-guide-title="Colors Rishtey "  tvc-guide-genres="Entertainment" tvc-guide-description="Colors Rishtey is an Indian general entertainment television channel that mainly broadcasts re-runs of programming from Colors TV and also airs shows from NDTV Imagine & DD National. International Feeds Of ‘Colors Rishtey’ Also Air Dubbed Shows And Regional Shows."  tvc-guide-categories="Entertainment" tvg-logo="https://i.imgur.com/YKWfMZo.png"  group-title="Entertainment",  Colors Rishtey  (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 channel-id="samsung-SonyMarathi"  tvg-id="SonyMarathi" tvg-country="in"   tvg-chno="138"  tvg-name="Sony Marathi" tvc-guide-title="Sony Marathi"  tvc-guide-genres="Entertainment" tvc-guide-description="Sony Marathi is an Indian television channel that broadcasts programming in Marathi. It was launched on 19 August 2018 and is owned and operated by Culver Max Entertainment."  tvc-guide-categories="Entertainment" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png"  group-title="Entertainment",  Sony Marathi (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBD4700006JD"  tvg-id="INBD4700006JD" tvg-country="in"   tvg-chno="1002"  tvg-name="Comedy King" tvc-guide-title="Comedy King"  tvc-guide-genres="Entertainment" tvc-guide-description="Comedy King channel features the best comedy scene of Popular Actor and Actress, bringing their talent to your screens. These comedy scenes will brings lots of laughter on your face."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20241024T054052SQUARE.png"  group-title="Entertainment",  Comedy King (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -172,34 +132,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 channel-id="samsung-Zeechitramandir"  tvg-id="Zeechitramandir" tvg-country="in"   tvg-chno="121"  tvg-name="Zee Chitramandir" tvc-guide-title="Zee Chitramandir"  tvc-guide-genres="Movies" tvc-guide-description="Zee Chitramandir is a Marathi free television channel broadcasting Marathi movies by Zee Entertainment Enterprises."  tvc-guide-categories="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Zee_Chitramandir.jpg/revision/latest?cb=20210410110629"  group-title="Movies",  Zee Chitramandir (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://zeetv.cloudflarechannels.workers.dev/0-9-394/master.m3u8
-#EXTINF:-1 channel-id="samsung-SETMAXHD"  tvg-id="SETMAXHD" tvg-country="in"   tvg-chno="125"  tvg-name="SET MAX HD" tvc-guide-title="SET MAX HD"  tvc-guide-genres="Movies" tvc-guide-description="Sony MAX, India’s premier Hindi Movies channel, is a part of Sony Pictures Networks, one of India’s leading television network. Sony MAX brings to its viewers the biggest and best of Hindi Movies and Special Events"  tvc-guide-categories="Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png"  group-title="Movies",  SET MAX HD (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 channel-id="samsung-ColorsCineplex"  tvg-id="ColorsCineplex" tvg-country="in"   tvg-chno="131"  tvg-name="Colors Cineplex HD" tvc-guide-title="Colors Cineplex HD"  tvc-guide-genres="Movies" tvc-guide-description="Colors Cineplex is an Indian television channel owned by Viacom18. It was launched on 8 May 2016."  tvc-guide-categories="Movies" tvg-logo="https://i.imgur.com/Hvvjfk5.png"  group-title="Movies",  Colors Cineplex HD (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 channel-id="samsung-ColorsCineplexBollywood"  tvg-id="ColorsCineplexBollywood" tvg-country="in"   tvg-chno="132"  tvg-name="Colors Cineplex Bollywood" tvc-guide-title="Colors Cineplex Bollywood"  tvc-guide-genres="Movies" tvc-guide-description="Colors Cineplex is an Indian television channel owned by Viacom18. It was launched on 8 May 2016."  tvc-guide-categories="Movies" tvg-logo="https://i.imgur.com/EbHSQAJ.png"  group-title="Movies",  Colors Cineplex Bollywood (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 channel-id="samsung-ColorsCineplexSuperhits"  tvg-id="ColorsCineplexSuperhits" tvg-country="in"   tvg-chno="133"  tvg-name="Colors Cineplex Superhits" tvc-guide-title="Colors Cineplex Superhits"  tvc-guide-genres="Movies" tvc-guide-description="Colors Cineplex is an Indian television channel owned by Viacom18. It was launched on 8 May 2016."  tvc-guide-categories="Movies" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg"  group-title="Movies",  Colors Cineplex Superhits (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 channel-id="samsung-SonyMAX2"  tvg-id="SonyMAX2" tvg-country="in"   tvg-chno="139"  tvg-name="Sony MAX2" tvc-guide-title="Sony MAX2"  tvc-guide-genres="Movies" tvc-guide-description="Sony Max 2 is an Indian television channel owned by Culver Max Entertainment and launched in 2014. It is the second Indian channel launched by Sony which is focused solely on old Hindi-language movie broadcasts, being the sister channel of Sony Max."  tvc-guide-categories="Movies" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png"  group-title="Movies",  Sony MAX2 (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 channel-id="samsung-SonyPIXHD"  tvg-id="SonyPIXHD" tvg-country="in"   tvg-chno="140"  tvg-name="Sony PIX HD" tvc-guide-title="Sony PIX HD"  tvc-guide-genres="Movies" tvc-guide-description="Sony PIX is an Indian English language television movie channel owned by Culver Max Entertainment. The channel mainly airs American live action and animated Hollywood movies in English with also dubbed in Hindi, Tamil and Telugu languages."  tvc-guide-categories="Movies" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png"  group-title="Movies",  Sony PIX HD (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBD21000016Y"  tvg-id="INBD21000016Y" tvg-country="in"   tvg-chno="1000"  tvg-name="The Movie Club" tvc-guide-title="The Movie Club"  tvc-guide-genres="Movies" tvc-guide-description="Welcome to The Movie Club. Get your daily dose of awesome Bollywood movies for free. There's action, drama, romance, adventure and loads of non-stop entertainment for movie buffs like you."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20241024T054057SQUARE.png"  group-title="Movies",  The Movie Club (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -260,10 +192,6 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/
 #EXTGRP:Music
 #EXTGENRE:Music
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 channel-id="samsung-ZING"  tvg-id="ZING" tvg-country="in"   tvg-chno="123"  tvg-name="Zing" tvc-guide-title="Zing"  tvc-guide-genres="Music" tvc-guide-description="Zing is music channel for music lovers."  tvc-guide-categories="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest/scale-to-width-down/48?cb=20220525063636"  group-title="Music",  Zing (1080p)
-#EXTGRP:Music
-#EXTGENRE:Music
-https://zeetv.cloudflarechannels.workers.dev/0-9-zing/master.m3u8
 #EXTINF:-1 channel-id="samsung-IN26000122C"  tvg-id="IN26000122C" tvg-country="in"   tvg-chno="1431"  tvg-name="Kaan Phod Music" tvc-guide-title="Kaan Phod Music"  tvc-guide-genres="Music" tvc-guide-description="From timeless classics to today’s hits,our Bollywood hub celebrates melodies that touch hearts.Tune in for premieres, interviews,and behind-the-scenes magic.Let’s groove through the golden era."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000122C_20241016T011402SQUARE.png"  group-title="Music",  Kaan Phod Music (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -320,10 +248,6 @@ https://jmp2.uk/sam-INBD4700017SL.m3u8
 #EXTGRP:Music
 #EXTGENRE:Music
 https://jmp2.uk/sam-INBA4900001DL.m3u8
-#EXTINF:-1 channel-id="samsung-SONYYAY"  tvg-id="SONYYAY" tvg-country="in"   tvg-chno="129"  tvg-name="SONY YAY" tvc-guide-title="SONY YAY"  tvc-guide-genres="Family/Kids" tvc-guide-description="Sony YAY! is an Indian pay television channel aimed at children aged between 6 and 14, operated by Culver Max Entertainment.  "  tvc-guide-categories="Family/Kids" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png"  group-title="Family/Kids",  SONY YAY (1080p)
-#EXTGRP:Family/Kids
-#EXTGENRE:Family/Kids
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 channel-id="samsung-NICKHD+"  tvg-id="NICKHD+" tvg-country="in"   tvg-chno="147"  tvg-name="Nick HD+" tvc-guide-title="Nick HD+"  tvc-guide-genres="Family/Kids" tvc-guide-description="Nickelodeon, India’s leading kids brand and a part of Viacom18, is available in over 100 million households in the country. It is a 24-hour pay channel available in 7 Indian languages namely Hindi, Tamil, Telugu, Marathi, Bengali, Kannada and Malayalam. With an approach that puts ‘kids first’"  tvc-guide-categories="Family/Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png"  group-title="Family/Kids",  Nick HD+ (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
@@ -376,26 +300,6 @@ https://jmp2.uk/sam-INBD4700007IQ.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-INBC280001662.m3u8
-#EXTINF:-1 channel-id="samsung-SONYSPORTSTEN1HD"  tvg-id="SONYSPORTSTEN1HD" tvg-country="in"   tvg-chno="142"  tvg-name="Sony TEN 1 HD" tvc-guide-title="Sony TEN 1 HD"  tvc-guide-genres="Sports" tvc-guide-description="Sony Sports Network is owned and operated by Sony Pictures Networks (SPN). With an enviable line-up of marquee sporting action across genres in its portfolio of 10 channels, the sports division of SPN is a leading sports broadcaster in the Indian subcontinent."  tvc-guide-categories="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png"  group-title="Sports",  Sony TEN 1 HD (1080p)
-#EXTGRP:Sports
-#EXTGENRE:Sports
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 channel-id="samsung-SONYSPORTSTEN2HD"  tvg-id="SONYSPORTSTEN2HD" tvg-country="in"   tvg-chno="143"  tvg-name="Sony TEN 2 HD" tvc-guide-title="Sony TEN 2 HD"  tvc-guide-genres="Sports" tvc-guide-description="Sony Sports Network is owned and operated by Sony Pictures Networks (SPN). With an enviable line-up of marquee sporting action across genres in its portfolio of 10 channels, the sports division of SPN is a leading sports broadcaster in the Indian subcontinent."  tvc-guide-categories="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png"  group-title="Sports",  Sony TEN 2 HD (1080p)
-#EXTGRP:Sports
-#EXTGENRE:Sports
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 channel-id="samsung-SONYSPORTSTEN3HD"  tvg-id="SONYSPORTSTEN3HD" tvg-country="in"   tvg-chno="144"  tvg-name="Sony TEN 3 HD" tvc-guide-title="Sony TEN 3 HD"  tvc-guide-genres="Sports" tvc-guide-description="Sony Sports Network is owned and operated by Sony Pictures Networks (SPN). With an enviable line-up of marquee sporting action across genres in its portfolio of 10 channels, the sports division of SPN is a leading sports broadcaster in the Indian subcontinent."  tvc-guide-categories="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png"  group-title="Sports",  Sony TEN 3 HD (1080p)
-#EXTGRP:Sports
-#EXTGENRE:Sports
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 channel-id="samsung-SONYSPORTSTEN4HD"  tvg-id="SONYSPORTSTEN4HD" tvg-country="in"   tvg-chno="145"  tvg-name="Sony TEN 4 HD" tvc-guide-title="Sony TEN 4 HD"  tvc-guide-genres="Sports" tvc-guide-description="Sony Sports Network is owned and operated by Sony Pictures Networks (SPN). With an enviable line-up of marquee sporting action across genres in its portfolio of 10 channels, the sports division of SPN is a leading sports broadcaster in the Indian subcontinent."  tvc-guide-categories="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png"  group-title="Sports",  Sony TEN 4 HD (1080p)
-#EXTGRP:Sports
-#EXTGENRE:Sports
-https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 channel-id="samsung-SONYSPORTSTEN5HD"  tvg-id="SONYSPORTSTEN5HD" tvg-country="in"   tvg-chno="146"  tvg-name="Sony TEN 5 HD" tvc-guide-title="Sony TEN 5 HD"  tvc-guide-genres="Sports" tvc-guide-description="Sony Sports Network is owned and operated by Sony Pictures Networks (SPN). With an enviable line-up of marquee sporting action across genres in its portfolio of 10 channels, the sports division of SPN is a leading sports broadcaster in the Indian subcontinent."  tvc-guide-categories="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png"  group-title="Sports",  Sony TEN 5 HD (1080p)
-#EXTGRP:Sports
-#EXTGENRE:Sports
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 channel-id="samsung-IN1300001NN"  tvg-id="IN1300001NN" tvg-country="in"   tvg-chno="1211"  tvg-name="Cricket Gold" tvc-guide-title="Cricket Gold"  tvc-guide-genres="Sports" tvc-guide-description="Dig out your headband and straighten your moustache! Cricket Gold is your number-one destination for the greatest modern moments and classic retro action from the last 50 years of cricket Down Under. Howzat?!!"  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1300001NN_20240731T012436SQUARE.png"  group-title="Sports",  Cricket Gold (1080p)
 #EXTGRP:Sports
 #EXTGENRE:Sports
@@ -480,10 +384,6 @@ https://jmp2.uk/sam-INBA4900005PV.m3u8
 #EXTGRP:Education
 #EXTGENRE:Education
 https://jmp2.uk/sam-INBA4900007JX.m3u8
-#EXTINF:-1 channel-id="samsung-SonyBBCEarthHD"  tvg-id="SonyBBCEarthHD" tvg-country="in"   tvg-chno="141"  tvg-name="Sony BBC Earth HD" tvc-guide-title="Sony BBC Earth HD"  tvc-guide-genres="Tech/Science" tvc-guide-description="With a staggering presence in 178 countries and entertaining its audience for 21 years, Sony Pictures Networks touches the lives of over 1.3 billion people worldwide. In India, Sony Pictures Networks has 21 diversified channels that reach out to over 420 million Indians."  tvc-guide-categories="Tech/Science" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png"  group-title="Tech/Science",  Sony BBC Earth HD (1080p)
-#EXTGRP:Tech/Science
-#EXTGENRE:Tech/Science
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBD13000053R"  tvg-id="INBD13000053R" tvg-country="in"   tvg-chno="1411"  tvg-name="Divya" tvc-guide-title="Divya"  tvc-guide-genres="LifeStyle" tvc-guide-description="Channel Divya, India’s spiritual music channel offers true spiritual content to its viewers in the form of soul awakening music."  tvc-guide-categories="LifeStyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000053R_20241024T054024SQUARE.png"  group-title="LifeStyle",  Divya (1080p)
 #EXTGRP:LifeStyle
 #EXTGENRE:LifeStyle
@@ -796,7 +696,7 @@ https://jmp2.uk/sam-GBBB1600008R3.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://jmp2.uk/sam-GBAJ2400003DD.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC2300003ZQ"  tvg-id="GBBC2300003ZQ" tvg-country="gb"   tvg-chno="4001"  tvg-name="Entertainment Hub" tvc-guide-title="Entertainment Hub"  tvc-guide-genres="Entertainment" tvc-guide-description="Enjoy front row entertainment with the latest seasons of American Idol, the most popular seasons of MasterChef Australia and the ultimate fashion classic, Project Runway, all on Entertainment Hub."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20241023T143710SQUARE.png"  group-title="Entertainment",  Entertainment Hub (1080p)
+#EXTINF:-1 channel-id="samsung-GBBC2300003ZQ"  tvg-id="GBBC2300003ZQ" tvg-country="gb"   tvg-chno="4001"  tvg-name="Entertainment Hub" tvc-guide-title="Entertainment Hub"  tvc-guide-genres="Entertainment" tvc-guide-description="Enjoy front row entertainment with the latest seasons of American Idol, the most popular seasons of MasterChef Australia and the ultimate fashion classic, Project Runway, all on Entertainment Hub."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20241030T142554SQUARE.png"  group-title="Entertainment",  Entertainment Hub (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBC2300003ZQ.m3u8
@@ -804,11 +704,11 @@ https://jmp2.uk/sam-GBBC2300003ZQ.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD25000038Y.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD4100010H1"  tvg-id="GBBD4100010H1" tvg-country="gb"   tvg-chno="4006"  tvg-name="Crime Network" tvc-guide-title="Crime Network"  tvc-guide-genres="Entertainment" tvc-guide-description="Take a walk on the wrong side of The Law with Crime Network! Whether you’re after thrilling crime series such as Narcos, captivating crime films or jaw-dropping true crime documentaries you’ll find it all here."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20241023T143717SQUARE.png"  group-title="Entertainment",  Crime Network (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD4100010H1"  tvg-id="GBBD4100010H1" tvg-country="gb"   tvg-chno="4006"  tvg-name="Crime Network" tvc-guide-title="Crime Network"  tvc-guide-genres="Entertainment" tvc-guide-description="Take a walk on the wrong side of The Law with Crime Network! Whether you’re after thrilling crime series such as Narcos, captivating crime films or jaw-dropping true crime documentaries you’ll find it all here."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20241030T142542SQUARE.png"  group-title="Entertainment",  Crime Network (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD4100010H1.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC400000345"  tvg-id="GBBC400000345" tvg-country="gb"   tvg-chno="4008"  tvg-name="Festive Hub" tvc-guide-title="Festive Hub"  tvc-guide-genres="Entertainment" tvc-guide-description="Get into the holiday spirit with Festive Hub, your channel dedicated to festive entertainment. Enjoy Christmas blockbusters, revisit nostalgic seasonal specials and get inspired with delicious holiday recipes."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20241023T143743SQUARE.png"  group-title="Entertainment",  Festive Hub (1080p)
+#EXTINF:-1 channel-id="samsung-GBBC400000345"  tvg-id="GBBC400000345" tvg-country="gb"   tvg-chno="4008"  tvg-name="Festive Hub" tvc-guide-title="Festive Hub"  tvc-guide-genres="Entertainment" tvc-guide-description="Get into the holiday spirit with Festive Hub, your channel dedicated to festive entertainment. Enjoy Christmas blockbusters, revisit nostalgic seasonal specials and get inspired with delicious holiday recipes."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20241030T142625SQUARE.png"  group-title="Entertainment",  Festive Hub (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBC400000345.m3u8
@@ -828,7 +728,7 @@ https://jmp2.uk/sam-GBBD3100003J5.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBB4600001IK.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC2300002GG"  tvg-id="GBBC2300002GG" tvg-country="gb"   tvg-chno="4106"  tvg-name="America's Got Talent" tvc-guide-title="America's Got Talent"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch America's Got Talent exclusively on Samsung TV Plus, with season 16-17 and Extreme available for free, offering entertainment for the whole family with returning judges Simon Cowell, Sofia Vergara, Heidi Klum and Howie Mandel."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20240910T041851SQUARE.png"  group-title="Entertainment",  America's Got Talent (1080p)
+#EXTINF:-1 channel-id="samsung-GBBC2300002GG"  tvg-id="GBBC2300002GG" tvg-country="gb"   tvg-chno="4106"  tvg-name="America's Got Talent" tvc-guide-title="America's Got Talent"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch America's Got Talent exclusively on Samsung TV Plus, with season 16-17 and Extreme available for free, offering entertainment for the whole family with returning judges Simon Cowell, Sofia Vergara, Heidi Klum and Howie Mandel."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20241030T142628SQUARE.png"  group-title="Entertainment",  America's Got Talent (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBC2300002GG.m3u8
@@ -864,7 +764,7 @@ https://jmp2.uk/sam-GBBA330003941.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB300005ZR.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD50000320"  tvg-id="GBBD50000320" tvg-country="gb"   tvg-chno="4116"  tvg-name="Mystery TV" tvc-guide-title="Mystery TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Delve into a world of mystery, the supernatural and the unexplained, from aliens and UFOs to monsters and curses, lifting the lid on government secrets, conspiracies and cover-ups, as we investigate some of the world’s greatest mysteries."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20241023T143727SQUARE.png"  group-title="Entertainment",  Mystery TV (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD50000320"  tvg-id="GBBD50000320" tvg-country="gb"   tvg-chno="4116"  tvg-name="Mystery TV" tvc-guide-title="Mystery TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Delve into a world of mystery, the supernatural and the unexplained, from aliens and UFOs to monsters and curses, lifting the lid on government secrets, conspiracies and cover-ups, as we investigate some of the world’s greatest mysteries."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20241030T142609SQUARE.png"  group-title="Entertainment",  Mystery TV (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD50000320.m3u8
@@ -940,7 +840,7 @@ https://jmp2.uk/sam-GBBD1100006DS.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBAK3504525A.m3u8
-#EXTINF:-1 channel-id="samsung-GB300007J7"  tvg-id="GB300007J7" tvg-country="gb"   tvg-chno="4136"  tvg-name="Sony One FAVES" tvc-guide-title="Sony One FAVES"  tvc-guide-genres="Entertainment" tvc-guide-description="Timeless classics and fan-favorites that evoke nostalgia across generations."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20240423T033429SQUARE.png"  group-title="Entertainment",  Sony One FAVES (1080p)
+#EXTINF:-1 channel-id="samsung-GB300007J7"  tvg-id="GB300007J7" tvg-country="gb"   tvg-chno="4136"  tvg-name="Sony One FAVES" tvc-guide-title="Sony One FAVES"  tvc-guide-genres="Entertainment" tvc-guide-description="Timeless classics and fan-favorites that evoke nostalgia across generations."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20241030T142638SQUARE.png"  group-title="Entertainment",  Sony One FAVES (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB300007J7.m3u8
@@ -952,7 +852,7 @@ https://jmp2.uk/sam-GBBC900011EC.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD1100012JB.m3u8
-#EXTINF:-1 channel-id="samsung-GB2700004BC"  tvg-id="GB2700004BC" tvg-country="gb"   tvg-chno="4139"  tvg-name="Duck Dynasty" tvc-guide-title="Duck Dynasty"  tvc-guide-genres="Entertainment" tvc-guide-description="Meet the close-knit family behind a sports empire in their everyday lives that look a little different than what you're used to."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700004BC_20241023T143736SQUARE.png"  group-title="Entertainment",  Duck Dynasty (1080p)
+#EXTINF:-1 channel-id="samsung-GB2700004BC"  tvg-id="GB2700004BC" tvg-country="gb"   tvg-chno="4139"  tvg-name="Duck Dynasty" tvc-guide-title="Duck Dynasty"  tvc-guide-genres="Entertainment" tvc-guide-description="Meet the close-knit family behind a sports empire in their everyday lives that look a little different than what you're used to."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700004BC_20241030T142618SQUARE.png"  group-title="Entertainment",  Duck Dynasty (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB2700004BC.m3u8
@@ -960,7 +860,7 @@ https://jmp2.uk/sam-GB2700004BC.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD3700002J9.m3u8
-#EXTINF:-1 channel-id="samsung-GB27000069E"  tvg-id="GB27000069E" tvg-country="gb"   tvg-chno="4141"  tvg-name="Dog The Bounty Hunter" tvc-guide-title="Dog The Bounty Hunter"  tvc-guide-genres="Entertainment" tvc-guide-description="The iconic series that made Duane. Did Chapman become a household name. Follow Dog and his crew as they track down fugitives who have bailed."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB27000069E_20241023T143738SQUARE.png"  group-title="Entertainment",  Dog The Bounty Hunter (1080p)
+#EXTINF:-1 channel-id="samsung-GB27000069E"  tvg-id="GB27000069E" tvg-country="gb"   tvg-chno="4141"  tvg-name="Dog The Bounty Hunter" tvc-guide-title="Dog The Bounty Hunter"  tvc-guide-genres="Entertainment" tvc-guide-description="The iconic series that made Duane. Did Chapman become a household name. Follow Dog and his crew as they track down fugitives who have bailed."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB27000069E_20241030T142621SQUARE.png"  group-title="Entertainment",  Dog The Bounty Hunter (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB27000069E.m3u8
@@ -972,7 +872,7 @@ https://jmp2.uk/sam-GBBB3800004IV.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB270000568.m3u8
-#EXTINF:-1 channel-id="samsung-GB2300002AI"  tvg-id="GB2300002AI" tvg-country="gb"   tvg-chno="4148"  tvg-name="Tipping Point" tvc-guide-title="Tipping Point"  tvc-guide-genres="Entertainment" tvc-guide-description="Four players battle a unique machine, answering questions to drop counters and win cash in this thrilling game of skill and luck!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300002AI_20241023T143700SQUARE.png"  group-title="Entertainment",  Tipping Point (1080p)
+#EXTINF:-1 channel-id="samsung-GB2300002AI"  tvg-id="GB2300002AI" tvg-country="gb"   tvg-chno="4148"  tvg-name="Tipping Point" tvc-guide-title="Tipping Point"  tvc-guide-genres="Entertainment" tvc-guide-description="Four players battle a unique machine, answering questions to drop counters and win cash in this thrilling game of skill and luck!"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300002AI_20241030T142544SQUARE.png"  group-title="Entertainment",  Tipping Point (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB2300002AI.m3u8
@@ -1004,11 +904,11 @@ https://jmp2.uk/sam-GBBD1100013BJ.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB12000037Y.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD3100004OI"  tvg-id="GBBD3100004OI" tvg-country="gb"   tvg-chno="4202"  tvg-name="U&The Past" tvc-guide-title="U&The Past"  tvc-guide-genres="Entertainment" tvc-guide-description="Delving into the darkest corners of history and engineering, UKTV Play Uncovered is TV for enquiring minds.Join us to uncover intriguing tales, from the battlefield to the home front, ancient monoliths to modern mysteries."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100004OI_20240709T044430SQUARE.png"  group-title="Entertainment",  U&The Past (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD3100004OI"  tvg-id="GBBD3100004OI" tvg-country="gb"   tvg-chno="4202"  tvg-name="U&The Past" tvc-guide-title="U&The Past"  tvc-guide-genres="Entertainment" tvc-guide-description="Delving into the darkest corners of history and engineering, UKTV Play Uncovered is TV for enquiring minds.Join us to uncover intriguing tales, from the battlefield to the home front, ancient monoliths to modern mysteries."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100004OI_20241030T142633SQUARE.png"  group-title="Entertainment",  U&The Past (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD3100004OI.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD3100002NU"  tvg-id="GBBD3100002NU" tvg-country="gb"   tvg-chno="4203"  tvg-name="U&Real Heroes" tvc-guide-title="U&Real Heroes"  tvc-guide-genres="Entertainment" tvc-guide-description="Join frontline medics and law enforcement at life's most dramatic moments, on UKTV Play Heroes.Get your pulse racing, with shows that shine a light on the everyday heroism of paramedics, doctors, nurses and the police ."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100002NU_20240709T044426SQUARE.png"  group-title="Entertainment",  U&Real Heroes (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD3100002NU"  tvg-id="GBBD3100002NU" tvg-country="gb"   tvg-chno="4203"  tvg-name="U&Real Heroes" tvc-guide-title="U&Real Heroes"  tvc-guide-genres="Entertainment" tvc-guide-description="Join frontline medics and law enforcement at life's most dramatic moments, on UKTV Play Heroes.Get your pulse racing, with shows that shine a light on the everyday heroism of paramedics, doctors, nurses and the police ."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100002NU_20241030T142635SQUARE.png"  group-title="Entertainment",  U&Real Heroes (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD3100002NU.m3u8
@@ -1020,7 +920,7 @@ https://jmp2.uk/sam-GBBD3100001A8.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB200005LI.m3u8
-#EXTINF:-1 channel-id="samsung-GB2700007YH"  tvg-id="GB2700007YH" tvg-country="gb"   tvg-chno="4206"  tvg-name="Ice Road Truckers" tvc-guide-title="Ice Road Truckers"  tvc-guide-genres="Entertainment" tvc-guide-description="At the top of the world, there’s a job only a few would dare! 24/7 episodes of the legendary series."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700007YH_20241023T143732SQUARE.png"  group-title="Entertainment",  Ice Road Truckers (1080p)
+#EXTINF:-1 channel-id="samsung-GB2700007YH"  tvg-id="GB2700007YH" tvg-country="gb"   tvg-chno="4206"  tvg-name="Ice Road Truckers" tvc-guide-title="Ice Road Truckers"  tvc-guide-genres="Entertainment" tvc-guide-description="At the top of the world, there’s a job only a few would dare! 24/7 episodes of the legendary series."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700007YH_20241030T142614SQUARE.png"  group-title="Entertainment",  Ice Road Truckers (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB2700007YH.m3u8
@@ -1032,7 +932,7 @@ https://jmp2.uk/sam-GBBC900004G9.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB270001538.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD500002R4"  tvg-id="GBBD500002R4" tvg-country="gb"   tvg-chno="4209"  tvg-name="Inside Crime" tvc-guide-title="Inside Crime"  tvc-guide-genres="Entertainment" tvc-guide-description="Get behind the headlines of some of the most infamous crimes, opening the door to real life crime scenes and forensics labs, police archives and courtrooms, to piece together the clues, examine the evidence and uncover the truth."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500002R4_20240829T152058SQUARE.png"  group-title="Entertainment",  Inside Crime (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD500002R4"  tvg-id="GBBD500002R4" tvg-country="gb"   tvg-chno="4209"  tvg-name="Inside Crime" tvc-guide-title="Inside Crime"  tvc-guide-genres="Entertainment" tvc-guide-description="Get behind the headlines of some of the most infamous crimes, opening the door to real life crime scenes and forensics labs, police archives and courtrooms, to piece together the clues, examine the evidence and uncover the truth."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500002R4_20241030T142630SQUARE.png"  group-title="Entertainment",  Inside Crime (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD500002R4.m3u8
@@ -1044,7 +944,7 @@ https://jmp2.uk/sam-GBAK3504500A.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBA3300038UZ.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD1100007AC"  tvg-id="GBBD1100007AC" tvg-country="gb"   tvg-chno="4212"  tvg-name="True Crime UK" tvc-guide-title="True Crime UK"  tvc-guide-genres="Entertainment" tvc-guide-description="TRUE CRIME UK dissects authentic criminal cases through expert led documentaries and series.Through first hand interviews, key evidence, cutting edge forensic technologies and investigative tools."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20241023T143722SQUARE.png"  group-title="Entertainment",  True Crime UK (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD1100007AC"  tvg-id="GBBD1100007AC" tvg-country="gb"   tvg-chno="4212"  tvg-name="True Crime UK" tvc-guide-title="True Crime UK"  tvc-guide-genres="Entertainment" tvc-guide-description="TRUE CRIME UK dissects authentic criminal cases through expert led documentaries and series.Through first hand interviews, key evidence, cutting edge forensic technologies and investigative tools."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20241030T142607SQUARE.png"  group-title="Entertainment",  True Crime UK (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD1100007AC.m3u8
@@ -1052,11 +952,11 @@ https://jmp2.uk/sam-GBBD1100007AC.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD3700001AB.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD260000189"  tvg-id="GBBD260000189" tvg-country="gb"   tvg-chno="4214"  tvg-name="Crime & Justice" tvc-guide-title="Crime & Justice"  tvc-guide-genres="Entertainment" tvc-guide-description="Crime & Justice puts you at the heart of the action as gripping and suspenseful real-life investigations unfold"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD260000189_20241023T143729SQUARE.png"  group-title="Entertainment",  Crime & Justice (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD260000189"  tvg-id="GBBD260000189" tvg-country="gb"   tvg-chno="4214"  tvg-name="Crime & Justice" tvc-guide-title="Crime & Justice"  tvc-guide-genres="Entertainment" tvc-guide-description="Crime & Justice puts you at the heart of the action as gripping and suspenseful real-life investigations unfold"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD260000189_20241030T142611SQUARE.png"  group-title="Entertainment",  Crime & Justice (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD260000189.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC900005T0"  tvg-id="GBBC900005T0" tvg-country="gb"   tvg-chno="4215"  tvg-name="Haunt TV" tvc-guide-title="Haunt TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Love jump scares and ghosts that go bump in the night?! Good! You’re gonna love this channel. Start accessing hundreds of hours of ghostly series, on demand. Now the real question is: while you’re watching us, who is watching you?"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900005T0_20241023T143707SQUARE.png"  group-title="Entertainment",  Haunt TV (1080p)
+#EXTINF:-1 channel-id="samsung-GBBC900005T0"  tvg-id="GBBC900005T0" tvg-country="gb"   tvg-chno="4215"  tvg-name="Haunt TV" tvc-guide-title="Haunt TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Love jump scares and ghosts that go bump in the night?! Good! You’re gonna love this channel. Start accessing hundreds of hours of ghostly series, on demand. Now the real question is: while you’re watching us, who is watching you?"  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900005T0_20241030T142551SQUARE.png"  group-title="Entertainment",  Haunt TV (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBC900005T0.m3u8
@@ -1068,7 +968,7 @@ https://jmp2.uk/sam-GBAK3504516A.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD4100006KV.m3u8
-#EXTINF:-1 channel-id="samsung-GB2700011DR"  tvg-id="GB2700011DR" tvg-country="gb"   tvg-chno="4221"  tvg-name="Ax Men" tvc-guide-title="Ax Men"  tvc-guide-genres="Entertainment" tvc-guide-description="Deep in the woods, these loggers are risking it all! 24/7 non-stop episodes of the hard-hitting series."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700011DR_20241023T143734SQUARE.png"  group-title="Entertainment",  Ax Men (1080p)
+#EXTINF:-1 channel-id="samsung-GB2700011DR"  tvg-id="GB2700011DR" tvg-country="gb"   tvg-chno="4221"  tvg-name="Ax Men" tvc-guide-title="Ax Men"  tvc-guide-genres="Entertainment" tvc-guide-description="Deep in the woods, these loggers are risking it all! 24/7 non-stop episodes of the hard-hitting series."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700011DR_20241030T142616SQUARE.png"  group-title="Entertainment",  Ax Men (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB2700011DR.m3u8
@@ -1084,7 +984,7 @@ https://jmp2.uk/sam-GB27000089Z.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBC900012J9.m3u8
-#EXTINF:-1 channel-id="samsung-GB1400001E4"  tvg-id="GB1400001E4" tvg-country="gb"   tvg-chno="4227"  tvg-name="CURIOSITY Now" tvc-guide-title="CURIOSITY Now"  tvc-guide-genres="Entertainment" tvc-guide-description="Curiosity Now offers select programming from an extensive library of original and curated documentaries, shows, and series across nature, history, science, travel, and more."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1400001E4_20241023T143703SQUARE.png"  group-title="Entertainment",  CURIOSITY Now (1080p)
+#EXTINF:-1 channel-id="samsung-GB1400001E4"  tvg-id="GB1400001E4" tvg-country="gb"   tvg-chno="4227"  tvg-name="CURIOSITY Now" tvc-guide-title="CURIOSITY Now"  tvc-guide-genres="Entertainment" tvc-guide-description="Curiosity Now offers select programming from an extensive library of original and curated documentaries, shows, and series across nature, history, science, travel, and more."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1400001E4_20241030T142547SQUARE.png"  group-title="Entertainment",  CURIOSITY Now (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GB1400001E4.m3u8
@@ -1096,7 +996,7 @@ https://jmp2.uk/sam-GBBA22000063W.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBA33000362J.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD1100001UI"  tvg-id="GBBD1100001UI" tvg-country="gb"   tvg-chno="4231"  tvg-name="World War TV" tvc-guide-title="World War TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Delve into conflicts which shaped our world and superpower stand-offs that brought devastation to millions. Discover players and inventions, watch stories of man and machine, women and weaponry, heroism and villainy, chaos and carnage."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20240925T141041SQUARE.png"  group-title="Entertainment",  World War TV (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD1100001UI"  tvg-id="GBBD1100001UI" tvg-country="gb"   tvg-chno="4231"  tvg-name="World War TV" tvc-guide-title="World War TV"  tvc-guide-genres="Entertainment" tvc-guide-description="Delve into conflicts which shaped our world and superpower stand-offs that brought devastation to millions. Discover players and inventions, watch stories of man and machine, women and weaponry, heroism and villainy, chaos and carnage."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20241030T142643SQUARE.png"  group-title="Entertainment",  World War TV (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-GBBD1100001UI.m3u8
@@ -1196,11 +1096,11 @@ https://jmp2.uk/sam-GB37000067A.m3u8
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://jmp2.uk/sam-GBAJ400045P5.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC900007Q5"  tvg-id="GBBC900007Q5" tvg-country="gb"   tvg-chno="4991"  tvg-name="GREAT! Christmas" tvc-guide-title="GREAT! Christmas"  tvc-guide-genres="Movies" tvc-guide-description="A heart-warming channel with the best festive films, experience holiday magic all season long — because Christmas comes early on GREAT!"  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20241023T143754SQUARE.png"  group-title="Movies",  GREAT! Christmas (1080p)
+#EXTINF:-1 channel-id="samsung-GBBC900007Q5"  tvg-id="GBBC900007Q5" tvg-country="gb"   tvg-chno="4991"  tvg-name="GREAT! Christmas" tvc-guide-title="GREAT! Christmas"  tvc-guide-genres="Movies" tvc-guide-description="A heart-warming channel with the best festive films, experience holiday magic all season long — because Christmas comes early on GREAT!"  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20241030T142701SQUARE.png"  group-title="Movies",  GREAT! Christmas (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://jmp2.uk/sam-GBBC900007Q5.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC900008L9"  tvg-id="GBBC900008L9" tvg-country="gb"   tvg-chno="4992"  tvg-name="Great! romance" tvc-guide-title="Great! romance"  tvc-guide-genres="Movies" tvc-guide-description="GREAT! romance is a world of warm and wonderful love stories that speak to the heart, from the heart.  From first encounters and new love to meeting the family and old flames, this channel is your free-to-view home of all-things romantic."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900008L9_20241023T143712SQUARE.png"  group-title="Movies",  Great! romance (1080p)
+#EXTINF:-1 channel-id="samsung-GBBC900008L9"  tvg-id="GBBC900008L9" tvg-country="gb"   tvg-chno="4992"  tvg-name="Great! romance" tvc-guide-title="Great! romance"  tvc-guide-genres="Movies" tvc-guide-description="GREAT! romance is a world of warm and wonderful love stories that speak to the heart, from the heart.  From first encounters and new love to meeting the family and old flames, this channel is your free-to-view home of all-things romantic."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900008L9_20241030T142556SQUARE.png"  group-title="Movies",  Great! romance (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://jmp2.uk/sam-GBBC900008L9.m3u8
@@ -1228,7 +1128,7 @@ https://jmp2.uk/sam-GB2600012R3.m3u8
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://jmp2.uk/sam-GB2600015OS.m3u8
-#EXTINF:-1 channel-id="samsung-GB35000017V"  tvg-id="GB35000017V" tvg-country="gb"   tvg-chno="4709"  tvg-name="Vevo Christmas" tvc-guide-title="Vevo Christmas"  tvc-guide-genres="Music" tvc-guide-description="Current and classic videos to help you celebrate the season. Mariah Carey, Wham!, Justin Bieber, plus many more of your favourite artists."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB35000017V_20241023T143756SQUARE.png"  group-title="Music",  Vevo Christmas (1080p)
+#EXTINF:-1 channel-id="samsung-GB35000017V"  tvg-id="GB35000017V" tvg-country="gb"   tvg-chno="4709"  tvg-name="Vevo Christmas" tvc-guide-title="Vevo Christmas"  tvc-guide-genres="Music" tvc-guide-description="Current and classic videos to help you celebrate the season. Mariah Carey, Wham!, Justin Bieber, plus many more of your favourite artists."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB35000017V_20241030T142703SQUARE.png"  group-title="Music",  Vevo Christmas (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
 https://jmp2.uk/sam-GB35000017V.m3u8
@@ -1244,7 +1144,7 @@ https://jmp2.uk/sam-GBBD2300001C0.m3u8
 #EXTGRP:Music
 #EXTGENRE:Music
 https://jmp2.uk/sam-GBBD19000026B.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD3000004VR"  tvg-id="GBBD3000004VR" tvg-country="gb"   tvg-chno="4714"  tvg-name="Def Jam" tvc-guide-title="Def Jam"  tvc-guide-genres="Music" tvc-guide-description="Home to iconic live performances and the stories behind the artists"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000004VR_20241023T143741SQUARE.png"  group-title="Music",  Def Jam (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD3000004VR"  tvg-id="GBBD3000004VR" tvg-country="gb"   tvg-chno="4714"  tvg-name="Def Jam" tvc-guide-title="Def Jam"  tvc-guide-genres="Music" tvc-guide-description="Home to iconic live performances and the stories behind the artists"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000004VR_20241030T142623SQUARE.png"  group-title="Music",  Def Jam (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
 https://jmp2.uk/sam-GBBD3000004VR.m3u8
@@ -1284,7 +1184,7 @@ https://jmp2.uk/sam-GBBB3800005QO.m3u8
 #EXTGRP:Music
 #EXTGENRE:Music
 https://jmp2.uk/sam-GB2500002K0.m3u8
-#EXTINF:-1 channel-id="samsung-GB900003KR"  tvg-id="GB900003KR" tvg-country="gb"   tvg-chno="4606"  tvg-name="Mr Bean Animated" tvc-guide-title="Mr Bean Animated"  tvc-guide-genres="Family/Kids" tvc-guide-description="Follow the daily adventures of Mr Bean and Teddy as he stumbles from one mishap to the next, always finding complex solutions to the simplest of problems."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20241023T143812SQUARE.png"  group-title="Family/Kids",  Mr Bean Animated (1080p)
+#EXTINF:-1 channel-id="samsung-GB900003KR"  tvg-id="GB900003KR" tvg-country="gb"   tvg-chno="4606"  tvg-name="Mr Bean Animated" tvc-guide-title="Mr Bean Animated"  tvc-guide-genres="Family/Kids" tvc-guide-description="Follow the daily adventures of Mr Bean and Teddy as he stumbles from one mishap to the next, always finding complex solutions to the simplest of problems."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20241030T142715SQUARE.png"  group-title="Family/Kids",  Mr Bean Animated (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-GB900003KR.m3u8
@@ -1292,7 +1192,7 @@ https://jmp2.uk/sam-GB900003KR.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-GBBC4300005AL.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD23000021U"  tvg-id="GBBD23000021U" tvg-country="gb"   tvg-chno="4608"  tvg-name="Transformers" tvc-guide-title="Transformers"  tvc-guide-genres="Family/Kids" tvc-guide-description=""Welcome to the world of Transformers, a world where everything is More Than Meets the Eye. A universe where shape-shifting, sentient robots in disguise hide in plain sight, and a battle with the future of their world - and ours - at stake.""  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD23000021U_20241023T143807SQUARE.png"  group-title="Family/Kids",  Transformers (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD23000021U"  tvg-id="GBBD23000021U" tvg-country="gb"   tvg-chno="4608"  tvg-name="Transformers" tvc-guide-title="Transformers"  tvc-guide-genres="Family/Kids" tvc-guide-description=""Welcome to the world of Transformers, a world where everything is More Than Meets the Eye. A universe where shape-shifting, sentient robots in disguise hide in plain sight, and a battle with the future of their world - and ours - at stake.""  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD23000021U_20241030T142709SQUARE.png"  group-title="Family/Kids",  Transformers (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-GBBD23000021U.m3u8
@@ -1304,7 +1204,7 @@ https://jmp2.uk/sam-GBBD1300001WA.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-GB2400007FA.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC430000128"  tvg-id="GBBC430000128" tvg-country="gb"   tvg-chno="4612"  tvg-name="POP" tvc-guide-title="POP"  tvc-guide-genres="Family/Kids" tvc-guide-description="POP is a high-energy channel for children aged six to ten. Unleash the fun with POP's fresh and diverse mix of shows including Pokémon, Kung-Fu Sock, Miraculous: Tales of Ladybug & Cat Noir and Lego City Adventures."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20241023T143705SQUARE.png"  group-title="Family/Kids",  POP (1080p)
+#EXTINF:-1 channel-id="samsung-GBBC430000128"  tvg-id="GBBC430000128" tvg-country="gb"   tvg-chno="4612"  tvg-name="POP" tvc-guide-title="POP"  tvc-guide-genres="Family/Kids" tvc-guide-description="POP is a high-energy channel for children aged six to ten. Unleash the fun with POP's fresh and diverse mix of shows including Pokémon, Kung-Fu Sock, Miraculous: Tales of Ladybug & Cat Noir and Lego City Adventures."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20241030T142549SQUARE.png"  group-title="Family/Kids",  POP (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-GBBC430000128.m3u8
@@ -1312,7 +1212,7 @@ https://jmp2.uk/sam-GBBC430000128.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-GBBB2000004BQ.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD3200003T6"  tvg-id="GBBD3200003T6" tvg-country="gb"   tvg-chno="4614"  tvg-name="Tiny POP" tvc-guide-title="Tiny POP"  tvc-guide-genres="Family/Kids" tvc-guide-description="Tiny Pop offers a fun and safe environment for children aged four to six to laugh, learn and grow. With a brilliantly diverse range of programming, viewers can jump in imaginary worlds such as Sesame Workshop, Simon and Gigantosaurus."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20230913T031540SQUARE.png_20230913031541.png"  group-title="Family/Kids",  Tiny POP (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD3200003T6"  tvg-id="GBBD3200003T6" tvg-country="gb"   tvg-chno="4614"  tvg-name="Tiny POP" tvc-guide-title="Tiny POP"  tvc-guide-genres="Family/Kids" tvc-guide-description="Tiny Pop offers a fun and safe environment for children aged four to six to laugh, learn and grow. With a brilliantly diverse range of programming, viewers can jump in imaginary worlds such as Sesame Workshop, Simon and Gigantosaurus."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20241030T142646SQUARE.png"  group-title="Family/Kids",  Tiny POP (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-GBBD3200003T6.m3u8
@@ -1320,15 +1220,15 @@ https://jmp2.uk/sam-GBBD3200003T6.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-GBBA3300024F7.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD5100001HL"  tvg-id="GBBD5100001HL" tvg-country="gb"   tvg-chno="4616"  tvg-name="SuperToons TV" tvc-guide-title="SuperToons TV"  tvc-guide-genres="Family/Kids" tvc-guide-description="Watch, Smile and Giggle with Super Toons TV, home to the best kids animation. Free to watch, curated, and kids-safe content to teach empathy and resilience through fun programs. Join Booba, Bernard, Oddbods & many more on Super Toons TV!"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20241023T143714SQUARE.png"  group-title="Family/Kids",  SuperToons TV (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD5100001HL"  tvg-id="GBBD5100001HL" tvg-country="gb"   tvg-chno="4616"  tvg-name="SuperToons TV" tvc-guide-title="SuperToons TV"  tvc-guide-genres="Family/Kids" tvc-guide-description="Watch, Smile and Giggle with Super Toons TV, home to the best kids animation. Free to watch, curated, and kids-safe content to teach empathy and resilience through fun programs. Join Booba, Bernard, Oddbods & many more on Super Toons TV!"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20241030T142601SQUARE.png"  group-title="Family/Kids",  SuperToons TV (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-GBBD5100001HL.m3u8
-#EXTINF:-1 channel-id="samsung-GB700004ET"  tvg-id="GB700004ET" tvg-country="gb"   tvg-chno="4617"  tvg-name="Pocoyo" tvc-guide-title="Pocoyo"  tvc-guide-genres="Family/Kids" tvc-guide-description="Step into the infinite world of Pocoyo, the curious little boy dressed all in blue!"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB700004ET_20241023T143809SQUARE.png"  group-title="Family/Kids",  Pocoyo (1080p)
+#EXTINF:-1 channel-id="samsung-GB700004ET"  tvg-id="GB700004ET" tvg-country="gb"   tvg-chno="4617"  tvg-name="Pocoyo" tvc-guide-title="Pocoyo"  tvc-guide-genres="Family/Kids" tvc-guide-description="Step into the infinite world of Pocoyo, the curious little boy dressed all in blue!"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB700004ET_20241030T142712SQUARE.png"  group-title="Family/Kids",  Pocoyo (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-GB700004ET.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD230000420"  tvg-id="GBBD230000420" tvg-country="gb"   tvg-chno="4618"  tvg-name="Rabbids Invasion" tvc-guide-title="Rabbids Invasion"  tvc-guide-genres="Family/Kids" tvc-guide-description="We don't know where they came from. We don't know how they got here. But now, we are stuck with them. Rabbids are curious little creatures that have invaded earth, and they're on a mission…to have fun and leave a giant path of destruction wherever they go!"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD230000420_20241023T143805SQUARE.png"  group-title="Family/Kids",  Rabbids Invasion (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD230000420"  tvg-id="GBBD230000420" tvg-country="gb"   tvg-chno="4618"  tvg-name="Rabbids Invasion" tvc-guide-title="Rabbids Invasion"  tvc-guide-genres="Family/Kids" tvc-guide-description="We don't know where they came from. We don't know how they got here. But now, we are stuck with them. Rabbids are curious little creatures that have invaded earth, and they're on a mission…to have fun and leave a giant path of destruction wherever they go!"  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD230000420_20241030T142707SQUARE.png"  group-title="Family/Kids",  Rabbids Invasion (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-GBBD230000420.m3u8
@@ -1388,7 +1288,7 @@ https://jmp2.uk/sam-GBBD3000002UT.m3u8
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://jmp2.uk/sam-GBBD30000038U.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD2300003IK"  tvg-id="GBBD2300003IK" tvg-country="gb"   tvg-chno="4513"  tvg-name="Red Bull TV" tvc-guide-title="Red Bull TV"  tvc-guide-genres="Sports" tvc-guide-description="Live events, films, shows and much more. The best from Red Bull TV 24/7."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20241017T132838SQUARE.png"  group-title="Sports",  Red Bull TV (1080p)
+#EXTINF:-1 channel-id="samsung-GBBD2300003IK"  tvg-id="GBBD2300003IK" tvg-country="gb"   tvg-chno="4513"  tvg-name="Red Bull TV" tvc-guide-title="Red Bull TV"  tvc-guide-genres="Sports" tvc-guide-description="Live events, films, shows and much more. The best from Red Bull TV 24/7."  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20241030T142641SQUARE.png"  group-title="Sports",  Red Bull TV (1080p)
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://jmp2.uk/sam-GBBD2300003IK.m3u8
@@ -1496,7 +1396,7 @@ https://jmp2.uk/sam-GBBD1500003SD.m3u8
 #EXTGRP:
 #EXTGENRE:
 https://jmp2.uk/sam-GB2700016H5.m3u8
-#EXTINF:-1 channel-id="samsung-GB400003BM"  tvg-id="GB400003BM" tvg-country="gb"   tvg-chno="4408"  tvg-name="INTRAVEL" tvc-guide-title="INTRAVEL"  tvc-guide-genres="" tvc-guide-description="INTRAVEL is the ultimate adventure for wanderlust dreamers, offering a fresh take on travel. Embark on an ultimate journey of exploration as INTRAVEL takes you to breathtaking destinations, shares unforgettable experiences."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB400003BM_20241023T143719SQUARE.png"  group-title="",  INTRAVEL (1080p)
+#EXTINF:-1 channel-id="samsung-GB400003BM"  tvg-id="GB400003BM" tvg-country="gb"   tvg-chno="4408"  tvg-name="INTRAVEL" tvc-guide-title="INTRAVEL"  tvc-guide-genres="" tvc-guide-description="INTRAVEL is the ultimate adventure for wanderlust dreamers, offering a fresh take on travel. Embark on an ultimate journey of exploration as INTRAVEL takes you to breathtaking destinations, shares unforgettable experiences."  tvc-guide-categories="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB400003BM_20241030T142604SQUARE.png"  group-title="",  INTRAVEL (1080p)
 #EXTGRP:
 #EXTGENRE:
 https://jmp2.uk/sam-GB400003BM.m3u8
