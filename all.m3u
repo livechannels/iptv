@@ -380,18 +380,6 @@ https://epiconvh.s.llnwi.net/showbox/master_720.m3u8
 #EXTGRP:Music
 #EXTGENRE:Music
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-#EXTINF:-1 channel-id="samsung-ZOOMMUSIC"  tvg-id="ZOOMMUSIC" tvg-country="in"   tvg-chno="112"  tvg-name="ZOOM" tvc-guide-title="ZOOM"  tvc-guide-genres="Music" tvc-guide-description="Zoom TV is the most popular Glamour and Entertainment channels in Hindi which caters to the urban audience. The channel was launched in 2004 and is based in Mumbai. It grew to popularity in a very less time and is on the top of Indian youth most channels. The channel airs the best music videos of time and features programs, news, and gossip from Bollywood."  tvc-guide-categories="Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zoom-black.png"  group-title="Music",  ZOOM (1080p)
-#EXTGRP:Music
-#EXTGENRE:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
-#EXTINF:-1 channel-id="samsung-MTVHD"  tvg-id="MTVHD" tvg-country="in"   tvg-chno="115"  tvg-name="MTV HD" tvc-guide-title="MTV HD"  tvc-guide-genres="Music" tvc-guide-description="MTV, world's premier youth brand, is a dynamic and a vibrant blend of music and pop culture. With a global reach of more than half a billion households, MTV is a cultural home to the millennial generation, music fans and artists."  tvc-guide-categories="Music" tvg-logo="https://cdn.mtvindia.com/wp-content/uploads/2022/04/mtvnewlogo.png"  group-title="Music",  MTV HD (1080p)
-#EXTGRP:Music
-#EXTGENRE:Music
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 channel-id="samsung-MTVBEATSHD"  tvg-id="MTVBEATSHD" tvg-country="in"   tvg-chno="116"  tvg-name="MTV Beats HD" tvc-guide-title="MTV Beats HD"  tvc-guide-genres="Music" tvc-guide-description="MTv Beats India's first music only channel. MTv beats music."  tvc-guide-categories="Music" tvg-logo="https://cdn.mtvbeats.in/wp-content/uploads/2021/03/logo.png"  group-title="Music",  MTV Beats HD (1080p)
-#EXTGRP:Music
-#EXTGENRE:Music
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 channel-id="samsung-YRF"  tvg-id="YRF" tvg-country="in"   tvg-chno="150"  tvg-name="YRF Music FAST Channel" tvc-guide-title="YRF Music FAST Channel"  tvc-guide-genres="Music" tvc-guide-description="YRF Music channel is a FAST (Free Ad-supported Streaming TV) linear feed featuring programs that are a thematic mix of bespoke music and other promotional content providing round-the-clock entertainment across the globe."  tvc-guide-categories="Music" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png"  group-title="Music",  YRF Music FAST Channel (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -1448,15 +1436,15 @@ https://jmp2.uk/sam-GBAJ4900002DE.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://jmp2.uk/sam-USBA370000104.m3u8
-#EXTINF:-1 channel-id="samsung-USBC39000171G"  tvg-id="USBC39000171G" tvg-country="us"   tvg-chno="1112"  tvg-name="ABC News Live" tvc-guide-title="ABC News Live"  tvc-guide-genres="News" tvc-guide-description="24/7 breaking news, latest headlines, context and analysis from ABC News"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240909T184501SQUARE.png"  group-title="News",  ABC News Live (1080p)
+#EXTINF:-1 channel-id="samsung-USBC39000171G"  tvg-id="USBC39000171G" tvg-country="us"   tvg-chno="1112"  tvg-name="ABC News Live" tvc-guide-title="ABC News Live"  tvc-guide-genres="News" tvc-guide-description="24/7 breaking news, latest headlines, context and analysis from ABC News"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20241031T150127SQUARE.png"  group-title="News",  ABC News Live (1080p)
 #EXTGRP:News
 #EXTGENRE:News
 https://jmp2.uk/sam-USBC39000171G.m3u8
-#EXTINF:-1 channel-id="samsung-USBB2200014DK"  tvg-id="USBB2200014DK" tvg-country="us"   tvg-chno="1114"  tvg-name="NBC News NOW" tvc-guide-title="NBC News NOW"  tvc-guide-genres="News" tvc-guide-description="NBC News NOW is a streaming network from NBC News. NOW features deep reporting, thoughtful storytelling, and live, breaking news from the global resources of NBC News."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20240924T225019SQUARE.png"  group-title="News",  NBC News NOW (1080p)
+#EXTINF:-1 channel-id="samsung-USBB2200014DK"  tvg-id="USBB2200014DK" tvg-country="us"   tvg-chno="1114"  tvg-name="NBC News NOW" tvc-guide-title="NBC News NOW"  tvc-guide-genres="News" tvc-guide-description="NBC News NOW is a streaming network from NBC News. NOW features deep reporting, thoughtful storytelling, and live, breaking news from the global resources of NBC News."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png"  group-title="News",  NBC News NOW (1080p)
 #EXTGRP:News
 #EXTGENRE:News
 https://jmp2.uk/sam-USBB2200014DK.m3u8
-#EXTINF:-1 channel-id="samsung-USBA300024TN"  tvg-id="USBA300024TN" tvg-country="us"   tvg-chno="1116"  tvg-name="LiveNOW from FOX" tvc-guide-title="LiveNOW from FOX"  tvc-guide-genres="News" tvc-guide-description="Watch what’s happening right NOW from FOX. We are a non-stop stream of breaking news, live events and stories taking place across the nation. Experience news as it occurs with limited commentary and no opinion."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20240520T222706SQUARE.png"  group-title="News",  LiveNOW from FOX (1080p)
+#EXTINF:-1 channel-id="samsung-USBA300024TN"  tvg-id="USBA300024TN" tvg-country="us"   tvg-chno="1116"  tvg-name="LiveNOW from FOX" tvc-guide-title="LiveNOW from FOX"  tvc-guide-genres="News" tvc-guide-description="Watch what’s happening right NOW from FOX. We are a non-stop stream of breaking news, live events and stories taking place across the nation. Experience news as it occurs with limited commentary and no opinion."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png"  group-title="News",  LiveNOW from FOX (1080p)
 #EXTGRP:News
 #EXTGENRE:News
 https://jmp2.uk/sam-USBA300024TN.m3u8
@@ -2312,7 +2300,7 @@ https://jmp2.uk/sam-US2900013AY.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-USBC3600013PC.m3u8
-#EXTINF:-1 channel-id="samsung-USBB11000015Q"  tvg-id="USBB11000015Q" tvg-country="us"   tvg-chno="3627"  tvg-name="Moonbug" tvc-guide-title="Moonbug"  tvc-guide-genres="Family/Kids" tvc-guide-description="Laugh, learn and grow with kids' favorite shows."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20241028T174304SQUARE.png"  group-title="Family/Kids",  Moonbug (1080p)
+#EXTINF:-1 channel-id="samsung-USBB11000015Q"  tvg-id="USBB11000015Q" tvg-country="us"   tvg-chno="3627"  tvg-name="Moonbug" tvc-guide-title="Moonbug"  tvc-guide-genres="Family/Kids" tvc-guide-description="Laugh, learn and grow with kids' favorite shows."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20241031T150152SQUARE.png"  group-title="Family/Kids",  Moonbug (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-USBB11000015Q.m3u8
@@ -2332,7 +2320,7 @@ https://jmp2.uk/sam-USBD42000124T.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-USBD350002338.m3u8
-#EXTINF:-1 channel-id="samsung-USBD3500015R5"  tvg-id="USBD3500015R5" tvg-country="us"   tvg-chno="3642"  tvg-name="Teletubbies" tvc-guide-title="Teletubbies"  tvc-guide-genres="Family/Kids" tvc-guide-description=""Teletubbies stars Tinky Winky, Dipsy, Laa-Laa and Po. Their world is full of love and laughter as they explore Home Dome and the magical countryside of Teletubbyland through play and with the help of their touch screen tummies.""  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20241021T151054SQUARE.png"  group-title="Family/Kids",  Teletubbies (1080p)
+#EXTINF:-1 channel-id="samsung-USBD3500015R5"  tvg-id="USBD3500015R5" tvg-country="us"   tvg-chno="3642"  tvg-name="Teletubbies" tvc-guide-title="Teletubbies"  tvc-guide-genres="Family/Kids" tvc-guide-description=""Teletubbies stars Tinky Winky, Dipsy, Laa-Laa and Po. Their world is full of love and laughter as they explore Home Dome and the magical countryside of Teletubbyland through play and with the help of their touch screen tummies.""  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20241031T150109SQUARE.png"  group-title="Family/Kids",  Teletubbies (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-USBD3500015R5.m3u8
@@ -2348,7 +2336,7 @@ https://jmp2.uk/sam-USBC4400013R7.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-USBC4400012QS.m3u8
-#EXTINF:-1 channel-id="samsung-US2900011CJ"  tvg-id="US2900011CJ" tvg-country="us"   tvg-chno="3653"  tvg-name="My Little Pony" tvc-guide-title="My Little Pony"  tvc-guide-genres="Family/Kids" tvc-guide-description="Welcome to the enchanting world of My Little Pony! Step into the realm of Equestria and embark on new adventures, discovering the magic of friendship with Twilight Sparkle, Rainbow Dash, Pinkie Pie and friends."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900011CJ_20241014T184058SQUARE.png"  group-title="Family/Kids",  My Little Pony (1080p)
+#EXTINF:-1 channel-id="samsung-US2900011CJ"  tvg-id="US2900011CJ" tvg-country="us"   tvg-chno="3653"  tvg-name="My Little Pony" tvc-guide-title="My Little Pony"  tvc-guide-genres="Family/Kids" tvc-guide-description="Welcome to the enchanting world of My Little Pony! Step into the realm of Equestria and embark on new adventures, discovering the magic of friendship with Twilight Sparkle, Rainbow Dash, Pinkie Pie and friends."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900011CJ_20241031T150114SQUARE.png"  group-title="Family/Kids",  My Little Pony (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-US2900011CJ.m3u8
@@ -2388,7 +2376,7 @@ https://jmp2.uk/sam-USBD3300013KV.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-US2900012T8.m3u8
-#EXTINF:-1 channel-id="samsung-US29000168D"  tvg-id="US29000168D" tvg-country="us"   tvg-chno="3685"  tvg-name="Transformers" tvc-guide-title="Transformers"  tvc-guide-genres="Family/Kids" tvc-guide-description="Welcome to the world of Transformers, a world where everything is More Than Meets the Eye. A universe where shape-shifting, sentient robots in disguise hide in plain sight, and a battle with the future of their world - and ours - at stake."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US29000168D_20241021T151059SQUARE.png"  group-title="Family/Kids",  Transformers (1080p)
+#EXTINF:-1 channel-id="samsung-US29000168D"  tvg-id="US29000168D" tvg-country="us"   tvg-chno="3685"  tvg-name="Transformers" tvc-guide-title="Transformers"  tvc-guide-genres="Family/Kids" tvc-guide-description="Welcome to the world of Transformers, a world where everything is More Than Meets the Eye. A universe where shape-shifting, sentient robots in disguise hide in plain sight, and a battle with the future of their world - and ours - at stake."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US29000168D_20241031T150112SQUARE.png"  group-title="Family/Kids",  Transformers (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-US29000168D.m3u8
@@ -2460,7 +2448,7 @@ https://jmp2.uk/sam-USBD420002446.m3u8
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://jmp2.uk/sam-US2900014UU.m3u8
-#EXTINF:-1 channel-id="samsung-US2600006VY"  tvg-id="US2600006VY" tvg-country="us"   tvg-chno="2352"  tvg-name="One Championship TV" tvc-guide-title="One Championship TV"  tvc-guide-genres="Sports" tvc-guide-description="Experience all the action from the world’s largest martial arts organization on ONE Championship TV,featuring MMA, Muay Thai, kickboxing, and more! Check out the best fighters on the planet, weeklyevents, and behind-the-scenes originals!"  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20241024T173829SQUARE.png"  group-title="Sports",  One Championship TV (1080p)
+#EXTINF:-1 channel-id="samsung-US2600006VY"  tvg-id="US2600006VY" tvg-country="us"   tvg-chno="2352"  tvg-name="One Championship TV" tvc-guide-title="One Championship TV"  tvc-guide-genres="Sports" tvc-guide-description="Experience all the action from the world’s largest martial arts organization on ONE Championship TV,featuring MMA, Muay Thai, kickboxing, and more! Check out the best fighters on the planet, weeklyevents, and behind-the-scenes originals!"  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20241031T150124SQUARE.png"  group-title="Sports",  One Championship TV (1080p)
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://jmp2.uk/sam-US2600006VY.m3u8
@@ -3088,7 +3076,7 @@ https://jmp2.uk/sam-US1400014N9.m3u8
 #EXTGRP:
 #EXTGENRE:
 https://jmp2.uk/sam-US14000030Y.m3u8
-#EXTINF:-1 channel-id="samsung-US1400010S0"  tvg-id="US1400010S0" tvg-country="us"   tvg-chno="4550"  tvg-name="Fall Vibes" tvc-guide-title="Fall Vibes"  tvc-guide-genres="" tvc-guide-description="Embark on a leaf-peeping journey from the comfort of your home with this magical channel full of golden leaves and foliage. Grab a Pumpkin Spice Latte and settle in!"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400010S0_20241028T174240SQUARE.png"  group-title="",  Fall Vibes (1080p)
+#EXTINF:-1 channel-id="samsung-US1400010S0"  tvg-id="US1400010S0" tvg-country="us"   tvg-chno="4550"  tvg-name="Fall Vibes" tvc-guide-title="Fall Vibes"  tvc-guide-genres="" tvc-guide-description="Embark on a leaf-peeping journey from the comfort of your home with this magical channel full of golden leaves and foliage. Grab a Pumpkin Spice Latte and settle in!"  tvc-guide-categories="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400010S0_20241031T150119SQUARE.png"  group-title="",  Fall Vibes (1080p)
 #EXTGRP:
 #EXTGENRE:
 https://jmp2.uk/sam-US1400010S0.m3u8
