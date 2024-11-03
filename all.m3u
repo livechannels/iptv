@@ -232,6 +232,26 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
+#EXTINF:-1 channel-id="samsung-SONYWAH"  tvg-id="SONYWAH" tvg-country="in"   tvg-chno="124"  tvg-name="SONY WAH" tvc-guide-title="SONY WAH"  tvc-guide-genres="Entertainment" tvc-guide-description="Sony WAH is SPN’s FTA Hindi movie channel focused on Rural audiences. By showing content that is a best mix of premium titles and iconic films from the last 3 decades, WAH provides quality viewing experience to its audiences"  tvc-guide-categories="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png"  group-title="Entertainment",  SONY WAH (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 channel-id="samsung-SONYHD"  tvg-id="SONYHD" tvg-country="in"   tvg-chno="126"  tvg-name="SONY HD" tvc-guide-title="SONY HD"  tvc-guide-genres="Entertainment" tvc-guide-description="Sony Entertainment Television is a 24 hour Hindi General Entertainment Channel that provides complete family entertainment"  tvc-guide-categories="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png"  group-title="Entertainment",  SONY HD (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 channel-id="samsung-SONYSABHD"  tvg-id="SONYSABHD" tvg-country="in"   tvg-chno="127"  tvg-name="SONY SAB HD" tvc-guide-title="SONY SAB HD"  tvc-guide-genres="Entertainment" tvc-guide-description="SONY SAB is a part of the network of Television channels owned by SPN. SONY SAB is India's only family comedy entertainment channel with a core brand promise of 'Asli Mazaa SAB Ke Saath Aata Hai'. "  tvc-guide-categories="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png"  group-title="Entertainment",  SONY SAB HD (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 channel-id="samsung-SONYPAL"  tvg-id="SONYPAL" tvg-country="in"   tvg-chno="128"  tvg-name="SONY PAL" tvc-guide-title="SONY PAL"  tvc-guide-genres="Entertainment" tvc-guide-description="SONY PAL is a part of the network of Television channels owned by Sony. "  tvc-guide-categories="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png"  group-title="Entertainment",  SONY PAL (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 channel-id="samsung-SonyMarathi"  tvg-id="SonyMarathi" tvg-country="in"   tvg-chno="138"  tvg-name="Sony Marathi" tvc-guide-title="Sony Marathi"  tvc-guide-genres="Entertainment" tvc-guide-description="Sony Marathi is an Indian television channel that broadcasts programming in Marathi. It was launched on 19 August 2018 and is owned and operated by Culver Max Entertainment."  tvc-guide-categories="Entertainment" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png"  group-title="Entertainment",  Sony Marathi (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 #EXTINF:-1 channel-id="samsung-ShemarooUmangPlus"  tvg-id="ShemarooUmangPlus" tvg-country="in"   tvg-chno="155"  tvg-name="Shemaroo Umang Plus" tvc-guide-title="Shemaroo Umang Plus"  tvc-guide-genres="Entertainment" tvc-guide-description="Shemaroo Umang Plus"  tvc-guide-categories="Entertainment" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-umang-plus/logo_20240206_191005_68.png"  group-title="Entertainment",  Shemaroo Umang Plus (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -320,6 +340,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 channel-id="samsung-SETMAXHD"  tvg-id="SETMAXHD" tvg-country="in"   tvg-chno="125"  tvg-name="SET MAX HD" tvc-guide-title="SET MAX HD"  tvc-guide-genres="Movies" tvc-guide-description="Sony MAX, India’s premier Hindi Movies channel, is a part of Sony Pictures Networks, one of India’s leading television network. Sony MAX brings to its viewers the biggest and best of Hindi Movies and Special Events"  tvc-guide-categories="Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png"  group-title="Movies",  SET MAX HD (1080p)
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 channel-id="samsung-SonyMAX2"  tvg-id="SonyMAX2" tvg-country="in"   tvg-chno="139"  tvg-name="Sony MAX2" tvc-guide-title="Sony MAX2"  tvc-guide-genres="Movies" tvc-guide-description="Sony Max 2 is an Indian television channel owned by Culver Max Entertainment and launched in 2014. It is the second Indian channel launched by Sony which is focused solely on old Hindi-language movie broadcasts, being the sister channel of Sony Max."  tvc-guide-categories="Movies" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png"  group-title="Movies",  Sony MAX2 (1080p)
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 channel-id="samsung-SonyPIXHD"  tvg-id="SonyPIXHD" tvg-country="in"   tvg-chno="140"  tvg-name="Sony PIX HD" tvc-guide-title="Sony PIX HD"  tvc-guide-genres="Movies" tvc-guide-description="Sony PIX is an Indian English language television movie channel owned by Culver Max Entertainment. The channel mainly airs American live action and animated Hollywood movies in English with also dubbed in Hindi, Tamil and Telugu languages."  tvc-guide-categories="Movies" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png"  group-title="Movies",  Sony PIX HD (1080p)
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 channel-id="samsung-BOLLYHOODPRIME"  tvg-id="BOLLYHOODPRIME" tvg-country="in"   tvg-chno="151"  tvg-name="Bollywood Prime" tvc-guide-title="Bollywood Prime"  tvc-guide-genres="Movies" tvc-guide-description="Bollywood movies, cooking shows, lifestyle & Bollywood star interviews."  tvc-guide-categories="Movies" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png"  group-title="Movies",  Bollywood Prime (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -456,6 +488,10 @@ https://jmp2.uk/sam-INBD4700017SL.m3u8
 #EXTGRP:Music
 #EXTGENRE:Music
 https://jmp2.uk/sam-INBA4900001DL.m3u8
+#EXTINF:-1 channel-id="samsung-SONYYAY"  tvg-id="SONYYAY" tvg-country="in"   tvg-chno="129"  tvg-name="SONY YAY" tvc-guide-title="SONY YAY"  tvc-guide-genres="Family/Kids" tvc-guide-description="Sony YAY! is an Indian pay television channel aimed at children aged between 6 and 14, operated by Culver Max Entertainment.  "  tvc-guide-categories="Family/Kids" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png"  group-title="Family/Kids",  SONY YAY (1080p)
+#EXTGRP:Family/Kids
+#EXTGENRE:Family/Kids
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 channel-id="samsung-NICKHD+"  tvg-id="NICKHD+" tvg-country="in"   tvg-chno="147"  tvg-name="Nick HD+" tvc-guide-title="Nick HD+"  tvc-guide-genres="Family/Kids" tvc-guide-description="Nickelodeon, India’s leading kids brand and a part of Viacom18, is available in over 100 million households in the country. It is a 24-hour pay channel available in 7 Indian languages namely Hindi, Tamil, Telugu, Marathi, Bengali, Kannada and Malayalam. With an approach that puts ‘kids first’"  tvc-guide-categories="Family/Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png"  group-title="Family/Kids",  Nick HD+ (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
@@ -508,6 +544,22 @@ https://jmp2.uk/sam-INBD4700007IQ.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-INBC280001662.m3u8
+#EXTINF:-1 channel-id="samsung-SONYSPORTSTEN1HD"  tvg-id="SONYSPORTSTEN1HD" tvg-country="in"   tvg-chno="142"  tvg-name="Sony TEN 1 HD" tvc-guide-title="Sony TEN 1 HD"  tvc-guide-genres="Sports" tvc-guide-description="Sony Sports Network is owned and operated by Sony Pictures Networks (SPN). With an enviable line-up of marquee sporting action across genres in its portfolio of 10 channels, the sports division of SPN is a leading sports broadcaster in the Indian subcontinent."  tvc-guide-categories="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png"  group-title="Sports",  Sony TEN 1 HD (1080p)
+#EXTGRP:Sports
+#EXTGENRE:Sports
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 channel-id="samsung-SONYSPORTSTEN2HD"  tvg-id="SONYSPORTSTEN2HD" tvg-country="in"   tvg-chno="143"  tvg-name="Sony TEN 2 HD" tvc-guide-title="Sony TEN 2 HD"  tvc-guide-genres="Sports" tvc-guide-description="Sony Sports Network is owned and operated by Sony Pictures Networks (SPN). With an enviable line-up of marquee sporting action across genres in its portfolio of 10 channels, the sports division of SPN is a leading sports broadcaster in the Indian subcontinent."  tvc-guide-categories="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png"  group-title="Sports",  Sony TEN 2 HD (1080p)
+#EXTGRP:Sports
+#EXTGENRE:Sports
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 channel-id="samsung-SONYSPORTSTEN3HD"  tvg-id="SONYSPORTSTEN3HD" tvg-country="in"   tvg-chno="144"  tvg-name="Sony TEN 3 HD" tvc-guide-title="Sony TEN 3 HD"  tvc-guide-genres="Sports" tvc-guide-description="Sony Sports Network is owned and operated by Sony Pictures Networks (SPN). With an enviable line-up of marquee sporting action across genres in its portfolio of 10 channels, the sports division of SPN is a leading sports broadcaster in the Indian subcontinent."  tvc-guide-categories="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png"  group-title="Sports",  Sony TEN 3 HD (1080p)
+#EXTGRP:Sports
+#EXTGENRE:Sports
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 channel-id="samsung-SONYSIXHD"  tvg-id="SONYSIXHD" tvg-country="in"   tvg-chno="160"  tvg-name="SONY Six HD" tvc-guide-title="SONY Six HD"  tvc-guide-genres="Sports" tvc-guide-description="SONY Six HD"  tvc-guide-categories="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsNetwork_Logo_CLR.png"  group-title="Sports",  SONY Six HD (1080p)
+#EXTGRP:Sports
+#EXTGENRE:Sports
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 channel-id="samsung-IN1300001NN"  tvg-id="IN1300001NN" tvg-country="in"   tvg-chno="1211"  tvg-name="Cricket Gold" tvc-guide-title="Cricket Gold"  tvc-guide-genres="Sports" tvc-guide-description="Dig out your headband and straighten your moustache! Cricket Gold is your number-one destination for the greatest modern moments and classic retro action from the last 50 years of cricket Down Under. Howzat?!!"  tvc-guide-categories="Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1300001NN_20240731T012436SQUARE.png"  group-title="Sports",  Cricket Gold (1080p)
 #EXTGRP:Sports
 #EXTGENRE:Sports
@@ -592,6 +644,10 @@ https://jmp2.uk/sam-INBA4900005PV.m3u8
 #EXTGRP:Education
 #EXTGENRE:Education
 https://jmp2.uk/sam-INBA4900007JX.m3u8
+#EXTINF:-1 channel-id="samsung-SonyBBCEarthHD"  tvg-id="SonyBBCEarthHD" tvg-country="in"   tvg-chno="141"  tvg-name="Sony BBC Earth HD" tvc-guide-title="Sony BBC Earth HD"  tvc-guide-genres="Tech/Science" tvc-guide-description="With a staggering presence in 178 countries and entertaining its audience for 21 years, Sony Pictures Networks touches the lives of over 1.3 billion people worldwide. In India, Sony Pictures Networks has 21 diversified channels that reach out to over 420 million Indians."  tvc-guide-categories="Tech/Science" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png"  group-title="Tech/Science",  Sony BBC Earth HD (1080p)
+#EXTGRP:Tech/Science
+#EXTGENRE:Tech/Science
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1 channel-id="samsung-INBD13000053R"  tvg-id="INBD13000053R" tvg-country="in"   tvg-chno="1411"  tvg-name="Divya" tvc-guide-title="Divya"  tvc-guide-genres="LifeStyle" tvc-guide-description="Channel Divya, India’s spiritual music channel offers true spiritual content to its viewers in the form of soul awakening music."  tvc-guide-categories="LifeStyle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000053R_20241024T054024SQUARE.png"  group-title="LifeStyle",  Divya (1080p)
 #EXTGRP:LifeStyle
 #EXTGENRE:LifeStyle
