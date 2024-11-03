@@ -11,7 +11,7 @@ https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791
 #EXTINF:-1 channel-id="samsung-GOA365"  tvg-id="GOA365" tvg-country="in"   tvg-chno="102"  tvg-name="GOA 365" tvc-guide-title="GOA 365"  tvc-guide-genres="News" tvc-guide-description="Goa's First English News Channel"  tvc-guide-categories="News" tvg-logo="https://www.goa365.tv/images/GOA-365-Logo.jpg"  group-title="News",  GOA 365 (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
+https://ktismaservers.in:3086/live/goa365live.m3u8
 #EXTINF:-1 channel-id="samsung-PRIMEGOA"  tvg-id="PRIMEGOA" tvg-country="in"   tvg-chno="103"  tvg-name="Prime Media Goa" tvc-guide-title="Prime Media Goa"  tvc-guide-genres="News" tvc-guide-description="PRIME IS THE CHOICE FOR NEWS AND PROGRAMME"  tvc-guide-categories="News" tvg-logo="https://www.primetvgoa.com/wp-content/uploads/2020/03/Prime-Logo1-1536x637.png"  group-title="News",  Prime Media Goa (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -332,6 +332,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+#EXTINF:-1 channel-id="samsung-B4UMOVIES"  tvg-id="B4UMOVIES" tvg-country="in"   tvg-chno="156"  tvg-name="B4U Movies" tvc-guide-title="B4U Movies"  tvc-guide-genres="Movies" tvc-guide-description="B4U Movies"  tvc-guide-categories="Movies" tvg-logo="https://b4umovies.in/images/logo.jpg"  group-title="Movies",  B4U Movies (1080p)
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://cdn2.pishow.tv/live/156/master.m3u8
+#EXTINF:-1 channel-id="samsung-B4UMUSIC"  tvg-id="B4UMUSIC" tvg-country="in"   tvg-chno="157"  tvg-name="B4U Music" tvc-guide-title="B4U Music"  tvc-guide-genres="Movies" tvc-guide-description="B4U Music"  tvc-guide-categories="Movies" tvg-logo="https://b4umusic.in/images/logo.png"  group-title="Movies",  B4U Music (1080p)
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://cdn2.pishow.tv/live/141/master.m3u8
+#EXTINF:-1 channel-id="samsung-ShemarooMarathiBana"  tvg-id="ShemarooMarathiBana" tvg-country="in"   tvg-chno="159"  tvg-name="Shemaroo Marathi Bana" tvc-guide-title="Shemaroo Marathi Bana"  tvc-guide-genres="Movies" tvc-guide-description="Shemaroo Marathi Bana"  tvc-guide-categories="Movies" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg"  group-title="Movies",  Shemaroo Marathi Bana (1080p)
+#EXTGRP:Movies
+#EXTGENRE:Movies
+https://cdn.live.shemaroome.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-INBD21000016Y"  tvg-id="INBD21000016Y" tvg-country="in"   tvg-chno="1000"  tvg-name="The Movie Club" tvc-guide-title="The Movie Club"  tvc-guide-genres="Movies" tvc-guide-description="Welcome to The Movie Club. Get your daily dose of awesome Bollywood movies for free. There's action, drama, romance, adventure and loads of non-stop entertainment for movie buffs like you."  tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20241024T054057SQUARE.png"  group-title="Movies",  The Movie Club (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -1708,7 +1720,7 @@ https://jmp2.uk/sam-USBC1000002NP.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-USBD42000073E.m3u8
-#EXTINF:-1 channel-id="samsung-US3300011V9"  tvg-id="US3300011V9" tvg-country="us"   tvg-chno="1832"  tvg-name="The First 48" tvc-guide-title="The First 48"  tvc-guide-genres="Entertainment" tvc-guide-description="Follows homicide detectives in the critical first hours of murder investigations."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300011V9_20241022T004439SQUARE.png"  group-title="Entertainment",  The First 48 (1080p)
+#EXTINF:-1 channel-id="samsung-US3300011V9"  tvg-id="US3300011V9" tvg-country="us"   tvg-chno="1832"  tvg-name="The First 48" tvc-guide-title="The First 48"  tvc-guide-genres="Entertainment" tvc-guide-description="Follows homicide detectives in the critical first hours of murder investigations."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300011V9_20241101T212731SQUARE.png"  group-title="Entertainment",  The First 48 (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-US3300011V9.m3u8
@@ -1796,7 +1808,7 @@ https://jmp2.uk/sam-USBB4400016F9.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-USBA3000042O6.m3u8
-#EXTINF:-1 channel-id="samsung-US2900010UT"  tvg-id="US2900010UT" tvg-country="us"   tvg-chno="1907"  tvg-name="Bondi Rescue" tvc-guide-title="Bondi Rescue"  tvc-guide-genres="Entertainment" tvc-guide-description="Bondi Rescue shows the real stories of the elite professional lifeguards saving lives on Australia’s busiest beach."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900010UT_20241028T235640SQUARE.png"  group-title="Entertainment",  Bondi Rescue (1080p)
+#EXTINF:-1 channel-id="samsung-US2900010UT"  tvg-id="US2900010UT" tvg-country="us"   tvg-chno="1907"  tvg-name="Bondi Rescue" tvc-guide-title="Bondi Rescue"  tvc-guide-genres="Entertainment" tvc-guide-description="Bondi Rescue shows the real stories of the elite professional lifeguards saving lives on Australia’s busiest beach."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900010UT_20241101T212736SQUARE.png"  group-title="Entertainment",  Bondi Rescue (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-US2900010UT.m3u8
@@ -1904,7 +1916,7 @@ https://jmp2.uk/sam-US700002ZB.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-USBC1300012VK.m3u8
-#EXTINF:-1 channel-id="samsung-US3300010F5"  tvg-id="US3300010F5" tvg-country="us"   tvg-chno="1002"  tvg-name="Ancient Aliens" tvc-guide-title="Ancient Aliens"  tvc-guide-genres="Entertainment" tvc-guide-description="Explore the controversial theory that extraterrestrials have visited Earth for millions of years."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300010F5_20241028T235647SQUARE.png"  group-title="Entertainment",  Ancient Aliens (1080p)
+#EXTINF:-1 channel-id="samsung-US3300010F5"  tvg-id="US3300010F5" tvg-country="us"   tvg-chno="1002"  tvg-name="Ancient Aliens" tvc-guide-title="Ancient Aliens"  tvc-guide-genres="Entertainment" tvc-guide-description="Explore the controversial theory that extraterrestrials have visited Earth for millions of years."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300010F5_20241101T212728SQUARE.png"  group-title="Entertainment",  Ancient Aliens (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://jmp2.uk/sam-US3300010F5.m3u8
@@ -2300,7 +2312,7 @@ https://jmp2.uk/sam-US2900013AY.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-USBC3600013PC.m3u8
-#EXTINF:-1 channel-id="samsung-USBB11000015Q"  tvg-id="USBB11000015Q" tvg-country="us"   tvg-chno="3627"  tvg-name="Moonbug" tvc-guide-title="Moonbug"  tvc-guide-genres="Family/Kids" tvc-guide-description="Laugh, learn and grow with kids' favorite shows."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20241031T150152SQUARE.png"  group-title="Family/Kids",  Moonbug (1080p)
+#EXTINF:-1 channel-id="samsung-USBB11000015Q"  tvg-id="USBB11000015Q" tvg-country="us"   tvg-chno="3627"  tvg-name="Moonbug" tvc-guide-title="Moonbug"  tvc-guide-genres="Family/Kids" tvc-guide-description="Laugh, learn and grow with kids' favorite shows."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20241101T212758SQUARE.png"  group-title="Family/Kids",  Moonbug (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-USBB11000015Q.m3u8
@@ -2320,7 +2332,7 @@ https://jmp2.uk/sam-USBD42000124T.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-USBD350002338.m3u8
-#EXTINF:-1 channel-id="samsung-USBD3500015R5"  tvg-id="USBD3500015R5" tvg-country="us"   tvg-chno="3642"  tvg-name="Teletubbies" tvc-guide-title="Teletubbies"  tvc-guide-genres="Family/Kids" tvc-guide-description=""Teletubbies stars Tinky Winky, Dipsy, Laa-Laa and Po. Their world is full of love and laughter as they explore Home Dome and the magical countryside of Teletubbyland through play and with the help of their touch screen tummies.""  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20241031T150109SQUARE.png"  group-title="Family/Kids",  Teletubbies (1080p)
+#EXTINF:-1 channel-id="samsung-USBD3500015R5"  tvg-id="USBD3500015R5" tvg-country="us"   tvg-chno="3642"  tvg-name="Teletubbies" tvc-guide-title="Teletubbies"  tvc-guide-genres="Family/Kids" tvc-guide-description=""Teletubbies stars Tinky Winky, Dipsy, Laa-Laa and Po. Their world is full of love and laughter as they explore Home Dome and the magical countryside of Teletubbyland through play and with the help of their touch screen tummies.""  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20241101T212704SQUARE.png"  group-title="Family/Kids",  Teletubbies (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-USBD3500015R5.m3u8
@@ -2336,7 +2348,7 @@ https://jmp2.uk/sam-USBC4400013R7.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-USBC4400012QS.m3u8
-#EXTINF:-1 channel-id="samsung-US2900011CJ"  tvg-id="US2900011CJ" tvg-country="us"   tvg-chno="3653"  tvg-name="My Little Pony" tvc-guide-title="My Little Pony"  tvc-guide-genres="Family/Kids" tvc-guide-description="Welcome to the enchanting world of My Little Pony! Step into the realm of Equestria and embark on new adventures, discovering the magic of friendship with Twilight Sparkle, Rainbow Dash, Pinkie Pie and friends."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900011CJ_20241031T150114SQUARE.png"  group-title="Family/Kids",  My Little Pony (1080p)
+#EXTINF:-1 channel-id="samsung-US2900011CJ"  tvg-id="US2900011CJ" tvg-country="us"   tvg-chno="3653"  tvg-name="My Little Pony" tvc-guide-title="My Little Pony"  tvc-guide-genres="Family/Kids" tvc-guide-description="Welcome to the enchanting world of My Little Pony! Step into the realm of Equestria and embark on new adventures, discovering the magic of friendship with Twilight Sparkle, Rainbow Dash, Pinkie Pie and friends."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900011CJ_20241101T212712SQUARE.png"  group-title="Family/Kids",  My Little Pony (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-US2900011CJ.m3u8
@@ -2376,7 +2388,7 @@ https://jmp2.uk/sam-USBD3300013KV.m3u8
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-US2900012T8.m3u8
-#EXTINF:-1 channel-id="samsung-US29000168D"  tvg-id="US29000168D" tvg-country="us"   tvg-chno="3685"  tvg-name="Transformers" tvc-guide-title="Transformers"  tvc-guide-genres="Family/Kids" tvc-guide-description="Welcome to the world of Transformers, a world where everything is More Than Meets the Eye. A universe where shape-shifting, sentient robots in disguise hide in plain sight, and a battle with the future of their world - and ours - at stake."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US29000168D_20241031T150112SQUARE.png"  group-title="Family/Kids",  Transformers (1080p)
+#EXTINF:-1 channel-id="samsung-US29000168D"  tvg-id="US29000168D" tvg-country="us"   tvg-chno="3685"  tvg-name="Transformers" tvc-guide-title="Transformers"  tvc-guide-genres="Family/Kids" tvc-guide-description="Welcome to the world of Transformers, a world where everything is More Than Meets the Eye. A universe where shape-shifting, sentient robots in disguise hide in plain sight, and a battle with the future of their world - and ours - at stake."  tvc-guide-categories="Family/Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US29000168D_20241101T212708SQUARE.png"  group-title="Family/Kids",  Transformers (1080p)
 #EXTGRP:Family/Kids
 #EXTGENRE:Family/Kids
 https://jmp2.uk/sam-US29000168D.m3u8
