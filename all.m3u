@@ -336,10 +336,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
-#EXTINF:-1 channel-id="samsung-B4UMUSIC"  tvg-id="B4UMUSIC" tvg-country="in"   tvg-chno="157"  tvg-name="B4U Music" tvc-guide-title="B4U Music"  tvc-guide-genres="Movies" tvc-guide-description="B4U Music"  tvc-guide-categories="Movies" tvg-logo="https://b4umusic.in/images/logo.png"  group-title="Movies",  B4U Music (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 channel-id="samsung-ShemarooMarathiBana"  tvg-id="ShemarooMarathiBana" tvg-country="in"   tvg-chno="159"  tvg-name="Shemaroo Marathi Bana" tvc-guide-title="Shemaroo Marathi Bana"  tvc-guide-genres="Movies" tvc-guide-description="Shemaroo Marathi Bana"  tvc-guide-categories="Movies" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg"  group-title="Movies",  Shemaroo Marathi Bana (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -400,6 +396,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Music
 #EXTGENRE:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+#EXTINF:-1 channel-id="samsung-B4UMUSIC"  tvg-id="B4UMUSIC" tvg-country="in"   tvg-chno="157"  tvg-name="B4U Music" tvc-guide-title="B4U Music"  tvc-guide-genres="Music" tvc-guide-description="B4U Music"  tvc-guide-categories="Music" tvg-logo="https://b4umusic.in/images/logo.png"  group-title="Music",  B4U Music (1080p)
+#EXTGRP:Music
+#EXTGENRE:Music
+https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 channel-id="samsung-IN26000122C"  tvg-id="IN26000122C" tvg-country="in"   tvg-chno="1431"  tvg-name="Kaan Phod Music" tvc-guide-title="Kaan Phod Music"  tvc-guide-genres="Music" tvc-guide-description="From timeless classics to today’s hits,our Bollywood hub celebrates melodies that touch hearts.Tune in for premieres, interviews,and behind-the-scenes magic.Let’s groove through the golden era."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000122C_20241016T011402SQUARE.png"  group-title="Music",  Kaan Phod Music (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
