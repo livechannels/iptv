@@ -236,10 +236,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
-#EXTINF:-1 channel-id="samsung-BIGMAGIC"  tvg-id="BIGMAGIC" tvg-country="in"   tvg-chno="122"  tvg-name="Big Magic" tvc-guide-title="Big Magic"  tvc-guide-genres="Entertainment" tvc-guide-description="Big Magic is a Hindi language general entertainment channel."  tvc-guide-categories="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Big_Magic.png/revision/latest/scale-to-width-down/200?cb=20210514134346"  group-title="Entertainment",  Big Magic (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://zeetv.cloudflarechannels.workers.dev/0-9-bigmagic_1786965389/master.m3u8
 #EXTINF:-1 channel-id="samsung-SONYWAH"  tvg-id="SONYWAH" tvg-country="in"   tvg-chno="124"  tvg-name="SONY WAH" tvc-guide-title="SONY WAH"  tvc-guide-genres="Entertainment" tvc-guide-description="Sony WAH is SPN’s FTA Hindi movie channel focused on Rural audiences. By showing content that is a best mix of premium titles and iconic films from the last 3 decades, WAH provides quality viewing experience to its audiences"  tvc-guide-categories="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png"  group-title="Entertainment",  SONY WAH (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -348,10 +344,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 channel-id="samsung-Zeechitramandir"  tvg-id="Zeechitramandir" tvg-country="in"   tvg-chno="121"  tvg-name="Zee Chitramandir" tvc-guide-title="Zee Chitramandir"  tvc-guide-genres="Movies" tvc-guide-description="Zee Chitramandir is a Marathi free television channel broadcasting Marathi movies by Zee Entertainment Enterprises."  tvc-guide-categories="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Zee_Chitramandir.jpg/revision/latest?cb=20210410110629"  group-title="Movies",  Zee Chitramandir (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://zeetv.cloudflarechannels.workers.dev/0-9-394/master.m3u8
 #EXTINF:-1 channel-id="samsung-SETMAXHD"  tvg-id="SETMAXHD" tvg-country="in"   tvg-chno="125"  tvg-name="SET MAX HD" tvc-guide-title="SET MAX HD"  tvc-guide-genres="Movies" tvc-guide-description="Sony MAX, India’s premier Hindi Movies channel, is a part of Sony Pictures Networks, one of India’s leading television network. Sony MAX brings to its viewers the biggest and best of Hindi Movies and Special Events"  tvc-guide-categories="Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png"  group-title="Movies",  SET MAX HD (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -420,14 +412,6 @@ https://epiconvh.s.llnwi.net/showbox/master_720.m3u8
 #EXTGRP:Music
 #EXTGENRE:Music
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-#EXTINF:-1 channel-id="samsung-ZOOMMUSIC"  tvg-id="ZOOMMUSIC" tvg-country="in"   tvg-chno="112"  tvg-name="ZOOM" tvc-guide-title="ZOOM"  tvc-guide-genres="Music" tvc-guide-description="Zoom TV is the most popular Glamour and Entertainment channels in Hindi which caters to the urban audience. The channel was launched in 2004 and is based in Mumbai. It grew to popularity in a very less time and is on the top of Indian youth most channels. The channel airs the best music videos of time and features programs, news, and gossip from Bollywood."  tvc-guide-categories="Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zoom-black.png"  group-title="Music",  ZOOM (1080p)
-#EXTGRP:Music
-#EXTGENRE:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
-#EXTINF:-1 channel-id="samsung-ZING"  tvg-id="ZING" tvg-country="in"   tvg-chno="123"  tvg-name="Zing" tvc-guide-title="Zing"  tvc-guide-genres="Music" tvc-guide-description="Zing is music channel for music lovers."  tvc-guide-categories="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest/scale-to-width-down/48?cb=20220525063636"  group-title="Music",  Zing (1080p)
-#EXTGRP:Music
-#EXTGENRE:Music
-https://zeetv.cloudflarechannels.workers.dev/0-9-zing/master.m3u8
 #EXTINF:-1 channel-id="samsung-YRF"  tvg-id="YRF" tvg-country="in"   tvg-chno="150"  tvg-name="YRF Music FAST Channel" tvc-guide-title="YRF Music FAST Channel"  tvc-guide-genres="Music" tvc-guide-description="YRF Music channel is a FAST (Free Ad-supported Streaming TV) linear feed featuring programs that are a thematic mix of bespoke music and other promotional content providing round-the-clock entertainment across the globe."  tvc-guide-categories="Music" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png"  group-title="Music",  YRF Music FAST Channel (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
@@ -568,10 +552,6 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTGRP:Sports
 #EXTGENRE:Sports
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 channel-id="samsung-STARSPORTS1HD"  tvg-id="STARSPORTS1HD" tvg-country="in"   tvg-chno="158"  tvg-name="Star-Sports-1-HD" tvc-guide-title="Star-Sports-1-HD"  tvc-guide-genres="Sports" tvc-guide-description="Star Sports One Live Cricket TV HD Streaming keeps you updated with the latest matches and leagues, ensuring you never miss any sporting action."  tvc-guide-categories="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg"  group-title="Sports",  Star-Sports-1-HD (1080p)
-#EXTGRP:Sports
-#EXTGENRE:Sports
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1 channel-id="samsung-SONYSIXHD"  tvg-id="SONYSIXHD" tvg-country="in"   tvg-chno="160"  tvg-name="SONY Six HD" tvc-guide-title="SONY Six HD"  tvc-guide-genres="Sports" tvc-guide-description="SONY Six HD"  tvc-guide-categories="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsNetwork_Logo_CLR.png"  group-title="Sports",  SONY Six HD (1080p)
 #EXTGRP:Sports
 #EXTGENRE:Sports
