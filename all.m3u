@@ -415,7 +415,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 channel-id="samsung-YRF"  tvg-id="YRF" tvg-country="in"   tvg-chno="150"  tvg-name="YRF Music FAST Channel" tvc-guide-title="YRF Music FAST Channel"  tvc-guide-genres="Music" tvc-guide-description="YRF Music channel is a FAST (Free Ad-supported Streaming TV) linear feed featuring programs that are a thematic mix of bespoke music and other promotional content providing round-the-clock entertainment across the globe."  tvc-guide-categories="Music" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png"  group-title="Music",  YRF Music FAST Channel (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-ShemarooFilmigaane"  tvg-id="ShemarooFilmigaane" tvg-country="in"   tvg-chno="153"  tvg-name="Shemaroo Filmigaane" tvc-guide-title="Shemaroo Filmigaane"  tvc-guide-genres="Music" tvc-guide-description="Shemaroo Filmigaane"  tvc-guide-categories="Music" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/logo_20240206_190035_68.png"  group-title="Music",  Shemaroo Filmigaane (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
