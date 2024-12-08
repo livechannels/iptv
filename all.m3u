@@ -36,10 +36,6 @@ https://youtube.cloudflarechannels.workers.dev/stream/SaamTV/playlist.m3u8
 #EXTGRP:News
 #EXTGENRE:News
 https://youtube.cloudflarechannels.workers.dev/stream/News18LokmatTV/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-DDSAHYADRI"  tvg-id="DDSAHYADRI" tvg-country="in"   tvg-chno="119"  tvg-name="DD Sahyadri News" tvc-guide-title="DD Sahyadri News"  tvc-guide-genres="News" tvc-guide-description="DD Sahyadri is the Marathi-language TV channel of Doordarshan, the Indian national public TV broadcaster. It is named after the Sahyadri Mountains (better known as the Western Ghats). The channel was launched in 1994 as DD10, and renamed to DD Sahyadri in April 2000"  tvc-guide-categories="News" tvg-logo="https://www.saamana.com/wp-content/uploads/2017/01/dd-sahyadri-logo.jpg"  group-title="News",  DD Sahyadri News (1080p)
-#EXTGRP:News
-#EXTGENRE:News
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2d2e64e0-2df4-45d1-aeaa-212a29db8278/2.m3u8
 #EXTINF:-1 channel-id="samsung-SANSADTV1"  tvg-id="SANSADTV1" tvg-country="in"   tvg-chno="165"  tvg-name="SANSAD TV 1" tvc-guide-title="SANSAD TV 1"  tvc-guide-genres="News" tvc-guide-description="Sansad TV is the Official Parliamentary channel of India showcasing India’s Parliamentary democracy to the world. It covers and telecasts events and proceedings exclusively within the Parliament premises. Sansad TV also collaborates with institutions like Prasar Bharati to broadcast programs and events outside the Parliament premises."  tvc-guide-categories="News" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/338707128Sansad_TV__4_.webp"  group-title="News",  SANSAD TV 1 (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -244,6 +240,10 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
+#EXTINF:-1 channel-id="samsung-DDSAHYADRI"  tvg-id="DDSAHYADRI" tvg-country="in"   tvg-chno="119"  tvg-name="DD Sahyadri News" tvc-guide-title="DD Sahyadri News"  tvc-guide-genres="Entertainment" tvc-guide-description="DD Sahyadri is the Marathi-language TV channel of Doordarshan, the Indian national public TV broadcaster. It is named after the Sahyadri Mountains (better known as the Western Ghats). The channel was launched in 1994 as DD10, and renamed to DD Sahyadri in April 2000"  tvc-guide-categories="Entertainment" tvg-logo="https://www.saamana.com/wp-content/uploads/2017/01/dd-sahyadri-logo.jpg"  group-title="Entertainment",  DD Sahyadri News (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2d2e64e0-2df4-45d1-aeaa-212a29db8278/2.m3u8
 #EXTINF:-1 channel-id="samsung-SONYWAH"  tvg-id="SONYWAH" tvg-country="in"   tvg-chno="124"  tvg-name="SONY WAH" tvc-guide-title="SONY WAH"  tvc-guide-genres="Entertainment" tvc-guide-description="Sony WAH is SPN’s FTA Hindi movie channel focused on Rural audiences. By showing content that is a best mix of premium titles and iconic films from the last 3 decades, WAH provides quality viewing experience to its audiences"  tvc-guide-categories="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png"  group-title="Entertainment",  SONY WAH (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -268,11 +268,11 @@ https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/master.m3u8
-#EXTINF:-1 channel-id="samsung-DDGOA"  tvg-id="DDGOA" tvg-country="in"   tvg-chno="161"  tvg-name="DD Goa" tvc-guide-title="DD Goa"  tvc-guide-genres="Entertainment" tvc-guide-description="DD Goa"  tvc-guide-categories="Entertainment" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/125118494DD_TRIPURA-1.webp"  group-title="Entertainment",  DD Goa (1080p)
+#EXTINF:-1 channel-id="samsung-DDGOA"  tvg-id="DDGOA" tvg-country="in"   tvg-chno="161"  tvg-name="DD Goa" tvc-guide-title="DD Goa"  tvc-guide-genres="Entertainment" tvc-guide-description="Watch various shows and series on a plethora of topics, from a paradise, that we all call Goa."  tvc-guide-categories="Entertainment" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/125118494DD_TRIPURA-1.webp"  group-title="Entertainment",  DD Goa (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/bb9c38d1-1205-4eea-b140-ec9b009b86ff/2.m3u8
-#EXTINF:-1 channel-id="samsung-DDBHARITI"  tvg-id="DDBHARITI" tvg-country="in"   tvg-chno="163"  tvg-name="DD Bharati" tvc-guide-title="DD Bharati"  tvc-guide-genres="Entertainment" tvc-guide-description="DD Bharati"  tvc-guide-categories="Entertainment" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1372479421Frame_1597877905.webp"  group-title="Entertainment",  DD Bharati (1080p)
+#EXTINF:-1 channel-id="samsung-DDBHARITI"  tvg-id="DDBHARITI" tvg-country="in"   tvg-chno="163"  tvg-name="DD Bharati" tvc-guide-title="DD Bharati"  tvc-guide-genres="Entertainment" tvc-guide-description="DD Bharati is an Indian state-owned art and culture television channel, founded by the Government of India, owned by the Ministry of Information and Broadcasting. It is the flagship channel of Doordarshan was launched on 26 January 2002, by converting the first DD News channel, which was underperforming"  tvc-guide-categories="Entertainment" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1372479421Frame_1597877905.webp"  group-title="Entertainment",  DD Bharati (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/41fd0e71-369d-4072-a94e-aa00bc730b13/2.m3u8
@@ -384,7 +384,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
-#EXTINF:-1 channel-id="samsung-B4UMOVIES"  tvg-id="B4UMOVIES" tvg-country="in"   tvg-chno="156"  tvg-name="B4U Movies" tvc-guide-title="B4U Movies"  tvc-guide-genres="Movies" tvc-guide-description="B4U Movies"  tvc-guide-categories="Movies" tvg-logo="https://b4umovies.in/images/logo.jpg"  group-title="Movies",  B4U Movies (1080p)
+#EXTINF:-1 channel-id="samsung-B4UMOVIES"  tvg-id="B4UMOVIES" tvg-country="in"   tvg-chno="156"  tvg-name="B4U Movies" tvc-guide-title="B4U Movies"  tvc-guide-genres="Movies" tvc-guide-description="B4U Movies is a Free to Air Indian movie digital TV channel based in Mumbai available on more than 8 different satellites, in more than 100 countries including the US, UK, Europe, Middle East, Africa, Mauritius, Canada, and India. The channel broadcasts a mixture of classic and contemporary Hindi films."  tvc-guide-categories="Movies" tvg-logo="https://b4umovies.in/images/logo.jpg"  group-title="Movies",  B4U Movies (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4a794100-0aa0-490f-82ee-59b14aedfbc2/0.m3u8
@@ -444,7 +444,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTGRP:Music
 #EXTGENRE:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
-#EXTINF:-1 channel-id="samsung-B4UMUSIC"  tvg-id="B4UMUSIC" tvg-country="in"   tvg-chno="157"  tvg-name="B4U Music" tvc-guide-title="B4U Music"  tvc-guide-genres="Music" tvc-guide-description="B4U Music"  tvc-guide-categories="Music" tvg-logo="https://b4umusic.in/images/logo.png"  group-title="Music",  B4U Music (1080p)
+#EXTINF:-1 channel-id="samsung-B4UMUSIC"  tvg-id="B4UMUSIC" tvg-country="in"   tvg-chno="157"  tvg-name="B4U Music" tvc-guide-title="B4U Music"  tvc-guide-genres="Music" tvc-guide-description="B4U Music is an India & Worldwide free to air music television channel owned by the B4U Network Limited. The channel broadcasts a mixture of contemporary Bollywood, Indipop, Bhangra and international music"  tvc-guide-categories="Music" tvg-logo="https://b4umusic.in/images/logo.png"  group-title="Music",  B4U Music (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/8ea9c864-bd4d-4ca0-865c-7ee4a12b7953/0.m3u8
