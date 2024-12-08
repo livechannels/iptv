@@ -35,7 +35,7 @@ https://youtube.cloudflarechannels.workers.dev/stream/SaamTV/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-NEWS18"  tvg-id="NEWS18" tvg-country="in"   tvg-chno="118"  tvg-name="News18 Lokmat" tvc-guide-title="News18 Lokmat"  tvc-guide-genres="News" tvc-guide-description="News18 Lokmat is a Joint Venture between Network 18 and Lokmat Media Ltd. with cutting edge content that is projected in the most unbiased & influential manner. The channel has been spearheading a lot many news initiatives to reflect upon the “true spirit” of Maharashtrian people, organisations."  tvc-guide-categories="News" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assets/event/common/others/lokmat_desktoplogo_1623306489.webp"  group-title="News",  News18 Lokmat (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://youtube.cloudflarechannels.workers.dev/stream/News18LokmatTV/playlist.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_98835_eng=98800-video=2702400.m3u8
 #EXTINF:-1 channel-id="samsung-SANSADTV1"  tvg-id="SANSADTV1" tvg-country="in"   tvg-chno="165"  tvg-name="SANSAD TV 1" tvc-guide-title="SANSAD TV 1"  tvc-guide-genres="News" tvc-guide-description="Sansad TV is the Official Parliamentary channel of India showcasing India’s Parliamentary democracy to the world. It covers and telecasts events and proceedings exclusively within the Parliament premises. Sansad TV also collaborates with institutions like Prasar Bharati to broadcast programs and events outside the Parliament premises."  tvc-guide-categories="News" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/338707128Sansad_TV__4_.webp"  group-title="News",  SANSAD TV 1 (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -240,7 +240,7 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
-#EXTINF:-1 channel-id="samsung-DDSAHYADRI"  tvg-id="DDSAHYADRI" tvg-country="in"   tvg-chno="119"  tvg-name="DD Sahyadri News" tvc-guide-title="DD Sahyadri News"  tvc-guide-genres="Entertainment" tvc-guide-description="DD Sahyadri is the Marathi-language TV channel of Doordarshan, the Indian national public TV broadcaster. It is named after the Sahyadri Mountains (better known as the Western Ghats). The channel was launched in 1994 as DD10, and renamed to DD Sahyadri in April 2000"  tvc-guide-categories="Entertainment" tvg-logo="https://www.saamana.com/wp-content/uploads/2017/01/dd-sahyadri-logo.jpg"  group-title="Entertainment",  DD Sahyadri News (1080p)
+#EXTINF:-1 channel-id="samsung-DDSAHYADRI"  tvg-id="DDSAHYADRI" tvg-country="in"   tvg-chno="119"  tvg-name="DD Sahyadri" tvc-guide-title="DD Sahyadri"  tvc-guide-genres="Entertainment" tvc-guide-description="DD Sahyadri is a Marathi TV channel. It is a regional channel dedicated to Maharashtra. It shows Marathi serials, news, films infotainment and educational programs about agriculture, healthcare, and other subjects. It is part of Doordarshan network. It is a Free-to-air channel."  tvc-guide-categories="Entertainment" tvg-logo="https://www.saamana.com/wp-content/uploads/2017/01/dd-sahyadri-logo.jpg"  group-title="Entertainment",  DD Sahyadri (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2d2e64e0-2df4-45d1-aeaa-212a29db8278/2.m3u8
