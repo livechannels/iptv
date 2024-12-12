@@ -44,6 +44,10 @@ https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed0
 #EXTGRP:News
 #EXTGENRE:News
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/sansad-tv2/index.m3u8?h=d3eyhgoylams0m
+#EXTINF:-1 channel-id="samsung-DDKISAN"  tvg-id="DDKISAN" tvg-country="in"   tvg-chno="167"  tvg-name="DD Kisan" tvc-guide-title="DD Kisan"  tvc-guide-genres="News" tvc-guide-description="DD Kisan is an Indian state-owned agriculture television channel, founded by the Government of India, owned by the Ministry of Information and Broadcasting. It is the flagship channel of Doordarshan was launched on 26 May 2015."  tvc-guide-categories="News" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/831973165Frame_1597877904.webp"  group-title="News",  DD Kisan (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-kisan/index.m3u8?h=d3eyhgoylams0m
 #EXTINF:-1 channel-id="samsung-IN3900001YE"  tvg-id="IN3900001YE" tvg-country="in"   tvg-chno="1003"  tvg-name="News24" tvc-guide-title="News24"  tvc-guide-genres="News" tvc-guide-description="News24 is a 24-hour Hindi news television channel which covers a wide range of topics, including national and international news, politics, business, entertainment, sports, and more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20241113T015624SQUARE.png"  group-title="News",  News24 (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -276,10 +280,6 @@ https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed0
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-bharati/index.m3u8?h=d3eyhgoylams0m
-#EXTINF:-1 channel-id="samsung-DDKISAN"  tvg-id="DDKISAN" tvg-country="in"   tvg-chno="167"  tvg-name="DD Kisan" tvc-guide-title="DD Kisan"  tvc-guide-genres="Entertainment" tvc-guide-description="DD Kisan is an Indian state-owned agriculture television channel, founded by the Government of India, owned by the Ministry of Information and Broadcasting. It is the flagship channel of Doordarshan was launched on 26 May 2015."  tvc-guide-categories="Entertainment" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/831973165Frame_1597877904.webp"  group-title="Entertainment",  DD Kisan (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-kisan/index.m3u8?h=d3eyhgoylams0m
 #EXTINF:-1 channel-id="samsung-INBD4700006JD"  tvg-id="INBD4700006JD" tvg-country="in"   tvg-chno="1002"  tvg-name="Comedy King" tvc-guide-title="Comedy King"  tvc-guide-genres="Entertainment" tvc-guide-description="Comedy King channel features the best comedy scene of Popular Actor and Actress, bringing their talent to your screens. These comedy scenes will brings lots of laughter on your face."  tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20241024T054052SQUARE.png"  group-title="Entertainment",  Comedy King (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
