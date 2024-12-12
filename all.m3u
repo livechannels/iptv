@@ -452,6 +452,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTGRP:Music
 #EXTGENRE:Music
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b4u-music/master.m3u8?h=d3kdywbtdfbp9z
+#EXTINF:-1 channel-id="samsung-VividhBharati"  tvg-id="VividhBharati" tvg-country="in"   tvg-chno="168"  tvg-name="Vividh Bharati" tvc-guide-title="Vividh Bharati"  tvc-guide-genres="Music" tvc-guide-description="The Vividh Bharati Service of All India Radio was conceptualized to combat Radio Ceylon in 1967. Due to the Indian Government stopping its short wave relay centers, VBS is only available on the Internet. Vividh Bharati radio channel was launched on 3 October 1957."  tvc-guide-categories="Music" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1761558106Frame_1597877900__1_.webp"  group-title="Music",  Vividh Bharati (1080p)
+#EXTGRP:Music
+#EXTGENRE:Music
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
+#EXTINF:-1 channel-id="samsung-FMRainbowDelhi"  tvg-id="FMRainbowDelhi" tvg-country="in"   tvg-chno="169"  tvg-name="FM Rainbow Delhi" tvc-guide-title="FM Rainbow Delhi"  tvc-guide-genres="Music" tvc-guide-description="Listen online to Air Rainbow 102.6 FM in Delhi (Delhi) in quality 49 Kbps. Broadcasting was opened in Delhi (India) in 1 February 1993. At this station, for you, plays the best community, pop, classic, folk content in free live streaming."  tvc-guide-categories="Music" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/462397891FM_rainbow__1_.webp"  group-title="Music",  FM Rainbow Delhi (1080p)
+#EXTGRP:Music
+#EXTGENRE:Music
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8
+#EXTINF:-1 channel-id="samsung-FMGoldDelhi"  tvg-id="FMGoldDelhi" tvg-country="in"   tvg-chno="170"  tvg-name="FM Gold Delhi" tvc-guide-title="FM Gold Delhi"  tvc-guide-genres="Music" tvc-guide-description="AIR FM Gold is an FM radio channel in Mumbai, Delhi, Kolkata and Chennai, India. It is run by the All India Radio, a government owned enterprise, a division of Prasar Bharati. In Mumbai, it features Hindi songs, and English songs along with hourly news in English and Hindi."  tvc-guide-categories="Music" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/5729991FM_Gold__Delhi_.webp"  group-title="Music",  FM Gold Delhi (1080p)
+#EXTGRP:Music
+#EXTGENRE:Music
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
 #EXTINF:-1 channel-id="samsung-IN26000122C"  tvg-id="IN26000122C" tvg-country="in"   tvg-chno="1004"  tvg-name="Kaan Phod Music" tvc-guide-title="Kaan Phod Music"  tvc-guide-genres="Music" tvc-guide-description="From timeless classics to today’s hits,our Bollywood hub celebrates melodies that touch hearts.Tune in for premieres, interviews,and behind-the-scenes magic.Let’s groove through the golden era."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000122C_20241113T015620SQUARE.png"  group-title="Music",  Kaan Phod Music (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
