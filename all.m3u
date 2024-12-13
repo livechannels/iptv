@@ -135,7 +135,7 @@ https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed0
 #EXTINF:-1 channel-id="samsung-INBA4900020A5"  tvg-id="INBA4900020A5" tvg-country="in"   tvg-chno="1045"  tvg-name="Republic TV" tvc-guide-title="Republic TV"  tvc-guide-genres="News" tvc-guide-description="India's no 1 English News Channel since 2017, a channel that keeps the nation first. Nationalism, accountability, and truth drives us."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20240131T032253SQUARE.png_20240131032254.png"  group-title="News",  Republic TV (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=republicweb
+https://jmp2.uk/sam-INBA4900020A5.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800001D8"  tvg-id="INBC2800001D8" tvg-country="in"   tvg-chno="1047"  tvg-name="NDTV 24X7" tvc-guide-title="NDTV 24X7"  tvc-guide-genres="News" tvc-guide-description="This flagship channel from the NDTV news network is India’s most trusted and credible English News channel. It brings unbiased and comprehensive coverage of news and entertainment programmes."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20240131T032458SQUARE.png_20240131032459.png"  group-title="News",  NDTV 24X7 (1080p)
 #EXTGRP:News
 #EXTGENRE:News
