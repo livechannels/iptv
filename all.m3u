@@ -52,6 +52,22 @@ https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed0
 #EXTGRP:News
 #EXTGENRE:News
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/indianews/index.m3u8?h=d3kdywbtdfbp9z
+#EXTINF:-1 channel-id="samsung-NEWSINDIA"  tvg-id="NEWSINDIA" tvg-country="in"   tvg-chno="175"  tvg-name="NEWS 18 INDIA" tvc-guide-title="NEWS 18 INDIA"  tvc-guide-genres="News" tvc-guide-description="News18 India is an Indian Media television channel owned by Network18 Group. It was launched in 2005 as Channel 7 by Jagran Prakashan Limited and acquired in 2006 by Network 18 and rebranded IBN7. In 2016 it took its current name."  tvc-guide-categories="News" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1431023118News_18_india.webp"  group-title="News",  NEWS 18 INDIA (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/nw18-news18india/index.m3u8?h=d3kdywbtdfbp9z
+#EXTINF:-1 channel-id="samsung-NEWSX"  tvg-id="NEWSX" tvg-country="in"   tvg-chno="176"  tvg-name="NEWS X" tvc-guide-title="NEWS X"  tvc-guide-genres="News" tvc-guide-description="NewsX - News Not Noise delves into national and international issues with in-depth analysis. We offer more than just daily headlines, aiming to empower viewers with comprehensive updates on what’s happening both in the nation and around the world. We provide hourly updates and deliver unbiased information. Our journalists uphold neutrality and remain non-partisan, regardless of national or international politics."  tvc-guide-categories="News" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2146737402aaaaaaa.webp"  group-title="News",  NEWS X (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/newsx/index.m3u8?h=d3kdywbtdfbp9z
+#EXTINF:-1 channel-id="samsung-NEWSNATION"  tvg-id="NEWSNATION" tvg-country="in"   tvg-chno="177"  tvg-name="NEWS NATION" tvc-guide-title="NEWS NATION"  tvc-guide-genres="News" tvc-guide-description="NewsNation is an American cable news network owned by Nexstar Media Group. Known for most of its history as Superstation WGN before becoming WGN America in 2008, it relaunched on March 1, 2021, as a cable news network named after its flagship news program."  tvc-guide-categories="News" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2146737402aaaaaaa.webp"  group-title="News",  NEWS NATION (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/newsnation/index.m3u8?h=d3kdywbtdfbp9z
+#EXTINF:-1 channel-id="samsung-E24"  tvg-id="E24" tvg-country="in"   tvg-chno="178"  tvg-name="E 24" tvc-guide-title="E 24"  tvc-guide-genres="News" tvc-guide-description="Look no further for the most authentic, reliable and the latest news that is happening in the world of entertainment and especially in Bollywood because our experience and expertise come handy. Few can match our skills of deep penetration and first-hand-information of exclusive Bollywood news. News of the world of glamour and cinema is a double-edged sword"  tvc-guide-categories="News" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/659096870E_24.webp"  group-title="News",  E 24 (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/bag-e24/master_1.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-IN3900001YE"  tvg-id="IN3900001YE" tvg-country="in"   tvg-chno="1003"  tvg-name="News24" tvc-guide-title="News24"  tvc-guide-genres="News" tvc-guide-description="News24 is a 24-hour Hindi news television channel which covers a wide range of topics, including national and international news, politics, business, entertainment, sports, and more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20241113T015624SQUARE.png"  group-title="News",  News24 (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -63,15 +79,15 @@ https://jmp2.uk/sam-IN3800001ZH.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800002WJ"  tvg-id="INBC2800002WJ" tvg-country="in"   tvg-chno="1015"  tvg-name="NDTV India" tvc-guide-title="NDTV India"  tvc-guide-genres="News" tvc-guide-description="This 24-hour Hindi news channel stands strong as one of India’s leading credible news channels – preferred by an audience which seeks quality programming and pure news."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800002WJ_20240131T032338SQUARE.png_20240131032339.png"  group-title="News",  NDTV India (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://jmp2.uk/sam-INBC2800002WJ.m3u8
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/ndtv-india/master_1.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-INBA490002119"  tvg-id="INBA490002119" tvg-country="in"   tvg-chno="1017"  tvg-name="Republic Bharat" tvc-guide-title="Republic Bharat"  tvc-guide-genres="News" tvc-guide-description="Revolutionizing Hindi news since 2019 with an unparalleled focus on nation-centric news, investigations, and impactful journalism, and always putting the nation first"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20240925T102255SQUARE.png"  group-title="News",  Republic Bharat (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://jmp2.uk/sam-INBA490002119.m3u8
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/r-bharat/index.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-INBD400006H0"  tvg-id="INBD400006H0" tvg-country="in"   tvg-chno="1021"  tvg-name="ABP News" tvc-guide-title="ABP News"  tvc-guide-genres="News" tvc-guide-description="ABP News is a leading national Hindi news channel from the House of ABP Network with the tagline 'Aapko Rakhe Aaage' which signifies its promise to keep every individual ahead and informed."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400006H0_20240131T032404SQUARE.png_20240131032405.png"  group-title="News",  ABP News (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://jmp2.uk/sam-INBD400006H0.m3u8
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/abpnews/master.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-INBD1300010WP"  tvg-id="INBD1300010WP" tvg-country="in"   tvg-chno="1024"  tvg-name="News18 India" tvc-guide-title="News18 India"  tvc-guide-genres="News" tvc-guide-description="News18 India is the number 1 Hindi News channel in the country. The channel's strong, purposeful reportage of key issues has made it India's leading channel during prime time"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20240904T091839SQUARE.png"  group-title="News",  News18 India (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -83,7 +99,7 @@ https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed0
 #EXTINF:-1 channel-id="samsung-IN3800003SV"  tvg-id="IN3800003SV" tvg-country="in"   tvg-chno="1027"  tvg-name="TV9 Bharatvarsh" tvc-guide-title="TV9 Bharatvarsh"  tvc-guide-genres="News" tvc-guide-description="An undisputed Leader, known for mainstreaming global news in Hindi news genre. Scripting a turnaround never seen before, the channel is known for its speed & scale."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20241024T054102SQUARE.png"  group-title="News",  TV9 Bharatvarsh (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://jmp2.uk/sam-IN3800003SV.m3u8
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/tv9-bharatvarsh/playlist.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-IN26000183G"  tvg-id="IN26000183G" tvg-country="in"   tvg-chno="1028"  tvg-name="India TV News" tvc-guide-title="India TV News"  tvc-guide-genres="News" tvc-guide-description="Get all the latest breaking news headlines from India and around the world. Stay updated with live news coverage, photos and latest updates from politics, Bollywood and more all in one place"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000183G_20240911T003810SQUARE.png"  group-title="News",  India TV News (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -91,7 +107,7 @@ https://jmp2.uk/sam-IN26000183G.m3u8
 #EXTINF:-1 channel-id="samsung-IN17000129W"  tvg-id="IN17000129W" tvg-country="in"   tvg-chno="1029"  tvg-name="Good News Today" tvc-guide-title="Good News Today"  tvc-guide-genres="News" tvc-guide-description="Good News Today is a 24X7 Hindi news channel that showcases stories of hope, human triumph, innovation, and inspiration from different walks of life."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000129W_20241016T011359SQUARE.png"  group-title="News",  Good News Today (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://jmp2.uk/sam-IN17000129W.m3u8
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/aajtak-gnt/index.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-IN26000190S"  tvg-id="IN26000190S" tvg-country="in"   tvg-chno="1030"  tvg-name="India TV Speed News" tvc-guide-title="India TV Speed News"  tvc-guide-genres="News" tvc-guide-description="India TV Speed News - Your source for rapid updates in Hindi! Stay informed with the latest political, sports, entertainment, business, and global news. Get your daily news fix effortlessly."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000190S_20240911T003813SQUARE.png"  group-title="News",  India TV Speed News (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -99,7 +115,7 @@ https://jmp2.uk/sam-IN26000190S.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800003RQ"  tvg-id="INBC2800003RQ" tvg-country="in"   tvg-chno="1031"  tvg-name="Aaj Tak" tvc-guide-title="Aaj Tak"  tvc-guide-genres="News" tvc-guide-description="Aaj Tak is India's best Hindi News Channel. Aaj Tak news channel covers latest news in politics, entertainment, bollywood, business and sports"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800003RQ_20240731T012431SQUARE.png"  group-title="News",  Aaj Tak (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://jmp2.uk/sam-INBC2800003RQ.m3u8
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/aajtak/index.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-INBD1300007ST"  tvg-id="INBD1300007ST" tvg-country="in"   tvg-chno="1032"  tvg-name="CNBC AWAAZ" tvc-guide-title="CNBC AWAAZ"  tvc-guide-genres="News" tvc-guide-description="CNBC-AWAAZ is a Hindi Business News channel, offering plethora of programming on Markets, Investments and Personal finance"  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300007ST_20241024T054100SQUARE.png"  group-title="News",  CNBC AWAAZ (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -115,11 +131,11 @@ https://jmp2.uk/sam-INBC4300010Z6.m3u8
 #EXTINF:-1 channel-id="samsung-INBC2800005X4"  tvg-id="INBC2800005X4" tvg-country="in"   tvg-chno="1041"  tvg-name="India Today" tvc-guide-title="India Today"  tvc-guide-genres="News" tvc-guide-description="India Today TV is India's leading English News Channel. India Today channel offers latest news videos on Politics, Business, Cricket, Technology, Travel, Entertainment and a lot more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800005X4_20240131T032450SQUARE.png_20240131032451.png"  group-title="News",  India Today (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://jmp2.uk/sam-INBC2800005X4.m3u8
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/aajtak-indiatoday-tv/index.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-INBA4900020A5"  tvg-id="INBA4900020A5" tvg-country="in"   tvg-chno="1045"  tvg-name="Republic TV" tvc-guide-title="Republic TV"  tvc-guide-genres="News" tvc-guide-description="India's no 1 English News Channel since 2017, a channel that keeps the nation first. Nationalism, accountability, and truth drives us."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20240131T032253SQUARE.png_20240131032254.png"  group-title="News",  Republic TV (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://jmp2.uk/sam-INBA4900020A5.m3u8
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/republic-tv/index.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-INBC2800001D8"  tvg-id="INBC2800001D8" tvg-country="in"   tvg-chno="1047"  tvg-name="NDTV 24X7" tvc-guide-title="NDTV 24X7"  tvc-guide-genres="News" tvc-guide-description="This flagship channel from the NDTV news network is India’s most trusted and credible English News channel. It brings unbiased and comprehensive coverage of news and entertainment programmes."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20240131T032458SQUARE.png_20240131032459.png"  group-title="News",  NDTV 24X7 (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -511,7 +527,7 @@ https://jmp2.uk/sam-INBC2800011JL.m3u8
 #EXTINF:-1 channel-id="samsung-INBC1500014OM"  tvg-id="INBC1500014OM" tvg-country="in"   tvg-chno="1441"  tvg-name="Maiboli" tvc-guide-title="Maiboli"  tvc-guide-genres="Music" tvc-guide-description="Maiboli is a No.1 Marathi Music Channel. It comprises of song bands which play hit Marathi songs from different moods and genre’s. The channel plays songs which are widely loved by people across Maharashtra."  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png"  group-title="Music",  Maiboli (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
-https://jmp2.uk/sam-INBC1500014OM.m3u8
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/sab-maiboli/playlist.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-INBD4700016S7"  tvg-id="INBD4700016S7" tvg-country="in"   tvg-chno="1442"  tvg-name="Sangeet Marathi" tvc-guide-title="Sangeet Marathi"  tvc-guide-genres="Music" tvc-guide-description="Sangeet Marathi is a 24/7 Marathi music channel that broadcasts variety of music genres, including retro, devotional, romantic, peppy numbers and contemporary music from the Marathi film and music industry"  tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700016S7_20240904T091815SQUARE.png"  group-title="Music",  Sangeet Marathi (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
