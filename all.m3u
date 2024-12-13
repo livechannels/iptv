@@ -48,6 +48,10 @@ https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed0
 #EXTGRP:News
 #EXTGENRE:News
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-kisan/index.m3u8?h=d3eyhgoylams0m
+#EXTINF:-1 channel-id="samsung-INDIANEWS"  tvg-id="INDIANEWS" tvg-country="in"   tvg-chno="174"  tvg-name="India News" tvc-guide-title="India News"  tvc-guide-genres="News" tvc-guide-description="India News"  tvc-guide-categories="News" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/510250582vvvvvvvv.webp"  group-title="News",  India News (1080p)
+#EXTGRP:News
+#EXTGENRE:News
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/indianews/index.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-IN3900001YE"  tvg-id="IN3900001YE" tvg-country="in"   tvg-chno="1003"  tvg-name="News24" tvc-guide-title="News24"  tvc-guide-genres="News" tvc-guide-description="News24 is a 24-hour Hindi news television channel which covers a wide range of topics, including national and international news, politics, business, entertainment, sports, and more."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20241113T015624SQUARE.png"  group-title="News",  News24 (1080p)
 #EXTGRP:News
 #EXTGENRE:News
@@ -75,7 +79,7 @@ https://jmp2.uk/sam-INBD1300010WP.m3u8
 #EXTINF:-1 channel-id="samsung-INBD1300003OW"  tvg-id="INBD1300003OW" tvg-country="in"   tvg-chno="1025"  tvg-name="Times Now Navbharat" tvc-guide-title="Times Now Navbharat"  tvc-guide-genres="News" tvc-guide-description="Times Now Navbharat is a Hindi national news channel in India. It was launched on 1 August 2021."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png"  group-title="News",  Times Now Navbharat (1080p)
 #EXTGRP:News
 #EXTGENRE:News
-https://jmp2.uk/sam-INBD1300003OW.m3u8
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/timesnow-navbharat/index.m3u8?h=d3kdywbtdfbp9z
 #EXTINF:-1 channel-id="samsung-IN3800003SV"  tvg-id="IN3800003SV" tvg-country="in"   tvg-chno="1027"  tvg-name="TV9 Bharatvarsh" tvc-guide-title="TV9 Bharatvarsh"  tvc-guide-genres="News" tvc-guide-description="An undisputed Leader, known for mainstreaming global news in Hindi news genre. Scripting a turnaround never seen before, the channel is known for its speed & scale."  tvc-guide-categories="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20241024T054102SQUARE.png"  group-title="News",  TV9 Bharatvarsh (1080p)
 #EXTGRP:News
 #EXTGENRE:News
