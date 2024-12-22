@@ -25,12 +25,12 @@ https://rcdn.rixcast.com/primegoa/primegoa.m3u8
 #EXTGENRE:News
 https://youtube.cloudflarechannels.workers.dev/stream/TV9MarathiLive/playlist.m3u8
 
-#EXTINF:-1 channel-id="samsung-DDINDIAHD" tvg-id="DDINDIAHD" tvg-country="in" tvg-chno="113" tvg-name="DD India HD" tvc-guide-title="DD India HD" tvc-guide-genres="News" tvc-guide-description="DD India is an international state-owned English language news and current affairs channel from India." tvc-guide-categories="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg/revision/latest/scale-to-width-down/300" group-title="News", DD India HD (1080p)
+#EXTINF:-1 channel-id="samsung-DDINDIAHD" tvg-id="DDINDIAHD" tvg-country="in" tvg-chno="113" tvg-name="DD India HD" tvc-guide-title="DD India HD" tvc-guide-genres="News" tvc-guide-description="DD India is an international state-owned English language news and current affairs channel from India." tvc-guide-categories="News" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1194248787Frame_1597877919.webp" group-title="News", DD India HD (1080p)
 #EXTGRP:News
 #EXTGENRE:News
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-india/index.m3u8?h=d3eyhgoylams0m
 
-#EXTINF:-1 channel-id="samsung-DDNEWSHD" tvg-id="DDNEWSHD" tvg-country="in" tvg-chno="114" tvg-name="DD News HD" tvc-guide-title="DD News HD" tvc-guide-genres="News" tvc-guide-description="DD News is an Indian news channel of Doordarshan, it is India's only 24-hour terrestrial TV news channel broadcasting solely in Hindi, and formerly in English. The Prasar Bharati Board approved the proposal to start a 24-hour news channel in place of DD Metro." tvc-guide-categories="News" tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="News", DD News HD (1080p)
+#EXTINF:-1 channel-id="samsung-DDNEWSHD" tvg-id="DDNEWSHD" tvg-country="in" tvg-chno="114" tvg-name="DD News HD" tvc-guide-title="DD News HD" tvc-guide-genres="News" tvc-guide-description="DD News is an Indian news channel of Doordarshan, it is India's only 24-hour terrestrial TV news channel broadcasting solely in Hindi, and formerly in English. The Prasar Bharati Board approved the proposal to start a 24-hour news channel in place of DD Metro." tvc-guide-categories="News" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1323303185Frame_207.webp" group-title="News", DD News HD (1080p)
 #EXTGRP:News
 #EXTGENRE:News
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-news/index.m3u8?h=d3eyhgoylams0m
@@ -340,7 +340,7 @@ https://jmp2.uk/sam-IN3900008R9.m3u8
 #EXTGENRE:News
 https://jmp2.uk/sam-IN3900007Y7.m3u8
 
-#EXTINF:-1 channel-id="samsung-DDNATIONAL" tvg-id="DDNATIONAL" tvg-country="in" tvg-chno="104" tvg-name="DD National" tvc-guide-title="DD National" tvc-guide-genres="Entertainment" tvc-guide-description="Watch  TV channel DD NATIONAL live . First Shows provides Live telecast of  DD NATIONAL" tvc-guide-categories="Entertainment" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png" group-title="Entertainment", DD National (1080p)
+#EXTINF:-1 channel-id="samsung-DDNATIONAL" tvg-id="DDNATIONAL" tvg-country="in" tvg-chno="104" tvg-name="DD National HD" tvc-guide-title="DD National HD" tvc-guide-genres="Entertainment" tvc-guide-description="Watch  TV channel DD NATIONAL live . First Shows provides Live telecast of  DD NATIONAL" tvc-guide-categories="Entertainment" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2101175623577172936ImportedPhoto_1728501517286.webp" group-title="Entertainment", DD National HD (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-national/index.m3u8?h=d3eyhgoylams0m
