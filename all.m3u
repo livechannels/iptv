@@ -683,7 +683,7 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/chunklist.m3u8
 #EXTINF:-1 channel-id="samsung-Showbox" tvg-id="Showbox" tvg-country="in" tvg-chno="179" tvg-name="Showbox" tvc-guide-title="Showbox" tvc-guide-genres="Music" tvc-guide-description="Whats life without music It uplifts our mood, transports us to another world, makes us want to hit the road, and heals broken hearts. You can enjoy the best of Indian music on Showbox, a 24hour channel that is now streaming live on EPIC On. Whether you want to dance to the beats of bhangra or fall asleep to the tunes of soulful Bollywood numbers, this is the place to find it all." tvc-guide-categories="Music" tvg-logo="https://source.epicon.in/epicon/assets/images/new-show-box-logo.png" group-title="Music", Showbox (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
-https://d282a7rzpbl0nj.cloudfront.net/live/showbox/master.m3u8
+https://d282a7rzpbl0nj.cloudfront.net/live/showbox/master_1080.m3u8
 
 #EXTINF:-1 channel-id="samsung-IN3900017KM" tvg-id="IN3900017KM" tvg-country="in" tvg-chno="1434" tvg-name="B4U Music" tvc-guide-title="B4U Music" tvc-guide-genres="Music" tvc-guide-description="A premiere music channel that enjoys a loyal audience base owing to its distinct programming that offers a blend of contemporary hits with melodious yesteryears hits." tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20250811T033432SQUARE.png" group-title="Music", B4U Music (1080p)
 #EXTGRP:Music
