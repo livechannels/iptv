@@ -395,11 +395,6 @@ https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTGENRE:Entertainment
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-sahyadri/index.m3u8?h=d3eyhgoylams0m
 
-#EXTINF:-1 channel-id="samsung-SONYWAH" tvg-id="SONYWAH" tvg-country="in" tvg-chno="124" tvg-name="SONY WAH" tvc-guide-title="SONY WAH" tvc-guide-genres="Entertainment" tvc-guide-description="Sony WAH is SPN’s FTA Hindi movie channel focused on Rural audiences. By showing content that is a best mix of premium titles and iconic films from the last 3 decades, WAH provides quality viewing experience to its audiences" tvc-guide-categories="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Entertainment", SONY WAH (1080p)
-#EXTGRP:Entertainment
-#EXTGENRE:Entertainment
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-
 #EXTINF:-1 channel-id="samsung-ShemarooUmang" tvg-id="ShemarooUmang" tvg-country="in" tvg-chno="155" tvg-name="Shemaroo Umang" tvc-guide-title="Shemaroo Umang" tvc-guide-genres="Entertainment" tvc-guide-description="Shemaroo Umang" tvc-guide-categories="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png" group-title="Entertainment", Shemaroo Umang (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -555,16 +550,6 @@ https://jmp2.uk/stvp-IN4600019L1
 #EXTGENRE:Movies
 https://cdn-6.pishow.tv/live/10002/master.m3u8
 
-#EXTINF:-1 channel-id="samsung-BOLLYWOODHD" tvg-id="BOLLYWOODHD" tvg-country="in" tvg-chno="110" tvg-name="BOLLYWOOD HD" tvc-guide-title="BOLLYWOOD HD" tvc-guide-genres="Movies" tvc-guide-description="Bollywood HD Movies" tvc-guide-categories="Movies" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="Movies", BOLLYWOOD HD (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
-#EXTINF:-1 channel-id="samsung-BOLLYWOODCLASSICHD" tvg-id="BOLLYWOODCLASSICHD" tvg-country="in" tvg-chno="111" tvg-name="BOLLYWOOD CLASSIC HD" tvc-guide-title="BOLLYWOOD CLASSIC HD" tvc-guide-genres="Movies" tvc-guide-description="Bollywood Classic HD Movies" tvc-guide-categories="Movies" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png" group-title="Movies", BOLLYWOOD CLASSIC HD (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-
 #EXTINF:-1 channel-id="samsung-BOLLYHOODPRIME" tvg-id="BOLLYHOODPRIME" tvg-country="in" tvg-chno="151" tvg-name="Bollywood Prime" tvc-guide-title="Bollywood Prime" tvc-guide-genres="Movies" tvc-guide-description="Bollywood movies, cooking shows, lifestyle & Bollywood star interviews." tvc-guide-categories="Movies" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png" group-title="Movies", Bollywood Prime (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -590,27 +575,22 @@ https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed0
 #EXTGENRE:Movies
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b4u-kadak/master.m3u8?h=d3kdywbtdfbp9z
 
-#EXTINF:-1 channel-id="samsung-ABZYMOVIES" tvg-id="ABZYMOVIES" tvg-country="in" tvg-chno="180" tvg-name="ABZY Movies" tvc-guide-title="ABZY Movies" tvc-guide-genres="Movies" tvc-guide-description=" ABZY Movies " tvc-guide-categories="Movies" tvg-logo="https://i.imgur.com/LnVgKVF.png" group-title="Movies", ABZY Movies (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
-
-#EXTINF:-1 channel-id="samsung-AllTimeMovies" tvg-id="AllTimeMovies" tvg-country="in" tvg-chno="181" tvg-name="All Time Movies" tvc-guide-title="All Time Movies" tvc-guide-genres="Movies" tvc-guide-description=" All Time Movies " tvc-guide-categories="Movies" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Movies", All Time Movies (1080p)
+#EXTINF:-1 channel-id="samsung-AllTimeMovies" tvg-id="AllTimeMovies" tvg-country="in" tvg-chno="180" tvg-name="All Time Movies" tvc-guide-title="All Time Movies" tvc-guide-genres="Movies" tvc-guide-description=" All Time Movies " tvc-guide-categories="Movies" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Movies", All Time Movies (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://mumt03.tangotv.in/ALLTIMEMOVIES/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 channel-id="samsung-BFLEXMovies" tvg-id="BFLEXMovies" tvg-country="in" tvg-chno="182" tvg-name="BFlex Movies" tvc-guide-title="BFlex Movies" tvc-guide-genres="Movies" tvc-guide-description=" BFlex Movies " tvc-guide-categories="Movies" tvg-logo="https://i.imgur.com/5CtiQ45.png" group-title="Movies", BFlex Movies (1080p)
+#EXTINF:-1 channel-id="samsung-BFLEXMovies" tvg-id="BFLEXMovies" tvg-country="in" tvg-chno="181" tvg-name="BFlex Movies" tvc-guide-title="BFlex Movies" tvc-guide-genres="Movies" tvc-guide-description=" BFlex Movies " tvc-guide-categories="Movies" tvg-logo="https://i.imgur.com/5CtiQ45.png" group-title="Movies", BFlex Movies (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://mumt03.tangotv.in/BFLIX/index.m3u8
 
-#EXTINF:-1 channel-id="samsung-BOXCinema" tvg-id="BOXCinema" tvg-country="in" tvg-chno="183" tvg-name="Box Cinema" tvc-guide-title="Box Cinema" tvc-guide-genres="Movies" tvc-guide-description=" Box Cinema " tvc-guide-categories="Movies" tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Movies", Box Cinema (1080p)
+#EXTINF:-1 channel-id="samsung-BOXCinema" tvg-id="BOXCinema" tvg-country="in" tvg-chno="182" tvg-name="Box Cinema" tvc-guide-title="Box Cinema" tvc-guide-genres="Movies" tvc-guide-description=" Box Cinema " tvc-guide-categories="Movies" tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Movies", Box Cinema (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=kU8ru-Yl4zG
 
-#EXTINF:-1 channel-id="samsung-DhamakaMovies" tvg-id="DhamakaMovies" tvg-country="in" tvg-chno="184" tvg-name="Dhamaka Movies" tvc-guide-title="Dhamaka Movies" tvc-guide-genres="Movies" tvc-guide-description=" Dhamaka Movies " tvc-guide-categories="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png" group-title="Movies", Dhamaka Movies (1080p)
+#EXTINF:-1 channel-id="samsung-DhamakaMovies" tvg-id="DhamakaMovies" tvg-country="in" tvg-chno="183" tvg-name="Dhamaka Movies" tvc-guide-title="Dhamaka Movies" tvc-guide-genres="Movies" tvc-guide-description=" Dhamaka Movies " tvc-guide-categories="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png" group-title="Movies", Dhamaka Movies (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://cdn-1.pishow.tv/live/235/master.m3u8
@@ -638,12 +618,12 @@ https://cdn-2.pishow.tv/live/228/master.m3u8
 #EXTINF:-1 channel-id="samsung-ZeeComedyNation" tvg-id="ZeeComedyNation" tvg-country="in" tvg-chno="188" tvg-name="Zee Comedy Nation" tvc-guide-title="Zee Comedy Nation" tvc-guide-genres="Movies" tvc-guide-description="Zee Comedy Nation" tvc-guide-categories="Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="Movies", Zee Comedy Nation (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
-https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00862-amg00862c5-amgplt0173/f048920e-0b4e-11f1-9cf3-868888bee185/43/1920x1080_6280560/index.m3u8
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-ZeeClassic" tvg-id="ZeeClassic" tvg-country="in" tvg-chno="189" tvg-name="Zee Classic" tvc-guide-title="Zee Classic" tvc-guide-genres="Movies" tvc-guide-description="Zee Classic" tvc-guide-categories="Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Movies", Zee Classic (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
-https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00862-amg00862c8-amgplt0173/97f229c1-0b4f-11f1-b3f7-b6a9b2454162/109/1920x1080_6280560/index.m3u8
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-IN38000072R" tvg-id="IN38000072R" tvg-country="in" tvg-chno="1001" tvg-name="The Movie Club" tvc-guide-title="The Movie Club" tvc-guide-genres="Movies" tvc-guide-description="Welcome to The Movie Club. Get your daily dose of awesome Bollywood movies for free. There's action, drama, romance, adventure and loads of non-stop entertainment for movie buffs like you." tvc-guide-categories="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260121T010845SQUARE.png" group-title="Movies", The Movie Club (1080p)
 #EXTGRP:Movies
