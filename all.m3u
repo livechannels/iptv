@@ -395,6 +395,11 @@ https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTGENRE:Entertainment
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-sahyadri/index.m3u8?h=d3eyhgoylams0m
 
+#EXTINF:-1 channel-id="samsung-BOLLYHOODMASSALA" tvg-id="BOLLYHOODMASSALA" tvg-country="in" tvg-chno="152" tvg-name="Bollywood Masala" tvc-guide-title="Bollywood Masala" tvc-guide-genres="Entertainment" tvc-guide-description="Bollywood Masala your  perfect stop for everything Bollywood. Get the latest updates on who’s who of the industry. From Behind the scenes to Box Office Reviews to Celebrity Interviews to Film Announcements to Latest Celebrity Gossip, we bare it all. Get all the Deets on new entrants in Bollywood, Exclusive Bites, Exclusive Buzz on Movies and all the action. Need more? we give you all the latest Celebrity Romance, Catfights, Scandals and Rumours." tvc-guide-categories="Entertainment" tvg-logo="https://a.jsrdn.com/hls/23142/bollywood-masala/logo_20240213_192946_70.png" group-title="Entertainment", Bollywood Masala (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8?ads.vf=gh
+
 #EXTINF:-1 channel-id="samsung-ShemarooUmang" tvg-id="ShemarooUmang" tvg-country="in" tvg-chno="155" tvg-name="Shemaroo Umang" tvc-guide-title="Shemaroo Umang" tvc-guide-genres="Entertainment" tvc-guide-description="Shemaroo Umang" tvc-guide-categories="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png" group-title="Entertainment", Shemaroo Umang (1080p)
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
@@ -414,6 +419,16 @@ https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed0
 #EXTGRP:Entertainment
 #EXTGENRE:Entertainment
 https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-bharati/index.m3u8?h=d3eyhgoylams0m
+
+#EXTINF:-1 channel-id="samsung-ZDilSe" tvg-id="ZDilSe" tvg-country="in" tvg-chno="190" tvg-name="Z Dil se" tvc-guide-title="Z Dil se" tvc-guide-genres="Entertainment" tvc-guide-description="Z Dil se" tvc-guide-categories="Entertainment" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zdilse.png" group-title="Entertainment", Z Dil se (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-ZHorrorNights" tvg-id="ZHorrorNights" tvg-country="in" tvg-chno="191" tvg-name="Z Horror Nights" tvc-guide-title="Z Horror Nights" tvc-guide-genres="Entertainment" tvc-guide-description="Z Horror Nights" tvc-guide-categories="Entertainment" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Entertainment", Z Horror Nights (1080p)
+#EXTGRP:Entertainment
+#EXTGENRE:Entertainment
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-IN46000184H" tvg-id="IN46000184H" tvg-country="in" tvg-chno="1000" tvg-name="Kings Of Comedy" tvc-guide-title="Kings Of Comedy" tvc-guide-genres="Entertainment" tvc-guide-description="Welcome to 'King of Comedy' - your one-stop destination for best entertainment! Dive into the world of laughter with the best Comedy Shows. Get ready to bust a gut with top comedians and unforgettable skits." tvc-guide-categories="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260121T010823SQUARE.png" group-title="Entertainment", Kings Of Comedy (1080p)
 #EXTGRP:Entertainment
@@ -550,16 +565,6 @@ https://jmp2.uk/stvp-IN4600019L1
 #EXTGENRE:Movies
 https://cdn-6.pishow.tv/live/10002/master.m3u8
 
-#EXTINF:-1 channel-id="samsung-BOLLYHOODPRIME" tvg-id="BOLLYHOODPRIME" tvg-country="in" tvg-chno="151" tvg-name="Bollywood Prime" tvc-guide-title="Bollywood Prime" tvc-guide-genres="Movies" tvc-guide-description="Bollywood movies, cooking shows, lifestyle & Bollywood star interviews." tvc-guide-categories="Movies" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png" group-title="Movies", Bollywood Prime (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-BOLLYHOODMASSALA" tvg-id="BOLLYHOODMASSALA" tvg-country="in" tvg-chno="152" tvg-name="Bollywood Masala" tvc-guide-title="Bollywood Masala" tvc-guide-genres="Movies" tvc-guide-description="Bollywood Masala your  perfect stop for everything Bollywood. Get the latest updates on who’s who of the industry. From Behind the scenes to Box Office Reviews to Celebrity Interviews to Film Announcements to Latest Celebrity Gossip, we bare it all. Get all the Deets on new entrants in Bollywood, Exclusive Bites, Exclusive Buzz on Movies and all the action. Need more? we give you all the latest Celebrity Romance, Catfights, Scandals and Rumours." tvc-guide-categories="Movies" tvg-logo="https://a.jsrdn.com/hls/23142/bollywood-masala/logo_20240213_192946_70.png" group-title="Movies", Bollywood Masala (1080p)
-#EXTGRP:Movies
-#EXTGENRE:Movies
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
-
 #EXTINF:-1 channel-id="samsung-ShemarooBollywood" tvg-id="ShemarooBollywood" tvg-country="in" tvg-chno="154" tvg-name="Shemaroo Bollywood" tvc-guide-title="Shemaroo Bollywood" tvc-guide-genres="Movies" tvc-guide-description="Shemaroo Bollywood" tvc-guide-categories="Movies" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-bollywood/logo_20240206_185308_68.png" group-title="Movies", Shemaroo Bollywood (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
@@ -615,12 +620,12 @@ https://cdn-1.pishow.tv/live/1011/master.m3u8
 #EXTGENRE:Movies
 https://cdn-2.pishow.tv/live/228/master.m3u8
 
-#EXTINF:-1 channel-id="samsung-ZeeComedyNation" tvg-id="ZeeComedyNation" tvg-country="in" tvg-chno="188" tvg-name="Zee Comedy Nation" tvc-guide-title="Zee Comedy Nation" tvc-guide-genres="Movies" tvc-guide-description="Zee Comedy Nation" tvc-guide-categories="Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="Movies", Zee Comedy Nation (1080p)
+#EXTINF:-1 channel-id="samsung-ZComedyNation" tvg-id="ZComedyNation" tvg-country="in" tvg-chno="188" tvg-name="Z Comedy Nation" tvc-guide-title="Z Comedy Nation" tvc-guide-genres="Movies" tvc-guide-description="Zee Comedy Nation" tvc-guide-categories="Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="Movies", Z Comedy Nation (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 channel-id="samsung-ZeeClassic" tvg-id="ZeeClassic" tvg-country="in" tvg-chno="189" tvg-name="Zee Classic" tvc-guide-title="Zee Classic" tvc-guide-genres="Movies" tvc-guide-description="Zee Classic" tvc-guide-categories="Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Movies", Zee Classic (1080p)
+#EXTINF:-1 channel-id="samsung-ZClassic" tvg-id="ZClassic" tvg-country="in" tvg-chno="189" tvg-name="Z Classic" tvc-guide-title="Z Classic" tvc-guide-genres="Movies" tvc-guide-description="Z Classic" tvc-guide-categories="Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Movies", Z Classic (1080p)
 #EXTGRP:Movies
 #EXTGENRE:Movies
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
@@ -720,10 +725,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC
 #EXTGENRE:Music
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/chunklist.m3u8
 
-#EXTINF:-1 channel-id="samsung-Showbox" tvg-id="Showbox" tvg-country="in" tvg-chno="179" tvg-name="Showbox" tvc-guide-title="Showbox" tvc-guide-genres="Music" tvc-guide-description="Whats life without music It uplifts our mood, transports us to another world, makes us want to hit the road, and heals broken hearts. You can enjoy the best of Indian music on Showbox, a 24hour channel that is now streaming live on EPIC On. Whether you want to dance to the beats of bhangra or fall asleep to the tunes of soulful Bollywood numbers, this is the place to find it all." tvc-guide-categories="Music" tvg-logo="https://source.epicon.in/epicon/assets/images/new-show-box-logo.png" group-title="Music", Showbox (1080p)
+#EXTINF:-1 channel-id="samsung-Showbox" tvg-id="Showbox" tvg-country="in" tvg-chno="179" tvg-name="Showbox Live TV" tvc-guide-title="Showbox Live TV" tvc-guide-genres="Music" tvc-guide-description="Whats life without music It uplifts our mood, transports us to another world, makes us want to hit the road, and heals broken hearts. You can enjoy the best of Indian music on Showbox, a 24hour channel that is now streaming live on EPIC On. Whether you want to dance to the beats of bhangra or fall asleep to the tunes of soulful Bollywood numbers, this is the place to find it all." tvc-guide-categories="Music" tvg-logo="https://source.epicon.in/epicon/assets/images/new-show-box-logo.png" group-title="Music", Showbox Live TV (1080p)
 #EXTGRP:Music
 #EXTGENRE:Music
-https://d282a7rzpbl0nj.cloudfront.net/live/showbox/master_1080.m3u8
+https://d282a7rzpbl0nj.cloudfront.net/live/showbox/master.m3u8
 
 #EXTINF:-1 channel-id="samsung-IN3900017KM" tvg-id="IN3900017KM" tvg-country="in" tvg-chno="1434" tvg-name="B4U Music" tvc-guide-title="B4U Music" tvc-guide-genres="Music" tvc-guide-description="A premiere music channel that enjoys a loyal audience base owing to its distinct programming that offers a blend of contemporary hits with melodious yesteryears hits." tvc-guide-categories="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20250811T033432SQUARE.png" group-title="Music", B4U Music (1080p)
 #EXTGRP:Music
